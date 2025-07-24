@@ -1,0 +1,443 @@
+{
+  "Omni 1:1": [
+    {
+      "remove": "father"
+    },
+    {
+      "add": "father,"
+    },
+    {
+      "remove": "genealogy;"
+    },
+    {
+      "add": "genealogy—"
+    }
+  ],
+  "Omni 1:2": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "sword,"
+    },
+    {
+      "add": "sword"
+    },
+    {
+      "remove": "I,"
+    },
+    {
+      "add": "I"
+    },
+    {
+      "remove": "myself,"
+    },
+    {
+      "add": "myself"
+    },
+    {
+      "remove": "man;"
+    },
+    {
+      "add": "man,"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "Omni 1:3": [
+    {
+      "remove": "bloodshed.—"
+    },
+    {
+      "add": "bloodshed."
+    }
+  ],
+  "Omni 1:5": [
+    {
+      "remove": "destroyed:"
+    },
+    {
+      "add": "destroyed."
+    }
+  ],
+  "Omni 1:6": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "Jerusalem,"
+    },
+    {
+      "add": "Jerusalem"
+    },
+    {
+      "remove": "enemies;"
+    },
+    {
+      "add": "enemies,"
+    },
+    {
+      "remove": "saying,"
+    },
+    {
+      "add": "saying"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that:"
+    },
+    {
+      "remove": "inasmuch"
+    },
+    {
+      "add": "Inasmuch"
+    },
+    {
+      "remove": "commandments,"
+    },
+    {
+      "add": "commandments"
+    }
+  ],
+  "Omni 1:7": [
+    {
+      "remove": "righteous,"
+    },
+    {
+      "add": "righteous"
+    }
+  ],
+  "Omni 1:9": [
+    {
+      "remove": "brother:"
+    },
+    {
+      "add": "brother;"
+    },
+    {
+      "remove": "records:"
+    },
+    {
+      "add": "records,"
+    }
+  ],
+  "Omni 1:10": [
+    {
+      "remove": "I"
+    },
+    {
+      "remove": "mine"
+    },
+    {
+      "add": "my"
+    },
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    }
+  ],
+  "Omni 1:11": [
+    {
+      "remove": "revelation,"
+    },
+    {
+      "add": "revelation"
+    },
+    {
+      "remove": "sufficient,"
+    },
+    {
+      "add": "sufficient"
+    }
+  ],
+  "Omni 1:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Zarahemla:"
+    },
+    {
+      "add": "Zarahemla;"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    },
+    {
+      "remove": "wilderness."
+    },
+    {
+      "add": "wilderness—"
+    }
+  ],
+  "Omni 1:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "Omni 1:15": [
+    {
+      "remove": "Zarahemla,"
+    },
+    {
+      "add": "Zarahemla"
+    },
+    {
+      "remove": "Jerusalem,"
+    },
+    {
+      "add": "Jerusalem"
+    }
+  ],
+  "Omni 1:16": [
+    {
+      "remove": "journied"
+    },
+    {
+      "add": "journeyed"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "Omni 1:17": [
+    {
+      "remove": "them"
+    },
+    {
+      "add": "them;"
+    },
+    {
+      "remove": "not"
+    }
+  ],
+  "Omni 1:20": [
+    {
+      "remove": "him,"
+    },
+    {
+      "add": "him"
+    }
+  ],
+  "Omni 1:21": [
+    {
+      "remove": "Moons."
+    },
+    {
+      "add": "moons."
+    }
+  ],
+  "Omni 1:22": [
+    {
+      "remove": "Tower,"
+    },
+    {
+      "add": "tower,"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Omni 1:24": [
+    {
+      "remove": "seen"
+    },
+    {
+      "add": "seen,"
+    }
+  ],
+  "Omni 1:25": [
+    {
+      "remove": "Angels,"
+    },
+    {
+      "add": "angels,"
+    },
+    {
+      "remove": "languages"
+    },
+    {
+      "add": "languages,"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "good:"
+    },
+    {
+      "add": "good;"
+    },
+    {
+      "remove": "good,"
+    },
+    {
+      "add": "good"
+    },
+    {
+      "remove": "evil,"
+    },
+    {
+      "add": "evil"
+    },
+    {
+      "remove": "Devil."
+    },
+    {
+      "add": "devil."
+    }
+  ],
+  "Omni 1:26": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "liveth,"
+    },
+    {
+      "add": "liveth"
+    }
+  ],
+  "Omni 1:27": [
+    {
+      "remove": "now,"
+    },
+    {
+      "add": "now"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "wilderness,"
+    },
+    {
+      "add": "wilderness"
+    },
+    {
+      "remove": "Nephi:"
+    },
+    {
+      "add": "Nephi;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "inheritance;"
+    },
+    {
+      "add": "inheritance."
+    }
+  ],
+  "Omni 1:28": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "a"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "wherefore"
+    }
+  ],
+  "Omni 1:29": [
+    {
+      "remove": "others,"
+    },
+    {
+      "add": "others"
+    }
+  ],
+  "Omni 1:30": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "lay"
+    },
+    {
+      "add": "lie"
+    }
+  ]
+}

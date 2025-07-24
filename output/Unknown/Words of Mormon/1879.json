@@ -1,0 +1,205 @@
+{
+  "Words of Mormon 1:2": [
+    {
+      "remove": "Christ,"
+    },
+    {
+      "add": "Christ"
+    }
+  ],
+  "Words of Mormon 1:3": [
+    {
+      "remove": "written:"
+    },
+    {
+      "add": "written;"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "Prophets,"
+    },
+    {
+      "add": "prophets,"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "Words of Mormon 1:4": [
+    {
+      "remove": "has"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "Words of Mormon 1:5": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "chose"
+    },
+    {
+      "add": "choose"
+    },
+    {
+      "remove": "a"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "Words of Mormon 1:6": [
+    {
+      "remove": "prophecyings"
+    },
+    {
+      "add": "prophesyings"
+    }
+  ],
+  "Words of Mormon 1:7": [
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Words of Mormon 1:9": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Words of Mormon 1:10": [
+    {
+      "remove": "Wherefore,"
+    },
+    {
+      "add": "Wherefore"
+    }
+  ],
+  "Words of Mormon 1:11": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "preserved:"
+    },
+    {
+      "add": "preserved;"
+    }
+  ],
+  "Words of Mormon 1:14": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Words of Mormon 1:16": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "add": "teachers"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "teachers"
+    },
+    {
+      "remove": "dissentions,"
+    },
+    {
+      "add": "dissensions,"
+    },
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "Prophets"
+    },
+    {
+      "add": "prophets"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "people:"
+    },
+    {
+      "add": "people;"
+    }
+  ],
+  "Words of Mormon 1:17": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "sharpness,"
+    },
+    {
+      "add": "sharpness"
+    }
+  ],
+  "Words of Mormon 1:18": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "remove": "they"
+    }
+  ]
+}

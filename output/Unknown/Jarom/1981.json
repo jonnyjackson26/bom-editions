@@ -1,0 +1,267 @@
+{
+  "Jarom 1:1": [
+    {
+      "remove": "words,"
+    },
+    {
+      "add": "words"
+    },
+    {
+      "remove": "father"
+    },
+    {
+      "add": "father,"
+    }
+  ],
+  "Jarom 1:2": [
+    {
+      "remove": "brethren,"
+    },
+    {
+      "add": "brethren"
+    }
+  ],
+  "Jarom 1:3": [
+    {
+      "remove": "exceeding"
+    },
+    {
+      "add": "exceedingly"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Jarom 1:4": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "revelations:"
+    },
+    {
+      "add": "revelations,"
+    },
+    {
+      "remove": "stiffnecked,"
+    },
+    {
+      "add": "stiffnecked"
+    }
+  ],
+  "Jarom 1:5": [
+    {
+      "remove": "Moses,"
+    },
+    {
+      "add": "Moses"
+    },
+    {
+      "remove": "Sabbath"
+    },
+    {
+      "add": "sabbath"
+    },
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "exceeding"
+    },
+    {
+      "add": "exceedingly"
+    }
+  ],
+  "Jarom 1:6": [
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land,"
+    },
+    {
+      "remove": "exceeding"
+    },
+    {
+      "add": "exceedingly"
+    },
+    {
+      "remove": "murder,"
+    },
+    {
+      "add": "murder"
+    }
+  ],
+  "Jarom 1:7": [
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    }
+  ],
+  "Jarom 1:8": [
+    {
+      "remove": "exceeding"
+    },
+    {
+      "add": "exceedingly"
+    },
+    {
+      "remove": "iron,"
+    },
+    {
+      "add": "iron"
+    },
+    {
+      "remove": "brass,"
+    },
+    {
+      "add": "brass"
+    },
+    {
+      "remove": "war;"
+    },
+    {
+      "add": "war—"
+    },
+    {
+      "remove": "war;"
+    },
+    {
+      "add": "war."
+    }
+  ],
+  "Jarom 1:9": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "saying,"
+    },
+    {
+      "add": "saying"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that:"
+    },
+    {
+      "remove": "inasmuch"
+    },
+    {
+      "add": "Inasmuch"
+    },
+    {
+      "remove": "commandments,"
+    },
+    {
+      "add": "commandments"
+    }
+  ],
+  "Jarom 1:10": [
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land."
+    }
+  ],
+  "Jarom 1:11": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "exhorting,"
+    },
+    {
+      "add": "exhorting"
+    },
+    {
+      "add": "-"
+    },
+    {
+      "remove": "suffering,"
+    },
+    {
+      "add": "suffering"
+    },
+    {
+      "remove": "come,"
+    },
+    {
+      "add": "come"
+    }
+  ],
+  "Jarom 1:12": [
+    {
+      "remove": "doing,"
+    },
+    {
+      "add": "doing"
+    },
+    {
+      "remove": "land:"
+    },
+    {
+      "add": "land;"
+    }
+  ],
+  "Jarom 1:13": [
+    {
+      "remove": "away,"
+    },
+    {
+      "add": "away—"
+    },
+    {
+      "remove": "dissentions,"
+    },
+    {
+      "add": "dissensions,"
+    }
+  ],
+  "Jarom 1:14": [
+    {
+      "remove": "small.—"
+    },
+    {
+      "add": "small."
+    },
+    {
+      "remove": "Nephi:"
+    },
+    {
+      "add": "Nephi;"
+    },
+    {
+      "remove": "record"
+    },
+    {
+      "add": "records"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "those"
+    }
+  ]
+}

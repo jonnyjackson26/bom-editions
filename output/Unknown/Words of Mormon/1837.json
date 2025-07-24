@@ -1,0 +1,120 @@
+{
+  "Words of Mormon 1:1": [
+    {
+      "add": "de"
+    },
+    {
+      "remove": "deliver"
+    },
+    {
+      "add": "liver"
+    }
+  ],
+  "Words of Mormon 1:3": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "Prophets,"
+    },
+    {
+      "add": "prophets,"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "Words of Mormon 1:4": [
+    {
+      "remove": "has"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "Words of Mormon 1:5": [
+    {
+      "remove": "a"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "Words of Mormon 1:6": [
+    {
+      "remove": "prophecyings"
+    },
+    {
+      "add": "prophesyings"
+    }
+  ],
+  "Words of Mormon 1:7": [
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Words of Mormon 1:9": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Words of Mormon 1:15": [
+    {
+      "remove": "Christs,"
+    },
+    {
+      "add": "christs,"
+    }
+  ],
+  "Words of Mormon 1:16": [
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "Prophets"
+    },
+    {
+      "add": "prophets"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Words of Mormon 1:17": [
+    {
+      "remove": "sharpness,"
+    },
+    {
+      "add": "sharpness"
+    }
+  ],
+  "Words of Mormon 1:18": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "remove": "they"
+    }
+  ]
+}

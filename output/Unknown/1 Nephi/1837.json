@@ -1,0 +1,6283 @@
+{
+  "1 Nephi 1:1": [
+    {
+      "remove": "having"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "1 Nephi 1:3": [
+    {
+      "add": "is"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "remove": "be"
+    }
+  ],
+  "1 Nephi 1:8": [
+    {
+      "remove": "Heavens"
+    },
+    {
+      "add": "heavens"
+    },
+    {
+      "remove": "open;"
+    },
+    {
+      "add": "open,"
+    }
+  ],
+  "1 Nephi 1:9": [
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    }
+  ],
+  "1 Nephi 1:11": [
+    {
+      "remove": "Book,"
+    },
+    {
+      "add": "book,"
+    }
+  ],
+  "1 Nephi 1:14": [
+    {
+      "remove": "Great"
+    },
+    {
+      "add": "great"
+    },
+    {
+      "remove": "Heavens,"
+    },
+    {
+      "add": "heavens,"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "1 Nephi 1:17": [
+    {
+      "remove": "abridgment"
+    },
+    {
+      "add": "abridgement"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 1:18": [
+    {
+      "remove": "know"
+    },
+    {
+      "add": "know,"
+    }
+  ],
+  "1 Nephi 1:19": [
+    {
+      "remove": "wickedness"
+    },
+    {
+      "add": "wickednes"
+    },
+    {
+      "remove": "Book,"
+    },
+    {
+      "add": "book,"
+    }
+  ],
+  "1 Nephi 1:20": [
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "add": "those"
+    }
+  ],
+  "1 Nephi 2:1": [
+    {
+      "remove": "sayeth"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Blessed"
+    },
+    {
+      "add": "blessed"
+    }
+  ],
+  "1 Nephi 2:4": [
+    {
+      "remove": "wilderness.—"
+    },
+    {
+      "add": "wilderness."
+    },
+    {
+      "remove": "he"
+    }
+  ],
+  "1 Nephi 2:5": [
+    {
+      "remove": "wilderness,"
+    },
+    {
+      "add": "wilderness"
+    },
+    {
+      "remove": "borders,"
+    },
+    {
+      "add": "borders"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 2:6": [
+    {
+      "add": "by"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "beside"
+    },
+    {
+      "add": "side"
+    },
+    {
+      "add": "of"
+    }
+  ],
+  "1 Nephi 2:7": [
+    {
+      "remove": "he"
+    },
+    {
+      "remove": "unto"
+    },
+    {
+      "add": "nnto"
+    }
+  ],
+  "1 Nephi 2:9": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "1 Nephi 2:11": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "he"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "1 Nephi 2:12": [
+    {
+      "remove": "father.—"
+    },
+    {
+      "add": "father."
+    }
+  ],
+  "1 Nephi 2:13": [
+    {
+      "remove": "prophets."
+    },
+    {
+      "add": "prophets.—"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 2:14": [
+    {
+      "remove": "do"
+    }
+  ],
+  "1 Nephi 2:19": [
+    {
+      "remove": "Blessed"
+    },
+    {
+      "add": "blessed"
+    }
+  ],
+  "1 Nephi 2:23": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "bebold,"
+    }
+  ],
+  "1 Nephi 3:1": [
+    {
+      "remove": "father."
+    },
+    {
+      "add": "father.—"
+    }
+  ],
+  "1 Nephi 3:3": [
+    {
+      "remove": "my"
+    },
+    {
+      "add": "thy"
+    },
+    {
+      "remove": "brass."
+    },
+    {
+      "add": "brass.—"
+    }
+  ],
+  "1 Nephi 3:5": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    }
+  ],
+  "1 Nephi 3:6": [
+    {
+      "remove": "go,"
+    },
+    {
+      "add": "go"
+    }
+  ],
+  "1 Nephi 3:11": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 3:18": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold."
+    },
+    {
+      "remove": "prophets—"
+    },
+    {
+      "add": "prophets."
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 3:19": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "might"
+    },
+    {
+      "add": "may"
+    }
+  ],
+  "1 Nephi 3:23": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 3:27": [
+    {
+      "remove": "wilderness,"
+    },
+    {
+      "add": "wilderness."
+    }
+  ],
+  "1 Nephi 3:29": [
+    {
+      "remove": "behold"
+    },
+    {
+      "add": "behoid"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "add": "them,"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Why"
+    },
+    {
+      "add": "why"
+    },
+    {
+      "remove": "thou"
+    },
+    {
+      "add": "ye"
+    },
+    {
+      "remove": "shalt"
+    },
+    {
+      "add": "shall"
+    }
+  ],
+  "1 Nephi 3:30": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 3:31": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 4:1": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    }
+  ],
+  "1 Nephi 4:2": [
+    {
+      "remove": "Moses:"
+    },
+    {
+      "add": "Moses;"
+    },
+    {
+      "remove": "For"
+    },
+    {
+      "add": "for"
+    }
+  ],
+  "1 Nephi 4:3": [
+    {
+      "remove": "doubt."
+    },
+    {
+      "add": "doubt?"
+    }
+  ],
+  "1 Nephi 4:4": [
+    {
+      "remove": "Nevertheless"
+    },
+    {
+      "add": "nevertheless"
+    }
+  ],
+  "1 Nephi 4:5": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 4:11": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 4:14": [
+    {
+      "remove": "promise.—"
+    },
+    {
+      "add": "promise."
+    }
+  ],
+  "1 Nephi 4:17": [
+    {
+      "remove": "hands,"
+    },
+    {
+      "add": "hands"
+    },
+    {
+      "remove": "cause:"
+    },
+    {
+      "add": "cause,"
+    },
+    {
+      "remove": "commmandments."
+    },
+    {
+      "add": "commandments."
+    }
+  ],
+  "1 Nephi 4:18": [
+    {
+      "remove": "of"
+    },
+    {
+      "add": "or"
+    }
+  ],
+  "1 Nephi 4:19": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "armour"
+    },
+    {
+      "add": "armor"
+    }
+  ],
+  "1 Nephi 4:20": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 4:21": [
+    {
+      "remove": "girted"
+    },
+    {
+      "add": "girded"
+    }
+  ],
+  "1 Nephi 4:24": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 4:26": [
+    {
+      "remove": "he,"
+    },
+    {
+      "add": "he"
+    }
+  ],
+  "1 Nephi 4:27": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 4:32": [
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    }
+  ],
+  "1 Nephi 4:34": [
+    {
+      "remove": "thing."
+    },
+    {
+      "add": "thing,"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    }
+  ],
+  "1 Nephi 4:35": [
+    {
+      "remove": "our"
+    },
+    {
+      "add": "my"
+    }
+  ],
+  "1 Nephi 4:36": [
+    {
+      "remove": "cause:"
+    },
+    {
+      "add": "cause,"
+    }
+  ],
+  "1 Nephi 4:37": [
+    {
+      "remove": "him."
+    },
+    {
+      "add": "him.—"
+    }
+  ],
+  "1 Nephi 4:38": [
+    {
+      "remove": "journied"
+    },
+    {
+      "add": "journeyed"
+    }
+  ],
+  "1 Nephi 5:4": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "1 Nephi 5:5": [
+    {
+      "remove": "thing"
+    },
+    {
+      "add": "things"
+    }
+  ],
+  "1 Nephi 5:8": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Now"
+    },
+    {
+      "add": "now"
+    }
+  ],
+  "1 Nephi 5:10": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "gave"
+    },
+    {
+      "remove": "had"
+    },
+    {
+      "remove": "given"
+    }
+  ],
+  "1 Nephi 5:11": [
+    {
+      "remove": "Books"
+    },
+    {
+      "add": "books"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "1 Nephi 5:12": [
+    {
+      "remove": "King"
+    },
+    {
+      "add": "king"
+    }
+  ],
+  "1 Nephi 5:13": [
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    }
+  ],
+  "1 Nephi 5:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 5:18": [
+    {
+      "remove": "tongues,"
+    },
+    {
+      "add": "tongues"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 6:3": [
+    {
+      "remove": "room,"
+    },
+    {
+      "add": "room"
+    }
+  ],
+  "1 Nephi 6:5": [
+    {
+      "remove": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 7:1": [
+    {
+      "remove": "mete"
+    },
+    {
+      "add": "meet"
+    }
+  ],
+  "1 Nephi 7:4": [
+    {
+      "remove": "did,"
+    },
+    {
+      "add": "did"
+    }
+  ],
+  "1 Nephi 7:6": [
+    {
+      "remove": "father,"
+    },
+    {
+      "add": "father"
+    }
+  ],
+  "1 Nephi 7:11": [
+    {
+      "remove": "how"
+    },
+    {
+      "add": "what"
+    }
+  ],
+  "1 Nephi 7:12": [
+    {
+      "remove": "him;"
+    },
+    {
+      "add": "him:"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "wherefore"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "add": "to"
+    }
+  ],
+  "1 Nephi 7:13": [
+    {
+      "remove": "in"
+    },
+    {
+      "add": "to"
+    }
+  ],
+  "1 Nephi 7:14": [
+    {
+      "remove": "For,"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "1 Nephi 7:15": [
+    {
+      "remove": "Now,"
+    },
+    {
+      "add": "Now"
+    }
+  ],
+  "1 Nephi 7:16": [
+    {
+      "remove": "me;"
+    },
+    {
+      "add": "me—"
+    },
+    {
+      "remove": "for,"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "wroth;"
+    },
+    {
+      "add": "wroth—"
+    }
+  ],
+  "1 Nephi 7:17": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "1 Nephi 7:19": [
+    {
+      "remove": "but,"
+    },
+    {
+      "add": "but"
+    },
+    {
+      "remove": "Ishmael"
+    },
+    {
+      "add": "Ishmael,"
+    }
+  ],
+  "1 Nephi 7:21": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 7:22": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 8:2": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 8:3": [
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    },
+    {
+      "remove": "saved.—"
+    },
+    {
+      "add": "saved."
+    }
+  ],
+  "1 Nephi 8:4": [
+    {
+      "remove": "exceedingly,"
+    },
+    {
+      "add": "exceedingly"
+    },
+    {
+      "remove": "for,"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "add": "in"
+    },
+    {
+      "add": "my"
+    },
+    {
+      "add": "dream,"
+    }
+  ],
+  "1 Nephi 8:7": [
+    {
+      "remove": "him,"
+    },
+    {
+      "add": "him"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "after"
+    },
+    {
+      "remove": "I"
+    },
+    {
+      "remove": "had"
+    },
+    {
+      "remove": "followed"
+    },
+    {
+      "remove": "him,"
+    }
+  ],
+  "1 Nephi 8:8": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 8:11": [
+    {
+      "remove": "had"
+    }
+  ],
+  "1 Nephi 8:12": [
+    {
+      "remove": "desirous"
+    },
+    {
+      "add": "desirable"
+    }
+  ],
+  "1 Nephi 8:14": [
+    {
+      "remove": "thereof,"
+    },
+    {
+      "add": "thereof"
+    }
+  ],
+  "1 Nephi 8:23": [
+    {
+      "remove": "darkness,"
+    },
+    {
+      "add": "darkness;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "off,"
+    },
+    {
+      "add": "off"
+    }
+  ],
+  "1 Nephi 8:25": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 8:27": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 8:28": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "paths,"
+    },
+    {
+      "add": "paths"
+    }
+  ],
+  "1 Nephi 8:30": [
+    {
+      "remove": "But,"
+    },
+    {
+      "add": "But"
+    },
+    {
+      "remove": "writing:"
+    },
+    {
+      "add": "writing,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "down,"
+    },
+    {
+      "add": "down"
+    }
+  ],
+  "1 Nephi 8:33": [
+    {
+      "remove": "building."
+    },
+    {
+      "add": "building.—"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 8:35": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 8:36": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 8:37": [
+    {
+      "remove": "in"
+    }
+  ],
+  "1 Nephi 8:38": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 9:4": [
+    {
+      "remove": "Kings,"
+    },
+    {
+      "add": "kings,"
+    },
+    {
+      "remove": "wars,"
+    },
+    {
+      "add": "wars"
+    },
+    {
+      "remove": "are,"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "part,"
+    },
+    {
+      "add": "part"
+    },
+    {
+      "remove": "are,"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "part,"
+    },
+    {
+      "add": "part"
+    },
+    {
+      "remove": "Kings,"
+    },
+    {
+      "add": "kings,"
+    }
+  ],
+  "1 Nephi 9:5": [
+    {
+      "remove": "purpose,"
+    },
+    {
+      "add": "purpose"
+    }
+  ],
+  "1 Nephi 9:6": [
+    {
+      "remove": "things,"
+    },
+    {
+      "add": "things"
+    }
+  ],
+  "1 Nephi 10:1": [
+    {
+      "remove": "plates"
+    },
+    {
+      "add": "plates,"
+    }
+  ],
+  "1 Nephi 10:2": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "diligence,"
+    },
+    {
+      "add": "dilligence,"
+    },
+    {
+      "remove": "Jews:"
+    },
+    {
+      "add": "Jews,"
+    }
+  ],
+  "1 Nephi 10:3": [
+    {
+      "remove": "How"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "add": "should"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "yea,"
+    },
+    {
+      "remove": "Jerusalem;"
+    },
+    {
+      "add": "Jerusalem,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "Babylon;"
+    },
+    {
+      "add": "Babylon,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "are"
+    },
+    {
+      "add": "should"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "captivity,"
+    },
+    {
+      "add": "captivity"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "add": "they"
+    },
+    {
+      "add": "should"
+    }
+  ],
+  "1 Nephi 10:4": [
+    {
+      "remove": "Prophet"
+    },
+    {
+      "add": "prophet"
+    },
+    {
+      "remove": "Lord"
+    },
+    {
+      "add": "lord"
+    },
+    {
+      "remove": "yea,"
+    },
+    {
+      "remove": "Saviour"
+    },
+    {
+      "add": "Savior"
+    }
+  ],
+  "1 Nephi 10:5": [
+    {
+      "remove": "prophets:"
+    },
+    {
+      "add": "prophets,"
+    },
+    {
+      "remove": "How"
+    },
+    {
+      "add": "how"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    }
+  ],
+  "1 Nephi 10:6": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "state;"
+    },
+    {
+      "add": "state,"
+    }
+  ],
+  "1 Nephi 10:7": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 10:8": [
+    {
+      "remove": "Prepare"
+    },
+    {
+      "add": "prepare"
+    }
+  ],
+  "1 Nephi 10:9": [
+    {
+      "add": "said"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Bethabara,"
+    },
+    {
+      "add": "Bethabary,"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "spake,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "yea,"
+    }
+  ],
+  "1 Nephi 10:10": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 10:11": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 10:12": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Israel:"
+    },
+    {
+      "add": "Israel,"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "1 Nephi 10:13": [
+    {
+      "remove": "said,"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "promise,"
+    },
+    {
+      "add": "promise"
+    },
+    {
+      "remove": "Lord:"
+    },
+    {
+      "add": "Lord,"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "1 Nephi 10:14": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel,"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 10:15": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    }
+  ],
+  "1 Nephi 10:16": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "done,"
+    },
+    {
+      "add": "done"
+    }
+  ],
+  "1 Nephi 10:17": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "power,"
+    },
+    {
+      "add": "power"
+    },
+    {
+      "remove": "God."
+    },
+    {
+      "add": "God;"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "come."
+    },
+    {
+      "add": "come,"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "came"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "remove": "pass"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 10:19": [
+    {
+      "remove": "times,"
+    },
+    {
+      "add": "times"
+    },
+    {
+      "remove": "old,"
+    },
+    {
+      "add": "old"
+    }
+  ],
+  "1 Nephi 11:1": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "me,"
+    },
+    {
+      "remove": "me;"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    }
+  ],
+  "1 Nephi 11:2": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 11:3": [
+    {
+      "remove": "saith,"
+    },
+    {
+      "add": "said,"
+    }
+  ],
+  "1 Nephi 11:4": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Believest"
+    },
+    {
+      "add": "believest"
+    }
+  ],
+  "1 Nephi 11:5": [
+    {
+      "remove": "yea;"
+    },
+    {
+      "add": "yea,"
+    }
+  ],
+  "1 Nephi 11:6": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Hosanna"
+    },
+    {
+      "add": "hosanna"
+    },
+    {
+      "remove": "all;"
+    },
+    {
+      "add": "all:"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Most"
+    },
+    {
+      "add": "most"
+    },
+    {
+      "remove": "High"
+    },
+    {
+      "add": "high"
+    }
+  ],
+  "1 Nephi 11:7": [
+    {
+      "remove": "sign:"
+    },
+    {
+      "add": "sign,"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 11:8": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    },
+    {
+      "remove": "thereof,"
+    },
+    {
+      "add": "thereof"
+    }
+  ],
+  "1 Nephi 11:9": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "behold"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 11:10": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "What"
+    },
+    {
+      "add": "what"
+    }
+  ],
+  "1 Nephi 11:12": [
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    },
+    {
+      "remove": "look:"
+    },
+    {
+      "add": "look!"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    }
+  ],
+  "1 Nephi 11:13": [
+    {
+      "add": "of"
+    },
+    {
+      "remove": "exceeding"
+    },
+    {
+      "add": "exceedingly"
+    }
+  ],
+  "1 Nephi 11:14": [
+    {
+      "remove": "Heavens"
+    },
+    {
+      "add": "heavens"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 11:15": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 11:16": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Knowest"
+    },
+    {
+      "add": "knowest"
+    },
+    {
+      "remove": "condescention"
+    },
+    {
+      "add": "condescension"
+    }
+  ],
+  "1 Nephi 11:18": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "add": "of"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "add": "Son"
+    }
+  ],
+  "1 Nephi 11:19": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 11:20": [
+    {
+      "remove": "chid"
+    },
+    {
+      "add": "child"
+    },
+    {
+      "remove": "arms."
+    },
+    {
+      "add": "arms.—"
+    }
+  ],
+  "1 Nephi 11:21": [
+    {
+      "add": "Son"
+    },
+    {
+      "add": "of"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 11:22": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Yea,"
+    },
+    {
+      "add": "yea,"
+    }
+  ],
+  "1 Nephi 11:23": [
+    {
+      "remove": "Yea,"
+    },
+    {
+      "add": "yea,"
+    }
+  ],
+  "1 Nephi 11:24": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 11:26": [
+    {
+      "remove": "Look"
+    },
+    {
+      "add": "look"
+    },
+    {
+      "remove": "condescention"
+    },
+    {
+      "add": "condescension"
+    }
+  ],
+  "1 Nephi 11:27": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "forth,"
+    },
+    {
+      "add": "forth"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Heavens"
+    },
+    {
+      "add": "heavens"
+    },
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    },
+    {
+      "remove": "dove."
+    },
+    {
+      "add": "dove.—"
+    }
+  ],
+  "1 Nephi 11:29": [
+    {
+      "remove": "face,"
+    },
+    {
+      "add": "face"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "not."
+    },
+    {
+      "add": "not.—"
+    }
+  ],
+  "1 Nephi 11:30": [
+    {
+      "remove": "Heavens"
+    },
+    {
+      "add": "heavens"
+    },
+    {
+      "remove": "them."
+    },
+    {
+      "add": "them.—"
+    }
+  ],
+  "1 Nephi 11:31": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "of"
+    },
+    {
+      "add": "with"
+    }
+  ],
+  "1 Nephi 11:32": [
+    {
+      "add": "Son"
+    },
+    {
+      "add": "of"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "Everlasting"
+    },
+    {
+      "add": "everlasting"
+    },
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    }
+  ],
+  "1 Nephi 11:34": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "slain,"
+    },
+    {
+      "add": "slain"
+    }
+  ],
+  "1 Nephi 11:35": [
+    {
+      "remove": "saw."
+    },
+    {
+      "add": "saw!"
+    },
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 11:36": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Thus"
+    },
+    {
+      "add": "thus"
+    },
+    {
+      "remove": "tongues,"
+    },
+    {
+      "add": "tongues"
+    }
+  ],
+  "1 Nephi 12:1": [
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    },
+    {
+      "remove": "Look,"
+    },
+    {
+      "add": "look,"
+    }
+  ],
+  "1 Nephi 12:2": [
+    {
+      "remove": "together,"
+    },
+    {
+      "add": "together"
+    },
+    {
+      "remove": "battle"
+    },
+    {
+      "add": "battle,"
+    }
+  ],
+  "1 Nephi 12:4": [
+    {
+      "remove": "rocks,"
+    },
+    {
+      "add": "rocks"
+    },
+    {
+      "remove": "many,"
+    },
+    {
+      "add": "many"
+    },
+    {
+      "remove": "many,"
+    },
+    {
+      "add": "many"
+    },
+    {
+      "remove": "they"
+    }
+  ],
+  "1 Nephi 12:5": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 12:6": [
+    {
+      "remove": "Heavens"
+    },
+    {
+      "add": "heavens"
+    },
+    {
+      "remove": "Heaven;"
+    },
+    {
+      "add": "heaven;"
+    }
+  ],
+  "1 Nephi 12:8": [
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 12:9": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "Behold"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 12:10": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "1 Nephi 12:11": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "did"
+    },
+    {
+      "remove": "These"
+    },
+    {
+      "add": "these"
+    }
+  ],
+  "1 Nephi 12:12": [
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "did"
+    },
+    {
+      "remove": "pass"
+    },
+    {
+      "add": "passed"
+    }
+  ],
+  "1 Nephi 12:14": [
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "brethren!"
+    },
+    {
+      "add": "brethren!—"
+    }
+  ],
+  "1 Nephi 12:15": [
+    {
+      "remove": "looked,"
+    },
+    {
+      "add": "looked"
+    }
+  ],
+  "1 Nephi 12:16": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "thereof,"
+    },
+    {
+      "add": "thereof"
+    }
+  ],
+  "1 Nephi 12:17": [
+    {
+      "remove": "darkness,"
+    },
+    {
+      "add": "darkness"
+    }
+  ],
+  "1 Nephi 12:18": [
+    {
+      "remove": "imaginations,"
+    },
+    {
+      "add": "imaginations"
+    },
+    {
+      "remove": "Eternal"
+    },
+    {
+      "add": "eternal"
+    },
+    {
+      "remove": "Jesus"
+    },
+    {
+      "remove": "Christ,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "add": "Messiah"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 12:19": [
+    {
+      "remove": "spoke"
+    },
+    {
+      "add": "spake"
+    }
+  ],
+  "1 Nephi 12:21": [
+    {
+      "remove": "wars,"
+    },
+    {
+      "add": "wars"
+    }
+  ],
+  "1 Nephi 12:23": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "dark,"
+    },
+    {
+      "add": "dark"
+    }
+  ],
+  "1 Nephi 13:2": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 13:3": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 13:4": [
+    {
+      "remove": "Gentiles,"
+    },
+    {
+      "add": "Gentiles"
+    }
+  ],
+  "1 Nephi 13:5": [
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "Saints"
+    },
+    {
+      "add": "saints"
+    }
+  ],
+  "1 Nephi 13:6": [
+    {
+      "remove": "devil,"
+    },
+    {
+      "add": "devil"
+    },
+    {
+      "remove": "founder"
+    },
+    {
+      "add": "foundation"
+    }
+  ],
+  "1 Nephi 13:8": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "1 Nephi 13:9": [
+    {
+      "remove": "Saints"
+    },
+    {
+      "add": "saints"
+    }
+  ],
+  "1 Nephi 13:11": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "1 Nephi 13:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 13:14": [
+    {
+      "remove": "they"
+    }
+  ],
+  "1 Nephi 13:15": [
+    {
+      "remove": "of"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 13:16": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 13:17": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "1 Nephi 13:18": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "all"
+    },
+    {
+      "add": "those"
+    }
+  ],
+  "1 Nephi 13:19": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "1 Nephi 13:20": [
+    {
+      "remove": "Book;"
+    },
+    {
+      "add": "book,"
+    }
+  ],
+  "1 Nephi 13:21": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Knowest"
+    },
+    {
+      "add": "knowest"
+    },
+    {
+      "remove": "Book?"
+    },
+    {
+      "add": "book?—"
+    }
+  ],
+  "1 Nephi 13:22": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 13:23": [
+    {
+      "remove": "saith,"
+    },
+    {
+      "add": "said,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "Jew,"
+    },
+    {
+      "add": "Jew:"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "Prophets;"
+    },
+    {
+      "add": "prophets;"
+    },
+    {
+      "remove": "many:"
+    },
+    {
+      "add": "many;"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Israel;"
+    },
+    {
+      "add": "1srael;"
+    }
+  ],
+  "1 Nephi 13:24": [
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    },
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    }
+  ],
+  "1 Nephi 13:26": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Gentiles;"
+    },
+    {
+      "add": "Gentiles,"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "remove": "after"
+    },
+    {
+      "remove": "this,"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "Covenants"
+    },
+    {
+      "add": "covenants"
+    }
+  ],
+  "1 Nephi 13:27": [
+    {
+      "remove": "men;"
+    },
+    {
+      "add": "men:"
+    }
+  ],
+  "1 Nephi 13:28": [
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    },
+    {
+      "remove": "Book,"
+    },
+    {
+      "add": "book,"
+    },
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    }
+  ],
+  "1 Nephi 13:29": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "Book,"
+    },
+    {
+      "add": "book,"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    },
+    {
+      "remove": "Satan"
+    },
+    {
+      "add": "satan"
+    }
+  ],
+  "1 Nephi 13:30": [
+    {
+      "remove": "Nevertheless"
+    },
+    {
+      "add": "nevertheless"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "inheritance;"
+    },
+    {
+      "add": "inheritance,"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "remove": "thou"
+    },
+    {
+      "remove": "seest"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "Lord"
+    },
+    {
+      "remove": "God"
+    },
+    {
+      "remove": "suffer"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "Gentiles"
+    },
+    {
+      "remove": "will"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "1 Nephi 13:32": [
+    {
+      "add": "awful"
+    },
+    {
+      "add": "blindness,"
+    },
+    {
+      "remove": "awful"
+    },
+    {
+      "remove": "woundedness"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "remove": "seen;"
+    },
+    {
+      "add": "seen."
+    }
+  ],
+  "1 Nephi 13:33": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 13:34": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "Lamb;"
+    },
+    {
+      "add": "Lamb,"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "Lamb,"
+    },
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel,"
+    }
+  ],
+  "1 Nephi 13:35": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "1 Nephi 13:36": [
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel,"
+    }
+  ],
+  "1 Nephi 13:37": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "end,"
+    },
+    {
+      "add": "end;"
+    },
+    {
+      "remove": "Everlasting"
+    },
+    {
+      "add": "everlasting"
+    },
+    {
+      "remove": "Kingdom"
+    },
+    {
+      "add": "kingdom"
+    },
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "add": "yea,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "shall"
+    },
+    {
+      "remove": "publish"
+    }
+  ],
+  "1 Nephi 13:38": [
+    {
+      "remove": "Jew;"
+    },
+    {
+      "add": "Jew,"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "I"
+    },
+    {
+      "remove": "beheld"
+    }
+  ],
+  "1 Nephi 13:39": [
+    {
+      "remove": "Books,"
+    },
+    {
+      "add": "books,"
+    },
+    {
+      "remove": "Gentiles,"
+    },
+    {
+      "add": "Gentiles"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 13:40": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "These"
+    },
+    {
+      "add": "these"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "tongues,"
+    },
+    {
+      "add": "tongues"
+    },
+    {
+      "add": "Son"
+    },
+    {
+      "add": "of"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "Eternal"
+    },
+    {
+      "add": "eternal"
+    },
+    {
+      "remove": "Father"
+    },
+    {
+      "add": "Father,"
+    },
+    {
+      "remove": "Saviour"
+    },
+    {
+      "add": "Savior"
+    },
+    {
+      "remove": "Him,"
+    },
+    {
+      "add": "him,"
+    }
+  ],
+  "1 Nephi 13:41": [
+    {
+      "remove": "Lamb;"
+    },
+    {
+      "add": "Lamb:"
+    },
+    {
+      "add": "both"
+    },
+    {
+      "remove": "one,"
+    },
+    {
+      "add": "one;"
+    }
+  ],
+  "1 Nephi 13:42": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 14:2": [
+    {
+      "remove": "if"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "so"
+    },
+    {
+      "remove": "be"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "harden"
+    },
+    {
+      "remove": "not"
+    },
+    {
+      "remove": "their"
+    },
+    {
+      "remove": "hearts"
+    },
+    {
+      "remove": "against"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "Lamb;"
+    },
+    {
+      "remove": "if"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "so"
+    },
+    {
+      "remove": "be"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "blest"
+    },
+    {
+      "add": "blessed"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 14:3": [
+    {
+      "remove": "Devil"
+    },
+    {
+      "add": "devil"
+    },
+    {
+      "remove": "Hell;"
+    },
+    {
+      "add": "hell;"
+    },
+    {
+      "remove": "Hell"
+    },
+    {
+      "add": "hell"
+    }
+  ],
+  "1 Nephi 14:4": [
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    }
+  ],
+  "1 Nephi 14:5": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 14:6": [
+    {
+      "remove": "God:"
+    },
+    {
+      "add": "God;"
+    }
+  ],
+  "1 Nephi 14:7": [
+    {
+      "remove": "other;"
+    },
+    {
+      "add": "other:"
+    },
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    }
+  ],
+  "1 Nephi 14:8": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Remember"
+    },
+    {
+      "add": "remember"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "1 Nephi 14:9": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Look,"
+    },
+    {
+      "add": "look,"
+    },
+    {
+      "remove": "Devil."
+    },
+    {
+      "add": "devil."
+    }
+  ],
+  "1 Nephi 14:10": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "is,"
+    },
+    {
+      "add": "are,"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "be,"
+    },
+    {
+      "remove": "churches:"
+    },
+    {
+      "add": "churches"
+    },
+    {
+      "add": "only:"
+    },
+    {
+      "remove": "Devil;"
+    },
+    {
+      "add": "devil;"
+    }
+  ],
+  "1 Nephi 14:11": [
+    {
+      "remove": "tongues,"
+    },
+    {
+      "add": "tongues"
+    }
+  ],
+  "1 Nephi 14:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Saints"
+    },
+    {
+      "add": "saints"
+    },
+    {
+      "remove": "dominion"
+    },
+    {
+      "add": "dominions"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    }
+  ],
+  "1 Nephi 14:13": [
+    {
+      "add": "all"
+    }
+  ],
+  "1 Nephi 14:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 14:15": [
+    {
+      "remove": "earth;"
+    },
+    {
+      "add": "earth,"
+    }
+  ],
+  "1 Nephi 14:16": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "and,"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "things!"
+    },
+    {
+      "add": "things:"
+    }
+  ],
+  "1 Nephi 14:17": [
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "founder"
+    },
+    {
+      "add": "foundation"
+    },
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 14:18": [
+    {
+      "remove": "Look!"
+    },
+    {
+      "add": "look!"
+    }
+  ],
+  "1 Nephi 14:20": [
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "Apostles"
+    },
+    {
+      "add": "apostles"
+    },
+    {
+      "remove": "Lamb!"
+    },
+    {
+      "add": "Lamb!—"
+    }
+  ],
+  "1 Nephi 14:21": [
+    {
+      "remove": "been;"
+    },
+    {
+      "add": "been:"
+    }
+  ],
+  "1 Nephi 14:24": [
+    {
+      "remove": "And,"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Apostle"
+    },
+    {
+      "add": "apostle"
+    },
+    {
+      "remove": "and,"
+    },
+    {
+      "add": "and"
+    }
+  ],
+  "1 Nephi 14:25": [
+    {
+      "remove": "Apostle"
+    },
+    {
+      "add": "apostle"
+    }
+  ],
+  "1 Nephi 14:26": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "been"
+    },
+    {
+      "add": "been,"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "up,"
+    },
+    {
+      "add": "up"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 14:27": [
+    {
+      "remove": "Apostle"
+    },
+    {
+      "add": "apostle"
+    }
+  ],
+  "1 Nephi 14:28": [
+    {
+      "remove": "And,"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "written,"
+    },
+    {
+      "add": "written"
+    }
+  ],
+  "1 Nephi 14:29": [
+    {
+      "remove": "me.—"
+    },
+    {
+      "add": "me."
+    }
+  ],
+  "1 Nephi 15:3": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "had"
+    }
+  ],
+  "1 Nephi 15:7": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 15:8": [
+    {
+      "remove": "Have"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "1 Nephi 15:10": [
+    {
+      "remove": "How"
+    },
+    {
+      "add": "how"
+    }
+  ],
+  "1 Nephi 15:11": [
+    {
+      "remove": "said:"
+    },
+    {
+      "add": "said,"
+    },
+    {
+      "remove": "If"
+    },
+    {
+      "add": "if"
+    }
+  ],
+  "1 Nephi 15:12": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "and,"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 15:13": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "shall"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "himself"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    }
+  ],
+  "1 Nephi 15:14": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    }
+  ],
+  "1 Nephi 15:16": [
+    {
+      "remove": "Yea;"
+    },
+    {
+      "add": "yea;"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 15:17": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 15:18": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "In"
+    },
+    {
+      "add": "in"
+    }
+  ],
+  "1 Nephi 15:20": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 15:21": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "What"
+    },
+    {
+      "add": "what"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "this"
+    }
+  ],
+  "1 Nephi 15:23": [
+    {
+      "remove": "What"
+    },
+    {
+      "add": "what"
+    }
+  ],
+  "1 Nephi 15:24": [
+    {
+      "remove": "firy"
+    },
+    {
+      "add": "fiery"
+    }
+  ],
+  "1 Nephi 15:25": [
+    {
+      "remove": "I,"
+    },
+    {
+      "add": "I"
+    },
+    {
+      "remove": "things.—"
+    },
+    {
+      "add": "things."
+    }
+  ],
+  "1 Nephi 15:26": [
+    {
+      "remove": "What"
+    },
+    {
+      "add": "what"
+    }
+  ],
+  "1 Nephi 15:28": [
+    {
+      "remove": "Saints"
+    },
+    {
+      "add": "saints"
+    },
+    {
+      "remove": "God;"
+    },
+    {
+      "add": "God."
+    }
+  ],
+  "1 Nephi 15:29": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Hell,"
+    },
+    {
+      "add": "hell,"
+    }
+  ],
+  "1 Nephi 15:31": [
+    {
+      "remove": "Doth"
+    },
+    {
+      "add": "doth"
+    }
+  ],
+  "1 Nephi 15:32": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "1 Nephi 15:33": [
+    {
+      "remove": "off;"
+    },
+    {
+      "add": "off"
+    },
+    {
+      "remove": "also"
+    },
+    {
+      "add": "also,"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 15:34": [
+    {
+      "remove": "But,"
+    },
+    {
+      "add": "But"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "wherefore"
+    }
+  ],
+  "1 Nephi 15:35": [
+    {
+      "remove": "Hell"
+    },
+    {
+      "add": "hell"
+    },
+    {
+      "remove": "Devil"
+    },
+    {
+      "add": "devil"
+    },
+    {
+      "remove": "preparator"
+    },
+    {
+      "add": "foundation"
+    }
+  ],
+  "1 Nephi 15:36": [
+    {
+      "remove": "brethren.—"
+    },
+    {
+      "add": "brethren."
+    }
+  ],
+  "1 Nephi 16:1": [
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    }
+  ],
+  "1 Nephi 16:2": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "centre."
+    },
+    {
+      "add": "center."
+    }
+  ],
+  "1 Nephi 16:7": [
+    {
+      "remove": "daghter"
+    },
+    {
+      "add": "daughter"
+    }
+  ],
+  "1 Nephi 16:8": [
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    },
+    {
+      "remove": "him."
+    },
+    {
+      "add": "him.—"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "1 Nephi 16:14": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "1 Nephi 16:15": [
+    {
+      "remove": "stones,"
+    },
+    {
+      "add": "stones"
+    }
+  ],
+  "1 Nephi 16:17": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 16:18": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 16:20": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "1 Nephi 16:22": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 16:23": [
+    {
+      "remove": "Whither"
+    },
+    {
+      "add": "whither"
+    }
+  ],
+  "1 Nephi 16:25": [
+    {
+      "remove": "insomuch,"
+    },
+    {
+      "add": "insomuch"
+    }
+  ],
+  "1 Nephi 16:26": [
+    {
+      "remove": "Look"
+    },
+    {
+      "add": "look"
+    }
+  ],
+  "1 Nephi 16:31": [
+    {
+      "remove": "insomuch,"
+    },
+    {
+      "add": "insomuch"
+    },
+    {
+      "remove": "families.—"
+    },
+    {
+      "add": "families."
+    }
+  ],
+  "1 Nephi 16:33": [
+    {
+      "remove": "beginning;"
+    },
+    {
+      "add": "beginning:"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 16:35": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Our"
+    },
+    {
+      "add": "our"
+    }
+  ],
+  "1 Nephi 16:37": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "brethren."
+    },
+    {
+      "add": "brethren:"
+    }
+  ],
+  "1 Nephi 16:38": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "says"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "remove": "him!"
+    },
+    {
+      "add": "him?"
+    },
+    {
+      "remove": "lieth"
+    },
+    {
+      "add": "lies"
+    },
+    {
+      "remove": "telleth"
+    },
+    {
+      "add": "tells"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "King"
+    },
+    {
+      "add": "king"
+    },
+    {
+      "remove": "Laman"
+    },
+    {
+      "add": "Laban"
+    }
+  ],
+  "1 Nephi 16:39": [
+    {
+      "remove": "insomuch,"
+    },
+    {
+      "add": "insomuch"
+    }
+  ],
+  "1 Nephi 17:3": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 17:5": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "perish.—"
+    },
+    {
+      "add": "perish."
+    },
+    {
+      "remove": "Sea,"
+    },
+    {
+      "add": "sea,"
+    }
+  ],
+  "1 Nephi 17:6": [
+    {
+      "remove": "difficulty,"
+    },
+    {
+      "add": "diflculty,"
+    }
+  ],
+  "1 Nephi 17:7": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Arise,"
+    },
+    {
+      "add": "arise,"
+    }
+  ],
+  "1 Nephi 17:8": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    }
+  ],
+  "1 Nephi 17:9": [
+    {
+      "remove": "saith,"
+    },
+    {
+      "add": "said,"
+    }
+  ],
+  "1 Nephi 17:11": [
+    {
+      "remove": "bellowses"
+    },
+    {
+      "add": "bellows"
+    },
+    {
+      "add": "1"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "I"
+    },
+    {
+      "remove": "bellowses,"
+    },
+    {
+      "add": "bellows,"
+    },
+    {
+      "remove": "fire,"
+    },
+    {
+      "add": "fire;"
+    }
+  ],
+  "1 Nephi 17:12": [
+    {
+      "remove": "saith,"
+    },
+    {
+      "add": "said,"
+    },
+    {
+      "remove": "shall"
+    }
+  ],
+  "1 Nephi 17:13": [
+    {
+      "remove": "I"
+    },
+    {
+      "add": "1"
+    }
+  ],
+  "1 Nephi 17:14": [
+    {
+      "remove": "Jerusalem;"
+    },
+    {
+      "add": "Jerusalem."
+    }
+  ],
+  "1 Nephi 17:15": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    }
+  ],
+  "1 Nephi 17:17": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Our"
+    },
+    {
+      "add": "our"
+    },
+    {
+      "remove": "ship;"
+    },
+    {
+      "add": "ship:"
+    }
+  ],
+  "1 Nephi 17:19": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "We"
+    },
+    {
+      "add": "we"
+    },
+    {
+      "remove": "judgment;"
+    },
+    {
+      "add": "judgement;"
+    }
+  ],
+  "1 Nephi 17:22": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Jerusalem"
+    },
+    {
+      "add": "Jerusalem,"
+    },
+    {
+      "remove": "judgments"
+    },
+    {
+      "add": "judgements"
+    }
+  ],
+  "1 Nephi 17:23": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Do"
+    },
+    {
+      "add": "do"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 17:25": [
+    {
+      "remove": "know"
+    },
+    {
+      "add": "now"
+    }
+  ],
+  "1 Nephi 17:27": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 17:30": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "1 Nephi 17:31": [
+    {
+      "remove": "them;"
+    },
+    {
+      "add": "them:"
+    }
+  ],
+  "1 Nephi 17:33": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 17:34": [
+    {
+      "remove": "you,"
+    },
+    {
+      "add": "you"
+    },
+    {
+      "remove": "nay,"
+    },
+    {
+      "add": "nay;"
+    }
+  ],
+  "1 Nephi 17:35": [
+    {
+      "remove": "But,"
+    },
+    {
+      "add": "But"
+    }
+  ],
+  "1 Nephi 17:36": [
+    {
+      "remove": "earth,"
+    },
+    {
+      "add": "earth"
+    }
+  ],
+  "1 Nephi 17:39": [
+    {
+      "remove": "Heavens,"
+    },
+    {
+      "add": "heavens,"
+    }
+  ],
+  "1 Nephi 17:40": [
+    {
+      "remove": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Jacob;"
+    },
+    {
+      "add": "Jacob:"
+    }
+  ],
+  "1 Nephi 17:41": [
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "firy-flying"
+    },
+    {
+      "add": "fiery-flying"
+    },
+    {
+      "remove": "way,"
+    },
+    {
+      "add": "way"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 17:42": [
+    {
+      "remove": "power,"
+    },
+    {
+      "add": "power"
+    },
+    {
+      "remove": "promise.—"
+    },
+    {
+      "add": "promise."
+    }
+  ],
+  "1 Nephi 17:43": [
+    {
+      "remove": "destroyed,"
+    },
+    {
+      "add": "destroyed;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 17:44": [
+    {
+      "remove": "they:"
+    },
+    {
+      "add": "them:"
+    }
+  ],
+  "1 Nephi 17:45": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 17:46": [
+    {
+      "remove": "Almighty"
+    },
+    {
+      "add": "almighty"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 17:47": [
+    {
+      "add": "that"
+    },
+    {
+      "remove": "as"
+    },
+    {
+      "remove": "if"
+    },
+    {
+      "remove": "had"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 17:48": [
+    {
+      "remove": "Sea;"
+    },
+    {
+      "add": "sea;"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "In"
+    },
+    {
+      "add": "in"
+    }
+  ],
+  "1 Nephi 17:49": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "1 Nephi 17:50": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "If"
+    },
+    {
+      "add": "if"
+    },
+    {
+      "remove": "it."
+    },
+    {
+      "add": "them."
+    },
+    {
+      "remove": "Be"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "be"
+    },
+    {
+      "add": "by"
+    }
+  ],
+  "1 Nephi 17:51": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 17:52": [
+    {
+      "remove": "fingers,"
+    },
+    {
+      "add": "fingers"
+    }
+  ],
+  "1 Nephi 17:53": [
+    {
+      "remove": "Stretch"
+    },
+    {
+      "add": "stretch"
+    },
+    {
+      "remove": "Lord;"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "1 Nephi 17:55": [
+    {
+      "remove": "We"
+    },
+    {
+      "add": "we"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "1 Nephi 18:5": [
+    {
+      "remove": "ship.—"
+    },
+    {
+      "add": "ship."
+    }
+  ],
+  "1 Nephi 18:6": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 18:8": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 18:9": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "to"
+    }
+  ],
+  "1 Nephi 18:10": [
+    {
+      "remove": "Sea;"
+    },
+    {
+      "add": "sea;"
+    },
+    {
+      "remove": "but,"
+    },
+    {
+      "add": "but"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "We"
+    },
+    {
+      "add": "we"
+    }
+  ],
+  "1 Nephi 18:11": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "wich"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "had"
+    }
+  ],
+  "1 Nephi 18:13": [
+    {
+      "remove": "Sea;"
+    },
+    {
+      "add": "sea;"
+    },
+    {
+      "add": "not"
+    },
+    {
+      "remove": "me"
+    },
+    {
+      "add": "me."
+    },
+    {
+      "remove": "not.—"
+    }
+  ],
+  "1 Nephi 18:15": [
+    {
+      "remove": "Sea."
+    },
+    {
+      "add": "sea."
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "judgment"
+    },
+    {
+      "add": "judgements"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "much"
+    },
+    {
+      "remove": "swolen,"
+    },
+    {
+      "add": "swollen"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "1 Nephi 18:17": [
+    {
+      "remove": "father,"
+    },
+    {
+      "add": "father"
+    },
+    {
+      "remove": "but,"
+    },
+    {
+      "add": "but"
+    }
+  ],
+  "1 Nephi 18:18": [
+    {
+      "remove": "gray"
+    },
+    {
+      "add": "grey"
+    },
+    {
+      "remove": "a"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 18:20": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "thht"
+    }
+  ],
+  "1 Nephi 18:21": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 18:25": [
+    {
+      "remove": "Land"
+    },
+    {
+      "add": "land"
+    },
+    {
+      "remove": "Promise,"
+    },
+    {
+      "add": "promise,"
+    },
+    {
+      "remove": "journied"
+    },
+    {
+      "add": "journeyed"
+    }
+  ],
+  "1 Nephi 19:1": [
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    }
+  ],
+  "1 Nephi 19:2": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 19:3": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 19:4": [
+    {
+      "remove": "account,"
+    },
+    {
+      "add": "account"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "what"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 19:6": [
+    {
+      "remove": "sacred."
+    },
+    {
+      "add": "sacred.—"
+    }
+  ],
+  "1 Nephi 19:7": [
+    {
+      "remove": "do"
+    }
+  ],
+  "1 Nephi 19:10": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "spake,"
+    },
+    {
+      "add": "spake"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 19:11": [
+    {
+      "remove": "Prophet:"
+    },
+    {
+      "add": "prophet,"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "others,"
+    },
+    {
+      "add": "others"
+    }
+  ],
+  "1 Nephi 19:12": [
+    {
+      "remove": "Prophet"
+    },
+    {
+      "add": "prophet"
+    },
+    {
+      "remove": "Zenos."
+    },
+    {
+      "add": "Zenos.—"
+    },
+    {
+      "remove": "Kings"
+    },
+    {
+      "add": "kings"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 19:13": [
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "prophet,"
+    },
+    {
+      "remove": "turned"
+    },
+    {
+      "add": "turn"
+    },
+    {
+      "remove": "signs,"
+    },
+    {
+      "add": "signs"
+    }
+  ],
+  "1 Nephi 19:14": [
+    {
+      "remove": "turned"
+    },
+    {
+      "add": "turn"
+    },
+    {
+      "remove": "one"
+    },
+    {
+      "add": "One"
+    },
+    {
+      "remove": "byword,"
+    },
+    {
+      "add": "by-word,"
+    }
+  ],
+  "1 Nephi 19:16": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Prophet"
+    },
+    {
+      "add": "prophet"
+    }
+  ],
+  "1 Nephi 19:17": [
+    {
+      "remove": "tongue,"
+    },
+    {
+      "add": "tongue"
+    }
+  ],
+  "1 Nephi 19:19": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 19:20": [
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "old;"
+    },
+    {
+      "add": "old,"
+    }
+  ],
+  "1 Nephi 19:21": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "I"
+    },
+    {
+      "add": "should"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "add": "perished"
+    },
+    {
+      "add": "also:"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "also,"
+    },
+    {
+      "add": "also"
+    },
+    {
+      "remove": "many,"
+    },
+    {
+      "add": "many"
+    }
+  ],
+  "1 Nephi 19:23": [
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    },
+    {
+      "remove": "wherefore"
+    },
+    {
+      "remove": "Prophet"
+    },
+    {
+      "add": "prophet"
+    },
+    {
+      "remove": "learning."
+    },
+    {
+      "add": "learning.—"
+    }
+  ],
+  "1 Nephi 19:24": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Hear"
+    },
+    {
+      "add": "hear"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "of"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 20:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "righteousness.—"
+    },
+    {
+      "add": "righteousness."
+    }
+  ],
+  "1 Nephi 20:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "hosts;"
+    },
+    {
+      "add": "hosts:"
+    }
+  ],
+  "1 Nephi 20:5": [
+    {
+      "remove": "Mine"
+    },
+    {
+      "add": "mine"
+    },
+    {
+      "remove": "them;"
+    },
+    {
+      "add": "them,"
+    }
+  ],
+  "1 Nephi 20:7": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 20:8": [
+    {
+      "remove": "time,"
+    },
+    {
+      "add": "time"
+    },
+    {
+      "remove": "wouldest"
+    },
+    {
+      "add": "wouldst"
+    }
+  ],
+  "1 Nephi 20:9": [
+    {
+      "remove": "name"
+    },
+    {
+      "add": "name’s"
+    }
+  ],
+  "1 Nephi 20:12": [
+    {
+      "remove": "Jacob"
+    },
+    {
+      "add": "Jacob,"
+    },
+    {
+      "remove": "Israel,"
+    },
+    {
+      "add": "Israel"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "last."
+    },
+    {
+      "add": "last.—"
+    }
+  ],
+  "1 Nephi 20:13": [
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "called"
+    },
+    {
+      "add": "call"
+    }
+  ],
+  "1 Nephi 20:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Chaldeans."
+    },
+    {
+      "add": "Chaldeans.—"
+    }
+  ],
+  "1 Nephi 20:15": [
+    {
+      "remove": "spoken,"
+    },
+    {
+      "add": "spoken;"
+    },
+    {
+      "remove": "declare"
+    },
+    {
+      "add": "declare,"
+    },
+    {
+      "remove": "him;"
+    },
+    {
+      "add": "him,"
+    }
+  ],
+  "1 Nephi 20:17": [
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "1 Nephi 20:18": [
+    {
+      "remove": "commandments!"
+    },
+    {
+      "add": "commandment!"
+    }
+  ],
+  "1 Nephi 20:19": [
+    {
+      "remove": "thereof;"
+    },
+    {
+      "add": "thereof:"
+    }
+  ],
+  "1 Nephi 20:20": [
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    },
+    {
+      "remove": "Jacob.—"
+    },
+    {
+      "add": "Jacob."
+    }
+  ],
+  "1 Nephi 20:21": [
+    {
+      "remove": "not;"
+    },
+    {
+      "add": "not:"
+    },
+    {
+      "remove": "cleaved"
+    },
+    {
+      "add": "clave"
+    }
+  ],
+  "1 Nephi 20:22": [
+    {
+      "remove": "There"
+    },
+    {
+      "add": "there"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "1 Nephi 21:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Listen,"
+    },
+    {
+      "add": "Listen"
+    }
+  ],
+  "1 Nephi 21:2": [
+    {
+      "remove": "shaft;"
+    },
+    {
+      "add": "shaft:"
+    }
+  ],
+  "1 Nephi 21:3": [
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    }
+  ],
+  "1 Nephi 21:5": [
+    {
+      "remove": "should"
+    },
+    {
+      "add": "shoufd"
+    },
+    {
+      "remove": "him,"
+    },
+    {
+      "add": "him:"
+    }
+  ],
+  "1 Nephi 21:6": [
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    },
+    {
+      "remove": "shouldest"
+    },
+    {
+      "add": "shouldst"
+    },
+    {
+      "remove": "Israel:"
+    },
+    {
+      "add": "Israel."
+    },
+    {
+      "remove": "earth.—"
+    },
+    {
+      "add": "earth."
+    }
+  ],
+  "1 Nephi 21:7": [
+    {
+      "remove": "Kings"
+    },
+    {
+      "add": "kings"
+    }
+  ],
+  "1 Nephi 21:8": [
+    {
+      "remove": "In"
+    },
+    {
+      "add": "in"
+    }
+  ],
+  "1 Nephi 21:9": [
+    {
+      "remove": "yourselves.—"
+    },
+    {
+      "add": "yourselves."
+    }
+  ],
+  "1 Nephi 21:13": [
+    {
+      "remove": "Heavens;"
+    },
+    {
+      "add": "heavens;"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "afflicted."
+    },
+    {
+      "add": "afflicted.—"
+    }
+  ],
+  "1 Nephi 21:14": [
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 21:19": [
+    {
+      "remove": "away."
+    },
+    {
+      "add": "away.—"
+    }
+  ],
+  "1 Nephi 21:20": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "other,"
+    },
+    {
+      "add": "first,"
+    },
+    {
+      "remove": "The"
+    },
+    {
+      "add": "the"
+    }
+  ],
+  "1 Nephi 21:21": [
+    {
+      "remove": "Who"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 21:22": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    }
+  ],
+  "1 Nephi 21:25": [
+    {
+      "remove": "Even"
+    },
+    {
+      "add": "even"
+    }
+  ],
+  "1 Nephi 21:26": [
+    {
+      "remove": "Saviour"
+    },
+    {
+      "add": "Savior"
+    }
+  ],
+  "1 Nephi 22:1": [
+    {
+      "remove": "after"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "I"
+    },
+    {
+      "remove": "What"
+    },
+    {
+      "add": "what"
+    }
+  ],
+  "1 Nephi 22:2": [
+    {
+      "remove": "sayeth"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "made"
+    },
+    {
+      "remove": "prophet,"
+    },
+    {
+      "add": "prophets,"
+    },
+    {
+      "remove": "men,"
+    },
+    {
+      "add": "men"
+    }
+  ],
+  "1 Nephi 22:3": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 22:4": [
+    {
+      "remove": "before"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "away.—"
+    },
+    {
+      "add": "away."
+    }
+  ],
+  "1 Nephi 22:5": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "Israel:"
+    },
+    {
+      "add": "Israel;"
+    },
+    {
+      "remove": "by"
+    },
+    {
+      "add": "of"
+    }
+  ],
+  "1 Nephi 22:6": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "have"
+    },
+    {
+      "remove": "been"
+    },
+    {
+      "add": "shall"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "shall"
+    },
+    {
+      "remove": "be"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "add": "been"
+    },
+    {
+      "remove": "shall"
+    },
+    {
+      "remove": "be"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "add": "been"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 22:7": [
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Gentiles,"
+    },
+    {
+      "add": "Gentiles."
+    },
+    {
+      "remove": "scattered."
+    },
+    {
+      "add": "scattered.—"
+    }
+  ],
+  "1 Nephi 22:8": [
+    {
+      "remove": "that"
+    }
+  ],
+  "1 Nephi 22:9": [
+    {
+      "remove": "Gentiles;"
+    },
+    {
+      "add": "Gentiles:"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    },
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    },
+    {
+      "remove": "In"
+    },
+    {
+      "add": "in"
+    }
+  ],
+  "1 Nephi 22:11": [
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel,"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "House"
+    },
+    {
+      "add": "house"
+    }
+  ],
+  "1 Nephi 22:12": [
+    {
+      "remove": "captivity,"
+    },
+    {
+      "add": "captivity"
+    },
+    {
+      "remove": "inheritance;"
+    },
+    {
+      "add": "inheritance:"
+    },
+    {
+      "remove": "Saviour"
+    },
+    {
+      "add": "Savior"
+    }
+  ],
+  "1 Nephi 22:13": [
+    {
+      "remove": "heads:"
+    },
+    {
+      "add": "heads;"
+    }
+  ],
+  "1 Nephi 22:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 22:15": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Satan"
+    },
+    {
+      "add": "satan"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 22:17": [
+    {
+      "remove": "They"
+    },
+    {
+      "add": "they"
+    }
+  ],
+  "1 Nephi 22:19": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 22:20": [
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 22:22": [
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil"
+    }
+  ],
+  "1 Nephi 22:23": [
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "1 Nephi 22:25": [
+    {
+      "remove": "shepherd;"
+    },
+    {
+      "add": "shepherd:"
+    },
+    {
+      "remove": "pasture.—"
+    },
+    {
+      "add": "pasture."
+    }
+  ],
+  "1 Nephi 22:26": [
+    {
+      "remove": "Satan"
+    },
+    {
+      "add": "satan"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "years:"
+    },
+    {
+      "add": "years;"
+    }
+  ],
+  "1 Nephi 22:27": [
+    {
+      "remove": "come,"
+    },
+    {
+      "add": "come"
+    }
+  ],
+  "1 Nephi 22:30": [
+    {
+      "remove": "God."
+    },
+    {
+      "add": "God.—"
+    }
+  ]
+}

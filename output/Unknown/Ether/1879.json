@@ -1,0 +1,3460 @@
+{
+  "Ether 1:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 1:2": [
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    }
+  ],
+  "Ether 1:3": [
+    {
+      "remove": "speaketh"
+    },
+    {
+      "add": "speaks"
+    },
+    {
+      "remove": "Jews,"
+    },
+    {
+      "add": "Jews;"
+    }
+  ],
+  "Ether 1:4": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Ether 1:8": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:9": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:10": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:11": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:13": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:14": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:15": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:16": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "son"
+    },
+    {
+      "add": "on"
+    }
+  ],
+  "Ether 1:17": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:18": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:19": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Corom;"
+    },
+    {
+      "add": "Corum;"
+    }
+  ],
+  "Ether 1:20": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Corom"
+    },
+    {
+      "add": "Corum"
+    }
+  ],
+  "Ether 1:21": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:23": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:24": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:25": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:26": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:27": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:28": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:29": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:30": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:31": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 1:32": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 1:33": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "Which"
+    },
+    {
+      "remove": "families,"
+    },
+    {
+      "add": "familes,"
+    },
+    {
+      "remove": "tower,"
+    },
+    {
+      "add": "Tower,"
+    }
+  ],
+  "Ether 1:34": [
+    {
+      "remove": "Jared,"
+    },
+    {
+      "add": "Jared"
+    },
+    {
+      "remove": "favored"
+    },
+    {
+      "add": "favoured"
+    },
+    {
+      "remove": "Cry"
+    },
+    {
+      "add": "cry"
+    }
+  ],
+  "Ether 1:36": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 1:38": [
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land,"
+    }
+  ],
+  "Ether 1:41": [
+    {
+      "remove": "friends"
+    },
+    {
+      "add": "friends,"
+    }
+  ],
+  "Ether 1:43": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "of"
+    },
+    {
+      "remove": "which"
+    }
+  ],
+  "Ether 2:1": [
+    {
+      "remove": "brother,"
+    },
+    {
+      "add": "brother"
+    },
+    {
+      "remove": "families,"
+    },
+    {
+      "add": "families"
+    }
+  ],
+  "Ether 2:2": [
+    {
+      "remove": "air;"
+    },
+    {
+      "add": "air,"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 2:3": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "deseret,"
+    },
+    {
+      "add": "Desert,"
+    }
+  ],
+  "Ether 2:4": [
+    {
+      "remove": "clowd,"
+    },
+    {
+      "add": "cloud,"
+    }
+  ],
+  "Ether 2:5": [
+    {
+      "remove": "travel.—"
+    },
+    {
+      "add": "travel."
+    }
+  ],
+  "Ether 2:8": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 2:9": [
+    {
+      "remove": "iniquity:"
+    },
+    {
+      "add": "iniquity;"
+    }
+  ],
+  "Ether 2:10": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "decrees"
+    },
+    {
+      "add": "decree"
+    }
+  ],
+  "Ether 2:11": [
+    {
+      "remove": "be"
+    }
+  ],
+  "Ether 2:12": [
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 2:13": [
+    {
+      "remove": "record:"
+    },
+    {
+      "add": "record;"
+    },
+    {
+      "remove": "tents;"
+    },
+    {
+      "add": "tents:"
+    }
+  ],
+  "Ether 2:14": [
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "years,"
+    },
+    {
+      "add": "years"
+    }
+  ],
+  "Ether 2:15": [
+    {
+      "remove": "him"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "wherefore,"
+    },
+    {
+      "remove": "this"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "these"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Ether 2:17": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 2:18": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "Ether 2:19": [
+    {
+      "remove": "steer.—"
+    },
+    {
+      "add": "steer?"
+    }
+  ],
+  "Ether 2:20": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Ether 2:22": [
+    {
+      "remove": "again"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Ether 2:23": [
+    {
+      "remove": "fire:"
+    },
+    {
+      "add": "fire;"
+    }
+  ],
+  "Ether 2:24": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "sea:"
+    },
+    {
+      "add": "sea;"
+    }
+  ],
+  "Ether 2:25": [
+    {
+      "remove": "things:"
+    },
+    {
+      "add": "things;"
+    },
+    {
+      "remove": "come.—"
+    },
+    {
+      "add": "come."
+    },
+    {
+      "remove": "you,"
+    },
+    {
+      "add": "you"
+    }
+  ],
+  "Ether 3:1": [
+    {
+      "remove": "prepared,"
+    },
+    {
+      "add": "prepared"
+    }
+  ],
+  "Ether 3:2": [
+    {
+      "remove": "thee:"
+    },
+    {
+      "add": "thee;"
+    },
+    {
+      "remove": "heavens,"
+    },
+    {
+      "add": "heavens;"
+    },
+    {
+      "remove": "thee:"
+    },
+    {
+      "add": "thee;"
+    },
+    {
+      "remove": "continually;"
+    },
+    {
+      "add": "continually:"
+    }
+  ],
+  "Ether 3:3": [
+    {
+      "remove": "rock.—"
+    },
+    {
+      "add": "rock."
+    }
+  ],
+  "Ether 3:6": [
+    {
+      "remove": "one,"
+    },
+    {
+      "add": "one"
+    },
+    {
+      "remove": "veil"
+    },
+    {
+      "add": "vail"
+    }
+  ],
+  "Ether 3:8": [
+    {
+      "remove": "me:"
+    },
+    {
+      "add": "me;"
+    }
+  ],
+  "Ether 3:9": [
+    {
+      "remove": "hast:"
+    },
+    {
+      "add": "hast;"
+    },
+    {
+      "add": "not"
+    }
+  ],
+  "Ether 3:10": [
+    {
+      "remove": "Nay,"
+    },
+    {
+      "add": "Nay;"
+    }
+  ],
+  "Ether 3:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "world,"
+    },
+    {
+      "add": "world"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 3:15": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "created,"
+    },
+    {
+      "add": "created"
+    }
+  ],
+  "Ether 3:17": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Ether 3:18": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Nephites:"
+    },
+    {
+      "add": "Nephites;"
+    },
+    {
+      "remove": "knew"
+    },
+    {
+      "add": "know"
+    }
+  ],
+  "Ether 3:19": [
+    {
+      "remove": "veil:"
+    },
+    {
+      "add": "vail;"
+    },
+    {
+      "remove": "fear:"
+    },
+    {
+      "add": "fear;"
+    }
+  ],
+  "Ether 3:20": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "veil;"
+    },
+    {
+      "add": "vail;"
+    }
+  ],
+  "Ether 3:22": [
+    {
+      "remove": "them:"
+    },
+    {
+      "add": "them;"
+    }
+  ],
+  "Ether 3:24": [
+    {
+      "remove": "write,"
+    },
+    {
+      "add": "write"
+    }
+  ],
+  "Ether 3:25": [
+    {
+      "remove": "the"
+    },
+    {
+      "add": "he"
+    },
+    {
+      "remove": "Lord"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "he"
+    },
+    {
+      "remove": "Lord"
+    },
+    {
+      "remove": "earth:"
+    },
+    {
+      "add": "earth;"
+    }
+  ],
+  "Ether 3:26": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "he"
+    },
+    {
+      "remove": "Lord"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "That"
+    },
+    {
+      "remove": "any"
+    },
+    {
+      "remove": "thing"
+    },
+    {
+      "add": "anything"
+    },
+    {
+      "remove": "him:"
+    },
+    {
+      "add": "him;"
+    }
+  ],
+  "Ether 4:1": [
+    {
+      "remove": "seen:"
+    },
+    {
+      "add": "seen;"
+    },
+    {
+      "remove": "cross:"
+    },
+    {
+      "add": "cross;"
+    },
+    {
+      "remove": "Benjamin"
+    },
+    {
+      "add": "Mosiah"
+    }
+  ],
+  "Ether 4:2": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 4:3": [
+    {
+      "remove": "Gospel"
+    },
+    {
+      "add": "gospel"
+    }
+  ],
+  "Ether 4:5": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "wrote"
+    },
+    {
+      "add": "written"
+    }
+  ],
+  "Ether 4:6": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "Ether 4:7": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "is."
+    },
+    {
+      "add": "are."
+    }
+  ],
+  "Ether 4:8": [
+    {
+      "remove": "Christ,"
+    },
+    {
+      "add": "Christ;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 4:9": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 4:10": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "ye:"
+    },
+    {
+      "add": "ye;"
+    }
+  ],
+  "Ether 4:11": [
+    {
+      "remove": "spirit;"
+    },
+    {
+      "add": "Spirit,"
+    },
+    {
+      "remove": "spirit,"
+    },
+    {
+      "add": "Spirit,"
+    },
+    {
+      "remove": "true:"
+    },
+    {
+      "add": "true;"
+    },
+    {
+      "remove": "good;"
+    },
+    {
+      "add": "good:"
+    }
+  ],
+  "Ether 4:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "me:"
+    },
+    {
+      "add": "me;"
+    },
+    {
+      "remove": "good:"
+    },
+    {
+      "add": "good;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 4:15": [
+    {
+      "remove": "veil"
+    },
+    {
+      "add": "vail"
+    },
+    {
+      "remove": "wickedness,"
+    },
+    {
+      "add": "wickedness"
+    },
+    {
+      "remove": "you;"
+    },
+    {
+      "add": "you:"
+    }
+  ],
+  "Ether 4:16": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 4:17": [
+    {
+      "remove": "therefore,"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Ether 4:18": [
+    {
+      "remove": "Gospel,"
+    },
+    {
+      "add": "gospel,"
+    },
+    {
+      "remove": "name:"
+    },
+    {
+      "add": "name;"
+    },
+    {
+      "remove": "damned:"
+    },
+    {
+      "add": "damned;"
+    }
+  ],
+  "Ether 4:19": [
+    {
+      "remove": "day:"
+    },
+    {
+      "add": "day,"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "add": "he"
+    },
+    {
+      "remove": "them"
+    },
+    {
+      "add": "him"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Ether 5:1": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "translate:"
+    },
+    {
+      "add": "translate;"
+    }
+  ],
+  "Ether 5:3": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 5:4": [
+    {
+      "remove": "world,"
+    },
+    {
+      "add": "world"
+    }
+  ],
+  "Ether 6:2": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 6:3": [
+    {
+      "remove": "women"
+    },
+    {
+      "add": "women,"
+    }
+  ],
+  "Ether 6:4": [
+    {
+      "remove": "them:"
+    },
+    {
+      "add": "them."
+    }
+  ],
+  "Ether 6:9": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 6:10": [
+    {
+      "remove": "them:"
+    },
+    {
+      "add": "them;"
+    }
+  ],
+  "Ether 6:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 6:19": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    },
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    }
+  ],
+  "Ether 6:20": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 6:23": [
+    {
+      "remove": "them.—"
+    },
+    {
+      "add": "them."
+    },
+    {
+      "remove": "Surely,"
+    },
+    {
+      "add": "surely"
+    }
+  ],
+  "Ether 6:25": [
+    {
+      "remove": "him;"
+    },
+    {
+      "add": "him:"
+    }
+  ],
+  "Ether 6:26": [
+    {
+      "remove": "not.—"
+    },
+    {
+      "add": "not."
+    }
+  ],
+  "Ether 6:27": [
+    {
+      "remove": "Orihah,"
+    },
+    {
+      "add": "Orihah"
+    },
+    {
+      "remove": "he"
+    }
+  ],
+  "Ether 7:5": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Ether 7:6": [
+    {
+      "remove": "Nephites.—"
+    },
+    {
+      "add": "Nephites."
+    }
+  ],
+  "Ether 7:7": [
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    }
+  ],
+  "Ether 7:8": [
+    {
+      "remove": "judgement."
+    },
+    {
+      "add": "judgment."
+    }
+  ],
+  "Ether 7:9": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "drew"
+    },
+    {
+      "add": "drawn"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 7:11": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "numerous.—"
+    },
+    {
+      "add": "numerous."
+    }
+  ],
+  "Ether 7:14": [
+    {
+      "remove": "daughters.—"
+    },
+    {
+      "add": "daughters."
+    },
+    {
+      "remove": "Corihor,"
+    },
+    {
+      "add": "Corihor"
+    }
+  ],
+  "Ether 7:15": [
+    {
+      "remove": "people.—"
+    },
+    {
+      "add": "people."
+    }
+  ],
+  "Ether 7:16": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 7:17": [
+    {
+      "remove": "Shule"
+    },
+    {
+      "add": "Shule,"
+    }
+  ],
+  "Ether 7:19": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "king;"
+    },
+    {
+      "add": "king,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 7:20": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 7:21": [
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    }
+  ],
+  "Ether 7:22": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "favor"
+    },
+    {
+      "add": "favour"
+    },
+    {
+      "remove": "favors"
+    },
+    {
+      "add": "favours"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "which"
+    }
+  ],
+  "Ether 7:23": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "which"
+    }
+  ],
+  "Ether 7:24": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Ether 7:25": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 7:27": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Ether 8:1": [
+    {
+      "remove": "And"
+    },
+    {
+      "add": "AND"
+    }
+  ],
+  "Ether 8:2": [
+    {
+      "remove": "much"
+    },
+    {
+      "add": "many"
+    }
+  ],
+  "Ether 8:3": [
+    {
+      "remove": "them"
+    },
+    {
+      "add": "him"
+    }
+  ],
+  "Ether 8:5": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "night.—"
+    },
+    {
+      "add": "night."
+    }
+  ],
+  "Ether 8:6": [
+    {
+      "remove": "slew"
+    },
+    {
+      "add": "slain"
+    }
+  ],
+  "Ether 8:9": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "Whereby"
+    },
+    {
+      "add": "whereby"
+    }
+  ],
+  "Ether 8:10": [
+    {
+      "remove": "now"
+    },
+    {
+      "add": "now,"
+    }
+  ],
+  "Ether 8:11": [
+    {
+      "remove": "Give"
+    },
+    {
+      "add": "give"
+    }
+  ],
+  "Ether 8:13": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "Ether 8:14": [
+    {
+      "remove": "sware"
+    },
+    {
+      "add": "swear"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "Heavens,"
+    },
+    {
+      "add": "heavens,"
+    }
+  ],
+  "Ether 8:15": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 8:16": [
+    {
+      "remove": "whoredoms.—"
+    },
+    {
+      "add": "whoredoms."
+    }
+  ],
+  "Ether 8:17": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "heart"
+    },
+    {
+      "add": "heart,"
+    }
+  ],
+  "Ether 8:18": [
+    {
+      "remove": "a"
+    },
+    {
+      "remove": "God:"
+    },
+    {
+      "add": "God;"
+    }
+  ],
+  "Ether 8:19": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "Ether 8:20": [
+    {
+      "remove": "oaths"
+    },
+    {
+      "add": "oaths,"
+    }
+  ],
+  "Ether 8:21": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    }
+  ],
+  "Ether 8:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "avengeth"
+    },
+    {
+      "add": "avenge"
+    }
+  ],
+  "Ether 8:23": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "you;"
+    },
+    {
+      "add": "you,"
+    },
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    }
+  ],
+  "Ether 8:24": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "slain:"
+    },
+    {
+      "add": "slain;"
+    }
+  ],
+  "Ether 8:25": [
+    {
+      "remove": "nations"
+    },
+    {
+      "add": "nations,"
+    },
+    {
+      "remove": "people:"
+    },
+    {
+      "add": "people,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 8:26": [
+    {
+      "remove": "Wherefore"
+    },
+    {
+      "add": "Wherefore,"
+    }
+  ],
+  "Ether 9:1": [
+    {
+      "remove": "Omer;"
+    },
+    {
+      "add": "Omer."
+    }
+  ],
+  "Ether 9:2": [
+    {
+      "remove": "nevertheless,"
+    },
+    {
+      "add": "Nevertheless,"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "remove": "not,"
+    },
+    {
+      "remove": "or"
+    },
+    {
+      "remove": "which"
+    }
+  ],
+  "Ether 9:3": [
+    {
+      "remove": "dream,"
+    },
+    {
+      "add": "dream"
+    },
+    {
+      "remove": "hy"
+    },
+    {
+      "add": "by"
+    },
+    {
+      "add": "sea"
+    },
+    {
+      "remove": "seashore,"
+    },
+    {
+      "add": "shore,"
+    }
+  ],
+  "Ether 9:5": [
+    {
+      "remove": "people:"
+    },
+    {
+      "add": "people."
+    }
+  ],
+  "Ether 9:6": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "Ether 9:7": [
+    {
+      "remove": "a"
+    },
+    {
+      "remove": "food,"
+    },
+    {
+      "add": "food"
+    }
+  ],
+  "Ether 9:11": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 9:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 9:13": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    }
+  ],
+  "Ether 9:14": [
+    {
+      "remove": "old;"
+    },
+    {
+      "add": "old,"
+    }
+  ],
+  "Ether 9:17": [
+    {
+      "remove": "having"
+    },
+    {
+      "add": "Having"
+    }
+  ],
+  "Ether 9:18": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "animals,"
+    },
+    {
+      "add": "animals"
+    }
+  ],
+  "Ether 9:19": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "elephants,"
+    },
+    {
+      "add": "elephants"
+    }
+  ],
+  "Ether 9:20": [
+    {
+      "remove": "opon"
+    },
+    {
+      "add": "upon"
+    },
+    {
+      "remove": "iniquity:"
+    },
+    {
+      "add": "iniquity;"
+    }
+  ],
+  "Ether 9:21": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "righteousness,"
+    },
+    {
+      "add": "righteousness"
+    },
+    {
+      "remove": "days;"
+    },
+    {
+      "add": "days,"
+    }
+  ],
+  "Ether 9:22": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "son"
+    },
+    {
+      "add": "Son"
+    },
+    {
+      "remove": "righteousness,"
+    },
+    {
+      "add": "Righteousness,"
+    }
+  ],
+  "Ether 9:27": [
+    {
+      "remove": "father:"
+    },
+    {
+      "add": "father;"
+    }
+  ],
+  "Ether 9:28": [
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "destroyed,"
+    },
+    {
+      "add": "destroyed"
+    }
+  ],
+  "Ether 9:30": [
+    {
+      "remove": "dearth:"
+    },
+    {
+      "add": "dearth,"
+    }
+  ],
+  "Ether 9:31": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Nephites,"
+    },
+    {
+      "add": "Nephites"
+    }
+  ],
+  "Ether 9:35": [
+    {
+      "remove": "the"
+    },
+    {
+      "add": "he"
+    },
+    {
+      "remove": "Lord"
+    }
+  ],
+  "Ether 10:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 10:6": [
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    },
+    {
+      "remove": "taxes,"
+    },
+    {
+      "add": "taxes"
+    }
+  ],
+  "Ether 10:7": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "prison,"
+    },
+    {
+      "add": "prison;"
+    }
+  ],
+  "Ether 10:8": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 10:10": [
+    {
+      "add": "by"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 10:12": [
+    {
+      "remove": "in"
+    }
+  ],
+  "Ether 10:14": [
+    {
+      "add": "by"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 10:15": [
+    {
+      "add": "by"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 10:16": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 10:17": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 10:19": [
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land,"
+    },
+    {
+      "remove": "hunter.—"
+    },
+    {
+      "add": "hunter."
+    }
+  ],
+  "Ether 10:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 10:23": [
+    {
+      "remove": "for"
+    }
+  ],
+  "Ether 10:26": [
+    {
+      "add": "with"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 10:32": [
+    {
+      "remove": "they"
+    },
+    {
+      "add": "during"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "time"
+    }
+  ],
+  "Ether 10:33": [
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land:"
+    }
+  ],
+  "Ether 11:3": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "things:"
+    },
+    {
+      "add": "things;"
+    }
+  ],
+  "Ether 11:5": [
+    {
+      "remove": "did"
+    },
+    {
+      "remove": "cause"
+    },
+    {
+      "add": "caused"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "death;"
+    },
+    {
+      "add": "death,"
+    }
+  ],
+  "Ether 11:6": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "land:"
+    },
+    {
+      "add": "land,"
+    },
+    {
+      "remove": "great"
+    },
+    {
+      "add": "greater"
+    }
+  ],
+  "Ether 11:7": [
+    {
+      "remove": "earth:"
+    },
+    {
+      "add": "earth,"
+    }
+  ],
+  "Ether 11:9": [
+    {
+      "remove": "captivity;"
+    },
+    {
+      "add": "captivity,"
+    },
+    {
+      "remove": "he"
+    }
+  ],
+  "Ether 11:10": [
+    {
+      "add": "by"
+    },
+    {
+      "remove": "in"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 11:12": [
+    {
+      "remove": "prophets"
+    },
+    {
+      "add": "prophets,"
+    }
+  ],
+  "Ether 11:14": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "stead;"
+    },
+    {
+      "add": "stead:"
+    },
+    {
+      "remove": "do"
+    }
+  ],
+  "Ether 11:15": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 11:20": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Ether 11:21": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 12:1": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "land.—"
+    },
+    {
+      "add": "land."
+    }
+  ],
+  "Ether 12:2": [
+    {
+      "remove": "constrained"
+    },
+    {
+      "add": "restrained"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "him:"
+    },
+    {
+      "add": "him;"
+    }
+  ],
+  "Ether 12:3": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Ether 12:4": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    }
+  ],
+  "Ether 12:6": [
+    {
+      "remove": "now"
+    },
+    {
+      "add": "now,"
+    },
+    {
+      "remove": "I,"
+    },
+    {
+      "add": "I"
+    },
+    {
+      "remove": "things:"
+    },
+    {
+      "add": "things;"
+    },
+    {
+      "remove": "faith:"
+    },
+    {
+      "add": "faith;"
+    }
+  ],
+  "Ether 12:7": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 12:8": [
+    {
+      "remove": "world,"
+    },
+    {
+      "add": "world"
+    }
+  ],
+  "Ether 12:9": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    }
+  ],
+  "Ether 12:10": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "Behold"
+    },
+    {
+      "remove": "God;"
+    },
+    {
+      "add": "God:"
+    }
+  ],
+  "Ether 12:11": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "Wherefore,"
+    },
+    {
+      "remove": "fulfilled:"
+    },
+    {
+      "add": "fulfilled;"
+    }
+  ],
+  "Ether 12:12": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "Ether 12:16": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 12:19": [
+    {
+      "remove": "came,"
+    },
+    {
+      "add": "came"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "veil,"
+    },
+    {
+      "add": "vail,"
+    }
+  ],
+  "Ether 12:21": [
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "veil."
+    },
+    {
+      "add": "vail."
+    }
+  ],
+  "Ether 12:23": [
+    {
+      "remove": "writing:"
+    },
+    {
+      "add": "writing;"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    },
+    {
+      "remove": "whereunto"
+    },
+    {
+      "add": "but"
+    },
+    {
+      "remove": "writing:"
+    },
+    {
+      "add": "writing;"
+    }
+  ],
+  "Ether 12:24": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 12:26": [
+    {
+      "remove": "weakness:"
+    },
+    {
+      "add": "weakness;"
+    }
+  ],
+  "Ether 12:27": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "me:"
+    },
+    {
+      "add": "me;"
+    }
+  ],
+  "Ether 12:28": [
+    {
+      "remove": "me"
+    },
+    {
+      "add": "me—"
+    }
+  ],
+  "Ether 12:29": [
+    {
+      "remove": "faith:"
+    },
+    {
+      "add": "faith;"
+    }
+  ],
+  "Ether 12:30": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "Remove,"
+    },
+    {
+      "add": "remove,"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "faith:"
+    },
+    {
+      "add": "faith;"
+    }
+  ],
+  "Ether 12:31": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "did"
+    },
+    {
+      "add": "didst"
+    },
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 12:32": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "rememberest"
+    },
+    {
+      "add": "remember"
+    }
+  ],
+  "Ether 12:35": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 12:37": [
+    {
+      "remove": "weakness,"
+    },
+    {
+      "add": "weakneess,"
+    }
+  ],
+  "Ether 12:39": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 12:40": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 12:41": [
+    {
+      "remove": "Grace"
+    },
+    {
+      "add": "grace"
+    }
+  ],
+  "Ether 13:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "writing.—"
+    },
+    {
+      "add": "writing."
+    }
+  ],
+  "Ether 13:2": [
+    {
+      "remove": "Ether:"
+    },
+    {
+      "add": "Ether;"
+    },
+    {
+      "remove": "how"
+    },
+    {
+      "remove": "him,"
+    },
+    {
+      "add": "him"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "dwelleth"
+    },
+    {
+      "add": "dwell"
+    }
+  ],
+  "Ether 13:3": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    }
+  ],
+  "Ether 13:5": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "Lord;"
+    },
+    {
+      "add": "Lord,"
+    }
+  ],
+  "Ether 13:6": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "type:"
+    },
+    {
+      "add": "type;"
+    }
+  ],
+  "Ether 13:7": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "Ether 13:8": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    }
+  ],
+  "Ether 13:10": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "garment"
+    },
+    {
+      "add": "garments"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:11": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:12": [
+    {
+      "remove": "Scripture"
+    },
+    {
+      "add": "scripture"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:15": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:16": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:17": [
+    {
+      "remove": "but"
+    },
+    {
+      "add": "But"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 13:18": [
+    {
+      "remove": "wherfore"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 13:19": [
+    {
+      "remove": "much,"
+    },
+    {
+      "add": "much"
+    }
+  ],
+  "Ether 13:21": [
+    {
+      "remove": "otherwise"
+    },
+    {
+      "add": "Otherwise"
+    }
+  ],
+  "Ether 13:22": [
+    {
+      "remove": "did"
+    },
+    {
+      "remove": "cease"
+    },
+    {
+      "add": "ceased"
+    }
+  ],
+  "Ether 13:25": [
+    {
+      "remove": "band,"
+    },
+    {
+      "add": "band"
+    }
+  ],
+  "Ether 13:26": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 13:27": [
+    {
+      "remove": "armies,"
+    },
+    {
+      "add": "armies"
+    },
+    {
+      "remove": "anger;"
+    },
+    {
+      "add": "anger,"
+    },
+    {
+      "remove": "sore.—"
+    },
+    {
+      "add": "sore."
+    }
+  ],
+  "Ether 13:30": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 13:31": [
+    {
+      "remove": "Coriantumr,"
+    },
+    {
+      "add": "Coriantumr"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "a"
+    },
+    {
+      "remove": "constrain"
+    },
+    {
+      "add": "restrain"
+    }
+  ],
+  "Ether 14:1": [
+    {
+      "add": "all"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "his"
+    }
+  ],
+  "Ether 14:2": [
+    {
+      "remove": "they"
+    }
+  ],
+  "Ether 14:3": [
+    {
+      "remove": "Shared,"
+    },
+    {
+      "add": "Shared"
+    },
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 14:7": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 14:12": [
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "arm,"
+    },
+    {
+      "add": "arm"
+    },
+    {
+      "add": "sea"
+    },
+    {
+      "remove": "seashore."
+    },
+    {
+      "add": "shore."
+    }
+  ],
+  "Ether 14:13": [
+    {
+      "add": "sea"
+    },
+    {
+      "remove": "seashore."
+    },
+    {
+      "add": "shore."
+    }
+  ],
+  "Ether 14:15": [
+    {
+      "remove": "Lib,"
+    },
+    {
+      "add": "Lib"
+    }
+  ],
+  "Ether 14:18": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "land:"
+    },
+    {
+      "add": "land,"
+    },
+    {
+      "remove": "Who"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 14:20": [
+    {
+      "remove": "Coriantumr.—"
+    },
+    {
+      "add": "Coriantumr."
+    }
+  ],
+  "Ether 14:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "blood,"
+    },
+    {
+      "add": "blood"
+    },
+    {
+      "remove": "women"
+    },
+    {
+      "add": "women,"
+    }
+  ],
+  "Ether 14:23": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 14:24": [
+    {
+      "remove": "nevertheless,"
+    },
+    {
+      "add": "Nevertheless,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 14:25": [
+    {
+      "remove": "abominations"
+    },
+    {
+      "add": "abominations,"
+    }
+  ],
+  "Ether 14:26": [
+    {
+      "remove": "by"
+    },
+    {
+      "add": "of"
+    },
+    {
+      "remove": "seashore,"
+    },
+    {
+      "add": "sea-shore,"
+    }
+  ],
+  "Ether 14:27": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 14:28": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 14:30": [
+    {
+      "remove": "Coriantumr,"
+    },
+    {
+      "add": "Coriantumr"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "and"
+    },
+    {
+      "remove": "wounds."
+    },
+    {
+      "add": "wounds,"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    }
+  ],
+  "Ether 14:31": [
+    {
+      "remove": "women"
+    },
+    {
+      "add": "women,"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    }
+  ],
+  "Ether 15:1": [
+    {
+      "remove": "And"
+    },
+    {
+      "add": "AND"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "him:"
+    },
+    {
+      "add": "him;"
+    }
+  ],
+  "Ether 15:3": [
+    {
+      "remove": "fulfilled,"
+    },
+    {
+      "add": "fulfilled"
+    }
+  ],
+  "Ether 15:6": [
+    {
+      "remove": "Coriantumr.—"
+    },
+    {
+      "add": "Coriantumr."
+    }
+  ],
+  "Ether 15:8": [
+    {
+      "remove": "tents,"
+    },
+    {
+      "add": "tents"
+    },
+    {
+      "remove": "therefore,"
+    },
+    {
+      "add": "therefore"
+    },
+    {
+      "remove": "morrow,"
+    },
+    {
+      "add": "morrow"
+    }
+  ],
+  "Ether 15:9": [
+    {
+      "remove": "the"
+    }
+  ],
+  "Ether 15:11": [
+    {
+      "remove": "sacred.—"
+    },
+    {
+      "add": "sacred."
+    }
+  ],
+  "Ether 15:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    }
+  ],
+  "Ether 15:13": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 15:14": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    }
+  ],
+  "Ether 15:15": [
+    {
+      "remove": "wives,"
+    },
+    {
+      "add": "wives"
+    },
+    {
+      "remove": "women"
+    },
+    {
+      "add": "women,"
+    }
+  ],
+  "Ether 15:16": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Ether 15:17": [
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people."
+    }
+  ],
+  "Ether 15:19": [
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "minds,"
+    },
+    {
+      "add": "minds"
+    }
+  ],
+  "Ether 15:21": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Ether 15:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Ether 15:23": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "sword,"
+    },
+    {
+      "add": "sword"
+    }
+  ],
+  "Ether 15:25": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Ether 15:29": [
+    {
+      "remove": "wherefore"
+    },
+    {
+      "add": "Wherefore"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Ether 15:33": [
+    {
+      "remove": "beheld"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Ether 15:34": [
+    {
+      "remove": "these:"
+    },
+    {
+      "add": "these,"
+    },
+    {
+      "remove": "Whether"
+    },
+    {
+      "add": "whether"
+    },
+    {
+      "remove": "flesh:"
+    },
+    {
+      "add": "flesh,"
+    },
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    }
+  ]
+}

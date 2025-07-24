@@ -1,0 +1,5143 @@
+{
+  "Helaman 1:2": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:3": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:4": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 1:5": [
+    {
+      "remove": "a"
+    },
+    {
+      "remove": "governor"
+    },
+    {
+      "add": "Governor"
+    }
+  ],
+  "Helaman 1:6": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 1:9": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "angry;"
+    },
+    {
+      "add": "angry,"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 1:12": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore,"
+    },
+    {
+      "remove": "Kishkumen,"
+    },
+    {
+      "add": "Kishkumen"
+    },
+    {
+      "remove": "band"
+    },
+    {
+      "add": "band,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:13": [
+    {
+      "remove": "govereor"
+    },
+    {
+      "remove": "governor"
+    },
+    {
+      "add": "Governor"
+    },
+    {
+      "remove": "done,"
+    },
+    {
+      "add": "done"
+    }
+  ],
+  "Helaman 1:14": [
+    {
+      "remove": "cimeters,"
+    },
+    {
+      "add": "cimeters"
+    },
+    {
+      "remove": "headplates,"
+    },
+    {
+      "add": "head-plates,"
+    }
+  ],
+  "Helaman 1:15": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 1:16": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore,"
+    },
+    {
+      "remove": "Ammoron."
+    },
+    {
+      "add": "Ammoron,"
+    },
+    {
+      "remove": "Now"
+    },
+    {
+      "remove": "Tubaloth"
+    },
+    {
+      "remove": "he"
+    }
+  ],
+  "Helaman 1:17": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Helaman 1:20": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Helaman 1:21": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:24": [
+    {
+      "remove": "bodies;"
+    },
+    {
+      "add": "bodies:"
+    }
+  ],
+  "Helaman 1:25": [
+    {
+      "remove": "advantage"
+    },
+    {
+      "add": "advantages"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:26": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "borders,"
+    },
+    {
+      "add": "borders"
+    }
+  ],
+  "Helaman 1:27": [
+    {
+      "remove": "centre"
+    },
+    {
+      "add": "center"
+    },
+    {
+      "remove": "city,"
+    },
+    {
+      "add": "city"
+    },
+    {
+      "remove": "women"
+    },
+    {
+      "add": "women,"
+    }
+  ],
+  "Helaman 1:28": [
+    {
+      "remove": "Bountiful:"
+    },
+    {
+      "add": "Bountiful."
+    }
+  ],
+  "Helaman 1:30": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 1:31": [
+    {
+      "remove": "neither"
+    },
+    {
+      "add": "either"
+    }
+  ],
+  "Helaman 1:33": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 2:1": [
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "betweem"
+    },
+    {
+      "add": "between"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 2:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 2:3": [
+    {
+      "remove": "but"
+    },
+    {
+      "add": "But"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 2:4": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "Gadianton,"
+    },
+    {
+      "add": "Gadianton"
+    },
+    {
+      "remove": "of"
+    }
+  ],
+  "Helaman 2:5": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 2:6": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 2:7": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "Helaman:"
+    },
+    {
+      "add": "Helaman."
+    }
+  ],
+  "Helaman 2:8": [
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "came"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "remove": "pass"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "combination,"
+    },
+    {
+      "add": "combination"
+    },
+    {
+      "remove": ")"
+    },
+    {
+      "add": "),"
+    },
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 2:9": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 2:11": [
+    {
+      "remove": "found.—"
+    },
+    {
+      "add": "found."
+    }
+  ],
+  "Helaman 2:12": [
+    {
+      "remove": "judges"
+    },
+    {
+      "add": "Judges"
+    }
+  ],
+  "Helaman 2:13": [
+    {
+      "remove": "Nephi.—"
+    },
+    {
+      "add": "Nephi."
+    }
+  ],
+  "Helaman 2:14": [
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    },
+    {
+      "remove": "Book"
+    },
+    {
+      "add": "book"
+    }
+  ],
+  "Helaman 3:3": [
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    },
+    {
+      "remove": "contentions"
+    },
+    {
+      "add": "contention"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:5": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:6": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "land,"
+    },
+    {
+      "add": "land"
+    }
+  ],
+  "Helaman 3:7": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:8": [
+    {
+      "remove": "southward,"
+    },
+    {
+      "add": "southward"
+    },
+    {
+      "remove": "west,"
+    },
+    {
+      "add": "west"
+    }
+  ],
+  "Helaman 3:9": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:11": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 3:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:14": [
+    {
+      "remove": "but"
+    },
+    {
+      "add": "But"
+    }
+  ],
+  "Helaman 3:15": [
+    {
+      "remove": "but"
+    },
+    {
+      "add": "But"
+    }
+  ],
+  "Helaman 3:16": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "transgression,"
+    },
+    {
+      "add": "transgression"
+    }
+  ],
+  "Helaman 3:20": [
+    {
+      "remove": "nevertheless,"
+    },
+    {
+      "add": "Nevertheless,"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "judgements,"
+    },
+    {
+      "add": "judgments,"
+    },
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    }
+  ],
+  "Helaman 3:21": [
+    {
+      "remove": "youngest"
+    },
+    {
+      "add": "youngest,"
+    },
+    {
+      "remove": "Lord.—"
+    },
+    {
+      "add": "Lord."
+    }
+  ],
+  "Helaman 3:23": [
+    {
+      "remove": "nobler"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:24": [
+    {
+      "remove": "year,"
+    },
+    {
+      "add": "year"
+    }
+  ],
+  "Helaman 3:25": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "High"
+    },
+    {
+      "add": "high"
+    },
+    {
+      "remove": "Priests"
+    },
+    {
+      "add": "priests"
+    },
+    {
+      "remove": "measure.—"
+    },
+    {
+      "add": "measure."
+    }
+  ],
+  "Helaman 3:26": [
+    {
+      "remove": "prosper,"
+    },
+    {
+      "add": "prosper"
+    },
+    {
+      "remove": "God"
+    },
+    {
+      "add": "God,"
+    }
+  ],
+  "Helaman 3:28": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 3:29": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    }
+  ],
+  "Helaman 3:30": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    }
+  ],
+  "Helaman 3:31": [
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    }
+  ],
+  "Helaman 3:32": [
+    {
+      "remove": "peace,"
+    },
+    {
+      "add": "peace"
+    },
+    {
+      "remove": "year;"
+    },
+    {
+      "add": "year:"
+    },
+    {
+      "remove": "Judges."
+    },
+    {
+      "add": "judges."
+    }
+  ],
+  "Helaman 3:33": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 3:35": [
+    {
+      "remove": "nevertheless,"
+    },
+    {
+      "add": "Nevertheless"
+    }
+  ],
+  "Helaman 3:36": [
+    {
+      "remove": "got"
+    },
+    {
+      "add": "gotten"
+    },
+    {
+      "remove": "riches,"
+    },
+    {
+      "add": "riches"
+    }
+  ],
+  "Helaman 3:37": [
+    {
+      "remove": "pass,"
+    },
+    {
+      "add": "pass"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "equity;"
+    },
+    {
+      "add": "equity:"
+    }
+  ],
+  "Helaman 4:1": [
+    {
+      "remove": "year,"
+    },
+    {
+      "add": "year"
+    }
+  ],
+  "Helaman 4:2": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 4:4": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 4:5": [
+    {
+      "remove": "insomuch,"
+    },
+    {
+      "add": "insomuch"
+    },
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 4:6": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 4:7": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "West"
+    },
+    {
+      "add": "west"
+    },
+    {
+      "remove": "Sea,"
+    },
+    {
+      "add": "sea,"
+    },
+    {
+      "remove": "East;"
+    },
+    {
+      "add": "east;"
+    }
+  ],
+  "Helaman 4:8": [
+    {
+      "remove": "Judges."
+    },
+    {
+      "add": "judges."
+    }
+  ],
+  "Helaman 4:9": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 4:10": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 4:11": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 4:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "steeling,"
+    },
+    {
+      "add": "stealing,"
+    },
+    {
+      "remove": "raising"
+    },
+    {
+      "add": "rising"
+    }
+  ],
+  "Helaman 4:13": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "afflicted,"
+    },
+    {
+      "add": "afflicted"
+    }
+  ],
+  "Helaman 4:14": [
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 4:15": [
+    {
+      "remove": "repent,"
+    },
+    {
+      "add": "repent"
+    }
+  ],
+  "Helaman 4:16": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "add": "one-half"
+    },
+    {
+      "remove": "one"
+    },
+    {
+      "remove": "half"
+    }
+  ],
+  "Helaman 4:18": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 4:19": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Helaman 4:21": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 4:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 4:23": [
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "judgements"
+    },
+    {
+      "add": "judgments"
+    }
+  ],
+  "Helaman 4:24": [
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    },
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    }
+  ],
+  "Helaman 4:25": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Helaman 5:1": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "seat,"
+    },
+    {
+      "add": "seat"
+    }
+  ],
+  "Helaman 5:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:3": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 5:4": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "days:"
+    },
+    {
+      "add": "days;"
+    }
+  ],
+  "Helaman 5:5": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    }
+  ],
+  "Helaman 5:6": [
+    {
+      "remove": "words:"
+    },
+    {
+      "add": "words,"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "them;"
+    },
+    {
+      "add": "them:"
+    }
+  ],
+  "Helaman 5:7": [
+    {
+      "remove": "therefore,"
+    },
+    {
+      "add": "Therefore,"
+    }
+  ],
+  "Helaman 5:8": [
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    }
+  ],
+  "Helaman 5:9": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "come;"
+    },
+    {
+      "add": "come:"
+    }
+  ],
+  "Helaman 5:10": [
+    {
+      "remove": "Ammonihah:"
+    },
+    {
+      "add": "Ammonihah;"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Helaman 5:11": [
+    {
+      "remove": "Redemer,"
+    },
+    {
+      "add": "Redeemer,"
+    },
+    {
+      "remove": "souls.—"
+    },
+    {
+      "add": "souls."
+    }
+  ],
+  "Helaman 5:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Devil"
+    },
+    {
+      "add": "devil"
+    },
+    {
+      "remove": "buildeth,"
+    },
+    {
+      "add": "build,"
+    }
+  ],
+  "Helaman 5:15": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "add": "thenceforth"
+    },
+    {
+      "remove": "thence"
+    },
+    {
+      "remove": "forth"
+    }
+  ],
+  "Helaman 5:16": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:17": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:18": [
+    {
+      "remove": "authority:"
+    },
+    {
+      "add": "authority,"
+    },
+    {
+      "remove": "speak;"
+    },
+    {
+      "add": "speak:"
+    },
+    {
+      "remove": "speak,"
+    },
+    {
+      "add": "speak"
+    }
+  ],
+  "Helaman 5:19": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "about,"
+    },
+    {
+      "add": "about"
+    }
+  ],
+  "Helaman 5:21": [
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    }
+  ],
+  "Helaman 5:23": [
+    {
+      "remove": "them"
+    },
+    {
+      "add": "them,"
+    },
+    {
+      "remove": "fear,"
+    },
+    {
+      "add": "fear"
+    }
+  ],
+  "Helaman 5:26": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 5:27": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "prison,"
+    },
+    {
+      "add": "prison"
+    },
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:28": [
+    {
+      "remove": "awful,"
+    },
+    {
+      "add": "awful"
+    }
+  ],
+  "Helaman 5:29": [
+    {
+      "remove": "voice,"
+    },
+    {
+      "add": "voice"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    }
+  ],
+  "Helaman 5:30": [
+    {
+      "remove": "voice,"
+    },
+    {
+      "add": "voice"
+    }
+  ],
+  "Helaman 5:31": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "darkness"
+    },
+    {
+      "add": "darkness,"
+    }
+  ],
+  "Helaman 5:32": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    }
+  ],
+  "Helaman 5:33": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "words,"
+    },
+    {
+      "add": "words"
+    }
+  ],
+  "Helaman 5:34": [
+    {
+      "remove": "flee,"
+    },
+    {
+      "add": "flee"
+    },
+    {
+      "remove": "immovable,"
+    },
+    {
+      "add": "immovable"
+    }
+  ],
+  "Helaman 5:36": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "face"
+    },
+    {
+      "add": "faces"
+    },
+    {
+      "remove": "Heaven;"
+    },
+    {
+      "add": "heaven;"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    }
+  ],
+  "Helaman 5:38": [
+    {
+      "remove": "doth"
+    },
+    {
+      "add": "do"
+    }
+  ],
+  "Helaman 5:39": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    }
+  ],
+  "Helaman 5:41": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "by"
+    },
+    {
+      "remove": "when"
+    },
+    {
+      "remove": "ye"
+    },
+    {
+      "remove": "shall"
+    },
+    {
+      "remove": "do"
+    },
+    {
+      "remove": "this,"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "add": "then"
+    },
+    {
+      "add": "it"
+    },
+    {
+      "remove": "cloud"
+    },
+    {
+      "remove": "of"
+    },
+    {
+      "remove": "darkness"
+    }
+  ],
+  "Helaman 5:42": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:43": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "yea"
+    }
+  ],
+  "Helaman 5:44": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Helaman 5:45": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "fire;"
+    },
+    {
+      "add": "fire,"
+    }
+  ],
+  "Helaman 5:47": [
+    {
+      "remove": "beloved,"
+    },
+    {
+      "add": "Beloved,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:48": [
+    {
+      "remove": "them.—"
+    },
+    {
+      "add": "them."
+    }
+  ],
+  "Helaman 5:49": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 5:50": [
+    {
+      "remove": "evidencess"
+    },
+    {
+      "add": "evidences"
+    }
+  ],
+  "Helaman 5:51": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "convinced,"
+    },
+    {
+      "add": "convinced"
+    }
+  ],
+  "Helaman 6:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "prophecying"
+    },
+    {
+      "add": "prophesying"
+    }
+  ],
+  "Helaman 6:5": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 6:8": [
+    {
+      "remove": "for"
+    }
+  ],
+  "Helaman 6:11": [
+    {
+      "remove": "kind;"
+    },
+    {
+      "add": "kind:"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:12": [
+    {
+      "remove": "south;"
+    },
+    {
+      "add": "south."
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 6:13": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "Behold"
+    }
+  ],
+  "Helaman 6:15": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:17": [
+    {
+      "remove": "gain.—"
+    },
+    {
+      "add": "gain."
+    }
+  ],
+  "Helaman 6:18": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:19": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 6:20": [
+    {
+      "remove": "whatsoever"
+    },
+    {
+      "remove": "was"
+    }
+  ],
+  "Helaman 6:21": [
+    {
+      "remove": "placed"
+    },
+    {
+      "add": "placed,"
+    },
+    {
+      "remove": "in,"
+    }
+  ],
+  "Helaman 6:23": [
+    {
+      "remove": "country,"
+    },
+    {
+      "add": "country"
+    }
+  ],
+  "Helaman 6:24": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:27": [
+    {
+      "remove": "Cain,"
+    },
+    {
+      "add": "Cain"
+    },
+    {
+      "remove": "followers,"
+    },
+    {
+      "add": "followers"
+    }
+  ],
+  "Helaman 6:28": [
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    },
+    {
+      "remove": "Heaven."
+    },
+    {
+      "add": "heaven."
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:29": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 6:30": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 6:35": [
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    }
+  ],
+  "Helaman 6:36": [
+    {
+      "remove": "word."
+    },
+    {
+      "add": "words."
+    }
+  ],
+  "Helaman 6:37": [
+    {
+      "remove": "Gadianton;"
+    },
+    {
+      "add": "Gadianton:"
+    }
+  ],
+  "Helaman 6:38": [
+    {
+      "add": "that"
+    },
+    {
+      "remove": "righteous,"
+    },
+    {
+      "add": "righteous"
+    }
+  ],
+  "Helaman 6:39": [
+    {
+      "add": "the"
+    }
+  ],
+  "Helaman 6:41": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 7:1": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "BEHOLD,"
+    },
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "Helaman,"
+    },
+    {
+      "add": "Helaman"
+    },
+    {
+      "remove": "northward:"
+    },
+    {
+      "add": "northward;"
+    }
+  ],
+  "Helaman 7:2": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Helaman 7:3": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "nativity;"
+    },
+    {
+      "add": "nativity:"
+    }
+  ],
+  "Helaman 7:4": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 7:5": [
+    {
+      "remove": "condemning"
+    },
+    {
+      "add": "Condemning"
+    },
+    {
+      "remove": "bacause"
+    },
+    {
+      "add": "because"
+    }
+  ],
+  "Helaman 7:7": [
+    {
+      "remove": "O"
+    },
+    {
+      "add": "Oh,"
+    },
+    {
+      "remove": "days,"
+    },
+    {
+      "add": "days"
+    }
+  ],
+  "Helaman 7:8": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 7:10": [
+    {
+      "remove": "therefore,"
+    },
+    {
+      "add": "therefore"
+    }
+  ],
+  "Helaman 7:11": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "by,"
+    },
+    {
+      "add": "by"
+    },
+    {
+      "remove": "seen;"
+    },
+    {
+      "add": "seen,"
+    }
+  ],
+  "Helaman 7:12": [
+    {
+      "remove": "arose"
+    },
+    {
+      "add": "arose,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 7:15": [
+    {
+      "remove": "away,"
+    },
+    {
+      "add": "away"
+    },
+    {
+      "remove": "Devil"
+    },
+    {
+      "add": "devil"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 7:16": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "ye"
+    },
+    {
+      "add": "you"
+    },
+    {
+      "remove": "art"
+    },
+    {
+      "add": "is"
+    },
+    {
+      "remove": "wo?"
+    },
+    {
+      "add": "wo:"
+    }
+  ],
+  "Helaman 7:17": [
+    {
+      "remove": "ye,"
+    },
+    {
+      "add": "ye"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 7:19": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Helaman 7:20": [
+    {
+      "remove": "O"
+    },
+    {
+      "add": "Oh!"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 7:21": [
+    {
+      "remove": "neighbor,"
+    },
+    {
+      "add": "neighbour,"
+    }
+  ],
+  "Helaman 7:22": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "citties"
+    },
+    {
+      "add": "cities"
+    },
+    {
+      "remove": "them:"
+    },
+    {
+      "add": "them;"
+    },
+    {
+      "remove": "For"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 7:23": [
+    {
+      "remove": "Lord:"
+    },
+    {
+      "add": "Lord,"
+    },
+    {
+      "remove": "repenteth"
+    },
+    {
+      "add": "repent"
+    }
+  ],
+  "Helaman 7:24": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "behold"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "you;"
+    },
+    {
+      "add": "you,"
+    }
+  ],
+  "Helaman 7:25": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "it,"
+    },
+    {
+      "add": "it;"
+    }
+  ],
+  "Helaman 7:26": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 7:27": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 7:28": [
+    {
+      "remove": "repent,"
+    },
+    {
+      "add": "repent"
+    }
+  ],
+  "Helaman 7:29": [
+    {
+      "remove": "things;"
+    },
+    {
+      "add": "things,"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "me;"
+    },
+    {
+      "add": "me,"
+    }
+  ],
+  "Helaman 8:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "why"
+    },
+    {
+      "add": "Why"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 8:2": [
+    {
+      "remove": "thou"
+    },
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    }
+  ],
+  "Helaman 8:3": [
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    }
+  ],
+  "Helaman 8:4": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "him;"
+    },
+    {
+      "add": "him,"
+    },
+    {
+      "remove": "people,"
+    },
+    {
+      "add": "people"
+    }
+  ],
+  "Helaman 8:5": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Helaman 8:6": [
+    {
+      "remove": "impossible;"
+    },
+    {
+      "add": "impossible,"
+    },
+    {
+      "remove": "behold"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "great;"
+    },
+    {
+      "add": "great,"
+    }
+  ],
+  "Helaman 8:7": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    }
+  ],
+  "Helaman 8:8": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "judgements"
+    },
+    {
+      "add": "judgments"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "many;"
+    },
+    {
+      "add": "many,"
+    },
+    {
+      "remove": "befal"
+    },
+    {
+      "add": "befall"
+    }
+  ],
+  "Helaman 8:9": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "prophet"
+    },
+    {
+      "add": "prophet,"
+    }
+  ],
+  "Helaman 8:10": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "him."
+    },
+    {
+      "add": "him;"
+    },
+    {
+      "remove": "Therefore"
+    },
+    {
+      "add": "therefore"
+    },
+    {
+      "remove": "favor"
+    },
+    {
+      "add": "favour"
+    }
+  ],
+  "Helaman 8:11": [
+    {
+      "remove": "them,"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Egyptians,"
+    },
+    {
+      "add": "Egyptians"
+    }
+  ],
+  "Helaman 8:12": [
+    {
+      "remove": "power,"
+    },
+    {
+      "add": "power"
+    },
+    {
+      "remove": "yourselves,"
+    },
+    {
+      "add": "yourselves"
+    },
+    {
+      "remove": "judgements"
+    },
+    {
+      "add": "judgments"
+    }
+  ],
+  "Helaman 8:13": [
+    {
+      "remove": "But"
+    },
+    {
+      "add": "But,"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 8:14": [
+    {
+      "remove": "come?—"
+    },
+    {
+      "add": "come?"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 8:15": [
+    {
+      "remove": "so"
+    },
+    {
+      "add": "so,"
+    },
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    },
+    {
+      "remove": "eternal.—"
+    },
+    {
+      "add": "eternal."
+    }
+  ],
+  "Helaman 8:16": [
+    {
+      "remove": "day"
+    },
+    {
+      "add": "days,"
+    }
+  ],
+  "Helaman 8:17": [
+    {
+      "remove": "gladness,"
+    },
+    {
+      "add": "gladness"
+    }
+  ],
+  "Helaman 8:18": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 8:19": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    },
+    {
+      "remove": "Zenas"
+    },
+    {
+      "add": "Zenos"
+    }
+  ],
+  "Helaman 8:20": [
+    {
+      "remove": "Zenoch,"
+    },
+    {
+      "add": "Zenock,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "destroyed,"
+    },
+    {
+      "add": "destroyed"
+    }
+  ],
+  "Helaman 8:21": [
+    {
+      "remove": "ye"
+    },
+    {
+      "add": "you"
+    }
+  ],
+  "Helaman 8:24": [
+    {
+      "remove": "lie."
+    },
+    {
+      "add": "lie,"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    }
+  ],
+  "Helaman 8:25": [
+    {
+      "remove": "treusures"
+    },
+    {
+      "add": "treasures"
+    },
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "judgement;"
+    },
+    {
+      "add": "judgment;"
+    }
+  ],
+  "Helaman 8:26": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 8:27": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 8:28": [
+    {
+      "remove": "Gadianton,"
+    },
+    {
+      "add": "Gadianton"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:1": [
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "BEHOLD"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "went;"
+    },
+    {
+      "add": "went,"
+    }
+  ],
+  "Helaman 9:2": [
+    {
+      "remove": "Behold"
+    },
+    {
+      "add": "Behold,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Helaman 9:3": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 9:5": [
+    {
+      "remove": "but"
+    },
+    {
+      "add": "But"
+    },
+    {
+      "remove": "judgements"
+    },
+    {
+      "add": "judgments"
+    }
+  ],
+  "Helaman 9:6": [
+    {
+      "remove": "murdered:"
+    },
+    {
+      "add": "murdered;"
+    },
+    {
+      "remove": "brother,"
+    },
+    {
+      "add": "brother"
+    }
+  ],
+  "Helaman 9:7": [
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    },
+    {
+      "remove": "astonishment,"
+    },
+    {
+      "add": "astonishment"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:8": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "These"
+    },
+    {
+      "add": "these"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 9:9": [
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Helaman 9:10": [
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "Judge,"
+    },
+    {
+      "add": "Judge"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:11": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:12": [
+    {
+      "remove": "Where"
+    },
+    {
+      "add": "where"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "were"
+    },
+    {
+      "remove": "Concerning"
+    },
+    {
+      "add": "concerning"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "whom"
+    },
+    {
+      "remove": "five,"
+    },
+    {
+      "add": "five"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:13": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 9:14": [
+    {
+      "remove": "judgement,"
+    },
+    {
+      "add": "judgment,"
+    }
+  ],
+  "Helaman 9:15": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 9:16": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "it"
+    },
+    {
+      "remove": "prophet;"
+    },
+    {
+      "add": "prophet."
+    }
+  ],
+  "Helaman 9:17": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Judge."
+    },
+    {
+      "add": "judge."
+    }
+  ],
+  "Helaman 9:18": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 9:19": [
+    {
+      "remove": "death;"
+    },
+    {
+      "add": "death:"
+    }
+  ],
+  "Helaman 9:20": [
+    {
+      "remove": "saying"
+    },
+    {
+      "add": "Saying"
+    },
+    {
+      "remove": "us"
+    },
+    {
+      "add": "us,"
+    }
+  ],
+  "Helaman 9:21": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "uncircumsised"
+    },
+    {
+      "add": "uncircumcised"
+    },
+    {
+      "remove": "ways"
+    },
+    {
+      "add": "way"
+    }
+  ],
+  "Helaman 9:23": [
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "Behold"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Helaman 9:26": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:27": [
+    {
+      "remove": "Hath"
+    },
+    {
+      "add": "Has"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:34": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "Behold,"
+    }
+  ],
+  "Helaman 9:35": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 9:36": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Helaman 9:37": [
+    {
+      "remove": "true:"
+    },
+    {
+      "add": "true;"
+    },
+    {
+      "remove": "words,"
+    },
+    {
+      "add": "words"
+    }
+  ],
+  "Helaman 9:39": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:40": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 9:41": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "god,"
+    },
+    {
+      "add": "God,"
+    },
+    {
+      "remove": "god,"
+    },
+    {
+      "add": "God,"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 10:1": [
+    {
+      "remove": "And"
+    },
+    {
+      "add": "AND"
+    }
+  ],
+  "Helaman 10:3": [
+    {
+      "remove": "him,"
+    },
+    {
+      "add": "him"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "Helaman 10:4": [
+    {
+      "remove": "done:"
+    },
+    {
+      "add": "done;"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "Helaman 10:5": [
+    {
+      "add": "for"
+    },
+    {
+      "remove": "forever;"
+    },
+    {
+      "add": "ever;"
+    }
+  ],
+  "Helaman 10:6": [
+    {
+      "remove": "angles,"
+    },
+    {
+      "add": "angels,"
+    }
+  ],
+  "Helaman 10:8": [
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 10:9": [
+    {
+      "remove": "Be"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 10:10": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "pass.—"
+    },
+    {
+      "add": "pass."
+    }
+  ],
+  "Helaman 10:11": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "That"
+    },
+    {
+      "remove": "Almighty:"
+    },
+    {
+      "add": "Almighty,"
+    },
+    {
+      "remove": "Except"
+    },
+    {
+      "add": "except"
+    },
+    {
+      "remove": "repent,"
+    },
+    {
+      "add": "repent"
+    }
+  ],
+  "Helaman 10:12": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "Helaman 10:14": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    },
+    {
+      "remove": "Lord:"
+    },
+    {
+      "add": "Lord,"
+    },
+    {
+      "remove": "Ye"
+    },
+    {
+      "add": "ye"
+    },
+    {
+      "remove": "destruction.—"
+    },
+    {
+      "add": "destruction."
+    }
+  ],
+  "Helaman 10:16": [
+    {
+      "remove": "prison:"
+    },
+    {
+      "add": "prison,"
+    },
+    {
+      "remove": "spirit,"
+    },
+    {
+      "add": "Spirit,"
+    }
+  ],
+  "Helaman 10:17": [
+    {
+      "remove": "spirit,"
+    },
+    {
+      "add": "Spirit,"
+    }
+  ],
+  "Helaman 10:19": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 11:1": [
+    {
+      "remove": "land,"
+    },
+    {
+      "add": "land"
+    }
+  ],
+  "Helaman 11:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 11:3": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "Helaman 11:5": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Nephi.—"
+    },
+    {
+      "add": "Nephi."
+    },
+    {
+      "remove": "thus,"
+    },
+    {
+      "add": "thus"
+    },
+    {
+      "remove": "year,"
+    },
+    {
+      "add": "year"
+    }
+  ],
+  "Helaman 11:6": [
+    {
+      "remove": "smitten,"
+    },
+    {
+      "add": "smitten"
+    }
+  ],
+  "Helaman 11:8": [
+    {
+      "remove": "Chief"
+    },
+    {
+      "add": "chief"
+    },
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "Behold,"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "famine,"
+    },
+    {
+      "add": "famine"
+    },
+    {
+      "remove": "destruction,"
+    },
+    {
+      "add": "destruction"
+    }
+  ],
+  "Helaman 11:9": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    },
+    {
+      "remove": "desired.—"
+    },
+    {
+      "add": "desired."
+    },
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "Helaman 11:14": [
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    },
+    {
+      "remove": "words:"
+    },
+    {
+      "add": "words,"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Helaman 11:15": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 11:17": [
+    {
+      "remove": "grain,"
+    },
+    {
+      "add": "grain"
+    }
+  ],
+  "Helaman 11:18": [
+    {
+      "remove": "God;"
+    },
+    {
+      "add": "God,"
+    }
+  ],
+  "Helaman 11:21": [
+    {
+      "remove": "land."
+    },
+    {
+      "add": "land,"
+    },
+    {
+      "remove": "And"
+    },
+    {
+      "add": "and"
+    }
+  ],
+  "Helaman 11:22": [
+    {
+      "remove": "eighth"
+    },
+    {
+      "add": "eight"
+    }
+  ],
+  "Helaman 11:23": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 11:24": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 11:26": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 11:28": [
+    {
+      "remove": "mountains,"
+    },
+    {
+      "add": "mountains"
+    }
+  ],
+  "Helaman 11:29": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 11:31": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "wilderness.—"
+    },
+    {
+      "add": "wilderness."
+    }
+  ],
+  "Helaman 11:33": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 11:34": [
+    {
+      "remove": "iniquity,"
+    },
+    {
+      "add": "iniquity"
+    }
+  ],
+  "Helaman 11:35": [
+    {
+      "remove": "Judges."
+    },
+    {
+      "add": "judges."
+    }
+  ],
+  "Helaman 11:36": [
+    {
+      "remove": "iniquity.—"
+    },
+    {
+      "add": "iniquity."
+    }
+  ],
+  "Helaman 12:2": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 12:5": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 12:9": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 12:10": [
+    {
+      "remove": "voice,"
+    },
+    {
+      "add": "voice"
+    },
+    {
+      "remove": "up"
+    },
+    {
+      "add": "up,"
+    }
+  ],
+  "Helaman 12:11": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "voice,"
+    },
+    {
+      "add": "voice"
+    }
+  ],
+  "Helaman 12:12": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 12:13": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "say"
+    },
+    {
+      "remove": "Move,"
+    },
+    {
+      "add": "move,"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 12:14": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "say"
+    },
+    {
+      "remove": "Thou"
+    },
+    {
+      "add": "thou"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 12:15": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "so:"
+    },
+    {
+      "add": "so;"
+    }
+  ],
+  "Helaman 12:16": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "say"
+    },
+    {
+      "remove": "Be"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 12:17": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "say"
+    },
+    {
+      "remove": "Be"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 12:18": [
+    {
+      "remove": "hideth"
+    },
+    {
+      "add": "hide"
+    },
+    {
+      "remove": "Let"
+    },
+    {
+      "add": "let"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 12:19": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Be"
+    },
+    {
+      "add": "be"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "forever."
+    },
+    {
+      "add": "ever."
+    }
+  ],
+  "Helaman 12:20": [
+    {
+      "remove": "Because"
+    },
+    {
+      "add": "because"
+    },
+    {
+      "remove": "iniquities"
+    },
+    {
+      "add": "iniquities,"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "forever,"
+    },
+    {
+      "add": "ever,"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 12:21": [
+    {
+      "remove": "Because"
+    },
+    {
+      "add": "because"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "so.—"
+    },
+    {
+      "add": "so."
+    }
+  ],
+  "Helaman 12:22": [
+    {
+      "add": "him"
+    },
+    {
+      "add": "to"
+    }
+  ],
+  "Helaman 12:23": [
+    {
+      "remove": "repent,"
+    },
+    {
+      "add": "repent"
+    }
+  ],
+  "Helaman 12:24": [
+    {
+      "remove": "grace"
+    },
+    {
+      "add": "grace,"
+    }
+  ],
+  "Helaman 12:25": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 12:26": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "saith,"
+    },
+    {
+      "add": "say,"
+    },
+    {
+      "remove": "They"
+    },
+    {
+      "add": "they"
+    },
+    {
+      "remove": "damnation.—"
+    },
+    {
+      "add": "damnation."
+    }
+  ],
+  "Helaman 13:2": [
+    {
+      "remove": "many-day"
+    },
+    {
+      "add": "many"
+    },
+    {
+      "add": "days,"
+    }
+  ],
+  "Helaman 13:3": [
+    {
+      "remove": "in"
+    },
+    {
+      "add": "into"
+    }
+  ],
+  "Helaman 13:5": [
+    {
+      "remove": "Lord,"
+    },
+    {
+      "add": "Lord"
+    }
+  ],
+  "Helaman 13:6": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 13:7": [
+    {
+      "remove": "me,"
+    },
+    {
+      "add": "me;"
+    }
+  ],
+  "Helaman 13:8": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "Because"
+    },
+    {
+      "add": "because"
+    }
+  ],
+  "Helaman 13:9": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "sword,"
+    },
+    {
+      "add": "sword"
+    }
+  ],
+  "Helaman 13:10": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "Lord;"
+    },
+    {
+      "add": "Lord:"
+    }
+  ],
+  "Helaman 13:11": [
+    {
+      "remove": "anger"
+    },
+    {
+      "add": "anger,"
+    },
+    {
+      "remove": "Blessed"
+    },
+    {
+      "add": "blessed"
+    }
+  ],
+  "Helaman 13:12": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "those"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "For"
+    },
+    {
+      "add": "for"
+    },
+    {
+      "remove": "city,"
+    },
+    {
+      "add": "city"
+    }
+  ],
+  "Helaman 13:13": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 13:14": [
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Helaman 13:15": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Helaman 13:16": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "them;"
+    },
+    {
+      "add": "them:"
+    }
+  ],
+  "Helaman 13:17": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "add": "are"
+    }
+  ],
+  "Helaman 13:18": [
+    {
+      "remove": "Lord:"
+    },
+    {
+      "add": "Lord;"
+    }
+  ],
+  "Helaman 13:19": [
+    {
+      "remove": "hideth"
+    },
+    {
+      "add": "hide"
+    },
+    {
+      "remove": "treasure"
+    },
+    {
+      "add": "treasures"
+    }
+  ],
+  "Helaman 13:21": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "Helaman 13:22": [
+    {
+      "remove": "iniquities:"
+    },
+    {
+      "add": "iniquities."
+    }
+  ],
+  "Helaman 13:23": [
+    {
+      "remove": "cause"
+    },
+    {
+      "add": "cause,"
+    }
+  ],
+  "Helaman 13:24": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "arrriven,"
+    },
+    {
+      "add": "arrived,"
+    },
+    {
+      "remove": "do"
+    }
+  ],
+  "Helaman 13:25": [
+    {
+      "remove": "If"
+    },
+    {
+      "add": "if"
+    }
+  ],
+  "Helaman 13:26": [
+    {
+      "remove": "Devil,"
+    },
+    {
+      "add": "devil,"
+    }
+  ],
+  "Helaman 13:27": [
+    {
+      "remove": "say,"
+    },
+    {
+      "add": "say"
+    },
+    {
+      "remove": "Do"
+    },
+    {
+      "add": "do"
+    },
+    {
+      "remove": "ye"
+    },
+    {
+      "remove": "will"
+    }
+  ],
+  "Helaman 13:28": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "and"
+    }
+  ],
+  "Helaman 13:29": [
+    {
+      "remove": "you;"
+    },
+    {
+      "add": "you?"
+    },
+    {
+      "remove": "lead"
+    },
+    {
+      "add": "led"
+    },
+    {
+      "remove": "guides;"
+    },
+    {
+      "add": "guides?"
+    },
+    {
+      "remove": "light;"
+    },
+    {
+      "add": "light?"
+    }
+  ],
+  "Helaman 13:30": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 13:31": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Helaman 13:32": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 13:33": [
+    {
+      "add": "ye"
+    },
+    {
+      "remove": "ye"
+    }
+  ],
+  "Helaman 13:34": [
+    {
+      "remove": "layeth"
+    },
+    {
+      "add": "lay"
+    }
+  ],
+  "Helaman 13:37": [
+    {
+      "remove": "them"
+    },
+    {
+      "add": "those"
+    }
+  ],
+  "Helaman 13:38": [
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "Eternal"
+    },
+    {
+      "add": "eternal"
+    }
+  ],
+  "Helaman 14:2": [
+    {
+      "remove": "saith"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "sign:"
+    },
+    {
+      "add": "sign;"
+    },
+    {
+      "remove": "son"
+    },
+    {
+      "add": "Son"
+    }
+  ],
+  "Helaman 14:3": [
+    {
+      "remove": "Heaven,"
+    },
+    {
+      "add": "heaven,"
+    },
+    {
+      "remove": "day;"
+    },
+    {
+      "add": "day,"
+    }
+  ],
+  "Helaman 14:4": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Helaman 14:5": [
+    {
+      "add": "be"
+    }
+  ],
+  "Helaman 14:6": [
+    {
+      "remove": "all:"
+    },
+    {
+      "add": "all,"
+    },
+    {
+      "remove": "Heaven."
+    },
+    {
+      "add": "heaven."
+    }
+  ],
+  "Helaman 14:10": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "have"
+    }
+  ],
+  "Helaman 14:11": [
+    {
+      "remove": "judgements"
+    },
+    {
+      "add": "judgments"
+    },
+    {
+      "remove": "doth"
+    },
+    {
+      "add": "do"
+    },
+    {
+      "remove": "repentance;"
+    },
+    {
+      "add": "repentance."
+    }
+  ],
+  "Helaman 14:12": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    }
+  ],
+  "Helaman 14:15": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "behooveth"
+    },
+    {
+      "add": "behoveth"
+    }
+  ],
+  "Helaman 14:16": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "death;"
+    },
+    {
+      "add": "death"
+    },
+    {
+      "add": "-"
+    },
+    {
+      "remove": "death"
+    },
+    {
+      "add": "death;"
+    }
+  ],
+  "Helaman 14:18": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 14:19": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    }
+  ],
+  "Helaman 14:20": [
+    {
+      "remove": "death:"
+    },
+    {
+      "add": "death,"
+    }
+  ],
+  "Helaman 14:21": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "earth,"
+    },
+    {
+      "add": "earth;"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "is"
+    },
+    {
+      "add": "are"
+    },
+    {
+      "remove": "up;"
+    },
+    {
+      "add": "up:"
+    }
+  ],
+  "Helaman 14:22": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "seams,"
+    },
+    {
+      "add": "seams"
+    },
+    {
+      "remove": "both"
+    }
+  ],
+  "Helaman 14:25": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    }
+  ],
+  "Helaman 14:26": [
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    },
+    {
+      "remove": "hours;"
+    },
+    {
+      "add": "hours:"
+    }
+  ],
+  "Helaman 14:27": [
+    {
+      "remove": "earth,"
+    },
+    {
+      "add": "earth"
+    }
+  ],
+  "Helaman 14:28": [
+    {
+      "remove": "me"
+    },
+    {
+      "add": "me,"
+    }
+  ],
+  "Helaman 14:29": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "judgement"
+    },
+    {
+      "add": "judgment"
+    }
+  ],
+  "Helaman 15:2": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "therefore,"
+    }
+  ],
+  "Helaman 15:3": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "those"
+    },
+    {
+      "add": "these"
+    }
+  ],
+  "Helaman 15:5": [
+    {
+      "remove": "judgements,"
+    },
+    {
+      "add": "judgments"
+    }
+  ],
+  "Helaman 15:6": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 15:7": [
+    {
+      "remove": "behold"
+    },
+    {
+      "add": "behold,"
+    },
+    {
+      "remove": "lead"
+    },
+    {
+      "add": "led"
+    },
+    {
+      "remove": "Holy"
+    },
+    {
+      "add": "holy"
+    },
+    {
+      "remove": "Scriptures,"
+    },
+    {
+      "add": "scriptures,"
+    }
+  ],
+  "Helaman 15:8": [
+    {
+      "remove": "therefore"
+    },
+    {
+      "add": "Therefore"
+    },
+    {
+      "remove": "free.—"
+    },
+    {
+      "add": "free."
+    }
+  ],
+  "Helaman 15:9": [
+    {
+      "remove": "shall"
+    },
+    {
+      "add": "should"
+    },
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Helaman 15:11": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    }
+  ],
+  "Helaman 15:12": [
+    {
+      "remove": "yea,"
+    },
+    {
+      "add": "Yea,"
+    },
+    {
+      "remove": "That"
+    },
+    {
+      "add": "that"
+    }
+  ],
+  "Helaman 15:13": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "again"
+    },
+    {
+      "remove": "their"
+    }
+  ],
+  "Helaman 15:14": [
+    {
+      "remove": "It"
+    },
+    {
+      "add": "it"
+    }
+  ],
+  "Helaman 15:15": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 15:16": [
+    {
+      "remove": "therefore,"
+    },
+    {
+      "add": "Therefore,"
+    }
+  ],
+  "Helaman 16:1": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "words,"
+    },
+    {
+      "add": "word,"
+    },
+    {
+      "remove": "came"
+    },
+    {
+      "add": "come"
+    }
+  ],
+  "Helaman 16:2": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    },
+    {
+      "remove": "spirit"
+    },
+    {
+      "add": "Spirit"
+    }
+  ],
+  "Helaman 16:3": [
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 16:5": [
+    {
+      "remove": "telling"
+    },
+    {
+      "add": "Telling"
+    },
+    {
+      "remove": "coming,"
+    },
+    {
+      "add": "coming"
+    }
+  ],
+  "Helaman 16:6": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    },
+    {
+      "remove": "Devil;"
+    },
+    {
+      "add": "devil;"
+    },
+    {
+      "remove": "Devil"
+    },
+    {
+      "add": "devil"
+    }
+  ],
+  "Helaman 16:7": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "behold"
+    }
+  ],
+  "Helaman 16:9": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ],
+  "Helaman 16:10": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 16:11": [
+    {
+      "remove": "Judges."
+    },
+    {
+      "add": "judges."
+    }
+  ],
+  "Helaman 16:12": [
+    {
+      "remove": "were"
+    },
+    {
+      "add": "was"
+    },
+    {
+      "remove": "Judges."
+    },
+    {
+      "add": "judges."
+    }
+  ],
+  "Helaman 16:13": [
+    {
+      "remove": "Judges,"
+    },
+    {
+      "add": "judges,"
+    }
+  ],
+  "Helaman 16:14": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "Scriptures"
+    },
+    {
+      "add": "scriptures"
+    }
+  ],
+  "Helaman 16:15": [
+    {
+      "remove": "saying:"
+    },
+    {
+      "add": "saying,"
+    }
+  ],
+  "Helaman 16:16": [
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    }
+  ],
+  "Helaman 16:18": [
+    {
+      "remove": "Heaven"
+    },
+    {
+      "add": "heaven"
+    },
+    {
+      "remove": "hath"
+    },
+    {
+      "add": "has"
+    },
+    {
+      "remove": "they"
+    },
+    {
+      "add": "them"
+    },
+    {
+      "remove": "which"
+    },
+    {
+      "add": "who"
+    }
+  ],
+  "Helaman 16:21": [
+    {
+      "remove": "for"
+    }
+  ],
+  "Helaman 16:22": [
+    {
+      "remove": "about,"
+    },
+    {
+      "add": "about"
+    },
+    {
+      "remove": "rumors"
+    },
+    {
+      "add": "rumours"
+    }
+  ],
+  "Helaman 16:23": [
+    {
+      "remove": "and"
+    },
+    {
+      "add": "And"
+    },
+    {
+      "remove": "was"
+    },
+    {
+      "add": "were"
+    }
+  ],
+  "Helaman 16:24": [
+    {
+      "remove": "Judges"
+    },
+    {
+      "add": "judges"
+    }
+  ]
+}
