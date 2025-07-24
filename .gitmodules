@@ -1,0 +1,3 @@
+[submodule "OpenScripture"]
+	path = OpenScripture
+	url = https://github.com/BYU-ODH/OpenScripture.git

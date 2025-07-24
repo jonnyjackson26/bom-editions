@@ -1,0 +1,406 @@
+{
+  "Enos 1:1": [
+    {
+      "remove": "father,"
+    },
+    {
+      "add": "father"
+    }
+  ],
+  "Enos 1:2": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Enos 1:3": [
+    {
+      "remove": "behold,"
+    },
+    {
+      "add": "Behold,"
+    },
+    {
+      "remove": "speak,"
+    },
+    {
+      "add": "speak"
+    },
+    {
+      "remove": "and"
+    },
+    {
+      "remove": "the"
+    },
+    {
+      "remove": "words"
+    },
+    {
+      "remove": "of"
+    },
+    {
+      "remove": "my"
+    },
+    {
+      "remove": "father,"
+    }
+  ],
+  "Enos 1:4": [
+    {
+      "remove": "supplication,"
+    },
+    {
+      "add": "supplication"
+    },
+    {
+      "remove": "high,"
+    },
+    {
+      "add": "high"
+    }
+  ],
+  "Enos 1:5": [
+    {
+      "remove": "me"
+    },
+    {
+      "add": "me,"
+    }
+  ],
+  "Enos 1:6": [
+    {
+      "remove": "lie;"
+    },
+    {
+      "add": "lie,"
+    }
+  ],
+  "Enos 1:7": [
+    {
+      "remove": "sayeth,"
+    },
+    {
+      "add": "said,"
+    }
+  ],
+  "Enos 1:8": [
+    {
+      "remove": "sayeth"
+    },
+    {
+      "add": "said"
+    },
+    {
+      "remove": "not"
+    },
+    {
+      "add": "never"
+    },
+    {
+      "add": "before"
+    },
+    {
+      "remove": "passeth"
+    },
+    {
+      "add": "pass"
+    },
+    {
+      "remove": "that"
+    },
+    {
+      "remove": "to"
+    },
+    {
+      "add": "to,"
+    },
+    {
+      "remove": "it,"
+    }
+  ],
+  "Enos 1:9": [
+    {
+      "remove": "pass"
+    },
+    {
+      "add": "pass,"
+    }
+  ],
+  "Enos 1:10": [
+    {
+      "remove": "spirit,"
+    },
+    {
+      "add": "Spirit,"
+    },
+    {
+      "remove": "land;"
+    },
+    {
+      "add": "land:"
+    }
+  ],
+  "Enos 1:11": [
+    {
+      "remove": "that"
+    }
+  ],
+  "Enos 1:12": [
+    {
+      "remove": "labored"
+    },
+    {
+      "add": "laboured"
+    }
+  ],
+  "Enos 1:13": [
+    {
+      "remove": "that"
+    },
+    {
+      "add": "that,"
+    },
+    {
+      "remove": "perhaps"
+    },
+    {
+      "add": "perhaps,"
+    }
+  ],
+  "Enos 1:14": [
+    {
+      "remove": "for"
+    },
+    {
+      "add": "For"
+    },
+    {
+      "remove": "struggles"
+    },
+    {
+      "add": "strugglings"
+    },
+    {
+      "remove": "vain,"
+    },
+    {
+      "add": "vain"
+    }
+  ],
+  "Enos 1:16": [
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    },
+    {
+      "remove": "time.—"
+    },
+    {
+      "add": "time."
+    }
+  ],
+  "Enos 1:17": [
+    {
+      "remove": "wherefore,"
+    },
+    {
+      "add": "wherefore"
+    }
+  ],
+  "Enos 1:18": [
+    {
+      "remove": "faith,"
+    },
+    {
+      "add": "faith;"
+    }
+  ],
+  "Enos 1:19": [
+    {
+      "remove": "pass,"
+    },
+    {
+      "add": "pass"
+    },
+    {
+      "remove": "obout"
+    },
+    {
+      "add": "about"
+    }
+  ],
+  "Enos 1:20": [
+    {
+      "remove": "bare"
+    },
+    {
+      "add": "bear"
+    },
+    {
+      "remove": "rerecord"
+    },
+    {
+      "add": "record"
+    },
+    {
+      "remove": "labors"
+    },
+    {
+      "add": "labours"
+    },
+    {
+      "remove": "nature,"
+    },
+    {
+      "add": "nature"
+    },
+    {
+      "remove": "blood-thirsty"
+    },
+    {
+      "add": "bloodthirsty"
+    },
+    {
+      "remove": "idolatry,"
+    },
+    {
+      "add": "idolatry"
+    },
+    {
+      "remove": "filthiness;"
+    },
+    {
+      "add": "filthiness:"
+    },
+    {
+      "remove": "feading"
+    },
+    {
+      "add": "feeding"
+    },
+    {
+      "remove": "prey,"
+    },
+    {
+      "add": "prey;"
+    },
+    {
+      "remove": "girded"
+    },
+    {
+      "add": "girdle"
+    },
+    {
+      "remove": "loins,"
+    },
+    {
+      "add": "loins"
+    },
+    {
+      "remove": "shaven;"
+    },
+    {
+      "add": "shaven:"
+    },
+    {
+      "add": "in"
+    },
+    {
+      "remove": "axe.—"
+    },
+    {
+      "add": "axe."
+    }
+  ],
+  "Enos 1:21": [
+    {
+      "remove": "cattle,"
+    },
+    {
+      "add": "cattle"
+    },
+    {
+      "remove": "much"
+    },
+    {
+      "add": "many"
+    }
+  ],
+  "Enos 1:22": [
+    {
+      "remove": "stiff-necked"
+    },
+    {
+      "add": "stiffnecked"
+    }
+  ],
+  "Enos 1:23": [
+    {
+      "remove": "preaching,"
+    },
+    {
+      "add": "preaching"
+    },
+    {
+      "remove": "continually,"
+    },
+    {
+      "add": "continually"
+    },
+    {
+      "remove": "things,"
+    },
+    {
+      "add": "things;"
+    }
+  ],
+  "Enos 1:24": [
+    {
+      "remove": "Lamanites,"
+    },
+    {
+      "add": "Lamanites"
+    }
+  ],
+  "Enos 1:26": [
+    {
+      "remove": "God,"
+    },
+    {
+      "add": "God"
+    },
+    {
+      "remove": "truth,"
+    },
+    {
+      "add": "truth"
+    }
+  ],
+  "Enos 1:27": [
+    {
+      "remove": "redeemer;"
+    },
+    {
+      "add": "Redeemer;"
+    },
+    {
+      "remove": "Come"
+    },
+    {
+      "add": "come"
+    },
+    {
+      "remove": "me"
+    },
+    {
+      "add": "me,"
+    },
+    {
+      "remove": "Father."
+    },
+    {
+      "add": "FATHER."
+    }
+  ]
+}
