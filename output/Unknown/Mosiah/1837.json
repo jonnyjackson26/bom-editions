@@ -1,597 +1,786 @@
 {
   "Mosiah 1:1": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mosiah 1:2": [
     {
-      "remove": "Helaman."
+      "index": 19,
+      "remove": [
+        "Helaman.",
+        "And"
+      ],
+      "add": [
+        "Helaman.—",
+        "and"
+      ]
     },
     {
-      "add": "Helaman.—"
+      "index": 50,
+      "remove": [
+        "prophecies,"
+      ],
+      "add": [
+        "prophecies"
+      ]
     },
     {
-      "remove": "And"
+      "index": 62,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     },
     {
-      "add": "and"
-    },
-    {
-      "remove": "prophecies,"
-    },
-    {
-      "add": "prophecies"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "were"
-    },
-    {
-      "remove": "Lord.—"
-    },
-    {
-      "add": "Lord."
+      "index": 70,
+      "remove": [
+        "Lord.—"
+      ],
+      "add": [
+        "Lord."
+      ]
     }
   ],
   "Mosiah 1:3": [
     {
-      "remove": "My"
-    },
-    {
-      "add": "my"
+      "index": 17,
+      "remove": [
+        "My"
+      ],
+      "add": [
+        "my"
+      ]
     }
   ],
   "Mosiah 1:5": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 60,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mosiah 1:6": [
     {
-      "remove": "fathers,"
-    },
-    {
-      "add": "fathers"
+      "index": 37,
+      "remove": [
+        "fathers,"
+      ],
+      "add": [
+        "fathers"
+      ]
     }
   ],
   "Mosiah 1:9": [
     {
-      "remove": "sons."
-    },
-    {
-      "add": "sons.—"
+      "index": 51,
+      "remove": [
+        "sons."
+      ],
+      "add": [
+        "sons.—"
+      ]
     }
   ],
   "Mosiah 1:10": [
     {
-      "remove": "Mosiah,"
+      "index": 45,
+      "remove": [
+        "Mosiah,",
+        "which"
+      ],
+      "add": [
+        "Mosiah",
+        "who"
+      ]
     },
     {
-      "add": "Mosiah"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
+      "index": 85,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     }
   ],
   "Mosiah 1:11": [
     {
-      "remove": "Lord.—"
-    },
-    {
-      "add": "Lord."
+      "index": 48,
+      "remove": [
+        "Lord.—"
+      ],
+      "add": [
+        "Lord."
+      ]
     }
   ],
   "Mosiah 1:13": [
     {
-      "remove": "That"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
+      "index": 55,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 59,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 1:18": [
     {
-      "remove": "which"
+      "index": 23,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Zarahemla,"
-    },
-    {
-      "add": "Zerahem"
-    },
-    {
-      "add": "la,"
+      "index": 29,
+      "remove": [
+        "Zarahemla,"
+      ],
+      "add": [
+        "Zerahem",
+        "la,"
+      ]
     }
   ],
   "Mosiah 2:4": [
     {
-      "remove": "Zarahemla,"
-    },
-    {
-      "add": "Zerahemla,"
+      "index": 60,
+      "remove": [
+        "Zarahemla,"
+      ],
+      "add": [
+        "Zerahemla,"
+      ]
     }
   ],
   "Mosiah 2:7": [
     {
-      "remove": "therefore,"
-    },
-    {
-      "add": "therefore"
+      "index": 20,
+      "remove": [
+        "therefore,"
+      ],
+      "add": [
+        "therefore"
+      ]
     }
   ],
   "Mosiah 2:9": [
     {
-      "remove": "hither,"
-    },
-    {
-      "add": "hither"
+      "index": 46,
+      "remove": [
+        "hither,"
+      ],
+      "add": [
+        "hither"
+      ]
     }
   ],
   "Mosiah 2:11": [
     {
-      "remove": "was"
+      "index": 26,
+      "remove": [
+        "was"
+      ],
+      "add": []
     }
   ],
   "Mosiah 2:12": [
     {
-      "remove": "no"
-    },
-    {
-      "add": "any"
+      "index": 30,
+      "remove": [
+        "no"
+      ],
+      "add": [
+        "any"
+      ]
     }
   ],
   "Mosiah 2:14": [
     {
-      "remove": "grievous"
+      "index": 34,
+      "remove": [
+        "grievous"
+      ],
+      "add": [
+        "grievious"
+      ]
     },
     {
-      "add": "grievious"
-    },
-    {
-      "remove": "day."
-    },
-    {
-      "add": "day.—"
+      "index": 52,
+      "remove": [
+        "day."
+      ],
+      "add": [
+        "day.—"
+      ]
     }
   ],
   "Mosiah 2:17": [
     {
-      "remove": "things,"
-    },
-    {
-      "add": "things"
+      "index": 6,
+      "remove": [
+        "things,"
+      ],
+      "add": [
+        "things"
+      ]
     }
   ],
   "Mosiah 2:19": [
     {
-      "remove": "who"
+      "index": 5,
+      "remove": [
+        "who"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 20,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:20": [
     {
-      "remove": "hath"
+      "index": 20,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "add": "has"
+      "index": 28,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "remove": "hath"
+      "index": 32,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "add": "has"
+      "index": 38,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 45,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:21": [
     {
-      "remove": "hath"
+      "index": 11,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "add": "has"
-    },
-    {
-      "remove": "and"
+      "index": 63,
+      "remove": [
+        "and"
+      ],
+      "add": []
     }
   ],
   "Mosiah 2:22": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 15,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:25": [
     {
-      "remove": "Can"
+      "index": 4,
+      "remove": [
+        "Can"
+      ],
+      "add": [
+        "can"
+      ]
     },
     {
-      "add": "can"
+      "index": 13,
+      "remove": [
+        "Nay."
+      ],
+      "add": [
+        "nay."
+      ]
     },
     {
-      "remove": "Nay."
+      "index": 18,
+      "remove": [
+        "thou",
+        "art"
+      ],
+      "add": [
+        "ye",
+        "are"
+      ]
     },
     {
-      "add": "nay."
+      "index": 28,
+      "remove": [
+        "earth;"
+      ],
+      "add": [
+        "earth:"
+      ]
     },
     {
-      "remove": "thou"
-    },
-    {
-      "remove": "art"
-    },
-    {
-      "add": "ye"
-    },
-    {
-      "add": "are"
-    },
-    {
-      "remove": "earth;"
-    },
-    {
-      "add": "earth:"
-    },
-    {
-      "remove": "thou"
-    },
-    {
-      "remove": "wast"
-    },
-    {
-      "add": "ye"
-    },
-    {
-      "add": "were"
+      "index": 30,
+      "remove": [
+        "thou",
+        "wast"
+      ],
+      "add": [
+        "ye",
+        "were"
+      ]
     }
   ],
   "Mosiah 2:26": [
     {
-      "remove": "thou"
-    },
-    {
-      "add": "ye"
-    },
-    {
-      "remove": "beholdest"
-    },
-    {
-      "add": "behold"
+      "index": 24,
+      "remove": [
+        "thou",
+        "beholdest"
+      ],
+      "add": [
+        "ye",
+        "behold"
+      ]
     }
   ],
   "Mosiah 2:31": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 12,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Mosiah 2:34": [
     {
-      "remove": "one"
+      "index": 8,
+      "remove": [
+        "one"
+      ],
+      "add": [
+        "any"
+      ]
     },
     {
-      "add": "any"
+      "index": 35,
+      "remove": [
+        "Heavenly"
+      ],
+      "add": [
+        "heavenly"
+      ]
     },
     {
-      "remove": "Heavenly"
+      "index": 60,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "heavenly"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets,"
-    },
-    {
-      "add": "prophets,"
+      "index": 65,
+      "remove": [
+        "Holy",
+        "Prophets,"
+      ],
+      "add": [
+        "holy",
+        "prophets,"
+      ]
     }
   ],
   "Mosiah 2:35": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 4,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:36": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 30,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:37": [
     {
-      "remove": "therefore,"
+      "index": 19,
+      "remove": [
+        "therefore,"
+      ],
+      "add": [
+        "therefore"
+      ]
     },
     {
-      "add": "therefore"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 37,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Mosiah 2:38": [
     {
-      "remove": "Divine"
-    },
-    {
-      "add": "divine"
-    },
-    {
-      "remove": "Justice"
-    },
-    {
-      "add": "justice"
+      "index": 17,
+      "remove": [
+        "Divine",
+        "Justice"
+      ],
+      "add": [
+        "divine",
+        "justice"
+      ]
     }
   ],
   "Mosiah 2:40": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 14,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mosiah 2:41": [
     {
-      "remove": "Heaven,"
+      "index": 48,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     },
     {
-      "add": "heaven,"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
+      "index": 55,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     }
   ],
   "Mosiah 3:2": [
     {
-      "remove": "Angel"
+      "index": 15,
+      "remove": [
+        "Angel"
+      ],
+      "add": [
+        "angel"
+      ]
     },
     {
-      "add": "angel"
-    },
-    {
-      "remove": "Awake;"
-    },
-    {
-      "add": "awake;"
+      "index": 23,
+      "remove": [
+        "Awake;"
+      ],
+      "add": [
+        "awake;"
+      ]
     }
   ],
   "Mosiah 3:3": [
     {
-      "remove": "Awake,"
-    },
-    {
-      "add": "awake,"
+      "index": 5,
+      "remove": [
+        "Awake,"
+      ],
+      "add": [
+        "awake,"
+      ]
     }
   ],
   "Mosiah 3:5": [
     {
-      "remove": "which"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Heaven,"
-    },
-    {
-      "add": "heaven,"
+      "index": 32,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     }
   ],
   "Mosiah 3:6": [
     {
-      "remove": "Devils,"
+      "index": 5,
+      "remove": [
+        "Devils,"
+      ],
+      "add": [
+        "devils,"
+      ]
     },
     {
-      "add": "devils,"
-    },
-    {
-      "remove": "dwelleth"
-    },
-    {
-      "add": "dwell"
+      "index": 11,
+      "remove": [
+        "dwelleth"
+      ],
+      "add": [
+        "dwell"
+      ]
     }
   ],
   "Mosiah 3:8": [
     {
-      "remove": "Heaven"
+      "index": 14,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     },
     {
-      "add": "heaven"
-    },
-    {
-      "remove": "Earth,"
-    },
-    {
-      "add": "earth,"
+      "index": 16,
+      "remove": [
+        "Earth,"
+      ],
+      "add": [
+        "earth,"
+      ]
     }
   ],
   "Mosiah 3:9": [
     {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
+      "index": 39,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     }
   ],
   "Mosiah 3:11": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 21,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Mosiah 3:13": [
     {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
+      "index": 7,
+      "remove": [
+        "Holy",
+        "Prophets"
+      ],
+      "add": [
+        "holy",
+        "prophets"
+      ]
     }
   ],
   "Mosiah 3:15": [
     {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
+      "index": 18,
+      "remove": [
+        "Holy",
+        "Prophets"
+      ],
+      "add": [
+        "holy",
+        "prophets"
+      ]
     }
   ],
   "Mosiah 3:16": [
     {
-      "remove": "blessed:"
-    },
-    {
-      "add": "blessed;"
+      "index": 23,
+      "remove": [
+        "blessed:"
+      ],
+      "add": [
+        "blessed;"
+      ]
     }
   ],
   "Mosiah 3:17": [
     {
-      "remove": "no"
-    },
-    {
-      "add": "any"
+      "index": 15,
+      "remove": [
+        "no"
+      ],
+      "add": [
+        "any"
+      ]
     }
   ],
   "Mosiah 3:18": [
     {
-      "remove": "drinketh"
+      "index": 21,
+      "remove": [
+        "drinketh"
+      ],
+      "add": [
+        "drink"
+      ]
     },
     {
-      "add": "drink"
-    },
-    {
-      "remove": "believeth"
-    },
-    {
-      "add": "believe"
+      "index": 37,
+      "remove": [
+        "believeth"
+      ],
+      "add": [
+        "believe"
+      ]
     }
   ],
   "Mosiah 3:19": [
     {
-      "remove": "yieldeth"
-    },
-    {
-      "add": "yields"
+      "index": 26,
+      "remove": [
+        "yieldeth"
+      ],
+      "add": [
+        "yields"
+      ]
     }
   ],
   "Mosiah 3:20": [
     {
-      "remove": "Saviour"
-    },
-    {
-      "add": "Savior"
+      "index": 16,
+      "remove": [
+        "Saviour"
+      ],
+      "add": [
+        "Savior"
+      ]
     }
   ],
   "Mosiah 3:25": [
     {
-      "remove": "souls.—"
-    },
-    {
-      "add": "souls."
+      "index": 53,
+      "remove": [
+        "souls.—"
+      ],
+      "add": [
+        "souls."
+      ]
     }
   ],
   "Mosiah 3:27": [
     {
-      "remove": "ever."
-    },
-    {
-      "add": "ever.—"
+      "index": 22,
+      "remove": [
+        "ever."
+      ],
+      "add": [
+        "ever.—"
+      ]
     }
   ]
 }

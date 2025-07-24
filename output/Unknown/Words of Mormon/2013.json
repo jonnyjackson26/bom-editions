@@ -1,348 +1,473 @@
 {
   "Words of Mormon 1:1": [
     {
-      "remove": "making,"
+      "index": 15,
+      "remove": [
+        "making,"
+      ],
+      "add": [
+        "making"
+      ]
     },
     {
-      "add": "making"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 23,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "Words of Mormon 1:2": [
     {
-      "remove": "Christ,"
-    },
-    {
-      "add": "Christ"
+      "index": 10,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     }
   ],
   "Words of Mormon 1:3": [
     {
-      "remove": "written:"
+      "index": 10,
+      "remove": [
+        "written:"
+      ],
+      "add": [
+        "written;"
+      ]
     },
     {
-      "add": "written;"
+      "index": 13,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 33,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "which"
+      "index": 60,
+      "remove": [
+        "Prophets,"
+      ],
+      "add": [
+        "prophets,"
+      ]
     },
     {
-      "add": "whom"
+      "index": 62,
+      "remove": [
+        "Jacob,"
+      ],
+      "add": [
+        "Jacob"
+      ]
     },
     {
-      "remove": "Prophets,"
+      "index": 70,
+      "remove": [
+        "Benjamin;"
+      ],
+      "add": [
+        "Benjamin,"
+      ]
     },
     {
-      "add": "prophets,"
-    },
-    {
-      "remove": "Jacob,"
-    },
-    {
-      "add": "Jacob"
-    },
-    {
-      "remove": "Benjamin;"
-    },
-    {
-      "add": "Benjamin,"
-    },
-    {
-      "remove": "also,"
-    },
-    {
-      "add": "also"
+      "index": 72,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     }
   ],
   "Words of Mormon 1:4": [
     {
-      "remove": "day,"
+      "index": 48,
+      "remove": [
+        "day,",
+        "has"
+      ],
+      "add": [
+        "day",
+        "have"
+      ]
     },
     {
-      "add": "day"
+      "index": 51,
+      "remove": [
+        "fulfilled;"
+      ],
+      "add": [
+        "fulfilled,"
+      ]
     },
     {
-      "remove": "has"
+      "index": 59,
+      "remove": [
+        "day,"
+      ],
+      "add": [
+        "day"
+      ]
     },
     {
-      "add": "have"
-    },
-    {
-      "remove": "fulfilled;"
-    },
-    {
-      "add": "fulfilled,"
-    },
-    {
-      "remove": "day,"
-    },
-    {
-      "add": "day"
-    },
-    {
-      "remove": "pass;"
-    },
-    {
-      "add": "pass—"
+      "index": 64,
+      "remove": [
+        "pass;"
+      ],
+      "add": [
+        "pass—"
+      ]
     }
   ],
   "Words of Mormon 1:5": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
-    },
-    {
-      "remove": "a"
-    },
-    {
-      "add": "the"
+      "index": 28,
+      "remove": [
+        "a"
+      ],
+      "add": [
+        "the"
+      ]
     }
   ],
   "Words of Mormon 1:6": [
     {
-      "remove": "prophecyings"
-    },
-    {
-      "add": "prophesyings"
+      "index": 10,
+      "remove": [
+        "prophecyings"
+      ],
+      "add": [
+        "prophesyings"
+      ]
     }
   ],
   "Words of Mormon 1:7": [
     {
-      "remove": "spirit"
+      "index": 19,
+      "remove": [
+        "spirit"
+      ],
+      "add": [
+        "Spirit"
+      ]
     },
     {
-      "add": "Spirit"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 42,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "Words of Mormon 1:8": [
     {
-      "remove": "God,"
+      "index": 4,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "add": "God"
-    },
-    {
-      "remove": "God;"
-    },
-    {
-      "add": "God,"
+      "index": 19,
+      "remove": [
+        "God;"
+      ],
+      "add": [
+        "God,"
+      ]
     }
   ],
   "Words of Mormon 1:9": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 31,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Words of Mormon 1:10": [
     {
-      "remove": "generation,"
+      "index": 43,
+      "remove": [
+        "generation,"
+      ],
+      "add": [
+        "generation"
+      ]
     },
     {
-      "add": "generation"
-    },
-    {
-      "remove": "Benjamin;"
-    },
-    {
-      "add": "Benjamin."
+      "index": 49,
+      "remove": [
+        "Benjamin;"
+      ],
+      "add": [
+        "Benjamin."
+      ]
     }
   ],
   "Words of Mormon 1:11": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 11,
+      "remove": [
+        "generation,"
+      ],
+      "add": [
+        "generation"
+      ]
     },
     {
-      "remove": "generation,"
+      "index": 29,
+      "remove": [
+        "preserved,"
+      ],
+      "add": [
+        "preserved"
+      ]
     },
     {
-      "add": "generation"
+      "index": 41,
+      "remove": [
+        "preserved:"
+      ],
+      "add": [
+        "preserved;"
+      ]
     },
     {
-      "remove": "preserved,"
-    },
-    {
-      "add": "preserved"
-    },
-    {
-      "remove": "preserved:"
-    },
-    {
-      "add": "preserved;"
-    },
-    {
-      "remove": "brethren,"
-    },
-    {
-      "add": "brethren"
+      "index": 57,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     }
   ],
   "Words of Mormon 1:12": [
     {
-      "remove": "Benjamin:"
+      "index": 5,
+      "remove": [
+        "Benjamin:",
+        "He"
+      ],
+      "add": [
+        "Benjamin—",
+        "he"
+      ]
     },
     {
-      "add": "Benjamin—"
-    },
-    {
-      "remove": "He"
-    },
-    {
-      "add": "he"
-    },
-    {
-      "add": "of"
+      "index": 9,
+      "remove": [],
+      "add": [
+        "of"
+      ]
     }
   ],
   "Words of Mormon 1:13": [
     {
-      "remove": "also,"
+      "index": 5,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     },
     {
-      "add": "also"
-    },
-    {
-      "remove": "Laban;"
-    },
-    {
-      "add": "Laban."
+      "index": 54,
+      "remove": [
+        "Laban;"
+      ],
+      "add": [
+        "Laban."
+      ]
     }
   ],
   "Words of Mormon 1:14": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
-    },
-    {
-      "remove": "Lamanites,"
-    },
-    {
-      "add": "Lamanites"
+      "index": 33,
+      "remove": [
+        "Lamanites,"
+      ],
+      "add": [
+        "Lamanites"
+      ]
     }
   ],
   "Words of Mormon 1:16": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 31,
+      "remove": [
+        "contentions"
+      ],
+      "add": [
+        "contention"
+      ]
     },
     {
-      "remove": "contentions"
+      "index": 34,
+      "remove": [
+        "dissentions,"
+      ],
+      "add": [
+        "dissensions"
+      ]
     },
     {
-      "add": "contention"
+      "index": 52,
+      "remove": [
+        "Holy",
+        "Prophets",
+        "which"
+      ],
+      "add": [
+        "holy",
+        "prophets",
+        "who"
+      ]
     },
     {
-      "remove": "dissentions,"
-    },
-    {
-      "add": "dissensions"
-    },
-    {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "people:"
-    },
-    {
-      "add": "people—"
+      "index": 58,
+      "remove": [
+        "people:"
+      ],
+      "add": [
+        "people—"
+      ]
     }
   ],
   "Words of Mormon 1:17": [
     {
-      "remove": "for"
+      "index": 0,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "add": "For"
+      "index": 16,
+      "remove": [
+        "righteousness.",
+        "And"
+      ],
+      "add": [
+        "righteousness;",
+        "and"
+      ]
     },
     {
-      "remove": "righteousness."
+      "index": 25,
+      "remove": [
+        "land;"
+      ],
+      "add": [
+        "land,"
+      ]
     },
     {
-      "add": "righteousness;"
+      "index": 33,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "remove": "And"
+      "index": 44,
+      "remove": [
+        "sharpness,"
+      ],
+      "add": [
+        "sharpness"
+      ]
     },
     {
-      "add": "and"
-    },
-    {
-      "remove": "land;"
-    },
-    {
-      "add": "land,"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
-    },
-    {
-      "remove": "sharpness,"
-    },
-    {
-      "add": "sharpness"
-    },
-    {
-      "remove": "people;"
-    },
-    {
-      "add": "people—"
+      "index": 51,
+      "remove": [
+        "people;"
+      ],
+      "add": [
+        "people—"
+      ]
     }
   ],
   "Words of Mormon 1:18": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
-    },
-    {
-      "remove": "wherefore,"
-    },
-    {
-      "remove": "they"
+      "index": 28,
+      "remove": [
+        "wherefore,",
+        "they"
+      ],
+      "add": []
     }
   ]
 }

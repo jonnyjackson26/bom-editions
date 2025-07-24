@@ -1,481 +1,674 @@
 {
   "Omni 1:1": [
     {
-      "remove": "father"
+      "index": 12,
+      "remove": [
+        "father"
+      ],
+      "add": [
+        "father,"
+      ]
     },
     {
-      "add": "father,"
-    },
-    {
-      "remove": "genealogy;"
-    },
-    {
-      "add": "genealogy—"
+      "index": 25,
+      "remove": [
+        "genealogy;"
+      ],
+      "add": [
+        "genealogy—"
+      ]
     }
   ],
   "Omni 1:2": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
+      "index": 16,
+      "remove": [
+        "sword,"
+      ],
+      "add": [
+        "sword"
+      ]
     },
     {
-      "remove": "sword,"
+      "index": 35,
+      "remove": [
+        "I,"
+      ],
+      "add": [
+        "I"
+      ]
     },
     {
-      "add": "sword"
+      "index": 37,
+      "remove": [
+        "myself,"
+      ],
+      "add": [
+        "myself"
+      ]
     },
     {
-      "remove": "I,"
+      "index": 41,
+      "remove": [
+        "man;"
+      ],
+      "add": [
+        "man,"
+      ]
     },
     {
-      "add": "I"
-    },
-    {
-      "remove": "myself,"
-    },
-    {
-      "add": "myself"
-    },
-    {
-      "remove": "man;"
-    },
-    {
-      "add": "man,"
-    },
-    {
-      "remove": "Lord,"
-    },
-    {
-      "add": "Lord"
+      "index": 54,
+      "remove": [
+        "Lord,"
+      ],
+      "add": [
+        "Lord"
+      ]
     }
   ],
   "Omni 1:3": [
     {
-      "remove": "bloodshed.—"
-    },
-    {
-      "add": "bloodshed."
+      "index": 32,
+      "remove": [
+        "bloodshed.—"
+      ],
+      "add": [
+        "bloodshed."
+      ]
     }
   ],
   "Omni 1:5": [
     {
-      "remove": "destroyed:"
-    },
-    {
-      "add": "destroyed."
+      "index": 23,
+      "remove": [
+        "destroyed:"
+      ],
+      "add": [
+        "destroyed."
+      ]
     }
   ],
   "Omni 1:6": [
     {
-      "remove": "for"
+      "index": 0,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "add": "For"
+      "index": 16,
+      "remove": [
+        "Jerusalem,"
+      ],
+      "add": [
+        "Jerusalem"
+      ]
     },
     {
-      "remove": "Jerusalem,"
+      "index": 29,
+      "remove": [
+        "enemies;"
+      ],
+      "add": [
+        "enemies,"
+      ]
     },
     {
-      "add": "Jerusalem"
+      "index": 48,
+      "remove": [
+        "saying,",
+        "That",
+        "inasmuch"
+      ],
+      "add": [
+        "saying",
+        "that:",
+        "Inasmuch"
+      ]
     },
     {
-      "remove": "enemies;"
-    },
-    {
-      "add": "enemies,"
-    },
-    {
-      "remove": "saying,"
-    },
-    {
-      "add": "saying"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that:"
-    },
-    {
-      "remove": "inasmuch"
-    },
-    {
-      "add": "Inasmuch"
-    },
-    {
-      "remove": "commandments,"
-    },
-    {
-      "add": "commandments"
+      "index": 57,
+      "remove": [
+        "commandments,"
+      ],
+      "add": [
+        "commandments"
+      ]
     }
   ],
   "Omni 1:7": [
     {
-      "remove": "righteous,"
-    },
-    {
-      "add": "righteous"
+      "index": 14,
+      "remove": [
+        "righteous,"
+      ],
+      "add": [
+        "righteous"
+      ]
     }
   ],
   "Omni 1:9": [
     {
-      "remove": "brother:"
+      "index": 15,
+      "remove": [
+        "brother:"
+      ],
+      "add": [
+        "brother;"
+      ]
     },
     {
-      "add": "brother;"
-    },
-    {
-      "remove": "records:"
-    },
-    {
-      "add": "records,"
+      "index": 53,
+      "remove": [
+        "records:"
+      ],
+      "add": [
+        "records,"
+      ]
     }
   ],
   "Omni 1:10": [
     {
-      "remove": "I"
+      "index": 3,
+      "remove": [
+        "I"
+      ],
+      "add": []
     },
     {
-      "remove": "mine"
+      "index": 32,
+      "remove": [
+        "mine"
+      ],
+      "add": [
+        "my"
+      ]
     },
     {
-      "add": "my"
-    },
-    {
-      "remove": "Lamanites,"
-    },
-    {
-      "add": "Lamanites"
+      "index": 43,
+      "remove": [
+        "Lamanites,"
+      ],
+      "add": [
+        "Lamanites"
+      ]
     }
   ],
   "Omni 1:11": [
     {
-      "remove": "revelation,"
+      "index": 26,
+      "remove": [
+        "revelation,"
+      ],
+      "add": [
+        "revelation"
+      ]
     },
     {
-      "add": "revelation"
-    },
-    {
-      "remove": "sufficient,"
-    },
-    {
-      "add": "sufficient"
+      "index": 39,
+      "remove": [
+        "sufficient,"
+      ],
+      "add": [
+        "sufficient"
+      ]
     }
   ],
   "Omni 1:12": [
     {
-      "remove": "which"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 25,
+      "remove": [
+        "Zarahemla:"
+      ],
+      "add": [
+        "Zarahemla;"
+      ]
     },
     {
-      "remove": "Zarahemla:"
+      "index": 55,
+      "remove": [
+        "Lord,"
+      ],
+      "add": [
+        "Lord"
+      ]
     },
     {
-      "add": "Zarahemla;"
-    },
-    {
-      "remove": "Lord,"
-    },
-    {
-      "add": "Lord"
-    },
-    {
-      "remove": "wilderness."
-    },
-    {
-      "add": "wilderness—"
+      "index": 67,
+      "remove": [
+        "wilderness."
+      ],
+      "add": [
+        "wilderness—"
+      ]
     }
   ],
   "Omni 1:13": [
     {
-      "remove": "wilderness,"
-    },
-    {
-      "add": "wilderness"
+      "index": 67,
+      "remove": [
+        "wilderness,"
+      ],
+      "add": [
+        "wilderness"
+      ]
     }
   ],
   "Omni 1:14": [
     {
-      "remove": "which"
+      "index": 5,
+      "remove": [
+        "which",
+        "was"
+      ],
+      "add": [
+        "who",
+        "were"
+      ]
     },
     {
-      "remove": "was"
+      "index": 23,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "add": "were"
-    },
-    {
-      "remove": "also,"
-    },
-    {
-      "add": "also"
-    },
-    {
-      "remove": "that"
+      "index": 29,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Omni 1:15": [
     {
-      "remove": "Zarahemla,"
+      "index": 12,
+      "remove": [
+        "Zarahemla,"
+      ],
+      "add": [
+        "Zarahemla"
+      ]
     },
     {
-      "add": "Zarahemla"
-    },
-    {
-      "remove": "Jerusalem,"
-    },
-    {
-      "add": "Jerusalem"
+      "index": 16,
+      "remove": [
+        "Jerusalem,"
+      ],
+      "add": [
+        "Jerusalem"
+      ]
     }
   ],
   "Omni 1:16": [
     {
-      "remove": "journied"
+      "index": 2,
+      "remove": [
+        "journied"
+      ],
+      "add": [
+        "journeyed"
+      ]
     },
     {
-      "add": "journeyed"
+      "index": 7,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     },
     {
-      "remove": "was"
-    },
-    {
-      "add": "were"
-    },
-    {
-      "remove": "Lord,"
-    },
-    {
-      "add": "Lord"
+      "index": 14,
+      "remove": [
+        "Lord,"
+      ],
+      "add": [
+        "Lord"
+      ]
     }
   ],
   "Omni 1:17": [
     {
-      "remove": "exceeding"
+      "index": 11,
+      "remove": [
+        "exceeding"
+      ],
+      "add": [
+        "exceedingly"
+      ]
     },
     {
-      "add": "exceedingly"
+      "index": 45,
+      "remove": [
+        "them"
+      ],
+      "add": [
+        "them;"
+      ]
     },
     {
-      "remove": "them"
-    },
-    {
-      "add": "them;"
-    },
-    {
-      "remove": "not"
+      "index": 62,
+      "remove": [
+        "not"
+      ],
+      "add": []
     }
   ],
   "Omni 1:20": [
     {
-      "remove": "him,"
+      "index": 17,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "add": "him"
-    },
-    {
-      "remove": "engravings,"
-    },
-    {
-      "add": "engravings"
+      "index": 27,
+      "remove": [
+        "engravings,"
+      ],
+      "add": [
+        "engravings"
+      ]
     }
   ],
   "Omni 1:21": [
     {
-      "remove": "Moons."
-    },
-    {
-      "add": "moons."
+      "index": 33,
+      "remove": [
+        "Moons."
+      ],
+      "add": [
+        "moons."
+      ]
     }
   ],
   "Omni 1:22": [
     {
-      "remove": "Tower,"
+      "index": 17,
+      "remove": [
+        "Tower,"
+      ],
+      "add": [
+        "tower,"
+      ]
     },
     {
-      "add": "tower,"
+      "index": 37,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     },
     {
-      "remove": "them,"
-    },
-    {
-      "add": "them"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 43,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "Omni 1:24": [
     {
-      "remove": "seen"
+      "index": 4,
+      "remove": [
+        "seen"
+      ],
+      "add": [
+        "seen,"
+      ]
     },
     {
-      "add": "seen,"
+      "index": 13,
+      "remove": [
+        "war,"
+      ],
+      "add": [
+        "war"
+      ]
     },
     {
-      "remove": "war,"
-    },
-    {
-      "add": "war"
-    },
-    {
-      "remove": "bloodshed,"
-    },
-    {
-      "add": "bloodshed"
+      "index": 16,
+      "remove": [
+        "bloodshed,"
+      ],
+      "add": [
+        "bloodshed"
+      ]
     }
   ],
   "Omni 1:25": [
     {
-      "remove": "Angels,"
+      "index": 60,
+      "remove": [
+        "Angels,"
+      ],
+      "add": [
+        "angels,"
+      ]
     },
     {
-      "add": "angels,"
+      "index": 75,
+      "remove": [
+        "languages"
+      ],
+      "add": [
+        "languages,",
+        "and"
+      ]
     },
     {
-      "remove": "languages"
+      "index": 80,
+      "remove": [
+        "is",
+        "good:"
+      ],
+      "add": [
+        "are",
+        "good;"
+      ]
     },
     {
-      "add": "languages,"
+      "index": 88,
+      "remove": [
+        "good,"
+      ],
+      "add": [
+        "good"
+      ]
     },
     {
-      "add": "and"
+      "index": 94,
+      "remove": [
+        "Lord;"
+      ],
+      "add": [
+        "Lord:"
+      ]
     },
     {
-      "remove": "is"
+      "index": 99,
+      "remove": [
+        "evil,"
+      ],
+      "add": [
+        "evil"
+      ]
     },
     {
-      "add": "are"
-    },
-    {
-      "remove": "good:"
-    },
-    {
-      "add": "good;"
-    },
-    {
-      "remove": "good,"
-    },
-    {
-      "add": "good"
-    },
-    {
-      "remove": "Lord;"
-    },
-    {
-      "add": "Lord:"
-    },
-    {
-      "remove": "evil,"
-    },
-    {
-      "add": "evil"
-    },
-    {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 103,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "Omni 1:26": [
     {
-      "remove": "which"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "liveth,"
-    },
-    {
-      "add": "liveth"
+      "index": 60,
+      "remove": [
+        "liveth,"
+      ],
+      "add": [
+        "liveth"
+      ]
     }
   ],
   "Omni 1:27": [
     {
-      "remove": "now,"
+      "index": 1,
+      "remove": [
+        "now,"
+      ],
+      "add": [
+        "now"
+      ]
     },
     {
-      "add": "now"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 15,
+      "remove": [
+        "wilderness,"
+      ],
+      "add": [
+        "wilderness"
+      ]
     },
     {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "Nephi:"
+      ],
+      "add": [
+        "Nephi;"
+      ]
     },
     {
-      "remove": "wilderness,"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "wilderness"
-    },
-    {
-      "remove": "Nephi:"
-    },
-    {
-      "add": "Nephi;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "inheritance;"
-    },
-    {
-      "add": "inheritance."
+      "index": 38,
+      "remove": [
+        "inheritance;"
+      ],
+      "add": [
+        "inheritance."
+      ]
     }
   ],
   "Omni 1:28": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
+      "index": 14,
+      "remove": [
+        "a"
+      ],
+      "add": []
     },
     {
-      "remove": "a"
-    },
-    {
-      "remove": "wherefore,"
-    },
-    {
-      "add": "wherefore"
+      "index": 21,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "wherefore"
+      ]
     }
   ],
   "Omni 1:29": [
     {
-      "remove": "others,"
-    },
-    {
-      "add": "others"
+      "index": 9,
+      "remove": [
+        "others,"
+      ],
+      "add": [
+        "others"
+      ]
     }
   ],
   "Omni 1:30": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "lay"
-    },
-    {
-      "add": "lie"
+      "index": 24,
+      "remove": [
+        "lay"
+      ],
+      "add": [
+        "lie"
+      ]
     }
   ]
 }

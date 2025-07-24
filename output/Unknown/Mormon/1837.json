@@ -1,1676 +1,2295 @@
 {
   "Mormon 1:1": [
     {
-      "remove": "Book"
+      "index": 21,
+      "remove": [
+        "Book"
+      ],
+      "add": [
+        "book"
+      ]
     },
     {
-      "add": "book"
-    },
-    {
-      "remove": "Mormon.—"
-    },
-    {
-      "add": "Mormon."
+      "index": 23,
+      "remove": [
+        "Mormon.—"
+      ],
+      "add": [
+        "Mormon."
+      ]
     }
   ],
   "Mormon 1:2": [
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
+      "index": 44,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "Mormon 1:3": [
     {
-      "remove": "of"
+      "index": 36,
+      "remove": [
+        "of"
+      ],
+      "add": []
     },
     {
-      "remove": "people."
-    },
-    {
-      "add": "people.—"
+      "index": 60,
+      "remove": [
+        "people."
+      ],
+      "add": [
+        "people.—"
+      ]
     }
   ],
   "Mormon 1:4": [
     {
-      "remove": "upon"
-    },
-    {
-      "add": "on"
+      "index": 27,
+      "remove": [
+        "upon"
+      ],
+      "add": [
+        "on"
+      ]
     }
   ],
   "Mormon 1:6": [
     {
-      "remove": "Zarahemla:"
-    },
-    {
-      "add": "Zarahemla;"
+      "index": 25,
+      "remove": [
+        "Zarahemla:"
+      ],
+      "add": [
+        "Zarahemla;"
+      ]
     }
   ],
   "Mormon 1:8": [
     {
-      "remove": "which"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Zoramites:"
-    },
-    {
-      "add": "Zoramites;"
-    },
-    {
-      "remove": "and"
-    },
-    {
-      "add": "ahd"
+      "index": 30,
+      "remove": [
+        "Zoramites:",
+        "and"
+      ],
+      "add": [
+        "Zoramites;",
+        "ahd"
+      ]
     }
   ],
   "Mormon 1:10": [
     {
-      "remove": "them,"
-    },
-    {
-      "add": "them"
+      "index": 12,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     }
   ],
   "Mormon 1:12": [
     {
-      "remove": "were"
+      "index": 32,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     },
     {
-      "add": "was"
-    },
-    {
-      "remove": "shed."
-    },
-    {
-      "add": "shed.—"
+      "index": 35,
+      "remove": [
+        "shed."
+      ],
+      "add": [
+        "shed.—"
+      ]
     }
   ],
   "Mormon 1:15": [
     {
-      "remove": "therfore"
-    },
-    {
-      "add": "therefore"
+      "index": 14,
+      "remove": [
+        "therfore"
+      ],
+      "add": [
+        "therefore"
+      ]
     }
   ],
   "Mormon 1:16": [
     {
-      "remove": "were"
+      "index": 16,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     },
     {
-      "add": "was"
-    },
-    {
-      "remove": "them:"
-    },
-    {
-      "add": "them;"
+      "index": 23,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     }
   ],
   "Mormon 1:17": [
     {
-      "remove": "were"
+      "index": 8,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     },
     {
-      "add": "was"
-    },
-    {
-      "add": "to"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "I"
-    },
-    {
-      "remove": "should"
+      "index": 10,
+      "remove": [
+        "that",
+        "I",
+        "should"
+      ],
+      "add": [
+        "to"
+      ]
     }
   ],
   "Mormon 1:18": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 1:19": [
     {
-      "remove": "Lamanite.—"
-    },
-    {
-      "add": "Lamanite."
+      "index": 43,
+      "remove": [
+        "Lamanite.—"
+      ],
+      "add": [
+        "Lamanite."
+      ]
     }
   ],
   "Mormon 2:1": [
     {
-      "remove": "armies."
-    },
-    {
-      "add": "armies.—"
+      "index": 50,
+      "remove": [
+        "armies."
+      ],
+      "add": [
+        "armies.—"
+      ]
     }
   ],
   "Mormon 2:2": [
     {
-      "remove": "year,"
-    },
-    {
-      "add": "year"
+      "index": 9,
+      "remove": [
+        "year,"
+      ],
+      "add": [
+        "year"
+      ]
     }
   ],
   "Mormon 2:4": [
     {
-      "remove": "Angelah,"
+      "index": 13,
+      "remove": [
+        "Angelah,"
+      ],
+      "add": [
+        "Angola,"
+      ]
     },
     {
-      "add": "Angola,"
-    },
-    {
-      "remove": "Lamanites."
-    },
-    {
-      "add": "Lamanites.—"
+      "index": 30,
+      "remove": [
+        "Lamanites."
+      ],
+      "add": [
+        "Lamanites.—"
+      ]
     }
   ],
   "Mormon 2:6": [
     {
-      "remove": "forth,"
-    },
-    {
-      "add": "forth"
+      "index": 3,
+      "remove": [
+        "forth,"
+      ],
+      "add": [
+        "forth"
+      ]
     }
   ],
   "Mormon 2:9": [
     {
-      "remove": "him,"
+      "index": 29,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "add": "him"
+      "index": 34,
+      "remove": [
+        "thousand."
+      ],
+      "add": [
+        "thousand.—"
+      ]
     },
     {
-      "remove": "thousand."
-    },
-    {
-      "add": "thousand.—"
-    },
-    {
-      "remove": "done,"
-    },
-    {
-      "add": "done"
+      "index": 57,
+      "remove": [
+        "done,"
+      ],
+      "add": [
+        "done"
+      ]
     }
   ],
   "Mormon 2:10": [
     {
-      "remove": "prophet:"
+      "index": 26,
+      "remove": [
+        "prophet:"
+      ],
+      "add": [
+        "prophet;"
+      ]
     },
     {
-      "add": "prophet;"
-    },
-    {
-      "remove": "rumderers,"
-    },
-    {
-      "add": "murderers,"
+      "index": 46,
+      "remove": [
+        "rumderers,"
+      ],
+      "add": [
+        "murderers,"
+      ]
     }
   ],
   "Mormon 2:12": [
     {
-      "remove": "sorrowing"
+      "index": 17,
+      "remove": [
+        "sorrowing"
+      ],
+      "add": [
+        "sorrow"
+      ]
     },
     {
-      "add": "sorrow"
-    },
-    {
-      "remove": "me:"
-    },
-    {
-      "add": "me,"
+      "index": 28,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me,"
+      ]
     }
   ],
   "Mormon 2:15": [
     {
-      "remove": "spiritually:"
+      "index": 28,
+      "remove": [
+        "spiritually:"
+      ],
+      "add": [
+        "spiritually,"
+      ]
     },
     {
-      "add": "spiritually,"
+      "index": 32,
+      "remove": [
+        "thousands"
+      ],
+      "add": [
+        "thoudands"
+      ]
     },
     {
-      "remove": "thousands"
-    },
-    {
-      "add": "thoudands"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
+      "index": 42,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     }
   ],
   "Mormon 2:16": [
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
+      "index": 39,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     }
   ],
   "Mormon 2:18": [
     {
-      "remove": "abominations:"
-    },
-    {
-      "add": "abominations,"
+      "index": 34,
+      "remove": [
+        "abominations:"
+      ],
+      "add": [
+        "abominations,"
+      ]
     }
   ],
   "Mormon 2:19": [
     {
-      "remove": "wickedness:"
-    },
-    {
-      "add": "wickedness,"
+      "index": 7,
+      "remove": [
+        "wickedness:"
+      ],
+      "add": [
+        "wickedness,"
+      ]
     }
   ],
   "Mormon 2:23": [
     {
-      "remove": "houses,"
-    },
-    {
-      "add": "houses"
+      "index": 37,
+      "remove": [
+        "houses,"
+      ],
+      "add": [
+        "houses"
+      ]
     }
   ],
   "Mormon 2:26": [
     {
-      "remove": "us:"
-    },
-    {
-      "add": "us;"
+      "index": 35,
+      "remove": [
+        "us:"
+      ],
+      "add": [
+        "us;"
+      ]
     }
   ],
   "Mormon 2:27": [
     {
-      "remove": "abominations."
-    },
-    {
-      "add": "abominations.—"
+      "index": 20,
+      "remove": [
+        "abominations."
+      ],
+      "add": [
+        "abominations.—"
+      ]
     }
   ],
   "Mormon 2:28": [
     {
-      "remove": "the"
+      "index": 33,
+      "remove": [
+        "the"
+      ],
+      "add": []
     }
   ],
   "Mormon 3:2": [
     {
-      "remove": "Cry"
-    },
-    {
-      "add": "cry"
+      "index": 12,
+      "remove": [
+        "Cry"
+      ],
+      "add": [
+        "cry"
+      ]
     }
   ],
   "Mormon 3:3": [
     {
-      "remove": "realise"
-    },
-    {
-      "add": "realize"
+      "index": 16,
+      "remove": [
+        "realise"
+      ],
+      "add": [
+        "realize"
+      ]
     }
   ],
   "Mormon 3:7": [
     {
-      "remove": "us."
-    },
-    {
-      "add": "us;"
+      "index": 28,
+      "remove": [
+        "us."
+      ],
+      "add": [
+        "us;"
+      ]
     }
   ],
   "Mormon 3:8": [
     {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 34,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "Mormon 3:9": [
     {
-      "remove": "heavens"
+      "index": 28,
+      "remove": [
+        "heavens"
+      ],
+      "add": [
+        "heavens,"
+      ]
     },
     {
-      "add": "heavens,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 40,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 3:14": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 47,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "Mormon 3:15": [
     {
-      "remove": "Vengeance"
+      "index": 0,
+      "remove": [
+        "Vengeance"
+      ],
+      "add": [
+        "vengeance"
+      ]
     },
     {
-      "add": "vengeance"
-    },
-    {
-      "remove": "that"
+      "index": 14,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Mormon 3:18": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 3:19": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 3:20": [
     {
-      "remove": "judgement"
+      "index": 34,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "belong"
-    },
-    {
-      "add": "belongs"
+      "index": 41,
+      "remove": [
+        "which",
+        "belong"
+      ],
+      "add": [
+        "who",
+        "belongs"
+      ]
     }
   ],
   "Mormon 3:21": [
     {
-      "remove": "Gospel"
+      "index": 7,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     },
     {
-      "add": "gospel"
+      "index": 16,
+      "remove": [
+        "you;"
+      ],
+      "add": [
+        "you:"
+      ]
     },
     {
-      "remove": "you;"
+      "index": 33,
+      "remove": [
+        "that",
+        "which"
+      ],
+      "add": [
+        "him",
+        "whom"
+      ]
     },
     {
-      "add": "you:"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "him"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "Jesus,"
-    },
-    {
-      "add": "Jesus"
+      "index": 40,
+      "remove": [
+        "Jesus,"
+      ],
+      "add": [
+        "Jesus"
+      ]
     }
   ],
   "Mormon 3:22": [
     {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 21,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "Mormon 4:2": [
     {
-      "remove": "Lamanites"
-    },
-    {
-      "add": "Lamanttes"
+      "index": 31,
+      "remove": [
+        "Lamanites"
+      ],
+      "add": [
+        "Lamanttes"
+      ]
     }
   ],
   "Mormon 4:4": [
     {
-      "remove": "that"
+      "index": 4,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "smitten:"
+      "index": 20,
+      "remove": [
+        "smitten:"
+      ],
+      "add": [
+        "smitten;"
+      ]
     },
     {
-      "add": "smitten;"
-    },
-    {
-      "remove": "that;"
-    },
-    {
-      "add": "that,"
+      "index": 26,
+      "remove": [
+        "that;"
+      ],
+      "add": [
+        "that,"
+      ]
     }
   ],
   "Mormon 4:5": [
     {
-      "remove": "judgements"
+      "index": 3,
+      "remove": [
+        "judgements"
+      ],
+      "add": [
+        "judgments"
+      ]
     },
     {
-      "add": "judgments"
+      "index": 27,
+      "remove": [
+        "stirreth"
+      ],
+      "add": [
+        "stir"
+      ]
     },
     {
-      "remove": "stirreth"
-    },
-    {
-      "add": "stir"
-    },
-    {
-      "remove": "bloodshed.—"
-    },
-    {
-      "add": "bloodshed."
+      "index": 37,
+      "remove": [
+        "bloodshed.—"
+      ],
+      "add": [
+        "bloodshed."
+      ]
     }
   ],
   "Mormon 4:10": [
     {
-      "remove": "which"
+      "index": 36,
+      "remove": [
+        "which"
+      ],
+      "add": []
     }
   ],
   "Mormon 4:11": [
     {
-      "remove": "people,"
-    },
-    {
-      "add": "people;"
+      "index": 30,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people;"
+      ]
     }
   ],
   "Mormon 4:14": [
     {
-      "remove": "of"
+      "index": 24,
+      "remove": [
+        "of"
+      ],
+      "add": [
+        "both"
+      ]
     },
     {
-      "add": "both"
-    },
-    {
-      "remove": "of"
+      "index": 27,
+      "remove": [
+        "of"
+      ],
+      "add": []
     }
   ],
   "Mormon 4:17": [
     {
-      "remove": "numbered,"
-    },
-    {
-      "add": "numbered"
+      "index": 19,
+      "remove": [
+        "numbered,"
+      ],
+      "add": [
+        "numbered"
+      ]
     }
   ],
   "Mormon 4:20": [
     {
-      "remove": "Beaz;"
-    },
-    {
-      "add": "Boaz;"
+      "index": 13,
+      "remove": [
+        "Beaz;"
+      ],
+      "add": [
+        "Boaz;"
+      ]
     }
   ],
   "Mormon 5:1": [
     {
-      "remove": "That"
+      "index": 23,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "armies:"
-    },
-    {
-      "add": "armies;"
+      "index": 38,
+      "remove": [
+        "armies:"
+      ],
+      "add": [
+        "armies;"
+      ]
     }
   ],
   "Mormon 5:2": [
     {
-      "remove": "judgements"
+      "index": 10,
+      "remove": [
+        "judgements"
+      ],
+      "add": [
+        "judgments"
+      ]
     },
     {
-      "add": "judgments"
+      "index": 18,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     },
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them;"
-    },
-    {
-      "remove": "had"
+      "index": 38,
+      "remove": [
+        "had"
+      ],
+      "add": []
     }
   ],
   "Mormon 5:7": [
     {
-      "remove": "they"
+      "index": 13,
+      "remove": [
+        "they"
+      ],
+      "add": [
+        "those"
+      ]
     },
     {
-      "add": "those"
+      "index": 16,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     },
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "add": "those"
+      "index": 24,
+      "remove": [
+        "they"
+      ],
+      "add": [
+        "those"
+      ]
     }
   ],
   "Mormon 5:8": [
     {
-      "remove": "I,"
-    },
-    {
-      "add": "I"
+      "index": 34,
+      "remove": [
+        "I,"
+      ],
+      "add": [
+        "I"
+      ]
     }
   ],
   "Mormon 5:10": [
     {
-      "remove": "which"
+      "index": 14,
+      "remove": [
+        "which",
+        "hath"
+      ],
+      "add": [
+        "who",
+        "have"
+      ]
     },
     {
-      "remove": "hath"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "come:"
-    },
-    {
-      "add": "come."
+      "index": 30,
+      "remove": [
+        "come:"
+      ],
+      "add": [
+        "come."
+      ]
     }
   ],
   "Mormon 5:14": [
     {
-      "remove": "go:"
+      "index": 17,
+      "remove": [
+        "go:"
+      ],
+      "add": [
+        "go;"
+      ]
     },
     {
-      "add": "go;"
-    },
-    {
-      "remove": "the"
+      "index": 50,
+      "remove": [
+        "the"
+      ],
+      "add": []
     }
   ],
   "Mormon 5:15": [
     {
-      "remove": "Gentiles:"
+      "index": 22,
+      "remove": [
+        "Gentiles:"
+      ],
+      "add": [
+        "Gentiles;"
+      ]
     },
     {
-      "add": "Gentiles;"
-    },
-    {
-      "remove": "idolatry:"
-    },
-    {
-      "add": "idolatry."
+      "index": 67,
+      "remove": [
+        "idolatry:"
+      ],
+      "add": [
+        "idolatry."
+      ]
     }
   ],
   "Mormon 5:19": [
     {
-      "remove": "blessing,"
+      "index": 7,
+      "remove": [
+        "blessing,"
+      ],
+      "add": [
+        "blessings,"
+      ]
     },
     {
-      "add": "blessings,"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "land.—"
-    },
-    {
-      "add": "land."
+      "index": 23,
+      "remove": [
+        "land.—"
+      ],
+      "add": [
+        "land."
+      ]
     }
   ],
   "Mormon 5:20": [
     {
-      "remove": "that"
+      "index": 19,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Mormon 5:21": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 12,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Mormon 5:22": [
     {
-      "remove": "ways?"
-    },
-    {
-      "add": "ways!"
+      "index": 23,
+      "remove": [
+        "ways?"
+      ],
+      "add": [
+        "ways!"
+      ]
     }
   ],
   "Mormon 6:2": [
     {
-      "remove": "I,"
+      "index": 1,
+      "remove": [
+        "I,"
+      ],
+      "add": [
+        "I"
+      ]
     },
     {
-      "add": "I"
+      "index": 33,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     },
     {
-      "remove": "Camorah,"
-    },
-    {
-      "add": "Cumorah,"
-    },
-    {
-      "remove": "Camorah,"
-    },
-    {
-      "add": "Cumorah,"
+      "index": 40,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     }
   ],
   "Mormon 6:4": [
     {
-      "remove": "Camorah,"
+      "index": 14,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     },
     {
-      "add": "Cumorah,"
-    },
-    {
-      "remove": "Camorah;"
-    },
-    {
-      "add": "Cumorah;"
+      "index": 25,
+      "remove": [
+        "Camorah;"
+      ],
+      "add": [
+        "Cumorah;"
+      ]
     }
   ],
   "Mormon 6:5": [
     {
-      "remove": "Camorah."
-    },
-    {
-      "add": "Cumorah."
+      "index": 25,
+      "remove": [
+        "Camorah."
+      ],
+      "add": [
+        "Cumorah."
+      ]
     }
   ],
   "Mormon 6:6": [
     {
-      "remove": "Camorah,"
+      "index": 20,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     },
     {
-      "add": "Cumorah,"
-    },
-    {
-      "remove": "Camorah,"
-    },
-    {
-      "add": "Cumorah,"
+      "index": 98,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     }
   ],
   "Mormon 6:7": [
     {
-      "remove": "a"
+      "index": 22,
+      "remove": [
+        "a"
+      ],
+      "add": []
     }
   ],
   "Mormon 6:8": [
     {
-      "remove": "came"
-    },
-    {
-      "add": "come"
+      "index": 7,
+      "remove": [
+        "came"
+      ],
+      "add": [
+        "come"
+      ]
     }
   ],
   "Mormon 6:10": [
     {
-      "remove": "which"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "midst;"
-    },
-    {
-      "add": "midst:"
+      "index": 26,
+      "remove": [
+        "midst;"
+      ],
+      "add": [
+        "midst:"
+      ]
     }
   ],
   "Mormon 6:11": [
     {
-      "remove": "Camorah,"
+      "index": 56,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     },
     {
-      "add": "Cumorah,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 63,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 6:12": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 6:15": [
     {
-      "remove": "which"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 33,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 41,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 51,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 6:16": [
     {
-      "remove": "people:"
-    },
-    {
-      "add": "people,"
-    },
-    {
-      "remove": "And"
-    },
-    {
-      "add": "and"
+      "index": 13,
+      "remove": [
+        "people:",
+        "And"
+      ],
+      "add": [
+        "people,",
+        "and"
+      ]
     }
   ],
   "Mormon 6:21": [
     {
-      "remove": "judgement"
+      "index": 33,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
+      "index": 43,
+      "remove": [
+        "works:"
+      ],
+      "add": [
+        "works;"
+      ]
     },
     {
-      "remove": "works:"
-    },
-    {
-      "add": "works;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 60,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 7:1": [
     {
-      "remove": "which"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 51,
+      "remove": [
+        "this",
+        "is"
+      ],
+      "add": [
+        "these",
+        "are"
+      ]
     },
     {
-      "remove": "this"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "these"
-    },
-    {
-      "add": "are"
-    },
-    {
-      "remove": "speak:"
-    },
-    {
-      "add": "speak,"
+      "index": 57,
+      "remove": [
+        "speak:"
+      ],
+      "add": [
+        "speak,"
+      ]
     }
   ],
   "Mormon 7:2": [
     {
-      "remove": "Know"
-    },
-    {
-      "add": "know"
+      "index": 0,
+      "remove": [
+        "Know"
+      ],
+      "add": [
+        "know"
+      ]
     }
   ],
   "Mormon 7:6": [
     {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 19,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "Mormon 7:7": [
     {
-      "remove": "judgement"
+      "index": 21,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
+      "index": 27,
+      "remove": [
+        "them"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "remove": "them"
-    },
-    {
-      "add": "him"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 59,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "Mormon 7:8": [
     {
-      "remove": "Gospel"
-    },
-    {
-      "add": "gospel"
+      "index": 15,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     }
   ],
   "Mormon 7:9": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 37,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "Mormon 7:10": [
     {
-      "remove": "judgement."
-    },
-    {
-      "add": "judgment."
+      "index": 74,
+      "remove": [
+        "judgement."
+      ],
+      "add": [
+        "judgment."
+      ]
     }
   ],
   "Mormon 8:1": [
     {
-      "remove": "father"
-    },
-    {
-      "add": "Father"
+      "index": 9,
+      "remove": [
+        "father"
+      ],
+      "add": [
+        "Father"
+      ]
     }
   ],
   "Mormon 8:2": [
     {
-      "remove": "Camorah,"
+      "index": 14,
+      "remove": [
+        "Camorah,"
+      ],
+      "add": [
+        "Cumorah,"
+      ]
     },
     {
-      "add": "Cumorah,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 8:3": [
     {
-      "remove": "I"
-    },
-    {
-      "remove": "remaineth"
-    },
-    {
-      "add": "remain"
+      "index": 11,
+      "remove": [
+        "I",
+        "remaineth"
+      ],
+      "add": [
+        "remain"
+      ]
     }
   ],
   "Mormon 8:4": [
     {
-      "remove": "earth:"
-    },
-    {
-      "add": "earth,"
+      "index": 11,
+      "remove": [
+        "earth:"
+      ],
+      "add": [
+        "earth,"
+      ]
     }
   ],
   "Mormon 8:5": [
     {
-      "remove": "not."
+      "index": 31,
+      "remove": [
+        "not.",
+        "Friends"
+      ],
+      "add": [
+        "not;",
+        "and",
+        "ore"
+      ]
     },
     {
-      "add": "not;"
+      "index": 39,
+      "remove": [
+        "alone:"
+      ],
+      "add": [
+        "alone;"
+      ]
     },
     {
-      "remove": "Friends"
-    },
-    {
-      "add": "and"
-    },
-    {
-      "add": "ore"
-    },
-    {
-      "remove": "alone:"
-    },
-    {
-      "add": "alone;"
-    },
-    {
-      "remove": "that"
+      "index": 63,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Mormon 8:7": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 35,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "Mormon 8:9": [
     {
-      "add": "the"
+      "index": 16,
+      "remove": [],
+      "add": [
+        "the"
+      ]
     }
   ],
   "Mormon 8:10": [
     {
-      "remove": "which"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "were"
-    },
-    {
-      "add": "was"
+      "index": 29,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     }
   ],
   "Mormon 8:12": [
     {
-      "remove": "Behold;"
-    },
-    {
-      "add": "Behold,"
+      "index": 27,
+      "remove": [
+        "Behold;"
+      ],
+      "add": [
+        "Behold,"
+      ]
     }
   ],
   "Mormon 8:14": [
     {
-      "remove": "which"
+      "index": 5,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 31,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "Mormon 8:15": [
     {
-      "remove": "God:"
+      "index": 16,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God;"
+      ]
     },
     {
-      "add": "God;"
-    },
-    {
-      "remove": "singled"
-    },
-    {
-      "add": "single"
+      "index": 28,
+      "remove": [
+        "singled"
+      ],
+      "add": [
+        "single"
+      ]
     }
   ],
   "Mormon 8:16": [
     {
-      "remove": "light:"
+      "index": 10,
+      "remove": [
+        "light:"
+      ],
+      "add": [
+        "light;"
+      ]
     },
     {
-      "add": "light;"
-    },
-    {
-      "remove": "God:"
-    },
-    {
-      "add": "God;"
+      "index": 61,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God;"
+      ]
     }
   ],
   "Mormon 8:18": [
     {
-      "remove": "Shew"
-    },
-    {
-      "add": "shew"
+      "index": 4,
+      "remove": [
+        "Shew"
+      ],
+      "add": [
+        "shew"
+      ]
     }
   ],
   "Mormon 8:19": [
     {
-      "remove": "again:"
-    },
-    {
-      "add": "again;"
+      "index": 11,
+      "remove": [
+        "again:"
+      ],
+      "add": [
+        "again;"
+      ]
     }
   ],
   "Mormon 8:20": [
     {
-      "remove": "Scripture"
+      "index": 3,
+      "remove": [
+        "Scripture",
+        "saith:",
+        "Man"
+      ],
+      "add": [
+        "scripture",
+        "says",
+        "man"
+      ]
     },
     {
-      "add": "scripture"
-    },
-    {
-      "remove": "saith:"
-    },
-    {
-      "remove": "Man"
-    },
-    {
-      "add": "says"
-    },
-    {
-      "add": "man"
-    },
-    {
-      "remove": "judge:"
-    },
-    {
-      "add": "judge;"
+      "index": 12,
+      "remove": [
+        "judge:"
+      ],
+      "add": [
+        "judge;"
+      ]
     }
   ],
   "Mormon 8:21": [
     {
-      "remove": "which"
+      "index": 23,
+      "remove": [
+        "which",
+        "is"
+      ],
+      "add": [
+        "who",
+        "are"
+      ]
     },
     {
-      "remove": "is"
+      "index": 32,
+      "remove": [
+        "We"
+      ],
+      "add": [
+        "we"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "add": "are"
-    },
-    {
-      "remove": "We"
-    },
-    {
-      "add": "we"
-    },
-    {
-      "remove": "fire:"
-    },
-    {
-      "add": "fire;"
+      "index": 70,
+      "remove": [
+        "fire:"
+      ],
+      "add": [
+        "fire;"
+      ]
     }
   ],
   "Mormon 8:23": [
     {
-      "remove": "Isaiah."
+      "index": 4,
+      "remove": [
+        "Isaiah."
+      ],
+      "add": [
+        "Isaiah.—"
+      ]
     },
     {
-      "add": "Isaiah.—"
+      "index": 16,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "remove": "That"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 24,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 8:24": [
     {
-      "remove": "the"
+      "index": 9,
+      "remove": [
+        "the"
+      ],
+      "add": []
     },
     {
-      "remove": "faith:"
-    },
-    {
-      "add": "faith;"
+      "index": 18,
+      "remove": [
+        "faith:"
+      ],
+      "add": [
+        "faith;"
+      ]
     }
   ],
   "Mormon 8:26": [
     {
-      "remove": "not"
+      "index": 4,
+      "remove": [
+        "not"
+      ],
+      "add": []
     },
     {
-      "remove": "They"
+      "index": 6,
+      "remove": [
+        "They"
+      ],
+      "add": [
+        "they"
+      ]
     },
     {
-      "add": "they"
-    },
-    {
-      "remove": "it:"
-    },
-    {
-      "add": "it;"
+      "index": 19,
+      "remove": [
+        "it:"
+      ],
+      "add": [
+        "it;"
+      ]
     }
   ],
   "Mormon 8:31": [
     {
-      "remove": "earth:"
+      "index": 18,
+      "remove": [
+        "earth:"
+      ],
+      "add": [
+        "earth;"
+      ]
     },
     {
-      "add": "earth;"
+      "index": 41,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Do"
-    },
-    {
-      "add": "do"
+      "index": 44,
+      "remove": [
+        "Do"
+      ],
+      "add": [
+        "do"
+      ]
     }
   ],
   "Mormon 8:32": [
     {
-      "remove": "Come"
-    },
-    {
-      "add": "come"
+      "index": 17,
+      "remove": [
+        "Come"
+      ],
+      "add": [
+        "come"
+      ]
     }
   ],
   "Mormon 8:33": [
     {
-      "remove": "wicked,"
-    },
-    {
-      "add": "wicked"
+      "index": 2,
+      "remove": [
+        "wicked,"
+      ],
+      "add": [
+        "wicked"
+      ]
     }
   ],
   "Mormon 8:34": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 9,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "Mormon 8:36": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 21,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 8:38": [
     {
-      "remove": "which"
+      "index": 7,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 35,
+      "remove": [
+        "Christ?"
+      ],
+      "add": [
+        "Christ?—"
+      ]
     },
     {
-      "remove": "Christ?"
+      "index": 38,
+      "remove": [
+        "ye"
+      ],
+      "add": [
+        "you"
+      ]
     },
     {
-      "add": "Christ?—"
-    },
-    {
-      "remove": "ye"
-    },
-    {
-      "add": "you"
-    },
-    {
-      "remove": "world?"
-    },
-    {
-      "add": "world."
+      "index": 62,
+      "remove": [
+        "world?"
+      ],
+      "add": [
+        "world."
+      ]
     }
   ],
   "Mormon 9:3": [
     {
-      "remove": "Being,"
+      "index": 43,
+      "remove": [
+        "Being,"
+      ],
+      "add": [
+        "being,"
+      ]
     },
     {
-      "add": "being,"
-    },
-    {
-      "remove": "your"
+      "index": 53,
+      "remove": [
+        "your"
+      ],
+      "add": []
     }
   ],
   "Mormon 9:6": [
     {
-      "remove": "fair,"
-    },
-    {
-      "add": "fair"
+      "index": 27,
+      "remove": [
+        "fair,"
+      ],
+      "add": [
+        "fair"
+      ]
     }
   ],
   "Mormon 9:7": [
     {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 21,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "Mormon 9:8": [
     {
-      "remove": "He"
+      "index": 5,
+      "remove": [
+        "He"
+      ],
+      "add": [
+        "he"
+      ]
     },
     {
-      "add": "he"
+      "index": 13,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     },
     {
-      "remove": "Gospel"
+      "index": 17,
+      "remove": [
+        "they",
+        "have"
+      ],
+      "add": [
+        "he",
+        "has"
+      ]
     },
     {
-      "add": "gospel"
+      "index": 22,
+      "remove": [
+        "Scriptures;"
+      ],
+      "add": [
+        "scriptures;"
+      ]
     },
     {
-      "remove": "they"
-    },
-    {
-      "remove": "have"
-    },
-    {
-      "add": "he"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "Scriptures;"
-    },
-    {
-      "add": "scriptures;"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "remove": "do"
-    },
-    {
-      "add": "he"
-    },
-    {
-      "add": "does"
+      "index": 25,
+      "remove": [
+        "they",
+        "do"
+      ],
+      "add": [
+        "he",
+        "does"
+      ]
     }
   ],
   "Mormon 9:9": [
     {
-      "remove": "forever:"
+      "index": 13,
+      "remove": [
+        "forever:"
+      ],
+      "add": [
+        "forever;"
+      ]
     },
     {
-      "add": "forever;"
-    },
-    {
-      "remove": "variableness,"
-    },
-    {
-      "add": "variableness"
+      "index": 20,
+      "remove": [
+        "variableness,"
+      ],
+      "add": [
+        "variableness"
+      ]
     }
   ],
   "Mormon 9:10": [
     {
-      "remove": "which"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 31,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 9:11": [
     {
-      "remove": "which"
+      "index": 32,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "is."
-    },
-    {
-      "add": "are."
+      "index": 45,
+      "remove": [
+        "is."
+      ],
+      "add": [
+        "are."
+      ]
     }
   ],
   "Mormon 9:12": [
     {
-      "remove": "Christ,"
-    },
-    {
-      "add": "Christ"
+      "index": 32,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     }
   ],
   "Mormon 9:14": [
     {
-      "remove": "judgement"
+      "index": 4,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
+      "index": 20,
+      "remove": [
+        "filthy,"
+      ],
+      "add": [
+        "filthy"
+      ]
     },
     {
-      "remove": "filthy,"
-    },
-    {
-      "add": "filthy"
-    },
-    {
-      "remove": "still:"
-    },
-    {
-      "add": "still;"
+      "index": 33,
+      "remove": [
+        "still:"
+      ],
+      "add": [
+        "still;"
+      ]
     }
   ],
   "Mormon 9:15": [
     {
-      "remove": "which"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 32,
+      "remove": [
+        "spoken?"
+      ],
+      "add": [
+        "spoken?—"
+      ]
     },
     {
-      "remove": "spoken?"
-    },
-    {
-      "add": "spoken?—"
-    },
-    {
-      "remove": "Nay;"
-    },
-    {
-      "add": "nay;"
+      "index": 43,
+      "remove": [
+        "Nay;"
+      ],
+      "add": [
+        "nay;"
+      ]
     }
   ],
   "Mormon 9:16": [
     {
-      "remove": "marvellous"
+      "index": 9,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
-    },
-    {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 19,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "Mormon 9:18": [
     {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 15,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "Mormon 9:19": [
     {
-      "remove": "was"
+      "index": 3,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     },
     {
-      "add": "were"
+      "index": 21,
+      "remove": [
+        "unchangeable"
+      ],
+      "add": [
+        "unchangable"
+      ]
     },
     {
-      "remove": "unchangeable"
+      "index": 29,
+      "remove": [
+        "He"
+      ],
+      "add": [
+        "he"
+      ]
     },
     {
-      "add": "unchangable"
-    },
-    {
-      "remove": "He"
-    },
-    {
-      "add": "he"
-    },
-    {
-      "remove": "not:"
-    },
-    {
-      "add": "not;"
+      "index": 31,
+      "remove": [
+        "not:"
+      ],
+      "add": [
+        "not;"
+      ]
     }
   ],
   "Mormon 9:21": [
     {
-      "remove": "That"
+      "index": 5,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
+      "index": 22,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     },
     {
-      "remove": "Christ,"
-    },
-    {
-      "add": "Christ"
-    },
-    {
-      "remove": "them:"
-    },
-    {
-      "add": "him;"
+      "index": 27,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "him;"
+      ]
     }
   ],
   "Mormon 9:22": [
     {
-      "remove": "which"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 29,
+      "remove": [
+        "Go"
+      ],
+      "add": [
+        "go"
+      ]
     },
     {
-      "remove": "Go"
-    },
-    {
-      "add": "go"
-    },
-    {
-      "remove": "Gospel"
-    },
-    {
-      "add": "gospel"
+      "index": 38,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     }
   ],
   "Mormon 9:24": [
     {
-      "remove": "believe:"
+      "index": 7,
+      "remove": [
+        "believe:",
+        "In"
+      ],
+      "add": [
+        "believe,",
+        "in"
+      ]
     },
     {
-      "add": "believe,"
+      "index": 15,
+      "remove": [
+        "Devils;"
+      ],
+      "add": [
+        "devils;"
+      ]
     },
     {
-      "remove": "In"
-    },
-    {
-      "add": "in"
-    },
-    {
-      "remove": "Devils;"
-    },
-    {
-      "add": "devils;"
-    },
-    {
-      "remove": "tongues;"
-    },
-    {
-      "add": "tongues"
+      "index": 21,
+      "remove": [
+        "tongues;"
+      ],
+      "add": [
+        "tongues"
+      ]
     }
   ],
   "Mormon 9:26": [
     {
-      "remove": "Lord?"
+      "index": 35,
+      "remove": [
+        "Lord?"
+      ],
+      "add": [
+        "Lord?—"
+      ]
     },
     {
-      "add": "Lord?—"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "add": "who"
+      "index": 46,
+      "remove": [
+        "that"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 9:27": [
     {
-      "remove": "him."
-    },
-    {
-      "add": "him.—"
+      "index": 65,
+      "remove": [
+        "him."
+      ],
+      "add": [
+        "him.—"
+      ]
     }
   ],
   "Mormon 9:29": [
     {
-      "remove": "out.—"
-    },
-    {
-      "add": "out."
+      "index": 59,
+      "remove": [
+        "out.—"
+      ],
+      "add": [
+        "out."
+      ]
     }
   ],
   "Mormon 9:30": [
     {
-      "remove": "dead:"
-    },
-    {
-      "add": "dead;"
+      "index": 11,
+      "remove": [
+        "dead:"
+      ],
+      "add": [
+        "dead;"
+      ]
     }
   ],
   "Mormon 9:31": [
     {
-      "remove": "imperfection;"
+      "index": 13,
+      "remove": [
+        "imperfection;"
+      ],
+      "add": [
+        "imperfection:"
+      ]
     },
     {
-      "add": "imperfection:"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "which"
+      "index": 45,
+      "remove": [
+        "that",
+        "which"
+      ],
+      "add": []
     }
   ],
   "Mormon 9:33": [
     {
-      "remove": "the"
+      "index": 13,
+      "remove": [
+        "the"
+      ],
+      "add": []
     },
     {
-      "remove": "the"
+      "index": 31,
+      "remove": [
+        "the"
+      ],
+      "add": []
     },
     {
-      "remove": "none"
-    },
-    {
-      "add": "no"
+      "index": 38,
+      "remove": [
+        "none"
+      ],
+      "add": [
+        "no"
+      ]
     }
   ],
   "Mormon 9:34": [
     {
-      "remove": "language;"
-    },
-    {
-      "remove": "and"
-    },
-    {
-      "remove": "because"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "none"
-    },
-    {
-      "remove": "other"
-    },
-    {
-      "remove": "people"
-    },
-    {
-      "remove": "knoweth"
-    },
-    {
-      "remove": "our"
+      "index": 18,
+      "remove": [
+        "language;",
+        "and",
+        "because",
+        "that",
+        "none",
+        "other",
+        "people",
+        "knoweth",
+        "our"
+      ],
+      "add": []
     }
   ],
   "Mormon 9:35": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 9:36": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Mormon 9:37": [
     {
-      "remove": "Christ."
-    },
-    {
-      "add": "Christ.—"
+      "index": 47,
+      "remove": [
+        "Christ."
+      ],
+      "add": [
+        "Christ.—"
+      ]
     }
   ]
 }

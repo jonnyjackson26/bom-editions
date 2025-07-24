@@ -1,4182 +1,5820 @@
 {
   "Jacob 1:1": [
     {
-      "remove": "away,"
-    },
-    {
-      "add": "away"
+      "index": 13,
+      "remove": [
+        "away,"
+      ],
+      "add": [
+        "away"
+      ]
     }
   ],
   "Jacob 1:2": [
     {
-      "remove": "plates,"
+      "index": 13,
+      "remove": [
+        "plates,"
+      ],
+      "add": [
+        "plates"
+      ]
     },
     {
-      "add": "plates"
-    },
-    {
-      "remove": "precious:"
-    },
-    {
-      "add": "precious;"
+      "index": 25,
+      "remove": [
+        "precious:"
+      ],
+      "add": [
+        "precious;"
+      ]
     }
   ],
   "Jacob 1:3": [
     {
-      "remove": "plates,"
-    },
-    {
-      "add": "plates"
+      "index": 22,
+      "remove": [
+        "plates,"
+      ],
+      "add": [
+        "plates"
+      ]
     }
   ],
   "Jacob 1:4": [
     {
-      "remove": "people:"
-    },
-    {
-      "add": "people."
+      "index": 45,
+      "remove": [
+        "people:"
+      ],
+      "add": [
+        "people."
+      ]
     }
   ],
   "Jacob 1:5": [
     {
-      "remove": "for"
-    },
-    {
-      "add": "For"
+      "index": 0,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     }
   ],
   "Jacob 1:6": [
     {
-      "remove": "Kingdom,"
-    },
-    {
-      "add": "kingdom,"
+      "index": 19,
+      "remove": [
+        "Kingdom,"
+      ],
+      "add": [
+        "kingdom,"
+      ]
     }
   ],
   "Jacob 1:7": [
     {
-      "remove": "Wherefore,"
+      "index": 0,
+      "remove": [
+        "Wherefore,"
+      ],
+      "add": [
+        "Wherefore"
+      ]
     },
     {
-      "add": "Wherefore"
+      "index": 2,
+      "remove": [
+        "laboured"
+      ],
+      "add": [
+        "labored"
+      ]
     },
     {
-      "remove": "laboured"
+      "index": 53,
+      "remove": [
+        "temptation,"
+      ],
+      "add": [
+        "temptation"
+      ]
     },
     {
-      "add": "labored"
-    },
-    {
-      "remove": "temptation,"
-    },
-    {
-      "add": "temptation"
-    },
-    {
-      "remove": "wilderness.—"
-    },
-    {
-      "add": "wilderness."
+      "index": 62,
+      "remove": [
+        "wilderness.—"
+      ],
+      "add": [
+        "wilderness."
+      ]
     }
   ],
   "Jacob 1:8": [
     {
-      "remove": "cross,"
-    },
-    {
-      "add": "cross"
+      "index": 36,
+      "remove": [
+        "cross,"
+      ],
+      "add": [
+        "cross"
+      ]
     }
   ],
   "Jacob 1:9": [
     {
-      "remove": "kings.—"
-    },
-    {
-      "add": "kings."
+      "index": 36,
+      "remove": [
+        "kings.—"
+      ],
+      "add": [
+        "kings."
+      ]
     }
   ],
   "Jacob 1:10": [
     {
-      "remove": "laboured"
+      "index": 25,
+      "remove": [
+        "laboured"
+      ],
+      "add": [
+        "labored"
+      ]
     },
     {
-      "add": "labored"
-    },
-    {
-      "remove": "welfare;"
-    },
-    {
-      "add": "welfare—"
+      "index": 32,
+      "remove": [
+        "welfare;"
+      ],
+      "add": [
+        "welfare—"
+      ]
     }
   ],
   "Jacob 1:11": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
+      "index": 17,
+      "remove": [
+        "stead,"
+      ],
+      "add": [
+        "stead"
+      ]
     },
     {
-      "remove": "stead,"
+      "index": 22,
+      "remove": [
+        "people",
+        "Second"
+      ],
+      "add": [
+        "people,",
+        "second"
+      ]
     },
     {
-      "add": "stead"
+      "index": 25,
+      "remove": [
+        "Third"
+      ],
+      "add": [
+        "third"
+      ]
     },
     {
-      "remove": "people"
-    },
-    {
-      "add": "people,"
-    },
-    {
-      "remove": "Second"
-    },
-    {
-      "add": "second"
-    },
-    {
-      "remove": "Third"
-    },
-    {
-      "add": "third"
-    },
-    {
-      "remove": "&c."
-    },
-    {
-      "add": "and"
-    },
-    {
-      "add": "so"
-    },
-    {
-      "add": "forth,"
+      "index": 27,
+      "remove": [
+        "&c."
+      ],
+      "add": [
+        "and",
+        "so",
+        "forth,"
+      ]
     }
   ],
   "Jacob 1:13": [
     {
-      "remove": "Lamanites,"
-    },
-    {
-      "add": "Lamanites"
+      "index": 6,
+      "remove": [
+        "Lamanites,"
+      ],
+      "add": [
+        "Lamanites"
+      ]
     }
   ],
   "Jacob 1:14": [
     {
-      "remove": "Lamanites."
+      "index": 16,
+      "remove": [
+        "Lamanites.",
+        "They"
+      ],
+      "add": [
+        "Lamanites"
+      ]
     },
     {
-      "add": "Lamanites"
+      "index": 27,
+      "remove": [
+        "they",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     },
     {
-      "remove": "They"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Nephi,"
-    },
-    {
-      "add": "Nephi"
+      "index": 32,
+      "remove": [
+        "Nephi,"
+      ],
+      "add": [
+        "Nephi"
+      ]
     }
   ],
   "Jacob 1:15": [
     {
-      "remove": "Old,"
+      "index": 38,
+      "remove": [
+        "Old,"
+      ],
+      "add": [
+        "old"
+      ]
     },
     {
-      "add": "old"
-    },
-    {
-      "remove": "son;"
-    },
-    {
-      "add": "son."
+      "index": 48,
+      "remove": [
+        "son;"
+      ],
+      "add": [
+        "son."
+      ]
     }
   ],
   "Jacob 1:16": [
     {
-      "remove": "yea,"
+      "index": 0,
+      "remove": [
+        "yea,"
+      ],
+      "add": [
+        "Yea,"
+      ]
     },
     {
-      "add": "Yea,"
-    },
-    {
-      "remove": "pride;"
-    },
-    {
-      "add": "pride."
+      "index": 19,
+      "remove": [
+        "pride;"
+      ],
+      "add": [
+        "pride."
+      ]
     }
   ],
   "Jacob 1:17": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore"
+      ]
     },
     {
-      "add": "Wherefore"
-    },
-    {
-      "remove": "firstly"
-    },
-    {
-      "add": "first"
+      "index": 16,
+      "remove": [
+        "firstly"
+      ],
+      "add": [
+        "first"
+      ]
     }
   ],
   "Jacob 1:18": [
     {
-      "remove": "Joseph,"
+      "index": 6,
+      "remove": [
+        "Joseph,"
+      ],
+      "add": [
+        "Joseph"
+      ]
     },
     {
-      "add": "Joseph"
-    },
-    {
-      "remove": "priests,"
-    },
-    {
-      "add": "priests"
+      "index": 10,
+      "remove": [
+        "priests,"
+      ],
+      "add": [
+        "priests"
+      ]
     }
   ],
   "Jacob 1:19": [
     {
-      "remove": "heads,"
+      "index": 23,
+      "remove": [
+        "heads,"
+      ],
+      "add": [
+        "heads"
+      ]
     },
     {
-      "add": "heads"
+      "index": 42,
+      "remove": [
+        "mights,"
+      ],
+      "add": [
+        "might"
+      ]
     },
     {
-      "remove": "mights,"
-    },
-    {
-      "add": "might"
-    },
-    {
-      "remove": "otherwise,"
-    },
-    {
-      "add": "otherwise"
+      "index": 51,
+      "remove": [
+        "otherwise,"
+      ],
+      "add": [
+        "otherwise"
+      ]
     }
   ],
   "Jacob 2:2": [
     {
-      "remove": "be"
+      "index": 2,
+      "remove": [
+        "be",
+        "loved"
+      ],
+      "add": [
+        "beloved"
+      ]
     },
     {
-      "remove": "loved"
+      "index": 40,
+      "remove": [
+        "day,"
+      ],
+      "add": [
+        "day"
+      ]
     },
     {
-      "add": "beloved"
-    },
-    {
-      "remove": "day,"
-    },
-    {
-      "add": "day"
-    },
-    {
-      "remove": "God;"
-    },
-    {
-      "add": "God."
+      "index": 50,
+      "remove": [
+        "God;"
+      ],
+      "add": [
+        "God."
+      ]
     }
   ],
   "Jacob 2:3": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 3,
+      "remove": [
+        "know,"
+      ],
+      "add": [
+        "know"
+      ]
     },
     {
-      "remove": "know,"
-    },
-    {
-      "add": "know"
-    },
-    {
-      "remove": "souls,"
-    },
-    {
-      "add": "souls"
+      "index": 34,
+      "remove": [
+        "souls,"
+      ],
+      "add": [
+        "souls"
+      ]
     }
   ],
   "Jacob 2:5": [
     {
-      "remove": "All-powerful"
+      "index": 14,
+      "remove": [
+        "All-powerful"
+      ],
+      "add": [
+        "all-powerful"
+      ]
     },
     {
-      "add": "all-powerful"
+      "index": 17,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     },
     {
-      "remove": "Heaven"
-    },
-    {
-      "add": "heaven"
-    },
-    {
-      "remove": "Earth,"
-    },
-    {
-      "add": "earth"
+      "index": 19,
+      "remove": [
+        "Earth,"
+      ],
+      "add": [
+        "earth"
+      ]
     }
   ],
   "Jacob 2:6": [
     {
-      "remove": "hearts;"
-    },
-    {
-      "add": "hearts."
+      "index": 29,
+      "remove": [
+        "hearts;"
+      ],
+      "add": [
+        "hearts."
+      ]
     }
   ],
   "Jacob 2:7": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and",
+        "also,"
+      ],
+      "add": [
+        "And",
+        "also"
+      ]
     },
     {
-      "add": "And"
+      "index": 13,
+      "remove": [
+        "speech,"
+      ],
+      "add": [
+        "speech"
+      ]
     },
     {
-      "remove": "also,"
+      "index": 27,
+      "remove": [
+        "exceeding",
+        "tender,"
+      ],
+      "add": [
+        "exceedingly",
+        "tender"
+      ]
     },
     {
-      "add": "also"
-    },
-    {
-      "remove": "speech,"
-    },
-    {
-      "add": "speech"
-    },
-    {
-      "remove": "exceeding"
-    },
-    {
-      "add": "exceedingly"
-    },
-    {
-      "remove": "tender,"
-    },
-    {
-      "add": "tender"
-    },
-    {
-      "remove": "chaste,"
-    },
-    {
-      "add": "chaste"
+      "index": 30,
+      "remove": [
+        "chaste,"
+      ],
+      "add": [
+        "chaste"
+      ]
     }
   ],
   "Jacob 2:8": [
     {
-      "remove": "and"
-    },
-    {
-      "add": "And"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     }
   ],
   "Jacob 2:9": [
     {
-      "remove": "soul,"
+      "index": 4,
+      "remove": [
+        "soul,"
+      ],
+      "add": [
+        "soul"
+      ]
     },
     {
-      "add": "soul"
+      "index": 9,
+      "remove": [
+        "constrained"
+      ],
+      "add": [
+        "constrained,"
+      ]
     },
     {
-      "remove": "constrained"
+      "index": 23,
+      "remove": [
+        "you,"
+      ],
+      "add": [
+        "you"
+      ]
     },
     {
-      "add": "constrained,"
+      "index": 34,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "you,"
+      "index": 47,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "you"
+      "index": 60,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
-    },
-    {
-      "remove": "souls,"
-    },
-    {
-      "add": "souls"
+      "index": 67,
+      "remove": [
+        "souls,"
+      ],
+      "add": [
+        "souls"
+      ]
     }
   ],
   "Jacob 2:10": [
     {
-      "remove": "commands"
-    },
-    {
-      "add": "commandments"
+      "index": 14,
+      "remove": [
+        "commands"
+      ],
+      "add": [
+        "commandments"
+      ]
     }
   ],
   "Jacob 2:11": [
     {
-      "remove": "truth,"
+      "index": 6,
+      "remove": [
+        "truth,"
+      ],
+      "add": [
+        "truth"
+      ]
     },
     {
-      "add": "truth"
+      "index": 30,
+      "remove": [
+        "saying,"
+      ],
+      "add": [
+        "saying:"
+      ]
     },
     {
-      "remove": "saying,"
-    },
-    {
-      "add": "saying:"
-    },
-    {
-      "remove": "thee,"
-    },
-    {
-      "add": "thee"
+      "index": 49,
+      "remove": [
+        "thee,"
+      ],
+      "add": [
+        "thee"
+      ]
     }
   ],
   "Jacob 2:12": [
     {
-      "remove": "began"
+      "index": 19,
+      "remove": [
+        "began"
+      ],
+      "add": [
+        "begun"
+      ]
     },
     {
-      "add": "begun"
+      "index": 28,
+      "remove": [],
+      "add": [
+        "for"
+      ]
     },
     {
-      "add": "for"
-    },
-    {
-      "remove": "you,"
-    },
-    {
-      "add": "you"
+      "index": 45,
+      "remove": [
+        "you,"
+      ],
+      "add": [
+        "you"
+      ]
     }
   ],
   "Jacob 2:13": [
     {
-      "remove": "Providence"
+      "index": 4,
+      "remove": [
+        "Providence"
+      ],
+      "add": [
+        "providence"
+      ]
     },
     {
-      "add": "providence"
+      "index": 19,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 31,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     },
     {
-      "remove": "brethren,"
+      "index": 45,
+      "remove": [
+        "necks,"
+      ],
+      "add": [
+        "necks"
+      ]
     },
     {
-      "add": "brethren"
+      "index": 48,
+      "remove": [
+        "heads,"
+      ],
+      "add": [
+        "heads"
+      ]
     },
     {
-      "remove": "necks,"
+      "index": 59,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     },
     {
-      "add": "necks"
+      "index": 61,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "heads,"
-    },
-    {
-      "add": "heads"
-    },
-    {
-      "remove": "brethren,"
-    },
-    {
-      "add": "brethren"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "then"
-    },
-    {
-      "add": "than"
+      "index": 68,
+      "remove": [
+        "then"
+      ],
+      "add": [
+        "than"
+      ]
     }
   ],
   "Jacob 2:14": [
     {
-      "remove": "now"
+      "index": 1,
+      "remove": [
+        "now"
+      ],
+      "add": [
+        "now,"
+      ]
     },
     {
-      "add": "now,"
-    },
-    {
-      "remove": "things,"
-    },
-    {
-      "add": "things"
+      "index": 30,
+      "remove": [
+        "things,"
+      ],
+      "add": [
+        "things"
+      ]
     }
   ],
   "Jacob 2:15": [
     {
-      "remove": "shew"
+      "index": 4,
+      "remove": [
+        "shew"
+      ],
+      "add": [
+        "show"
+      ]
     },
     {
-      "add": "show"
+      "index": 17,
+      "remove": [
+        "eye,"
+      ],
+      "add": [
+        "eye"
+      ]
     },
     {
-      "remove": "eye,"
-    },
-    {
-      "add": "eye"
-    },
-    {
-      "remove": "dust."
-    },
-    {
-      "add": "dust!"
+      "index": 24,
+      "remove": [
+        "dust."
+      ],
+      "add": [
+        "dust!"
+      ]
     }
   ],
   "Jacob 2:16": [
     {
-      "remove": "iniquity,"
+      "index": 8,
+      "remove": [
+        "iniquity,"
+      ],
+      "add": [
+        "iniquity"
+      ]
     },
     {
-      "add": "iniquity"
-    },
-    {
-      "remove": "souls."
-    },
-    {
-      "add": "souls!"
+      "index": 33,
+      "remove": [
+        "souls."
+      ],
+      "add": [
+        "souls!"
+      ]
     }
   ],
   "Jacob 2:17": [
     {
-      "remove": "brethren,"
+      "index": 3,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     },
     {
-      "add": "brethren"
-    },
-    {
-      "remove": "all,"
-    },
-    {
-      "add": "all"
+      "index": 11,
+      "remove": [
+        "all,"
+      ],
+      "add": [
+        "all"
+      ]
     }
   ],
   "Jacob 2:18": [
     {
-      "remove": "Kingdom"
-    },
-    {
-      "add": "kingdom"
+      "index": 10,
+      "remove": [
+        "Kingdom"
+      ],
+      "add": [
+        "kingdom"
+      ]
     }
   ],
   "Jacob 2:19": [
     {
-      "remove": "that"
+      "index": 2,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "Christ,"
+      "index": 9,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     },
     {
-      "add": "Christ"
+      "index": 22,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     },
     {
-      "remove": "them,"
+      "index": 28,
+      "remove": [
+        "good;"
+      ],
+      "add": [
+        "good—"
+      ]
     },
     {
-      "add": "them"
-    },
-    {
-      "remove": "good;"
-    },
-    {
-      "add": "good—"
-    },
-    {
-      "remove": "sick,"
-    },
-    {
-      "add": "sick"
+      "index": 48,
+      "remove": [
+        "sick,"
+      ],
+      "add": [
+        "sick"
+      ]
     }
   ],
   "Jacob 2:20": [
     {
-      "remove": "now"
+      "index": 1,
+      "remove": [
+        "now"
+      ],
+      "add": [
+        "now,"
+      ]
     },
     {
-      "add": "now,"
+      "index": 22,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "remove": "him,"
-    },
-    {
-      "add": "him"
-    },
-    {
-      "remove": "that"
+      "index": 24,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Jacob 2:21": [
     {
-      "remove": "him,"
+      "index": 10,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "add": "him"
+      "index": 38,
+      "remove": [
+        "self",
+        "same"
+      ],
+      "add": [
+        "selfsame"
+      ]
     },
     {
-      "add": "selfsame"
-    },
-    {
-      "remove": "self"
-    },
-    {
-      "remove": "same"
-    },
-    {
-      "remove": "commandments,"
-    },
-    {
-      "add": "commandments"
+      "index": 50,
+      "remove": [
+        "commandments,"
+      ],
+      "add": [
+        "commandments"
+      ]
     }
   ],
   "Jacob 2:22": [
     {
-      "remove": "crime"
+      "index": 26,
+      "remove": [
+        "crime"
+      ],
+      "add": [
+        "crime,"
+      ]
     },
     {
-      "add": "crime,"
-    },
-    {
-      "remove": "excedingly,"
-    },
-    {
-      "add": "exceedingly"
+      "index": 31,
+      "remove": [
+        "excedingly,"
+      ],
+      "add": [
+        "exceedingly"
+      ]
     }
   ],
   "Jacob 2:23": [
     {
-      "remove": "People"
+      "index": 19,
+      "remove": [
+        "People"
+      ],
+      "add": [
+        "people"
+      ]
     },
     {
-      "add": "people"
+      "index": 29,
+      "remove": [
+        "Scriptures:"
+      ],
+      "add": [
+        "scriptures."
+      ]
     },
     {
-      "remove": "Scriptures:"
+      "index": 38,
+      "remove": [
+        "whoredoms,"
+      ],
+      "add": [
+        "whoredoms."
+      ]
     },
     {
-      "add": "scriptures."
-    },
-    {
-      "remove": "whoredoms,"
-    },
-    {
-      "add": "whoredoms."
-    },
-    {
-      "remove": "Son."
-    },
-    {
-      "add": "son."
+      "index": 51,
+      "remove": [
+        "Son."
+      ],
+      "add": [
+        "son."
+      ]
     }
   ],
   "Jacob 2:25": [
     {
-      "remove": "Lord:"
+      "index": 4,
+      "remove": [
+        "Lord:"
+      ],
+      "add": [
+        "Lord,"
+      ]
     },
     {
-      "add": "Lord,"
-    },
-    {
-      "remove": "branch,"
-    },
-    {
-      "add": "branch"
+      "index": 32,
+      "remove": [
+        "branch,"
+      ],
+      "add": [
+        "branch"
+      ]
     }
   ],
   "Jacob 2:26": [
     {
-      "remove": "Wherefore,"
+      "index": 0,
+      "remove": [
+        "Wherefore,",
+        "I,"
+      ],
+      "add": [
+        "Wherefore.",
+        "I"
+      ]
     },
     {
-      "add": "Wherefore."
-    },
-    {
-      "remove": "I,"
-    },
-    {
-      "add": "I"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
+      "index": 4,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     }
   ],
   "Jacob 2:27": [
     {
-      "remove": "Wherefore,"
+      "index": 0,
+      "remove": [
+        "Wherefore,"
+      ],
+      "add": [
+        "Wherefore."
+      ]
     },
     {
-      "add": "Wherefore."
+      "index": 13,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "remove": "for"
-    },
-    {
-      "add": "For"
-    },
-    {
-      "remove": "none:"
-    },
-    {
-      "add": "none;"
+      "index": 32,
+      "remove": [
+        "none:"
+      ],
+      "add": [
+        "none;"
+      ]
     }
   ],
   "Jacob 2:28": [
     {
-      "remove": "is"
+      "index": 13,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     },
     {
-      "add": "are"
-    },
-    {
-      "remove": "me:"
-    },
-    {
-      "add": "me;"
+      "index": 17,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me;"
+      ]
     }
   ],
   "Jacob 2:29": [
     {
-      "remove": "peeple"
-    },
-    {
-      "add": "people"
+      "index": 2,
+      "remove": [
+        "peeple"
+      ],
+      "add": [
+        "people"
+      ]
     }
   ],
   "Jacob 2:30": [
     {
-      "remove": "people:"
-    },
-    {
-      "add": "people;"
-    },
-    {
-      "remove": "otherwise,"
-    },
-    {
-      "add": "otherwise"
+      "index": 18,
+      "remove": [
+        "people:",
+        "otherwise,"
+      ],
+      "add": [
+        "people;",
+        "otherwise"
+      ]
     }
   ],
   "Jacob 2:31": [
     {
-      "remove": "people,"
+      "index": 18,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people"
+      ]
     },
     {
-      "add": "people"
-    },
-    {
-      "remove": "Jerusalem;"
-    },
-    {
-      "add": "Jerusalem,"
+      "index": 23,
+      "remove": [
+        "Jerusalem;"
+      ],
+      "add": [
+        "Jerusalem,"
+      ]
     }
   ],
   "Jacob 2:32": [
     {
-      "remove": "me,"
+      "index": 34,
+      "remove": [
+        "me,"
+      ],
+      "add": [
+        "me"
+      ]
     },
     {
-      "add": "me"
-    },
-    {
-      "remove": "Hosts;"
-    },
-    {
-      "add": "Hosts."
+      "index": 45,
+      "remove": [
+        "Hosts;"
+      ],
+      "add": [
+        "Hosts."
+      ]
     }
   ],
   "Jacob 2:33": [
     {
-      "remove": "for"
+      "index": 0,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "add": "For"
+      "index": 6,
+      "remove": [
+        "captive,"
+      ],
+      "add": [
+        "captive"
+      ]
     },
     {
-      "remove": "captive,"
+      "index": 11,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people"
+      ]
     },
     {
-      "add": "captive"
+      "index": 27,
+      "remove": [
+        "destruction:"
+      ],
+      "add": [
+        "destruction;"
+      ]
     },
     {
-      "remove": "people,"
-    },
-    {
-      "add": "people"
-    },
-    {
-      "remove": "destruction:"
-    },
-    {
-      "add": "destruction;"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "add": "them"
+      "index": 36,
+      "remove": [
+        "they"
+      ],
+      "add": [
+        "them"
+      ]
     }
   ],
   "Jacob 2:34": [
     {
-      "remove": "father"
+      "index": 14,
+      "remove": [
+        "father"
+      ],
+      "add": [
+        "father,"
+      ]
     },
     {
-      "add": "father,"
-    },
-    {
-      "remove": "things,"
-    },
-    {
-      "add": "things"
+      "index": 34,
+      "remove": [
+        "things,"
+      ],
+      "add": [
+        "things"
+      ]
     }
   ],
   "Jacob 2:35": [
     {
-      "remove": "confidence"
+      "index": 23,
+      "remove": [
+        "confidence"
+      ],
+      "add": [
+        "confldence"
+      ]
     },
     {
-      "add": "confldence"
-    },
-    {
-      "remove": "ascendeth"
-    },
-    {
-      "add": "ascend"
+      "index": 40,
+      "remove": [
+        "ascendeth"
+      ],
+      "add": [
+        "ascend"
+      ]
     }
   ],
   "Jacob 3:3": [
     {
-      "remove": "heart;"
+      "index": 10,
+      "remove": [
+        "heart;"
+      ],
+      "add": [
+        "heart,"
+      ]
     },
     {
-      "add": "heart,"
+      "index": 21,
+      "remove": [
+        "shall",
+        "repent,"
+      ],
+      "add": [
+        "repent"
+      ]
     },
     {
-      "remove": "shall"
+      "index": 40,
+      "remove": [
+        "(",
+        "nevertheless,"
+      ],
+      "add": [
+        "nevertheless"
+      ]
     },
     {
-      "remove": "repent,"
-    },
-    {
-      "add": "repent"
-    },
-    {
-      "remove": "("
-    },
-    {
-      "remove": "nevertheless,"
-    },
-    {
-      "add": "nevertheless"
-    },
-    {
-      "remove": "cursing"
-    },
-    {
-      "add": "cursing,"
-    },
-    {
-      "remove": ")"
+      "index": 48,
+      "remove": [
+        "cursing",
+        ")"
+      ],
+      "add": [
+        "cursing,"
+      ]
     }
   ],
   "Jacob 3:4": [
     {
-      "remove": "repent,"
-    },
-    {
-      "add": "repent"
+      "index": 8,
+      "remove": [
+        "repent,"
+      ],
+      "add": [
+        "repent"
+      ]
     }
   ],
   "Jacob 3:5": [
     {
-      "remove": "hate,"
+      "index": 7,
+      "remove": [
+        "hate,"
+      ],
+      "add": [
+        "hate"
+      ]
     },
     {
-      "add": "hate"
+      "index": 14,
+      "remove": [
+        "cursings"
+      ],
+      "add": [
+        "cursing"
+      ]
     },
     {
-      "remove": "cursings"
+      "index": 41,
+      "remove": [
+        "fathers,"
+      ],
+      "add": [
+        "fathers—"
+      ]
     },
     {
-      "add": "cursing"
+      "index": 45,
+      "remove": [
+        "have,"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "remove": "fathers,"
+      "index": 50,
+      "remove": [
+        "wife;"
+      ],
+      "add": [
+        "wife,"
+      ]
     },
     {
-      "add": "fathers—"
-    },
-    {
-      "remove": "have,"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "wife;"
-    },
-    {
-      "add": "wife,"
-    },
-    {
-      "remove": "none;"
-    },
-    {
-      "add": "none,"
+      "index": 56,
+      "remove": [
+        "none;"
+      ],
+      "add": [
+        "none,"
+      ]
     }
   ],
   "Jacob 3:6": [
     {
-      "remove": "now"
+      "index": 1,
+      "remove": [
+        "now"
+      ],
+      "add": [
+        "now,"
+      ]
     },
     {
-      "add": "now,"
-    },
-    {
-      "remove": "observance"
-    },
-    {
-      "add": "observance,"
+      "index": 12,
+      "remove": [
+        "observance"
+      ],
+      "add": [
+        "observance,"
+      ]
     }
   ],
   "Jacob 3:7": [
     {
-      "remove": "husbands,"
+      "index": 11,
+      "remove": [
+        "husbands,"
+      ],
+      "add": [
+        "husbands;"
+      ]
     },
     {
-      "add": "husbands;"
+      "index": 28,
+      "remove": [
+        "you,"
+      ],
+      "add": [
+        "you"
+      ]
     },
     {
-      "remove": "you,"
-    },
-    {
-      "add": "you"
-    },
-    {
-      "remove": "Great"
-    },
-    {
-      "add": "great"
+      "index": 50,
+      "remove": [
+        "Great"
+      ],
+      "add": [
+        "great"
+      ]
     }
   ],
   "Jacob 3:8": [
     {
-      "remove": "fear,"
+      "index": 4,
+      "remove": [
+        "fear,"
+      ],
+      "add": [
+        "fear"
+      ]
     },
     {
-      "add": "fear"
-    },
-    {
-      "remove": "sins,"
-    },
-    {
-      "add": "sins"
+      "index": 12,
+      "remove": [
+        "sins,"
+      ],
+      "add": [
+        "sins"
+      ]
     }
   ],
   "Jacob 3:9": [
     {
-      "remove": "them,"
-    },
-    {
-      "add": "them"
+      "index": 19,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     }
   ],
   "Jacob 3:10": [
     {
-      "remove": "hearts,"
-    },
-    {
-      "add": "hearts"
+      "index": 12,
+      "remove": [
+        "hearts,"
+      ],
+      "add": [
+        "hearts"
+      ]
     }
   ],
   "Jacob 3:11": [
     {
-      "remove": "yourselves,"
+      "index": 14,
+      "remove": [
+        "yourselves,"
+      ],
+      "add": [
+        "yourselves"
+      ]
     },
     {
-      "add": "yourselves"
+      "index": 31,
+      "remove": [
+        "hell,"
+      ],
+      "add": [
+        "hell"
+      ]
     },
     {
-      "remove": "hell,"
+      "index": 37,
+      "remove": [
+        "Angels"
+      ],
+      "add": [
+        "angels"
+      ]
     },
     {
-      "add": "hell"
+      "index": 40,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     },
     {
-      "remove": "Angels"
-    },
-    {
-      "add": "angels"
-    },
-    {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
-    },
-    {
-      "remove": "brimstone,"
-    },
-    {
-      "add": "brimstone"
+      "index": 50,
+      "remove": [
+        "brimstone,"
+      ],
+      "add": [
+        "brimstone"
+      ]
     }
   ],
   "Jacob 3:12": [
     {
-      "remove": "fornication,"
+      "index": 16,
+      "remove": [
+        "fornication,"
+      ],
+      "add": [
+        "fornication"
+      ]
     },
     {
-      "add": "fornication"
-    },
-    {
-      "remove": "them;"
-    },
-    {
-      "add": "them."
+      "index": 30,
+      "remove": [
+        "them;"
+      ],
+      "add": [
+        "them."
+      ]
     }
   ],
   "Jacob 3:13": [
     {
-      "remove": "and"
-    },
-    {
-      "add": "And"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     }
   ],
   "Jacob 3:14": [
     {
-      "remove": "Jacob;"
-    },
-    {
-      "add": "Jacob,"
+      "index": 7,
+      "remove": [
+        "Jacob;"
+      ],
+      "add": [
+        "Jacob,"
+      ]
     }
   ],
   "Jacob 4:1": [
     {
-      "remove": "pass,"
+      "index": 5,
+      "remove": [
+        "pass,"
+      ],
+      "add": [
+        "pass"
+      ]
     },
     {
-      "add": "pass"
+      "index": 14,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people"
+      ]
     },
     {
-      "remove": "people,"
+      "index": 37,
+      "remove": [
+        "plates,"
+      ],
+      "add": [
+        "plates"
+      ]
     },
     {
-      "add": "people"
-    },
-    {
-      "remove": "plates,"
-    },
-    {
-      "add": "plates"
-    },
-    {
-      "remove": "plates,"
-    },
-    {
-      "add": "plates"
+      "index": 49,
+      "remove": [
+        "plates,"
+      ],
+      "add": [
+        "plates"
+      ]
     }
   ],
   "Jacob 4:2": [
     {
-      "remove": "but"
+      "index": 0,
+      "remove": [
+        "but"
+      ],
+      "add": [
+        "But"
+      ]
     },
     {
-      "add": "But"
+      "index": 6,
+      "remove": [
+        "any",
+        "thing"
+      ],
+      "add": [
+        "anything"
+      ]
     },
     {
-      "remove": "any"
+      "index": 12,
+      "remove": [
+        "plates,"
+      ],
+      "add": [
+        "plates"
+      ]
     },
     {
-      "remove": "thing"
-    },
-    {
-      "add": "anything"
-    },
-    {
-      "remove": "plates,"
-    },
-    {
-      "add": "plates"
-    },
-    {
-      "remove": "fathers."
-    },
-    {
-      "add": "fathers—"
+      "index": 47,
+      "remove": [
+        "fathers."
+      ],
+      "add": [
+        "fathers—"
+      ]
     }
   ],
   "Jacob 4:3": [
     {
-      "remove": "brethren,"
+      "index": 21,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     },
     {
-      "add": "brethren"
+      "index": 24,
+      "remove": [
+        "children,"
+      ],
+      "add": [
+        "children"
+      ]
     },
     {
-      "remove": "children,"
+      "index": 34,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     },
     {
-      "add": "children"
+      "index": 40,
+      "remove": [
+        "joy,"
+      ],
+      "add": [
+        "joy"
+      ]
     },
     {
-      "remove": "them,"
-    },
-    {
-      "add": "them"
-    },
-    {
-      "remove": "joy,"
-    },
-    {
-      "add": "joy"
-    },
-    {
-      "remove": "parents:"
-    },
-    {
-      "add": "parents."
+      "index": 51,
+      "remove": [
+        "parents:"
+      ],
+      "add": [
+        "parents."
+      ]
     }
   ],
   "Jacob 4:4": [
     {
-      "remove": "for,"
+      "index": 0,
+      "remove": [
+        "for,"
+      ],
+      "add": [
+        "For,"
+      ]
     },
     {
-      "add": "For,"
+      "index": 25,
+      "remove": [
+        "glory,"
+      ],
+      "add": [
+        "glory"
+      ]
     },
     {
-      "remove": "glory,"
+      "index": 35,
+      "remove": [
+        "we,",
+        "ourselves,"
+      ],
+      "add": [
+        "we",
+        "ourselves"
+      ]
     },
     {
-      "add": "glory"
-    },
-    {
-      "remove": "we,"
-    },
-    {
-      "add": "we"
-    },
-    {
-      "remove": "ourselves,"
-    },
-    {
-      "add": "ourselves"
-    },
-    {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
+      "index": 47,
+      "remove": [
+        "Holy",
+        "Prophets"
+      ],
+      "add": [
+        "holy",
+        "prophets"
+      ]
     }
   ],
   "Jacob 4:5": [
     {
-      "remove": "Christ,"
+      "index": 4,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     },
     {
-      "add": "Christ"
+      "index": 11,
+      "remove": [
+        "name;"
+      ],
+      "add": [
+        "name,"
+      ]
     },
     {
-      "remove": "name;"
+      "index": 13,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     },
     {
-      "add": "name,"
+      "index": 24,
+      "remove": [
+        "intent,"
+      ],
+      "add": [
+        "intent"
+      ]
     },
     {
-      "remove": "also,"
+      "index": 40,
+      "remove": [
+        "cause,"
+      ],
+      "add": [
+        "cause"
+      ]
     },
     {
-      "add": "also"
+      "index": 57,
+      "remove": [
+        "wilderness,"
+      ],
+      "add": [
+        "wilderness"
+      ]
     },
     {
-      "remove": "intent,"
+      "index": 65,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "add": "intent"
+      "index": 73,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "is"
+      ]
     },
     {
-      "remove": "cause,"
-    },
-    {
-      "add": "cause"
-    },
-    {
-      "remove": "wilderness,"
-    },
-    {
-      "add": "wilderness"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "is"
-    },
-    {
-      "remove": "only"
-    },
-    {
-      "add": "Only"
-    },
-    {
-      "remove": "begotten"
-    },
-    {
-      "add": "Begotten"
+      "index": 80,
+      "remove": [
+        "only",
+        "begotten"
+      ],
+      "add": [
+        "Only",
+        "Begotten"
+      ]
     }
   ],
   "Jacob 4:6": [
     {
-      "remove": "Prophets;"
+      "index": 4,
+      "remove": [
+        "Prophets;"
+      ],
+      "add": [
+        "prophets,"
+      ]
     },
     {
-      "add": "prophets,"
+      "index": 9,
+      "remove": [
+        "revelations,"
+      ],
+      "add": [
+        "revelations"
+      ]
     },
     {
-      "remove": "revelations,"
+      "index": 19,
+      "remove": [
+        "witnesses,"
+      ],
+      "add": [
+        "witnesses"
+      ]
     },
     {
-      "add": "revelations"
+      "index": 39,
+      "remove": [
+        "Jesus,"
+      ],
+      "add": [
+        "Jesus"
+      ]
     },
     {
-      "remove": "witnesses,"
-    },
-    {
-      "add": "witnesses"
-    },
-    {
-      "remove": "Jesus,"
-    },
-    {
-      "add": "Jesus"
-    },
-    {
-      "remove": "sea;"
-    },
-    {
-      "add": "sea."
+      "index": 54,
+      "remove": [
+        "sea;"
+      ],
+      "add": [
+        "sea."
+      ]
     }
   ],
   "Jacob 4:7": [
     {
-      "remove": "nevertheless,"
+      "index": 0,
+      "remove": [
+        "nevertheless,"
+      ],
+      "add": [
+        "Nevertheless,"
+      ]
     },
     {
-      "add": "Nevertheless,"
+      "index": 4,
+      "remove": [
+        "sheweth"
+      ],
+      "add": [
+        "showeth"
+      ]
     },
     {
-      "remove": "sheweth"
+      "index": 7,
+      "remove": [
+        "weakness,"
+      ],
+      "add": [
+        "weakness"
+      ]
     },
     {
-      "add": "showeth"
-    },
-    {
-      "remove": "weakness,"
-    },
-    {
-      "add": "weakness"
-    },
-    {
-      "remove": "condescentions"
-    },
-    {
-      "add": "condescensions"
+      "index": 21,
+      "remove": [
+        "condescentions"
+      ],
+      "add": [
+        "condescensions"
+      ]
     }
   ],
   "Jacob 4:8": [
     {
-      "remove": "marvellous"
+      "index": 3,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
+      "index": 9,
+      "remove": [
+        "Lord.—"
+      ],
+      "add": [
+        "Lord."
+      ]
     },
     {
-      "remove": "Lord.—"
+      "index": 19,
+      "remove": [
+        "Him;"
+      ],
+      "add": [
+        "him;"
+      ]
     },
     {
-      "add": "Lord."
+      "index": 31,
+      "remove": [
+        "ways.—"
+      ],
+      "add": [
+        "ways."
+      ]
     },
     {
-      "remove": "Him;"
-    },
-    {
-      "add": "him;"
-    },
-    {
-      "remove": "ways.—"
-    },
-    {
-      "add": "ways."
-    },
-    {
-      "remove": "ways,"
-    },
-    {
-      "add": "ways"
+      "index": 38,
+      "remove": [
+        "ways,"
+      ],
+      "add": [
+        "ways"
+      ]
     }
   ],
   "Jacob 4:9": [
     {
-      "remove": "word,"
+      "index": 7,
+      "remove": [
+        "word,"
+      ],
+      "add": [
+        "word"
+      ]
     },
     {
-      "add": "word"
+      "index": 15,
+      "remove": [
+        "earth;"
+      ],
+      "add": [
+        "earth,"
+      ]
     },
     {
-      "remove": "earth;"
+      "index": 28,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "add": "earth,"
+      "index": 32,
+      "remove": [
+        "speak,"
+      ],
+      "add": [
+        "speak"
+      ]
     },
     {
-      "remove": "God,"
+      "index": 36,
+      "remove": [
+        "was;"
+      ],
+      "add": [
+        "was,"
+      ]
     },
     {
-      "add": "God"
+      "index": 39,
+      "remove": [
+        "speak,"
+      ],
+      "add": [
+        "speak"
+      ]
     },
     {
-      "remove": "speak,"
-    },
-    {
-      "add": "speak"
-    },
-    {
-      "remove": "was;"
-    },
-    {
-      "add": "was,"
-    },
-    {
-      "remove": "speak,"
-    },
-    {
-      "add": "speak"
-    },
-    {
-      "remove": "pleasure."
-    },
-    {
-      "add": "pleasure?"
+      "index": 69,
+      "remove": [
+        "pleasure."
+      ],
+      "add": [
+        "pleasure?"
+      ]
     }
   ],
   "Jacob 4:10": [
     {
-      "remove": "know,"
+      "index": 19,
+      "remove": [
+        "know,"
+      ],
+      "add": [
+        "know"
+      ]
     },
     {
-      "add": "know"
-    },
-    {
-      "remove": "works;"
-    },
-    {
-      "add": "works."
+      "index": 35,
+      "remove": [
+        "works;"
+      ],
+      "add": [
+        "works."
+      ]
     }
   ],
   "Jacob 4:11": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
+      "index": 6,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     },
     {
-      "remove": "him,"
+      "index": 13,
+      "remove": [
+        "only",
+        "begotten"
+      ],
+      "add": [
+        "Only",
+        "Begotten"
+      ]
     },
     {
-      "add": "him"
+      "index": 16,
+      "remove": [
+        "that"
+      ],
+      "add": [
+        "and"
+      ]
     },
     {
-      "remove": "only"
+      "index": 38,
+      "remove": [
+        "first",
+        "fruits"
+      ],
+      "add": [
+        "first-fruits"
+      ]
     },
     {
-      "add": "Only"
+      "index": 41,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     },
     {
-      "remove": "begotten"
-    },
-    {
-      "add": "Begotten"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "add": "and"
-    },
-    {
-      "add": "first-fruits"
-    },
-    {
-      "remove": "first"
-    },
-    {
-      "remove": "fruits"
-    },
-    {
-      "remove": "Christ,"
-    },
-    {
-      "add": "Christ"
-    },
-    {
-      "remove": "him,"
-    },
-    {
-      "add": "him"
+      "index": 54,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him"
+      ]
     }
   ],
   "Jacob 4:13": [
     {
-      "remove": "spirit"
+      "index": 16,
+      "remove": [
+        "spirit"
+      ],
+      "add": [
+        "Spirit"
+      ]
     },
     {
-      "add": "Spirit"
+      "index": 19,
+      "remove": [
+        "truth,"
+      ],
+      "add": [
+        "truth"
+      ]
     },
     {
-      "remove": "truth,"
-    },
-    {
-      "add": "truth"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
+      "index": 70,
+      "remove": [
+        "Prophets"
+      ],
+      "add": [
+        "prophets"
+      ]
     }
   ],
   "Jacob 4:14": [
     {
-      "remove": "Prophets,"
+      "index": 18,
+      "remove": [
+        "Prophets,"
+      ],
+      "add": [
+        "prophets,"
+      ]
     },
     {
-      "add": "prophets,"
+      "index": 44,
+      "remove": [
+        "fall:"
+      ],
+      "add": [
+        "fall;"
+      ]
     },
     {
-      "remove": "fall:"
-    },
-    {
-      "add": "fall;"
-    },
-    {
-      "remove": "it,"
-    },
-    {
-      "add": "it"
+      "index": 72,
+      "remove": [
+        "it,"
+      ],
+      "add": [
+        "it"
+      ]
     }
   ],
   "Jacob 4:15": [
     {
-      "remove": "spirit"
+      "index": 9,
+      "remove": [
+        "spirit"
+      ],
+      "add": [
+        "Spirit"
+      ]
     },
     {
-      "add": "Spirit"
+      "index": 11,
+      "remove": [
+        "prophesying:"
+      ],
+      "add": [
+        "prophesying;"
+      ]
     },
     {
-      "remove": "prophesying:"
+      "index": 20,
+      "remove": [
+        "spirit"
+      ],
+      "add": [
+        "Spirit"
+      ]
     },
     {
-      "add": "prophesying;"
+      "index": 31,
+      "remove": [
+        "Jews,"
+      ],
+      "add": [
+        "Jews"
+      ]
     },
     {
-      "remove": "spirit"
-    },
-    {
-      "add": "Spirit"
-    },
-    {
-      "remove": "Jews,"
-    },
-    {
-      "add": "Jews"
-    },
-    {
-      "remove": "build,"
-    },
-    {
-      "add": "build"
+      "index": 41,
+      "remove": [
+        "build,"
+      ],
+      "add": [
+        "build"
+      ]
     }
   ],
   "Jacob 4:16": [
     {
-      "remove": "Scriptures,"
-    },
-    {
-      "add": "scriptures,"
+      "index": 5,
+      "remove": [
+        "Scriptures,"
+      ],
+      "add": [
+        "scriptures,"
+      ]
     }
   ],
   "Jacob 4:18": [
     {
-      "remove": "mystery,"
+      "index": 8,
+      "remove": [
+        "mystery,"
+      ],
+      "add": [
+        "mystery"
+      ]
     },
     {
-      "add": "mystery"
-    },
-    {
-      "remove": "spirit,"
-    },
-    {
-      "add": "Spirit,"
+      "index": 25,
+      "remove": [
+        "spirit,"
+      ],
+      "add": [
+        "Spirit,"
+      ]
     }
   ],
   "Jacob 5:1": [
     {
-      "remove": "Prophet"
+      "index": 14,
+      "remove": [
+        "Prophet"
+      ],
+      "add": [
+        "prophet"
+      ]
     },
     {
-      "add": "prophet"
+      "index": 17,
+      "remove": [],
+      "add": [
+        "he"
+      ]
     },
     {
-      "add": "he"
-    },
-    {
-      "remove": "House"
-    },
-    {
-      "add": "house"
+      "index": 20,
+      "remove": [
+        "House"
+      ],
+      "add": [
+        "house"
+      ]
     }
   ],
   "Jacob 5:2": [
     {
-      "remove": "Hearken"
+      "index": 0,
+      "remove": [
+        "Hearken"
+      ],
+      "add": [
+        "Hearken,"
+      ]
     },
     {
-      "add": "Hearken,"
+      "index": 3,
+      "remove": [
+        "House"
+      ],
+      "add": [
+        "house"
+      ]
     },
     {
-      "remove": "House"
+      "index": 13,
+      "remove": [
+        "Prophet"
+      ],
+      "add": [
+        "prophet"
+      ]
     },
     {
-      "add": "house"
-    },
-    {
-      "remove": "Prophet"
-    },
-    {
-      "add": "prophet"
-    },
-    {
-      "remove": "Lord:"
-    },
-    {
-      "add": "Lord."
+      "index": 16,
+      "remove": [
+        "Lord:"
+      ],
+      "add": [
+        "Lord."
+      ]
     }
   ],
   "Jacob 5:3": [
     {
-      "remove": "for"
+      "index": 0,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "add": "For"
+      "index": 11,
+      "remove": [
+        "House"
+      ],
+      "add": [
+        "house"
+      ]
     },
     {
-      "remove": "House"
-    },
-    {
-      "add": "house"
-    },
-    {
-      "add": "olive-tree,"
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree,"
+      "index": 18,
+      "remove": [
+        "olive",
+        "tree,"
+      ],
+      "add": [
+        "olive-tree,"
+      ]
     }
   ],
   "Jacob 5:4": [
     {
-      "add": "olive-tree"
+      "index": 18,
+      "remove": [
+        "olive",
+        "tree"
+      ],
+      "add": [
+        "olive-tree"
+      ]
     },
     {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree"
-    },
-    {
-      "remove": "sayeth,"
-    },
-    {
-      "add": "said:"
+      "index": 25,
+      "remove": [
+        "sayeth,"
+      ],
+      "add": [
+        "said:"
+      ]
     }
   ],
   "Jacob 5:5": [
     {
-      "remove": "it,"
-    },
-    {
-      "add": "it"
+      "index": 15,
+      "remove": [
+        "it,"
+      ],
+      "add": [
+        "it"
+      ]
     }
   ],
   "Jacob 5:6": [
     {
-      "remove": "days,"
-    },
-    {
-      "add": "days"
+      "index": 8,
+      "remove": [
+        "days,"
+      ],
+      "add": [
+        "days"
+      ]
     }
   ],
   "Jacob 5:7": [
     {
-      "remove": "sayeth"
+      "index": 15,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 18,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 37,
+      "remove": [
+        "olive",
+        "tree,"
+      ],
+      "add": [
+        "olive-tree,"
+      ]
     },
     {
-      "add": "servant:"
-    },
-    {
-      "add": "olive-tree,"
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree,"
-    },
-    {
-      "remove": "fire,"
-    },
-    {
-      "add": "fire"
+      "index": 66,
+      "remove": [
+        "fire,"
+      ],
+      "add": [
+        "fire"
+      ]
     }
   ],
   "Jacob 5:8": [
     {
-      "remove": "be,"
-    },
-    {
-      "add": "be"
+      "index": 34,
+      "remove": [
+        "be,"
+      ],
+      "add": [
+        "be"
+      ]
     }
   ],
   "Jacob 5:9": [
     {
-      "add": "olive-tree,"
+      "index": 7,
+      "remove": [
+        "olive",
+        "tree,"
+      ],
+      "add": [
+        "olive-tree,"
+      ]
     },
     {
-      "remove": "olive"
+      "index": 23,
+      "remove": [
+        "off,"
+      ],
+      "add": [
+        "off"
+      ]
     },
     {
-      "remove": "tree,"
-    },
-    {
-      "remove": "off,"
-    },
-    {
-      "add": "off"
-    },
-    {
-      "remove": "fire,"
-    },
-    {
-      "add": "fire"
+      "index": 29,
+      "remove": [
+        "fire,"
+      ],
+      "add": [
+        "fire"
+      ]
     }
   ],
   "Jacob 5:10": [
     {
-      "remove": "vineyard,"
+      "index": 13,
+      "remove": [
+        "vineyard,",
+        "done"
+      ],
+      "add": [
+        "vineyard",
+        "did"
+      ]
     },
     {
-      "add": "vineyard"
-    },
-    {
-      "remove": "done"
-    },
-    {
-      "add": "did"
-    },
-    {
-      "add": "olive-tree."
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree."
+      "index": 33,
+      "remove": [
+        "olive",
+        "tree."
+      ],
+      "add": [
+        "olive-tree."
+      ]
     }
   ],
   "Jacob 5:11": [
     {
-      "remove": "servant,"
+      "index": 20,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "add": "servant:"
-    },
-    {
-      "remove": "thing.—"
-    },
-    {
-      "add": "thing."
+      "index": 54,
+      "remove": [
+        "thing.—"
+      ],
+      "add": [
+        "thing."
+      ]
     }
   ],
   "Jacob 5:13": [
     {
-      "remove": "it,"
+      "index": 23,
+      "remove": [
+        "it,"
+      ],
+      "add": [
+        "it"
+      ]
     },
     {
-      "add": "it"
+      "index": 44,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "remove": "thereof,"
+      "index": 49,
+      "remove": [
+        "myself:"
+      ],
+      "add": [
+        "myself;"
+      ]
     },
     {
-      "add": "thereof"
-    },
-    {
-      "remove": "myself:"
-    },
-    {
-      "add": "myself;"
-    },
-    {
-      "remove": "tree,"
-    },
-    {
-      "add": "tree"
+      "index": 59,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     }
   ],
   "Jacob 5:14": [
     {
-      "add": "olive-tree"
+      "index": 22,
+      "remove": [
+        "olive",
+        "tree"
+      ],
+      "add": [
+        "olive-tree"
+      ]
     },
     {
-      "remove": "olive"
+      "index": 30,
+      "remove": [
+        "vineyard;"
+      ],
+      "add": [
+        "vineyard,"
+      ]
     },
     {
-      "remove": "tree"
-    },
-    {
-      "remove": "vineyard;"
-    },
-    {
-      "add": "vineyard,"
-    },
-    {
-      "remove": "one,"
-    },
-    {
-      "add": "one"
+      "index": 33,
+      "remove": [
+        "one,"
+      ],
+      "add": [
+        "one"
+      ]
     }
   ],
   "Jacob 5:15": [
     {
-      "remove": "sayeth"
+      "index": 17,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
+      "index": 20,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     }
   ],
   "Jacob 5:16": [
     {
-      "remove": "sayeth"
+      "index": 30,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "master,"
-    },
-    {
-      "add": "master:"
+      "index": 33,
+      "remove": [
+        "master,"
+      ],
+      "add": [
+        "master:"
+      ]
     }
   ],
   "Jacob 5:17": [
     {
-      "remove": "tree,"
+      "index": 15,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     },
     {
-      "add": "tree"
+      "index": 29,
+      "remove": [
+        "sprang",
+        "forth,"
+      ],
+      "add": [
+        "sprung",
+        "forth"
+      ]
     },
     {
-      "remove": "sprang"
+      "index": 32,
+      "remove": [
+        "began"
+      ],
+      "add": [
+        "begun"
+      ]
     },
     {
-      "add": "sprung"
-    },
-    {
-      "remove": "forth,"
-    },
-    {
-      "add": "forth"
-    },
-    {
-      "remove": "began"
-    },
-    {
-      "add": "begun"
-    },
-    {
-      "remove": "fruit.—"
-    },
-    {
-      "add": "fruit."
+      "index": 52,
+      "remove": [
+        "fruit.—"
+      ],
+      "add": [
+        "fruit."
+      ]
     }
   ],
   "Jacob 5:18": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 13,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 41,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "remove": "hath"
+      "index": 45,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "have"
+      "index": 49,
+      "remove": [
+        "fruit:",
+        "now,"
+      ],
+      "add": [
+        "fruit.",
+        "Now,"
+      ]
     },
     {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "fruit:"
-    },
-    {
-      "add": "fruit."
-    },
-    {
-      "remove": "now,"
-    },
-    {
-      "add": "Now,"
-    },
-    {
-      "remove": "up,"
-    },
-    {
-      "add": "up"
+      "index": 88,
+      "remove": [
+        "up,"
+      ],
+      "add": [
+        "up"
+      ]
     }
   ],
   "Jacob 5:19": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 35,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "servant:"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
+      "index": 50,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     }
   ],
   "Jacob 5:20": [
     {
-      "remove": "of"
+      "index": 12,
+      "remove": [
+        "of",
+        "the",
+        "vineyard"
+      ],
+      "add": []
     },
     {
-      "remove": "the"
+      "index": 25,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "vineyard"
+      "index": 28,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "sayeth"
+      "index": 30,
+      "remove": [
+        "these:"
+      ],
+      "add": [
+        "these;"
+      ]
     },
     {
-      "add": "said"
+      "index": 35,
+      "remove": [
+        "first,"
+      ],
+      "add": [
+        "first"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 46,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 53,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "these:"
+      "index": 56,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "add": "these;"
+      "index": 65,
+      "remove": [
+        "up,"
+      ],
+      "add": [
+        "up"
+      ]
     },
     {
-      "remove": "first,"
+      "index": 77,
+      "remove": [
+        "self:"
+      ],
+      "add": [
+        "self;"
+      ]
     },
     {
-      "add": "first"
+      "index": 80,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "also,"
-    },
-    {
-      "add": "also"
-    },
-    {
-      "remove": "sayeth"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
-    },
-    {
-      "remove": "up,"
-    },
-    {
-      "add": "up"
-    },
-    {
-      "remove": "self:"
-    },
-    {
-      "add": "self;"
-    },
-    {
-      "remove": "sayeth"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "This"
-    },
-    {
-      "add": "this"
+      "index": 82,
+      "remove": [
+        "This"
+      ],
+      "add": [
+        "this"
+      ]
     }
   ],
   "Jacob 5:21": [
     {
-      "remove": "sayeth"
+      "index": 8,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 11,
+      "remove": [
+        "master,"
+      ],
+      "add": [
+        "master:"
+      ]
     },
     {
-      "remove": "master,"
+      "index": 26,
+      "remove": [
+        "for"
+      ],
+      "add": [
+        "For"
+      ]
     },
     {
-      "add": "master:"
+      "index": 36,
+      "remove": [],
+      "add": [
+        "the"
+      ]
     },
     {
-      "remove": "for"
-    },
-    {
-      "add": "For"
-    },
-    {
-      "add": "the"
-    },
-    {
-      "remove": "thy"
-    },
-    {
-      "add": "the"
+      "index": 38,
+      "remove": [
+        "thy"
+      ],
+      "add": [
+        "the"
+      ]
     }
   ],
   "Jacob 5:22": [
     {
-      "remove": "sayeth"
+      "index": 6,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 8,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "remove": "him,"
+      "index": 11,
+      "remove": [
+        "not:"
+      ],
+      "add": [
+        "not;"
+      ]
     },
     {
-      "add": "him:"
-    },
-    {
-      "remove": "not:"
-    },
-    {
-      "add": "not;"
-    },
-    {
-      "remove": "time;"
-    },
-    {
-      "add": "time,"
+      "index": 33,
+      "remove": [
+        "time;"
+      ],
+      "add": [
+        "time,"
+      ]
     }
   ],
   "Jacob 5:23": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 16,
+      "remove": [
+        "hither:",
+        "behold,"
+      ],
+      "add": [
+        "hither;",
+        "behold"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 39,
+      "remove": [
+        "first,"
+      ],
+      "add": [
+        "first."
+      ]
     },
     {
-      "remove": "hither:"
+      "index": 43,
+      "remove": [
+        "tree:"
+      ],
+      "add": [
+        "tree."
+      ]
     },
     {
-      "add": "hither;"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
-    },
-    {
-      "remove": "first,"
-    },
-    {
-      "add": "first."
-    },
-    {
-      "remove": "tree:"
-    },
-    {
-      "add": "tree."
-    },
-    {
-      "remove": "up,"
-    },
-    {
-      "add": "up"
+      "index": 64,
+      "remove": [
+        "up,"
+      ],
+      "add": [
+        "up"
+      ]
     }
   ],
   "Jacob 5:24": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 15,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
-    },
-    {
-      "remove": "planted:"
-    },
-    {
-      "add": "planted;"
+      "index": 26,
+      "remove": [
+        "planted:"
+      ],
+      "add": [
+        "planted;"
+      ]
     }
   ],
   "Jacob 5:25": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 7,
+      "remove": [
+        "hither,"
+      ],
+      "add": [
+        "hither"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 11,
+      "remove": [
+        "last:",
+        "behold,"
+      ],
+      "add": [
+        "last.",
+        "Behold,"
+      ]
     },
     {
-      "remove": "hither,"
+      "index": 42,
+      "remove": [
+        "fruit;"
+      ],
+      "add": [
+        "fruit,"
+      ]
     },
     {
-      "add": "hither"
-    },
-    {
-      "remove": "last:"
-    },
-    {
-      "add": "last."
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "Behold,"
-    },
-    {
-      "remove": "fruit;"
-    },
-    {
-      "add": "fruit,"
-    },
-    {
-      "remove": "fruit:"
-    },
-    {
-      "add": "fruit;"
+      "index": 54,
+      "remove": [
+        "fruit:"
+      ],
+      "add": [
+        "fruit;"
+      ]
     }
   ],
   "Jacob 5:26": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     }
   ],
   "Jacob 5:27": [
     {
-      "remove": "sayeth"
+      "index": 4,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 6,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "remove": "him,"
-    },
-    {
-      "add": "him:"
-    },
-    {
-      "remove": "season.—"
-    },
-    {
-      "add": "season."
+      "index": 39,
+      "remove": [
+        "season.—"
+      ],
+      "add": [
+        "season."
+      ]
     }
   ],
   "Jacob 5:28": [
     {
-      "remove": "vineyard,"
+      "index": 10,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard"
+      ]
     },
     {
-      "add": "vineyard"
-    },
-    {
-      "remove": "vineyard,"
-    },
-    {
-      "add": "vineyard"
+      "index": 19,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard"
+      ]
     }
   ],
   "Jacob 5:29": [
     {
-      "remove": "sayeth"
+      "index": 18,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 21,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 48,
+      "remove": [
+        "cometh:"
+      ],
+      "add": [
+        "cometh;"
+      ]
     },
     {
-      "add": "servant:"
-    },
-    {
-      "remove": "cometh:"
-    },
-    {
-      "add": "cometh;"
-    },
-    {
-      "remove": "fruit,"
-    },
-    {
-      "add": "fruit"
+      "index": 54,
+      "remove": [
+        "fruit,"
+      ],
+      "add": [
+        "fruit"
+      ]
     }
   ],
   "Jacob 5:30": [
     {
-      "remove": "vineyard,"
+      "index": 10,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard"
+      ]
     },
     {
-      "add": "vineyard"
+      "index": 13,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant"
+      ]
     },
     {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 41,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "Jacob 5:31": [
     {
-      "remove": "saith,"
+      "index": 28,
+      "remove": [
+        "saith,"
+      ],
+      "add": [
+        "said:"
+      ]
     },
     {
-      "add": "said:"
-    },
-    {
-      "remove": "season,"
-    },
-    {
-      "add": "season"
+      "index": 47,
+      "remove": [
+        "season,"
+      ],
+      "add": [
+        "season"
+      ]
     }
   ],
   "Jacob 5:32": [
     {
-      "remove": "labor:"
+      "index": 36,
+      "remove": [
+        "labor:"
+      ],
+      "add": [
+        "labor;"
+      ]
     },
     {
-      "add": "labor;"
-    },
-    {
-      "remove": "now,"
-    },
-    {
-      "add": "now"
+      "index": 38,
+      "remove": [
+        "now,"
+      ],
+      "add": [
+        "now"
+      ]
     }
   ],
   "Jacob 5:33": [
     {
-      "remove": "sayeth"
+      "index": 6,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
+      "index": 9,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     }
   ],
   "Jacob 5:34": [
     {
-      "remove": "sayeth"
+      "index": 3,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 6,
+      "remove": [
+        "master,"
+      ],
+      "add": [
+        "master:"
+      ]
     },
     {
-      "remove": "master,"
+      "index": 18,
+      "remove": [
+        "olive",
+        "tree,"
+      ],
+      "add": [
+        "olive-tree"
+      ]
     },
     {
-      "add": "master:"
+      "index": 28,
+      "remove": [
+        "alive,"
+      ],
+      "add": [
+        "alive"
+      ]
     },
     {
-      "add": "olive-tree"
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree,"
-    },
-    {
-      "remove": "alive,"
-    },
-    {
-      "add": "alive"
-    },
-    {
-      "remove": "wherefore,"
-    },
-    {
-      "add": "wherefore"
+      "index": 34,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "wherefore"
+      ]
     }
   ],
   "Jacob 5:35": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 19,
+      "remove": [
+        "nothing;"
+      ],
+      "add": [
+        "nothing,"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 24,
+      "remove": [
+        "profiteth"
+      ],
+      "add": [
+        "profit"
+      ]
     },
     {
-      "remove": "nothing;"
-    },
-    {
-      "add": "nothing,"
-    },
-    {
-      "remove": "profiteth"
-    },
-    {
-      "add": "profit"
-    },
-    {
-      "remove": "nothing,"
-    },
-    {
-      "add": "nothing"
+      "index": 26,
+      "remove": [
+        "nothing,"
+      ],
+      "add": [
+        "nothing"
+      ]
     }
   ],
   "Jacob 5:36": [
     {
-      "remove": "good;"
+      "index": 7,
+      "remove": [
+        "good;"
+      ],
+      "add": [
+        "good,"
+      ]
     },
     {
-      "add": "good,"
+      "index": 22,
+      "remove": [
+        "strength,"
+      ],
+      "add": [
+        "strength"
+      ]
     },
     {
-      "remove": "strength,"
-    },
-    {
-      "add": "strength"
-    },
-    {
-      "remove": "forth"
-    },
-    {
-      "add": "forth,"
+      "index": 27,
+      "remove": [
+        "forth"
+      ],
+      "add": [
+        "forth,"
+      ]
     }
   ],
   "Jacob 5:37": [
     {
-      "remove": "grown,"
+      "index": 6,
+      "remove": [
+        "grown,"
+      ],
+      "add": [
+        "grown"
+      ]
     },
     {
-      "add": "grown"
+      "index": 9,
+      "remove": [
+        "overran"
+      ],
+      "add": [
+        "overrun"
+      ]
     },
     {
-      "remove": "overran"
+      "index": 23,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "add": "overrun"
+      "index": 41,
+      "remove": [
+        "fruit,"
+      ],
+      "add": [
+        "fruit"
+      ]
     },
     {
-      "remove": "thereof,"
+      "index": 46,
+      "remove": [
+        "begineth"
+      ],
+      "add": [
+        "beginneth"
+      ]
     },
     {
-      "add": "thereof"
-    },
-    {
-      "remove": "fruit,"
-    },
-    {
-      "add": "fruit"
-    },
-    {
-      "remove": "begineth"
-    },
-    {
-      "add": "beginneth"
-    },
-    {
-      "remove": "perish:"
-    },
-    {
-      "add": "perish;"
+      "index": 48,
+      "remove": [
+        "perish:"
+      ],
+      "add": [
+        "perish;"
+      ]
     }
   ],
   "Jacob 5:38": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     }
   ],
   "Jacob 5:39": [
     {
-      "remove": "first,"
+      "index": 37,
+      "remove": [
+        "first,"
+      ],
+      "add": [
+        "first"
+      ]
     },
     {
-      "add": "first"
-    },
-    {
-      "remove": "second,"
-    },
-    {
-      "add": "second"
+      "index": 40,
+      "remove": [
+        "second,"
+      ],
+      "add": [
+        "second"
+      ]
     }
   ],
   "Jacob 5:40": [
     {
-      "remove": "last,"
-    },
-    {
-      "add": "last"
+      "index": 6,
+      "remove": [
+        "last,"
+      ],
+      "add": [
+        "last"
+      ]
     }
   ],
   "Jacob 5:41": [
     {
-      "remove": "sayeth"
+      "index": 13,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
+      "index": 16,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     }
   ],
   "Jacob 5:42": [
     {
-      "remove": "now,"
+      "index": 18,
+      "remove": [
+        "now,"
+      ],
+      "add": [
+        "now"
+      ]
     },
     {
-      "add": "now"
+      "index": 26,
+      "remove": [
+        "fruit,"
+      ],
+      "add": [
+        "fruit"
+      ]
     },
     {
-      "remove": "fruit,"
+      "index": 30,
+      "remove": [
+        "corrupted.",
+        "And",
+        "now,"
+      ],
+      "add": [
+        "corrupted;",
+        "and",
+        "now"
+      ]
     },
     {
-      "add": "fruit"
-    },
-    {
-      "remove": "corrupted."
-    },
-    {
-      "add": "corrupted;"
-    },
-    {
-      "remove": "And"
-    },
-    {
-      "add": "and"
-    },
-    {
-      "remove": "now,"
-    },
-    {
-      "add": "now"
-    },
-    {
-      "remove": "nothing,"
-    },
-    {
-      "add": "nothing"
+      "index": 42,
+      "remove": [
+        "nothing,"
+      ],
+      "add": [
+        "nothing"
+      ]
     }
   ],
   "Jacob 5:43": [
     {
-      "remove": "behold,"
+      "index": 1,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     },
     {
-      "add": "behold"
-    },
-    {
-      "remove": "me,"
-    },
-    {
-      "add": "me"
+      "index": 25,
+      "remove": [
+        "me,"
+      ],
+      "add": [
+        "me"
+      ]
     }
   ],
   "Jacob 5:45": [
     {
-      "remove": "thereof,"
+      "index": 6,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "add": "thereof"
+      "index": 10,
+      "remove": [
+        "fruit;"
+      ],
+      "add": [
+        "fruit,"
+      ]
     },
     {
-      "remove": "fruit;"
+      "index": 14,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "add": "fruit,"
+      "index": 18,
+      "remove": [
+        "fruit."
+      ],
+      "add": [
+        "fruit;"
+      ]
     },
     {
-      "remove": "thereof,"
+      "index": 21,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "add": "thereof"
+      "index": 27,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "remove": "fruit."
-    },
-    {
-      "add": "fruit;"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
-    },
-    {
-      "remove": "branch,"
-    },
-    {
-      "add": "branch"
+      "index": 40,
+      "remove": [
+        "branch,"
+      ],
+      "add": [
+        "branch"
+      ]
     }
   ],
   "Jacob 5:46": [
     {
-      "remove": "now"
+      "index": 1,
+      "remove": [
+        "now"
+      ],
+      "add": [
+        "now,"
+      ]
     },
     {
-      "add": "now,"
+      "index": 17,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "remove": "hath"
+      "index": 31,
+      "remove": [
+        "hope"
+      ],
+      "add": [
+        "hoped"
+      ]
     },
     {
-      "add": "have"
+      "index": 39,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     },
     {
-      "remove": "hope"
+      "index": 47,
+      "remove": [
+        "But"
+      ],
+      "add": [
+        "But,"
+      ]
     },
     {
-      "add": "hoped"
+      "index": 56,
+      "remove": [
+        "olive",
+        "tree;"
+      ],
+      "add": [
+        "olive-tree,"
+      ]
     },
     {
-      "remove": "thereof,"
+      "index": 63,
+      "remove": [
+        "worth,"
+      ],
+      "add": [
+        "worth"
+      ]
     },
     {
-      "add": "thereof"
-    },
-    {
-      "remove": "But"
-    },
-    {
-      "add": "But,"
-    },
-    {
-      "add": "olive-tree,"
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree;"
-    },
-    {
-      "remove": "worth,"
-    },
-    {
-      "add": "worth"
-    },
-    {
-      "remove": "fire:"
-    },
-    {
-      "add": "fire;"
+      "index": 73,
+      "remove": [
+        "fire:"
+      ],
+      "add": [
+        "fire;"
+      ]
     }
   ],
   "Jacob 5:47": [
     {
-      "remove": "Nay;"
+      "index": 21,
+      "remove": [
+        "Nay;"
+      ],
+      "add": [
+        "Nay,"
+      ]
     },
     {
-      "add": "Nay,"
+      "index": 30,
+      "remove": [],
+      "add": [
+        "about"
+      ]
     },
     {
-      "add": "about"
+      "index": 52,
+      "remove": [
+        "long;"
+      ],
+      "add": [
+        "long,"
+      ]
     },
     {
-      "remove": "long;"
+      "index": 78,
+      "remove": [
+        "fire,"
+      ],
+      "add": [
+        "fire"
+      ]
     },
     {
-      "add": "long,"
-    },
-    {
-      "remove": "fire,"
-    },
-    {
-      "add": "fire"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 88,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Jacob 5:48": [
     {
-      "remove": "servant,"
+      "index": 7,
+      "remove": [
+        "servant,",
+        "sayeth"
+      ],
+      "add": [
+        "servant",
+        "said"
+      ]
     },
     {
-      "add": "servant"
+      "index": 11,
+      "remove": [
+        "master,"
+      ],
+      "add": [
+        "master:"
+      ]
     },
     {
-      "remove": "sayeth"
+      "index": 19,
+      "remove": [
+        "vineyard?",
+        "Hath"
+      ],
+      "add": [
+        "vineyard—",
+        "have"
+      ]
     },
     {
-      "add": "said"
+      "index": 25,
+      "remove": [
+        "overcame"
+      ],
+      "add": [
+        "overcome"
+      ]
     },
     {
-      "remove": "master,"
+      "index": 27,
+      "remove": [
+        "roots,"
+      ],
+      "add": [
+        "roots"
+      ]
     },
     {
-      "add": "master:"
+      "index": 33,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "vineyard?"
+      "index": 37,
+      "remove": [
+        "overcame"
+      ],
+      "add": [
+        "overcome"
+      ]
     },
     {
-      "add": "vineyard—"
+      "index": 40,
+      "remove": [
+        "thereof?",
+        "For",
+        "behold,"
+      ],
+      "add": [
+        "thereof,",
+        "behold"
+      ]
     },
     {
-      "remove": "Hath"
+      "index": 51,
+      "remove": [
+        "roots",
+        "thereof,"
+      ],
+      "add": [
+        "roots,"
+      ]
     },
     {
-      "add": "have"
+      "index": 60,
+      "remove": [
+        "Is"
+      ],
+      "add": [
+        "is"
+      ]
     },
     {
-      "remove": "overcame"
-    },
-    {
-      "add": "overcome"
-    },
-    {
-      "remove": "roots,"
-    },
-    {
-      "add": "roots"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "overcame"
-    },
-    {
-      "add": "overcome"
-    },
-    {
-      "remove": "thereof?"
-    },
-    {
-      "add": "thereof,"
-    },
-    {
-      "remove": "For"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
-    },
-    {
-      "remove": "roots"
-    },
-    {
-      "add": "roots,"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "remove": "Is"
-    },
-    {
-      "add": "is"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 71,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Jacob 5:49": [
     {
-      "remove": "sayeth"
+      "index": 11,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 14,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
+      "index": 18,
+      "remove": [
+        "to,"
+      ],
+      "add": [
+        "to"
+      ]
     },
     {
-      "add": "servant:"
+      "index": 26,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard"
+      ]
     },
     {
-      "remove": "to,"
+      "index": 42,
+      "remove": [
+        "vineyard;"
+      ],
+      "add": [
+        "vineyard,"
+      ]
     },
     {
-      "add": "to"
-    },
-    {
-      "remove": "vineyard,"
-    },
-    {
-      "add": "vineyard"
-    },
-    {
-      "remove": "vineyard;"
-    },
-    {
-      "add": "vineyard,"
-    },
-    {
-      "remove": "all:"
-    },
-    {
-      "add": "all."
-    },
-    {
-      "remove": "what"
-    },
-    {
-      "add": "What"
+      "index": 47,
+      "remove": [
+        "all:",
+        "what"
+      ],
+      "add": [
+        "all.",
+        "What"
+      ]
     }
   ],
   "Jacob 5:50": [
     {
-      "remove": "But"
+      "index": 0,
+      "remove": [
+        "But"
+      ],
+      "add": [
+        "But,"
+      ]
     },
     {
-      "add": "But,"
+      "index": 4,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "vineyard,"
-    },
-    {
-      "add": "vineyard:"
+      "index": 10,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard:"
+      ]
     }
   ],
   "Jacob 5:51": [
     {
-      "remove": "saith,"
+      "index": 3,
+      "remove": [
+        "saith,"
+      ],
+      "add": [
+        "said:"
+      ]
     },
     {
-      "add": "said:"
-    },
-    {
-      "remove": "longer:"
-    },
-    {
-      "add": "longer,"
+      "index": 11,
+      "remove": [
+        "longer:"
+      ],
+      "add": [
+        "longer,"
+      ]
     }
   ],
   "Jacob 5:52": [
     {
-      "remove": "tree,"
+      "index": 38,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     },
     {
-      "add": "tree"
-    },
-    {
-      "remove": "tree,"
-    },
-    {
-      "add": "tree"
+      "index": 54,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     }
   ],
   "Jacob 5:53": [
     {
-      "remove": "do,"
+      "index": 4,
+      "remove": [
+        "do,"
+      ],
+      "add": [
+        "do"
+      ]
     },
     {
-      "add": "do"
+      "index": 11,
+      "remove": [
+        "that",
+        "perhaps"
+      ],
+      "add": [
+        "that,",
+        "perhaps,"
+      ]
     },
     {
-      "remove": "that"
-    },
-    {
-      "add": "that,"
-    },
-    {
-      "remove": "perhaps"
-    },
-    {
-      "add": "perhaps,"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
+      "index": 20,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     }
   ],
   "Jacob 5:54": [
     {
-      "remove": "And"
+      "index": 0,
+      "remove": [
+        "And"
+      ],
+      "add": [
+        "And,"
+      ]
     },
     {
-      "add": "And,"
+      "index": 16,
+      "remove": [
+        "would,"
+      ],
+      "add": [
+        "would"
+      ]
     },
     {
-      "remove": "would,"
+      "index": 26,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     },
     {
-      "add": "would"
-    },
-    {
-      "remove": "also,"
-    },
-    {
-      "add": "also"
-    },
-    {
-      "remove": "strong,"
-    },
-    {
-      "add": "strong"
-    },
-    {
-      "remove": "that"
+      "index": 78,
+      "remove": [
+        "strong,",
+        "that"
+      ],
+      "add": [
+        "strong"
+      ]
     }
   ],
   "Jacob 5:55": [
     {
-      "remove": "wild;"
-    },
-    {
-      "add": "wild."
+      "index": 27,
+      "remove": [
+        "wild;"
+      ],
+      "add": [
+        "wild."
+      ]
     }
   ],
   "Jacob 5:56": [
     {
-      "remove": "and"
-    },
-    {
-      "add": "And"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     }
   ],
   "Jacob 5:57": [
     {
-      "remove": "sayeth"
+      "index": 6,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 9,
+      "remove": [
+        "servant,"
+      ],
+      "add": [
+        "servant:"
+      ]
     },
     {
-      "remove": "servant,"
-    },
-    {
-      "add": "servant:"
-    },
-    {
-      "remove": "graft,"
-    },
-    {
-      "add": "graft"
+      "index": 31,
+      "remove": [
+        "graft,"
+      ],
+      "add": [
+        "graft"
+      ]
     }
   ],
   "Jacob 5:58": [
     {
-      "remove": "fire.—"
-    },
-    {
-      "add": "fire."
+      "index": 38,
+      "remove": [
+        "fire.—"
+      ],
+      "add": [
+        "fire."
+      ]
     }
   ],
   "Jacob 5:59": [
     {
-      "remove": "do,"
+      "index": 3,
+      "remove": [
+        "do,",
+        "that",
+        "perhaps"
+      ],
+      "add": [
+        "do",
+        "that,",
+        "perhaps,"
+      ]
     },
     {
-      "add": "do"
+      "index": 11,
+      "remove": [
+        "strength,"
+      ],
+      "add": [
+        "strength"
+      ]
     },
     {
-      "remove": "that"
-    },
-    {
-      "add": "that,"
-    },
-    {
-      "remove": "perhaps"
-    },
-    {
-      "add": "perhaps,"
-    },
-    {
-      "remove": "strength,"
-    },
-    {
-      "add": "strength"
-    },
-    {
-      "remove": "evil;"
-    },
-    {
-      "add": "evil."
+      "index": 30,
+      "remove": [
+        "evil;"
+      ],
+      "add": [
+        "evil."
+      ]
     }
   ],
   "Jacob 5:60": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 8,
+      "remove": [
+        "branches,"
+      ],
+      "add": [
+        "branches"
+      ]
     },
     {
-      "remove": "branches,"
+      "index": 12,
+      "remove": [
+        "thereof;"
+      ],
+      "add": [
+        "thereof,"
+      ]
     },
     {
-      "add": "branches"
+      "index": 22,
+      "remove": [
+        "again,"
+      ],
+      "add": [
+        "again"
+      ]
     },
     {
-      "remove": "thereof;"
+      "index": 26,
+      "remove": [
+        "tree;"
+      ],
+      "add": [
+        "tree,"
+      ]
     },
     {
-      "add": "thereof,"
+      "index": 36,
+      "remove": [
+        "that",
+        "perhaps"
+      ],
+      "add": [
+        "that,",
+        "perhaps,"
+      ]
     },
     {
-      "remove": "again,"
+      "index": 61,
+      "remove": [
+        "vineyard;"
+      ],
+      "add": [
+        "vineyard,"
+      ]
     },
     {
-      "add": "again"
+      "index": 63,
+      "remove": [
+        "perhaps"
+      ],
+      "add": [
+        "perhaps,"
+      ]
     },
     {
-      "remove": "tree;"
+      "index": 68,
+      "remove": [
+        "exceedingly,"
+      ],
+      "add": [
+        "exceedingly"
+      ]
     },
     {
-      "add": "tree,"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "add": "that,"
-    },
-    {
-      "remove": "perhaps"
-    },
-    {
-      "add": "perhaps,"
-    },
-    {
-      "remove": "vineyard;"
-    },
-    {
-      "add": "vineyard,"
-    },
-    {
-      "remove": "perhaps"
-    },
-    {
-      "add": "perhaps,"
-    },
-    {
-      "remove": "exceedingly,"
-    },
-    {
-      "add": "exceedingly"
-    },
-    {
-      "remove": "fruit;"
-    },
-    {
-      "add": "fruit—"
+      "index": 81,
+      "remove": [
+        "fruit;"
+      ],
+      "add": [
+        "fruit—"
+      ]
     }
   ],
   "Jacob 5:61": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
+      "index": 13,
+      "remove": [
+        "mights"
+      ],
+      "add": [
+        "might"
+      ]
     },
     {
-      "remove": "mights"
-    },
-    {
-      "add": "might"
-    },
-    {
-      "remove": "good,"
-    },
-    {
-      "add": "good"
+      "index": 36,
+      "remove": [
+        "good,"
+      ],
+      "add": [
+        "good"
+      ]
     }
   ],
   "Jacob 5:62": [
     {
-      "remove": "to,"
+      "index": 4,
+      "remove": [
+        "to,"
+      ],
+      "add": [
+        "to"
+      ]
     },
     {
-      "add": "to"
+      "index": 9,
+      "remove": [
+        "mights,"
+      ],
+      "add": [
+        "might"
+      ]
     },
     {
-      "remove": "mights,"
+      "index": 12,
+      "remove": [
+        "time:"
+      ],
+      "add": [
+        "time,"
+      ]
     },
     {
-      "add": "might"
+      "index": 14,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     },
     {
-      "remove": "time:"
-    },
-    {
-      "add": "time,"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
-    },
-    {
-      "remove": "nigh;"
-    },
-    {
-      "add": "nigh,"
+      "index": 18,
+      "remove": [
+        "nigh;"
+      ],
+      "add": [
+        "nigh,"
+      ]
     }
   ],
   "Jacob 5:63": [
     {
-      "remove": "branches:"
+      "index": 3,
+      "remove": [
+        "branches:"
+      ],
+      "add": [
+        "branches;"
+      ]
     },
     {
-      "add": "branches;"
+      "index": 7,
+      "remove": [
+        "last,"
+      ],
+      "add": [
+        "last"
+      ]
     },
     {
-      "remove": "last,"
-    },
-    {
-      "add": "last"
-    },
-    {
-      "remove": "last,"
-    },
-    {
-      "add": "last;"
+      "index": 33,
+      "remove": [
+        "last,"
+      ],
+      "add": [
+        "last;"
+      ]
     }
   ],
   "Jacob 5:64": [
     {
-      "remove": "time:"
+      "index": 15,
+      "remove": [
+        "time:"
+      ],
+      "add": [
+        "time,"
+      ]
     },
     {
-      "add": "time,"
+      "index": 24,
+      "remove": [],
+      "add": [
+        "be"
+      ]
     },
     {
-      "add": "be"
+      "index": 25,
+      "remove": [
+        "be"
+      ],
+      "add": []
     },
     {
-      "remove": "be"
-    },
-    {
-      "remove": "grow;"
-    },
-    {
-      "add": "grow."
+      "index": 49,
+      "remove": [
+        "grow;"
+      ],
+      "add": [
+        "grow."
+      ]
     }
   ],
   "Jacob 5:65": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 5,
+      "remove": [
+        "grow,"
+      ],
+      "add": [
+        "grow"
+      ]
     },
     {
-      "remove": "grow,"
-    },
-    {
-      "add": "grow"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
+      "index": 36,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     }
   ],
   "Jacob 5:66": [
     {
-      "remove": "wherefore,"
+      "index": 13,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "wherefore"
+      ]
     },
     {
-      "add": "wherefore"
-    },
-    {
-      "remove": "bad,"
-    },
-    {
-      "add": "bad"
+      "index": 19,
+      "remove": [
+        "bad,"
+      ],
+      "add": [
+        "bad"
+      ]
     }
   ],
   "Jacob 5:67": [
     {
-      "remove": "tree,"
+      "index": 6,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     },
     {
-      "add": "tree"
-    },
-    {
-      "remove": "again,"
-    },
-    {
-      "add": "again"
+      "index": 11,
+      "remove": [
+        "again,"
+      ],
+      "add": [
+        "again"
+      ]
     }
   ],
   "Jacob 5:68": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 6,
+      "remove": [
+        "tree,"
+      ],
+      "add": [
+        "tree"
+      ]
     },
     {
-      "remove": "tree,"
-    },
-    {
-      "add": "tree"
-    },
-    {
-      "remove": "fruit:"
-    },
-    {
-      "add": "fruit,"
+      "index": 32,
+      "remove": [
+        "fruit:"
+      ],
+      "add": [
+        "fruit,"
+      ]
     }
   ],
   "Jacob 5:69": [
     {
-      "remove": "away;"
+      "index": 6,
+      "remove": [
+        "away;"
+      ],
+      "add": [
+        "away,"
+      ]
     },
     {
-      "add": "away,"
-    },
-    {
-      "remove": "vineyard:"
-    },
-    {
-      "add": "vineyard;"
+      "index": 16,
+      "remove": [
+        "vineyard:"
+      ],
+      "add": [
+        "vineyard;"
+      ]
     }
   ],
   "Jacob 5:71": [
     {
-      "remove": "saith"
+      "index": 6,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 8,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them:"
+      ]
     },
     {
-      "remove": "them,"
+      "index": 18,
+      "remove": [
+        "mights."
+      ],
+      "add": [
+        "might."
+      ]
     },
     {
-      "add": "them:"
+      "index": 31,
+      "remove": [
+        "vineyard:"
+      ],
+      "add": [
+        "vineyard;"
+      ]
     },
     {
-      "remove": "mights."
+      "index": 50,
+      "remove": [
+        "mights"
+      ],
+      "add": [
+        "might"
+      ]
     },
     {
-      "add": "might."
+      "index": 52,
+      "remove": [
+        "me,"
+      ],
+      "add": [
+        "me"
+      ]
     },
     {
-      "remove": "vineyard:"
-    },
-    {
-      "add": "vineyard;"
-    },
-    {
-      "remove": "mights"
-    },
-    {
-      "add": "might"
-    },
-    {
-      "remove": "me,"
-    },
-    {
-      "add": "me"
-    },
-    {
-      "remove": "myself,"
-    },
-    {
-      "add": "myself"
+      "index": 66,
+      "remove": [
+        "myself,"
+      ],
+      "add": [
+        "myself"
+      ]
     }
   ],
   "Jacob 5:72": [
     {
-      "remove": "to"
+      "index": 10,
+      "remove": [
+        "to",
+        "it,"
+      ],
+      "add": []
     },
     {
-      "remove": "it,"
+      "index": 26,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     },
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them;"
-    },
-    {
-      "remove": "vineyard,"
-    },
-    {
-      "add": "vineyard"
+      "index": 38,
+      "remove": [
+        "vineyard,"
+      ],
+      "add": [
+        "vineyard"
+      ]
     }
   ],
   "Jacob 5:73": [
     {
-      "remove": "off,"
+      "index": 30,
+      "remove": [
+        "off,"
+      ],
+      "add": [
+        "off"
+      ]
     },
     {
-      "add": "off"
-    },
-    {
-      "remove": "thereof,"
-    },
-    {
-      "add": "thereof"
+      "index": 45,
+      "remove": [
+        "thereof,"
+      ],
+      "add": [
+        "thereof"
+      ]
     }
   ],
   "Jacob 5:74": [
     {
-      "remove": "himself,"
+      "index": 35,
+      "remove": [
+        "himself,"
+      ],
+      "add": [
+        "himself"
+      ]
     },
     {
-      "add": "himself"
-    },
-    {
-      "remove": "fruit"
-    },
-    {
-      "add": "fruits"
+      "index": 54,
+      "remove": [
+        "fruit"
+      ],
+      "add": [
+        "fruits"
+      ]
     }
   ],
   "Jacob 5:75": [
     {
-      "remove": "calleth"
+      "index": 27,
+      "remove": [
+        "calleth"
+      ],
+      "add": [
+        "called"
+      ]
     },
     {
-      "add": "called"
+      "index": 30,
+      "remove": [
+        "servants"
+      ],
+      "add": [
+        "servants,"
+      ]
     },
     {
-      "remove": "servants"
+      "index": 32,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "servants,"
+      "index": 34,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them:"
+      ]
     },
     {
-      "remove": "sayeth"
+      "index": 74,
+      "remove": [
+        "beginning;",
+        "and"
+      ],
+      "add": [
+        "beginning.",
+        "And"
+      ]
     },
     {
-      "add": "said"
+      "index": 78,
+      "remove": [
+        "thou.",
+        "For"
+      ],
+      "add": [
+        "thou;",
+        "for"
+      ]
     },
     {
-      "remove": "them,"
+      "index": 81,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "add": "them:"
+      "index": 99,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "remove": "beginning;"
+      "index": 120,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     },
     {
-      "add": "beginning."
-    },
-    {
-      "remove": "and"
-    },
-    {
-      "add": "And"
-    },
-    {
-      "remove": "thou."
-    },
-    {
-      "add": "thou;"
-    },
-    {
-      "remove": "For"
-    },
-    {
-      "add": "for"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
-    },
-    {
-      "remove": "me,"
-    },
-    {
-      "add": "me"
+      "index": 126,
+      "remove": [
+        "me,"
+      ],
+      "add": [
+        "me"
+      ]
     }
   ],
   "Jacob 5:76": [
     {
-      "remove": "self,"
-    },
-    {
-      "add": "self"
+      "index": 19,
+      "remove": [
+        "self,"
+      ],
+      "add": [
+        "self"
+      ]
     }
   ],
   "Jacob 5:77": [
     {
-      "remove": "myself;"
-    },
-    {
-      "add": "myself,"
+      "index": 33,
+      "remove": [
+        "myself;"
+      ],
+      "add": [
+        "myself,"
+      ]
     }
   ],
   "Jacob 6:1": [
     {
-      "remove": "prophesy:"
+      "index": 18,
+      "remove": [
+        "prophesy:",
+        "That"
+      ],
+      "add": [
+        "prophecy—",
+        "that"
+      ]
     },
     {
-      "add": "prophecy—"
+      "index": 29,
+      "remove": [
+        "House"
+      ],
+      "add": [
+        "house"
+      ]
     },
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
-    },
-    {
-      "remove": "House"
-    },
-    {
-      "add": "house"
-    },
-    {
-      "add": "olive-tree,"
-    },
-    {
-      "remove": "olive"
-    },
-    {
-      "remove": "tree,"
+      "index": 41,
+      "remove": [
+        "olive",
+        "tree,"
+      ],
+      "add": [
+        "olive-tree,"
+      ]
     }
   ],
   "Jacob 6:2": [
     {
-      "remove": "in"
+      "index": 1,
+      "remove": [
+        "in"
+      ],
+      "add": []
     },
     {
-      "remove": "that,"
-    },
-    {
-      "add": "that"
+      "index": 46,
+      "remove": [
+        "that,"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "Jacob 6:3": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Jacob 6:4": [
     {
-      "remove": "us:"
+      "index": 7,
+      "remove": [
+        "us:"
+      ],
+      "add": [
+        "us,"
+      ]
     },
     {
-      "add": "us,"
+      "index": 12,
+      "remove": [
+        "House"
+      ],
+      "add": [
+        "house"
+      ]
     },
     {
-      "remove": "House"
+      "index": 26,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     },
     {
-      "add": "house"
+      "index": 30,
+      "remove": [
+        "long:"
+      ],
+      "add": [
+        "long;"
+      ]
     },
     {
-      "remove": "them,"
+      "index": 35,
+      "remove": [
+        "stiffnecked,"
+      ],
+      "add": [
+        "stiffnecked"
+      ]
     },
     {
-      "add": "them"
-    },
-    {
-      "remove": "long:"
-    },
-    {
-      "add": "long;"
-    },
-    {
-      "remove": "stiffnecked,"
-    },
-    {
-      "add": "stiffnecked"
-    },
-    {
-      "remove": "Kingdom"
-    },
-    {
-      "add": "kingdom"
+      "index": 54,
+      "remove": [
+        "Kingdom"
+      ],
+      "add": [
+        "kingdom"
+      ]
     }
   ],
   "Jacob 6:5": [
     {
-      "remove": "soberness,"
-    },
-    {
-      "add": "soberness"
+      "index": 11,
+      "remove": [
+        "soberness,"
+      ],
+      "add": [
+        "soberness"
+      ]
     }
   ],
   "Jacob 6:6": [
     {
-      "remove": "to-day"
-    },
-    {
-      "add": "today,"
+      "index": 1,
+      "remove": [
+        "to-day"
+      ],
+      "add": [
+        "today,"
+      ]
     }
   ],
   "Jacob 6:7": [
     {
-      "remove": "that"
+      "index": 3,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Jacob 6:8": [
     {
-      "remove": "Prophets?"
+      "index": 13,
+      "remove": [
+        "Prophets?"
+      ],
+      "add": [
+        "prophets;"
+      ]
     },
     {
-      "add": "prophets;"
+      "index": 28,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 34,
+      "remove": [
+        "him?"
+      ],
+      "add": [
+        "him;"
+      ]
     },
     {
-      "remove": "him?"
-    },
-    {
-      "add": "him;"
-    },
-    {
-      "remove": "Spirit?"
-    },
-    {
-      "add": "Spirit,"
+      "index": 58,
+      "remove": [
+        "Spirit?"
+      ],
+      "add": [
+        "Spirit,"
+      ]
     }
   ],
   "Jacob 6:9": [
     {
-      "remove": "resurrection"
+      "index": 18,
+      "remove": [
+        "resurrection"
+      ],
+      "add": [
+        "resurrection,"
+      ]
     },
     {
-      "add": "resurrection,"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God?"
+      "index": 37,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God?"
+      ]
     }
   ],
   "Jacob 6:10": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 6,
+      "remove": [
+        "justice?"
+      ],
+      "add": [
+        "justice,"
+      ]
     },
     {
-      "remove": "justice?"
+      "index": 11,
+      "remove": [
+        "denied.",
+        "That"
+      ],
+      "add": [
+        "denied,"
+      ]
     },
     {
-      "add": "justice,"
+      "index": 35,
+      "remove": [
+        "ever?"
+      ],
+      "add": [
+        "ever,"
+      ]
     },
     {
-      "remove": "denied."
-    },
-    {
-      "add": "denied,"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "remove": "ever?"
-    },
-    {
-      "add": "ever,"
-    },
-    {
-      "remove": "brimstone,"
-    },
-    {
-      "add": "brimstone"
+      "index": 41,
+      "remove": [
+        "brimstone,"
+      ],
+      "add": [
+        "brimstone"
+      ]
     }
   ],
   "Jacob 6:11": [
     {
-      "remove": "straight"
-    },
-    {
-      "add": "strait"
+      "index": 12,
+      "remove": [
+        "straight"
+      ],
+      "add": [
+        "strait"
+      ]
     }
   ],
   "Jacob 6:12": [
     {
-      "remove": "wise:"
-    },
-    {
-      "add": "wise;"
+      "index": 2,
+      "remove": [
+        "wise:"
+      ],
+      "add": [
+        "wise;"
+      ]
     }
   ],
   "Jacob 6:13": [
     {
-      "remove": "fear.—"
-    },
-    {
-      "add": "fear."
+      "index": 25,
+      "remove": [
+        "fear.—"
+      ],
+      "add": [
+        "fear."
+      ]
     }
   ],
   "Jacob 7:1": [
     {
-      "remove": "that"
+      "index": 6,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Jacob 7:2": [
     {
-      "remove": "done,"
-    },
-    {
-      "add": "did"
+      "index": 38,
+      "remove": [
+        "done,"
+      ],
+      "add": [
+        "did"
+      ]
     }
   ],
   "Jacob 7:3": [
     {
-      "remove": "which"
+      "index": 32,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "wherefore,"
+      "index": 35,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": []
     }
   ],
   "Jacob 7:4": [
     {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 33,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "Jacob 7:5": [
     {
-      "remove": "revelations,"
+      "index": 13,
+      "remove": [
+        "revelations,"
+      ],
+      "add": [
+        "revelations"
+      ]
     },
     {
-      "add": "revelations"
+      "index": 24,
+      "remove": [
+        "things:"
+      ],
+      "add": [
+        "things;"
+      ]
     },
     {
-      "remove": "things:"
-    },
-    {
-      "add": "things;"
-    },
-    {
-      "remove": "Angels,"
-    },
-    {
-      "add": "angels,"
+      "index": 30,
+      "remove": [
+        "Angels,"
+      ],
+      "add": [
+        "angels,"
+      ]
     }
   ],
   "Jacob 7:6": [
     {
-      "remove": "me;"
+      "index": 9,
+      "remove": [
+        "me;"
+      ],
+      "add": [
+        "me,"
+      ]
     },
     {
-      "add": "me,"
+      "index": 32,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you;"
+      ]
     },
     {
-      "remove": "you:"
+      "index": 39,
+      "remove": [
+        "know,"
+      ],
+      "add": [
+        "know"
+      ]
     },
     {
-      "add": "you;"
+      "index": 51,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     },
     {
-      "remove": "know,"
-    },
-    {
-      "add": "know"
-    },
-    {
-      "remove": "Gospel,"
-    },
-    {
-      "add": "gospel,"
-    },
-    {
-      "remove": "Christ;"
-    },
-    {
-      "add": "Christ."
+      "index": 56,
+      "remove": [
+        "Christ;"
+      ],
+      "add": [
+        "Christ."
+      ]
     }
   ],
   "Jacob 7:7": [
     {
-      "remove": "and"
+      "index": 0,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "And"
+      ]
     },
     {
-      "add": "And"
+      "index": 8,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people"
+      ]
     },
     {
-      "remove": "people,"
+      "index": 23,
+      "remove": [
+        "Moses,"
+      ],
+      "add": [
+        "Moses"
+      ]
     },
     {
-      "add": "people"
+      "index": 40,
+      "remove": [
+        "being,"
+      ],
+      "add": [
+        "being"
+      ]
     },
     {
-      "remove": "Moses,"
+      "index": 57,
+      "remove": [
+        "you,"
+      ],
+      "add": [
+        "you"
+      ]
     },
     {
-      "add": "Moses"
-    },
-    {
-      "remove": "being,"
-    },
-    {
-      "add": "being"
-    },
-    {
-      "remove": "you,"
-    },
-    {
-      "add": "you"
-    },
-    {
-      "remove": "things:"
-    },
-    {
-      "add": "things;"
+      "index": 68,
+      "remove": [
+        "things:"
+      ],
+      "add": [
+        "things;"
+      ]
     }
   ],
   "Jacob 7:8": [
     {
-      "remove": "spirit"
-    },
-    {
-      "add": "Spirit"
+      "index": 8,
+      "remove": [
+        "spirit"
+      ],
+      "add": [
+        "Spirit"
+      ]
     }
   ],
   "Jacob 7:9": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 4,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "remove": "him,"
+      "index": 9,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "him:"
+      "index": 14,
+      "remove": [
+        "sayeth,"
+      ],
+      "add": [
+        "said:"
+      ]
     },
     {
-      "remove": "which"
+      "index": 35,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "sayeth,"
-    },
-    {
-      "add": "said:"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "never"
-    },
-    {
-      "add": "ever"
+      "index": 38,
+      "remove": [
+        "never"
+      ],
+      "add": [
+        "ever"
+      ]
     }
   ],
   "Jacob 7:10": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 4,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "remove": "him,"
+      "index": 8,
+      "remove": [
+        "Scriptures?"
+      ],
+      "add": [
+        "scriptures?"
+      ]
     },
     {
-      "add": "him:"
-    },
-    {
-      "remove": "Scriptures?"
-    },
-    {
-      "add": "scriptures?"
-    },
-    {
-      "remove": "sayeth,"
-    },
-    {
-      "add": "said,"
+      "index": 11,
+      "remove": [
+        "sayeth,"
+      ],
+      "add": [
+        "said,"
+      ]
     }
   ],
   "Jacob 7:11": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 4,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "remove": "him,"
-    },
-    {
-      "add": "him:"
-    },
-    {
-      "remove": "you,"
-    },
-    {
-      "add": "you"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 21,
+      "remove": [
+        "you,",
+        "That"
+      ],
+      "add": [
+        "you",
+        "that"
+      ]
     }
   ],
   "Jacob 7:12": [
     {
-      "remove": "all:"
+      "index": 4,
+      "remove": [
+        "all:"
+      ],
+      "add": [
+        "all—"
+      ]
     },
     {
-      "add": "all—"
+      "index": 6,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "remove": "hath"
+      "index": 21,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "add": "has"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "made,"
-    },
-    {
-      "add": "made"
+      "index": 43,
+      "remove": [
+        "made,"
+      ],
+      "add": [
+        "made"
+      ]
     }
   ],
   "Jacob 7:13": [
     {
-      "remove": "sayeth"
+      "index": 7,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "me,"
-    },
-    {
-      "add": "me:"
-    },
-    {
-      "remove": "Shew"
-    },
-    {
-      "add": "Show"
+      "index": 9,
+      "remove": [
+        "me,",
+        "Shew"
+      ],
+      "add": [
+        "me:",
+        "Show"
+      ]
     }
   ],
   "Jacob 7:14": [
     {
-      "remove": "him,"
+      "index": 4,
+      "remove": [
+        "him,"
+      ],
+      "add": [
+        "him:"
+      ]
     },
     {
-      "add": "him:"
+      "index": 7,
+      "remove": [
+        "I,"
+      ],
+      "add": [
+        "I"
+      ]
     },
     {
-      "remove": "I,"
+      "index": 14,
+      "remove": [
+        "shew"
+      ],
+      "add": [
+        "show"
+      ]
     },
     {
-      "add": "I"
+      "index": 18,
+      "remove": [
+        "sign,"
+      ],
+      "add": [
+        "sign"
+      ]
     },
     {
-      "remove": "shew"
+      "index": 38,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     },
     {
-      "add": "show"
+      "index": 60,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     },
     {
-      "remove": "sign,"
+      "index": 64,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     },
     {
-      "add": "sign"
-    },
-    {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
-    },
-    {
-      "remove": "Heaven"
-    },
-    {
-      "add": "heaven"
-    },
-    {
-      "remove": "Earth;"
-    },
-    {
-      "add": "earth;"
+      "index": 67,
+      "remove": [
+        "Earth;"
+      ],
+      "add": [
+        "earth;"
+      ]
     }
   ],
   "Jacob 7:16": [
     {
-      "remove": "sayeth"
+      "index": 7,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 10,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people:"
+      ]
     },
     {
-      "remove": "people,"
-    },
-    {
-      "add": "people:"
-    },
-    {
-      "remove": "that"
+      "index": 29,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Jacob 7:17": [
     {
-      "remove": "morrow,"
+      "index": 8,
+      "remove": [
+        "morrow,",
+        "that"
+      ],
+      "add": [
+        "morrow"
+      ]
     },
     {
-      "add": "morrow"
+      "index": 20,
+      "remove": [
+        "them,"
+      ],
+      "add": [
+        "them"
+      ]
     },
     {
-      "remove": "that"
+      "index": 29,
+      "remove": [
+        "them;"
+      ],
+      "add": [
+        "them,"
+      ]
     },
     {
-      "remove": "them,"
-    },
-    {
-      "add": "them"
-    },
-    {
-      "remove": "them;"
-    },
-    {
-      "add": "them,"
-    },
-    {
-      "remove": "Angels."
-    },
-    {
-      "add": "angels."
+      "index": 45,
+      "remove": [
+        "Angels."
+      ],
+      "add": [
+        "angels."
+      ]
     }
   ],
   "Jacob 7:18": [
     {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 16,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "Jacob 7:19": [
     {
-      "remove": "sayeth,"
+      "index": 2,
+      "remove": [
+        "sayeth,"
+      ],
+      "add": [
+        "said:"
+      ]
     },
     {
-      "add": "said:"
+      "index": 17,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God;"
+      ]
     },
     {
-      "remove": "God:"
+      "index": 29,
+      "remove": [
+        "Scriptures;"
+      ],
+      "add": [
+        "scriptures;"
+      ]
     },
     {
-      "add": "God;"
+      "index": 38,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "Scriptures;"
-    },
-    {
-      "add": "scriptures;"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
+      "index": 44,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     }
   ],
   "Jacob 7:20": [
     {
-      "remove": "words,"
+      "index": 11,
+      "remove": [
+        "words,"
+      ],
+      "add": [
+        "words"
+      ]
     },
     {
-      "add": "words"
-    },
-    {
-      "remove": "more;"
-    },
-    {
-      "add": "more,"
+      "index": 16,
+      "remove": [
+        "more;"
+      ],
+      "add": [
+        "more,"
+      ]
     }
   ],
   "Jacob 7:21": [
     {
-      "remove": "insomuch,"
+      "index": 24,
+      "remove": [
+        "insomuch,"
+      ],
+      "add": [
+        "insomuch"
+      ]
     },
     {
-      "add": "insomuch"
-    },
-    {
-      "remove": "overcome,"
-    },
-    {
-      "add": "overcome"
+      "index": 37,
+      "remove": [
+        "overcome,"
+      ],
+      "add": [
+        "overcome"
+      ]
     }
   ],
   "Jacob 7:22": [
     {
-      "remove": "Jacob;"
+      "index": 7,
+      "remove": [
+        "Jacob;"
+      ],
+      "add": [
+        "Jacob,"
+      ]
     },
     {
-      "add": "Jacob,"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 19,
+      "remove": [
+        "Heaven:"
+      ],
+      "add": [
+        "heaven;"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Heaven:"
-    },
-    {
-      "add": "heaven;"
-    },
-    {
-      "remove": "cry,"
-    },
-    {
-      "add": "cry"
+      "index": 25,
+      "remove": [
+        "cry,"
+      ],
+      "add": [
+        "cry"
+      ]
     }
   ],
   "Jacob 7:23": [
     {
-      "remove": "peace,"
+      "index": 6,
+      "remove": [
+        "peace,"
+      ],
+      "add": [
+        "peace"
+      ]
     },
     {
-      "add": "peace"
+      "index": 11,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
-    },
-    {
-      "remove": "Scriptures,"
-    },
-    {
-      "add": "scriptures,"
+      "index": 22,
+      "remove": [
+        "Scriptures,"
+      ],
+      "add": [
+        "scriptures,"
+      ]
     }
   ],
   "Jacob 7:24": [
     {
-      "remove": "devised,"
+      "index": 9,
+      "remove": [
+        "devised,"
+      ],
+      "add": [
+        "devised"
+      ]
     },
     {
-      "add": "devised"
+      "index": 15,
+      "remove": [
+        "Lamanites,"
+      ],
+      "add": [
+        "Lamanites"
+      ]
     },
     {
-      "remove": "Lamanites,"
+      "index": 25,
+      "remove": [
+        "were",
+        "vain:"
+      ],
+      "add": [
+        "was",
+        "vain,"
+      ]
     },
     {
-      "add": "Lamanites"
+      "index": 33,
+      "remove": [
+        "bloodsheds;"
+      ],
+      "add": [
+        "bloodshed,"
+      ]
     },
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
-    },
-    {
-      "remove": "vain:"
-    },
-    {
-      "add": "vain,"
-    },
-    {
-      "remove": "bloodsheds;"
-    },
-    {
-      "add": "bloodshed,"
-    },
-    {
-      "remove": "continually;"
-    },
-    {
-      "add": "continually."
+      "index": 56,
+      "remove": [
+        "continually;"
+      ],
+      "add": [
+        "continually."
+      ]
     }
   ],
   "Jacob 7:25": [
     {
-      "remove": "wherefore,"
+      "index": 0,
+      "remove": [
+        "wherefore,"
+      ],
+      "add": [
+        "Wherefore,"
+      ]
     },
     {
-      "add": "Wherefore,"
-    },
-    {
-      "remove": "the"
+      "index": 22,
+      "remove": [
+        "the"
+      ],
+      "add": []
     }
   ],
   "Jacob 7:26": [
     {
-      "remove": "saying,"
+      "index": 44,
+      "remove": [
+        "saying,",
+        "That"
+      ],
+      "add": [
+        "saying",
+        "that"
+      ]
     },
     {
-      "add": "saying"
+      "index": 57,
+      "remove": [
+        "away,"
+      ],
+      "add": [
+        "away"
+      ]
     },
     {
-      "remove": "That"
+      "index": 74,
+      "remove": [
+        "wanderers"
+      ],
+      "add": [
+        "wanderers,"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "away,"
-    },
-    {
-      "add": "away"
-    },
-    {
-      "remove": "wanderers"
-    },
-    {
-      "add": "wanderers,"
-    },
-    {
-      "remove": "Jerusalem;"
-    },
-    {
-      "add": "Jerusalem,"
+      "index": 78,
+      "remove": [
+        "Jerusalem;"
+      ],
+      "add": [
+        "Jerusalem,"
+      ]
     }
   ],
   "Jacob 7:27": [
     {
-      "remove": "Enos,"
+      "index": 19,
+      "remove": [
+        "Enos,"
+      ],
+      "add": [
+        "Enos:"
+      ]
     },
     {
-      "add": "Enos:"
+      "index": 35,
+      "remove": [
+        "me;"
+      ],
+      "add": [
+        "me,"
+      ]
     },
     {
-      "remove": "me;"
-    },
-    {
-      "add": "me,"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 56,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ]
 }

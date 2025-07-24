@@ -1,1061 +1,1481 @@
 {
   "Moroni 1:3": [
     {
-      "remove": "whithersoever"
-    },
-    {
-      "add": "whithsoever"
+      "index": 11,
+      "remove": [
+        "whithersoever"
+      ],
+      "add": [
+        "whithsoever"
+      ]
     }
   ],
   "Moroni 1:4": [
     {
-      "remove": "Wherefore,"
+      "index": 0,
+      "remove": [
+        "Wherefore,"
+      ],
+      "add": [
+        "Wherefore"
+      ]
     },
     {
-      "add": "Wherefore"
-    },
-    {
-      "remove": "supposed:"
-    },
-    {
-      "add": "supposed;"
+      "index": 13,
+      "remove": [
+        "supposed:"
+      ],
+      "add": [
+        "supposed;"
+      ]
     }
   ],
   "Moroni 2:1": [
     {
-      "remove": "The"
-    },
-    {
-      "add": "THE"
+      "index": 0,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "THE"
+      ]
     }
   ],
   "Moroni 2:2": [
     {
-      "remove": "Ye"
+      "index": 7,
+      "remove": [
+        "Ye"
+      ],
+      "add": [
+        "ye"
+      ]
     },
     {
-      "add": "ye"
+      "index": 21,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
-    },
-    {
-      "remove": "it:"
-    },
-    {
-      "add": "it,"
+      "index": 52,
+      "remove": [
+        "it:"
+      ],
+      "add": [
+        "it,"
+      ]
     }
   ],
   "Moroni 2:3": [
     {
-      "remove": "it;"
-    },
-    {
-      "add": "it,"
+      "index": 24,
+      "remove": [
+        "it;"
+      ],
+      "add": [
+        "it,"
+      ]
     }
   ],
   "Moroni 3:1": [
     {
-      "remove": "The"
+      "index": 0,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "THE"
+      ]
     },
     {
-      "add": "THE"
+      "index": 5,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Elders"
-    },
-    {
-      "add": "elders"
+      "index": 9,
+      "remove": [
+        "Elders"
+      ],
+      "add": [
+        "elders"
+      ]
     }
   ],
   "Moroni 3:3": [
     {
-      "remove": "In"
+      "index": 0,
+      "remove": [
+        "In"
+      ],
+      "add": [
+        "in"
+      ]
     },
     {
-      "add": "in"
-    },
-    {
-      "remove": "end."
-    },
-    {
-      "add": "end"
+      "index": 48,
+      "remove": [
+        "end."
+      ],
+      "add": [
+        "end"
+      ]
     }
   ],
   "Moroni 4:1": [
     {
-      "remove": "The"
+      "index": 0,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "THE"
+      ]
     },
     {
-      "add": "THE"
+      "index": 30,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 35,
+      "remove": [
+        "true:"
+      ],
+      "add": [
+        "true;"
+      ]
     },
     {
-      "remove": "true:"
-    },
-    {
-      "add": "true;"
-    },
-    {
-      "add": "or"
+      "index": 39,
+      "remove": [],
+      "add": [
+        "or"
+      ]
     }
   ],
   "Moroni 5:1": [
     {
-      "remove": "The"
-    },
-    {
-      "add": "THE"
+      "index": 0,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "THE"
+      ]
     }
   ],
   "Moroni 6:1": [
     {
-      "remove": "And"
-    },
-    {
-      "add": "AND"
+      "index": 0,
+      "remove": [
+        "And"
+      ],
+      "add": [
+        "AND"
+      ]
     }
   ],
   "Moroni 6:3": [
     {
-      "remove": "unto"
-    },
-    {
-      "add": "to"
+      "index": 21,
+      "remove": [
+        "unto"
+      ],
+      "add": [
+        "to"
+      ]
     }
   ],
   "Moroni 6:4": [
     {
-      "remove": "that"
+      "index": 2,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "the"
+      "index": 8,
+      "remove": [
+        "the"
+      ],
+      "add": []
     }
   ],
   "Moroni 6:5": [
     {
-      "remove": "souls;"
-    },
-    {
-      "add": "souls:"
+      "index": 23,
+      "remove": [
+        "souls;"
+      ],
+      "add": [
+        "souls:"
+      ]
     }
   ],
   "Moroni 6:9": [
     {
-      "remove": "Ghost:"
+      "index": 24,
+      "remove": [
+        "Ghost:"
+      ],
+      "add": [
+        "Ghost;"
+      ]
     },
     {
-      "add": "Ghost;"
-    },
-    {
-      "remove": "preach,"
-    },
-    {
-      "add": "preach"
+      "index": 37,
+      "remove": [
+        "preach,"
+      ],
+      "add": [
+        "preach"
+      ]
     }
   ],
   "Moroni 7:1": [
     {
-      "remove": "charity:"
-    },
-    {
-      "add": "charity;"
+      "index": 21,
+      "remove": [
+        "charity:"
+      ],
+      "add": [
+        "charity;"
+      ]
     }
   ],
   "Moroni 7:2": [
     {
-      "remove": "now"
-    },
-    {
-      "add": "now,"
+      "index": 1,
+      "remove": [
+        "now"
+      ],
+      "add": [
+        "now,"
+      ]
     }
   ],
   "Moroni 7:3": [
     {
-      "add": "henceforth,"
+      "index": 39,
+      "remove": [
+        "hence",
+        "forth,"
+      ],
+      "add": [
+        "henceforth,"
+      ]
     },
     {
-      "remove": "hence"
-    },
-    {
-      "remove": "forth,"
-    },
-    {
-      "remove": "Heaven."
-    },
-    {
-      "add": "heaven."
+      "index": 48,
+      "remove": [
+        "Heaven."
+      ],
+      "add": [
+        "heaven."
+      ]
     }
   ],
   "Moroni 7:4": [
     {
-      "remove": "men:"
-    },
-    {
-      "add": "men;"
+      "index": 19,
+      "remove": [
+        "men:"
+      ],
+      "add": [
+        "men;"
+      ]
     }
   ],
   "Moroni 7:5": [
     {
-      "remove": "By"
+      "index": 9,
+      "remove": [
+        "By"
+      ],
+      "add": [
+        "by"
+      ]
     },
     {
-      "add": "by"
-    },
-    {
-      "remove": "them:"
-    },
-    {
-      "add": "them;"
+      "index": 15,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     }
   ],
   "Moroni 7:6": [
     {
-      "remove": "A"
+      "index": 5,
+      "remove": [
+        "A"
+      ],
+      "add": [
+        "a"
+      ]
     },
     {
-      "add": "a"
-    },
-    {
-      "remove": "good:"
-    },
-    {
-      "add": "good;"
+      "index": 14,
+      "remove": [
+        "good:"
+      ],
+      "add": [
+        "good;"
+      ]
     }
   ],
   "Moroni 7:8": [
     {
-      "remove": "doeth"
-    },
-    {
-      "add": "doth"
+      "index": 11,
+      "remove": [
+        "doeth"
+      ],
+      "add": [
+        "doth"
+      ]
     }
   ],
   "Moroni 7:9": [
     {
-      "remove": "nothing:"
-    },
-    {
-      "add": "nothing;"
+      "index": 26,
+      "remove": [
+        "nothing:"
+      ],
+      "add": [
+        "nothing;"
+      ]
     }
   ],
   "Moroni 7:11": [
     {
-      "remove": "the"
+      "index": 23,
+      "remove": [
+        "the"
+      ],
+      "add": [
+        "a"
+      ]
     },
     {
-      "add": "a"
+      "index": 27,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     },
     {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
-    },
-    {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 43,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "Moroni 7:12": [
     {
-      "remove": "Devil:"
+      "index": 17,
+      "remove": [
+        "Devil:"
+      ],
+      "add": [
+        "devil;"
+      ]
     },
     {
-      "add": "devil;"
-    },
-    {
-      "remove": "Devil"
-    },
-    {
-      "add": "devil"
+      "index": 20,
+      "remove": [
+        "Devil"
+      ],
+      "add": [
+        "devil"
+      ]
     }
   ],
   "Moroni 7:14": [
     {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 31,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "Moroni 7:15": [
     {
-      "remove": "night.—"
-    },
-    {
-      "add": "night."
+      "index": 41,
+      "remove": [
+        "night.—"
+      ],
+      "add": [
+        "night."
+      ]
     }
   ],
   "Moroni 7:17": [
     {
-      "remove": "Devil,"
+      "index": 32,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     },
     {
-      "add": "devil,"
+      "index": 39,
+      "remove": [
+        "Devil",
+        "work:"
+      ],
+      "add": [
+        "devil",
+        "work,"
+      ]
     },
     {
-      "remove": "Devil"
+      "index": 57,
+      "remove": [
+        "doth"
+      ],
+      "add": [
+        "do"
+      ]
     },
     {
-      "add": "devil"
-    },
-    {
-      "remove": "work:"
-    },
-    {
-      "add": "work,"
-    },
-    {
-      "remove": "doth"
-    },
-    {
-      "add": "do"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 59,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Moroni 7:18": [
     {
-      "remove": "wrongfully:"
-    },
-    {
-      "add": "wrongfully;"
+      "index": 28,
+      "remove": [
+        "wrongfully:"
+      ],
+      "add": [
+        "wrongfully;"
+      ]
     }
   ],
   "Moroni 7:22": [
     {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 11,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "Moroni 7:23": [
     {
-      "remove": "prophets,"
-    },
-    {
-      "add": "prophets"
+      "index": 5,
+      "remove": [
+        "prophets,"
+      ],
+      "add": [
+        "prophets"
+      ]
     }
   ],
   "Moroni 7:25": [
     {
-      "remove": "thing:"
-    },
-    {
-      "add": "thing;"
+      "index": 37,
+      "remove": [
+        "thing:"
+      ],
+      "add": [
+        "thing;"
+      ]
     }
   ],
   "Moroni 7:26": [
     {
-      "remove": "suredly"
+      "index": 25,
+      "remove": [
+        "suredly"
+      ],
+      "add": [
+        "sure"
+      ]
     },
     {
-      "add": "sure"
+      "index": 37,
+      "remove": [
+        "Whatsoever"
+      ],
+      "add": [
+        "whatsoever"
+      ]
     },
     {
-      "remove": "Whatsoever"
-    },
-    {
-      "add": "whatsoever"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 57,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "Moroni 7:27": [
     {
-      "remove": "that"
+      "index": 8,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "men:"
-    },
-    {
-      "add": "men;"
+      "index": 40,
+      "remove": [
+        "men:"
+      ],
+      "add": [
+        "men;"
+      ]
     }
   ],
   "Moroni 7:28": [
     {
-      "remove": "that"
+      "index": 14,
+      "remove": [
+        "that",
+        "hath"
+      ],
+      "add": [
+        "who",
+        "have"
+      ]
     },
     {
-      "remove": "hath"
+      "index": 21,
+      "remove": [
+        "that"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "add": "have"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "heavens.—"
-    },
-    {
-      "add": "heavens."
+      "index": 48,
+      "remove": [
+        "heavens.—"
+      ],
+      "add": [
+        "heavens."
+      ]
     }
   ],
   "Moroni 7:29": [
     {
-      "remove": "that"
+      "index": 2,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "Nay;"
+      "index": 18,
+      "remove": [
+        "Nay;"
+      ],
+      "add": [
+        "nay;"
+      ]
     },
     {
-      "add": "nay;"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 20,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Moroni 7:32": [
     {
-      "remove": "thereof:"
-    },
-    {
-      "add": "thereof;"
+      "index": 34,
+      "remove": [
+        "thereof:"
+      ],
+      "add": [
+        "thereof;"
+      ]
     }
   ],
   "Moroni 7:33": [
     {
-      "remove": "If"
-    },
-    {
-      "add": "if"
+      "index": 4,
+      "remove": [
+        "If"
+      ],
+      "add": [
+        "if"
+      ]
     }
   ],
   "Moroni 7:34": [
     {
-      "remove": "Repent"
-    },
-    {
-      "add": "repent"
+      "index": 4,
+      "remove": [
+        "Repent"
+      ],
+      "add": [
+        "repent"
+      ]
     }
   ],
   "Moroni 7:35": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 45,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Moroni 7:36": [
     {
-      "remove": "hath"
+      "index": 1,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "have"
-    },
-    {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 12,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Moroni 7:37": [
     {
-      "remove": "Nay,"
+      "index": 5,
+      "remove": [
+        "Nay,"
+      ],
+      "add": [
+        "nay,"
+      ]
     },
     {
-      "add": "nay,"
-    },
-    {
-      "remove": "vain:"
-    },
-    {
-      "add": "vain;"
+      "index": 49,
+      "remove": [
+        "vain:"
+      ],
+      "add": [
+        "vain;"
+      ]
     }
   ],
   "Moroni 7:39": [
     {
-      "remove": "Christ,"
+      "index": 19,
+      "remove": [
+        "Christ,"
+      ],
+      "add": [
+        "Christ"
+      ]
     },
     {
-      "add": "Christ"
-    },
-    {
-      "remove": "meekness:"
-    },
-    {
-      "add": "meekness;"
+      "index": 23,
+      "remove": [
+        "meekness:"
+      ],
+      "add": [
+        "meekness;"
+      ]
     }
   ],
   "Moroni 7:41": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 14,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "Moroni 7:42": [
     {
-      "remove": "hope:"
-    },
-    {
-      "add": "hope;"
+      "index": 10,
+      "remove": [
+        "hope:"
+      ],
+      "add": [
+        "hope;"
+      ]
     }
   ],
   "Moroni 7:43": [
     {
-      "remove": "again:"
+      "index": 1,
+      "remove": [
+        "again:",
+        "Behold"
+      ],
+      "add": [
+        "again,",
+        "behold"
+      ]
     },
     {
-      "add": "again,"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "remove": "Behold"
+      "index": 18,
+      "remove": [
+        "meek,"
+      ],
+      "add": [
+        "meek"
+      ]
     },
     {
-      "add": "behold"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
-    },
-    {
-      "remove": "meek,"
-    },
-    {
-      "add": "meek"
-    },
-    {
-      "remove": "heart:"
-    },
-    {
-      "add": "heart;"
+      "index": 22,
+      "remove": [
+        "heart:"
+      ],
+      "add": [
+        "heart;"
+      ]
     }
   ],
   "Moroni 7:44": [
     {
-      "remove": "charity:"
-    },
-    {
-      "add": "charity;"
+      "index": 49,
+      "remove": [
+        "charity:"
+      ],
+      "add": [
+        "charity;"
+      ]
     }
   ],
   "Moroni 7:48": [
     {
-      "remove": "him:"
-    },
-    {
-      "add": "him;"
+      "index": 54,
+      "remove": [
+        "him:"
+      ],
+      "add": [
+        "him;"
+      ]
     }
   ],
   "Moroni 8:1": [
     {
-      "remove": "me,"
+      "index": 8,
+      "remove": [
+        "me,",
+        "Moroni;"
+      ],
+      "add": [
+        "me",
+        "Moroni:"
+      ]
     },
     {
-      "add": "me"
-    },
-    {
-      "remove": "Moroni;"
-    },
-    {
-      "add": "Moroni:"
-    },
-    {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 32,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "Moroni 8:2": [
     {
-      "remove": "My"
-    },
-    {
-      "add": "my"
+      "index": 0,
+      "remove": [
+        "My"
+      ],
+      "add": [
+        "my"
+      ]
     }
   ],
   "Moroni 8:3": [
     {
-      "remove": "Father,"
-    },
-    {
-      "add": "Father"
+      "index": 14,
+      "remove": [
+        "Father,"
+      ],
+      "add": [
+        "Father"
+      ]
     }
   ],
   "Moroni 8:4": [
     {
-      "remove": "son,"
+      "index": 3,
+      "remove": [
+        "son,"
+      ],
+      "add": [
+        "son"
+      ]
     },
     {
-      "add": "son"
-    },
-    {
-      "remove": "exceedingly:"
-    },
-    {
-      "add": "exceedingly;"
+      "index": 13,
+      "remove": [
+        "exceedingly:"
+      ],
+      "add": [
+        "exceedingly;"
+      ]
     }
   ],
   "Moroni 8:5": [
     {
-      "remove": "truth:"
-    },
-    {
-      "add": "truth,"
+      "index": 6,
+      "remove": [
+        "truth:"
+      ],
+      "add": [
+        "truth,"
+      ]
     }
   ],
   "Moroni 8:6": [
     {
-      "remove": "you:"
-    },
-    {
-      "add": "you;"
+      "index": 20,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you;"
+      ]
     }
   ],
   "Moroni 8:8": [
     {
-      "remove": "Listen"
+      "index": 0,
+      "remove": [
+        "Listen"
+      ],
+      "add": [
+        "listen"
+      ]
     },
     {
-      "add": "listen"
+      "index": 9,
+      "remove": [
+        "Lord"
+      ],
+      "add": [
+        "Lord,"
+      ]
     },
     {
-      "remove": "Lord"
-    },
-    {
-      "add": "Lord,"
-    },
-    {
-      "remove": "them:"
-    },
-    {
-      "add": "them;"
+      "index": 68,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     }
   ],
   "Moroni 8:10": [
     {
-      "remove": "they"
+      "index": 15,
+      "remove": [
+        "they",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "children;"
-    },
-    {
-      "add": "children:"
+      "index": 50,
+      "remove": [
+        "children;"
+      ],
+      "add": [
+        "children:"
+      ]
     }
   ],
   "Moroni 8:12": [
     {
-      "remove": "world:"
+      "index": 13,
+      "remove": [
+        "world:"
+      ],
+      "add": [
+        "world;"
+      ]
     },
     {
-      "add": "world;"
-    },
-    {
-      "remove": "persons:"
-    },
-    {
-      "add": "persons;"
+      "index": 31,
+      "remove": [
+        "persons:"
+      ],
+      "add": [
+        "persons;"
+      ]
     }
   ],
   "Moroni 8:14": [
     {
-      "remove": "That"
+      "index": 5,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "add": "of"
-    },
-    {
-      "remove": "iniquity:"
-    },
-    {
-      "add": "iniquity;"
+      "index": 24,
+      "remove": [
+        "iniquity:"
+      ],
+      "add": [
+        "of",
+        "iniquity;"
+      ]
     }
   ],
   "Moroni 8:16": [
     {
-      "remove": "do:"
-    },
-    {
-      "add": "do;"
+      "index": 38,
+      "remove": [
+        "do:"
+      ],
+      "add": [
+        "do;"
+      ]
     }
   ],
   "Moroni 8:20": [
     {
-      "remove": "needeth"
-    },
-    {
-      "add": "need"
+      "index": 7,
+      "remove": [
+        "needeth"
+      ],
+      "add": [
+        "need"
+      ]
     }
   ],
   "Moroni 8:24": [
     {
-      "remove": "had"
+      "index": 5,
+      "remove": [
+        "had"
+      ],
+      "add": [
+        "ought"
+      ]
     },
     {
-      "add": "ought"
+      "index": 7,
+      "remove": [
+        "ought"
+      ],
+      "add": []
     },
     {
-      "remove": "ought"
-    },
-    {
-      "remove": "be:"
-    },
-    {
-      "add": "be;"
+      "index": 9,
+      "remove": [
+        "be:"
+      ],
+      "add": [
+        "be;"
+      ]
     }
   ],
   "Moroni 8:27": [
     {
-      "remove": "proved"
-    },
-    {
-      "add": "proven"
+      "index": 31,
+      "remove": [
+        "proved"
+      ],
+      "add": [
+        "proven"
+      ]
     }
   ],
   "Moroni 8:29": [
     {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 20,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "Moroni 9:2": [
     {
-      "remove": "the"
+      "index": 12,
+      "remove": [
+        "the"
+      ],
+      "add": []
     }
   ],
   "Moroni 9:3": [
     {
-      "remove": "Satan"
-    },
-    {
-      "add": "satan"
+      "index": 20,
+      "remove": [
+        "Satan"
+      ],
+      "add": [
+        "satan"
+      ]
     }
   ],
   "Moroni 9:5": [
     {
-      "remove": "and"
-    },
-    {
-      "add": "aud"
+      "index": 26,
+      "remove": [
+        "and"
+      ],
+      "add": [
+        "aud"
+      ]
     }
   ],
   "Moroni 9:6": [
     {
-      "remove": "diligently:"
+      "index": 11,
+      "remove": [
+        "diligently:"
+      ],
+      "add": [
+        "diligently;"
+      ]
     },
     {
-      "add": "diligently;"
-    },
-    {
-      "remove": "condemnation:"
-    },
-    {
-      "add": "condemnation;"
+      "index": 24,
+      "remove": [
+        "condemnation:"
+      ],
+      "add": [
+        "condemnation;"
+      ]
     }
   ],
   "Moroni 9:9": [
     {
-      "remove": "prisoners;"
-    },
-    {
-      "add": "prisoners:"
+      "index": 30,
+      "remove": [
+        "prisoners;"
+      ],
+      "add": [
+        "prisoners:"
+      ]
     }
   ],
   "Moroni 9:10": [
     {
-      "remove": "that"
+      "index": 2,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 25,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Moroni 9:16": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Moroni 9:21": [
     {
-      "remove": "God,"
-    },
-    {
-      "add": "God"
+      "index": 8,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     }
   ],
   "Moroni 9:22": [
     {
-      "remove": "destruction:"
-    },
-    {
-      "add": "destruction;"
+      "index": 42,
+      "remove": [
+        "destruction:"
+      ],
+      "add": [
+        "destruction;"
+      ]
     }
   ],
   "Moroni 9:23": [
     {
-      "remove": "perish,"
-    },
-    {
-      "add": "perish"
+      "index": 3,
+      "remove": [
+        "perish,"
+      ],
+      "add": [
+        "perish"
+      ]
     }
   ],
   "Moroni 9:24": [
     {
-      "remove": "soon:"
-    },
-    {
-      "add": "soon;"
+      "index": 56,
+      "remove": [
+        "soon:"
+      ],
+      "add": [
+        "soon;"
+      ]
     }
   ],
   "Moroni 10:1": [
     {
-      "remove": "brethren,"
+      "index": 14,
+      "remove": [
+        "brethren,"
+      ],
+      "add": [
+        "brethren"
+      ]
     },
     {
-      "add": "brethren"
-    },
-    {
-      "remove": "has"
-    },
-    {
-      "add": "have"
+      "index": 32,
+      "remove": [
+        "has"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Moroni 10:2": [
     {
-      "remove": "that"
+      "index": 7,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Moroni 10:3": [
     {
-      "remove": "things,"
-    },
-    {
-      "add": "things"
+      "index": 11,
+      "remove": [
+        "things,"
+      ],
+      "add": [
+        "things"
+      ]
     }
   ],
   "Moroni 10:4": [
     {
-      "remove": "Eternal"
+      "index": 17,
+      "remove": [
+        "Eternal"
+      ],
+      "add": [
+        "eternal"
+      ]
     },
     {
-      "add": "eternal"
-    },
-    {
-      "remove": "and"
+      "index": 46,
+      "remove": [
+        "and"
+      ],
+      "add": []
     }
   ],
   "Moroni 10:7": [
     {
-      "remove": "God:"
+      "index": 26,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God;"
+      ]
     },
     {
-      "add": "God;"
-    },
-    {
-      "remove": "to-day,"
-    },
-    {
-      "add": "to-day"
+      "index": 43,
+      "remove": [
+        "to-day,"
+      ],
+      "add": [
+        "to-day"
+      ]
     }
   ],
   "Moroni 10:8": [
     {
-      "remove": "which"
+      "index": 42,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "all:"
-    },
-    {
-      "add": "all;"
+      "index": 46,
+      "remove": [
+        "all:"
+      ],
+      "add": [
+        "all;"
+      ]
     }
   ],
   "Moroni 10:11": [
     {
-      "remove": "another,"
-    },
-    {
-      "add": "another"
+      "index": 2,
+      "remove": [
+        "another,"
+      ],
+      "add": [
+        "another"
+      ]
     }
   ],
   "Moroni 10:13": [
     {
-      "remove": "another,"
-    },
-    {
-      "add": "another"
+      "index": 3,
+      "remove": [
+        "another,"
+      ],
+      "add": [
+        "another"
+      ]
     }
   ],
   "Moroni 10:16": [
     {
-      "remove": "diverse"
-    },
-    {
-      "add": "divers"
+      "index": 10,
+      "remove": [
+        "diverse"
+      ],
+      "add": [
+        "divers"
+      ]
     }
   ],
   "Moroni 10:17": [
     {
-      "remove": "comes"
-    },
-    {
-      "add": "come"
+      "index": 4,
+      "remove": [
+        "comes"
+      ],
+      "add": [
+        "come"
+      ]
     }
   ],
   "Moroni 10:21": [
     {
-      "remove": "ye,"
-    },
-    {
-      "add": "ye"
+      "index": 34,
+      "remove": [
+        "ye,"
+      ],
+      "add": [
+        "ye"
+      ]
     }
   ],
   "Moroni 10:23": [
     {
-      "remove": "If"
-    },
-    {
-      "add": "if"
+      "index": 7,
+      "remove": [
+        "If"
+      ],
+      "add": [
+        "if"
+      ]
     }
   ],
   "Moroni 10:25": [
     {
-      "remove": "case:"
-    },
-    {
-      "add": "case;"
+      "index": 12,
+      "remove": [
+        "case:"
+      ],
+      "add": [
+        "case;"
+      ]
     }
   ],
   "Moroni 10:26": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "Moroni 10:27": [
     {
-      "remove": "things:"
+      "index": 7,
+      "remove": [
+        "things:"
+      ],
+      "add": [
+        "things;"
+      ]
     },
     {
-      "add": "things;"
+      "index": 30,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God,"
+      ]
     },
     {
-      "remove": "God:"
+      "index": 39,
+      "remove": [
+        "Did"
+      ],
+      "add": [
+        "did"
+      ]
     },
     {
-      "add": "God,"
+      "index": 48,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     },
     {
-      "remove": "Did"
-    },
-    {
-      "add": "did"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "were"
-    },
-    {
-      "remove": "dust,"
-    },
-    {
-      "add": "dust?"
+      "index": 68,
+      "remove": [
+        "dust,"
+      ],
+      "add": [
+        "dust?"
+      ]
     }
   ],
   "Moroni 10:29": [
     {
-      "remove": "written,"
-    },
-    {
-      "add": "written"
+      "index": 11,
+      "remove": [
+        "written,"
+      ],
+      "add": [
+        "written"
+      ]
     }
   ],
   "Moroni 10:30": [
     {
-      "remove": "thing.—"
-    },
-    {
-      "add": "thing."
+      "index": 28,
+      "remove": [
+        "thing.—"
+      ],
+      "add": [
+        "thing."
+      ]
     }
   ],
   "Moroni 10:31": [
     {
-      "remove": "Eternal"
-    },
-    {
-      "add": "eternal"
-    },
-    {
-      "remove": "Father,"
-    },
-    {
-      "add": "Father"
+      "index": 41,
+      "remove": [
+        "Eternal",
+        "Father,"
+      ],
+      "add": [
+        "eternal",
+        "Father"
+      ]
     }
   ],
   "Moroni 10:32": [
     {
-      "remove": "ungodliness;"
-    },
-    {
-      "add": "ungodliness,"
+      "index": 14,
+      "remove": [
+        "ungodliness;"
+      ],
+      "add": [
+        "ungodliness,"
+      ]
     }
   ],
   "Moroni 10:34": [
     {
-      "remove": "Eternal"
-    },
-    {
-      "add": "eternal"
+      "index": 46,
+      "remove": [
+        "Eternal"
+      ],
+      "add": [
+        "eternal"
+      ]
     }
   ]
 }

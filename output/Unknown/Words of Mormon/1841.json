@@ -1,115 +1,149 @@
 {
   "Words of Mormon 1:3": [
     {
-      "remove": "that"
+      "index": 13,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "which"
+      "index": 33,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
+      "index": 60,
+      "remove": [
+        "Prophets,"
+      ],
+      "add": [
+        "prophets,"
+      ]
     },
     {
-      "remove": "Prophets,"
-    },
-    {
-      "add": "prophets,"
-    },
-    {
-      "remove": "also,"
-    },
-    {
-      "add": "also"
+      "index": 72,
+      "remove": [
+        "also,"
+      ],
+      "add": [
+        "also"
+      ]
     }
   ],
   "Words of Mormon 1:4": [
     {
-      "remove": "has"
-    },
-    {
-      "add": "have"
+      "index": 49,
+      "remove": [
+        "has"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "Words of Mormon 1:5": [
     {
-      "remove": "a"
-    },
-    {
-      "add": "the"
+      "index": 28,
+      "remove": [
+        "a"
+      ],
+      "add": [
+        "the"
+      ]
     }
   ],
   "Words of Mormon 1:6": [
     {
-      "remove": "prophecyings"
-    },
-    {
-      "add": "prophesyings"
+      "index": 10,
+      "remove": [
+        "prophecyings"
+      ],
+      "add": [
+        "prophesyings"
+      ]
     }
   ],
   "Words of Mormon 1:7": [
     {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 42,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "Words of Mormon 1:9": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 31,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Words of Mormon 1:15": [
     {
-      "remove": "been"
+      "index": 9,
+      "remove": [
+        "been"
+      ],
+      "add": [
+        "heen"
+      ]
     },
     {
-      "add": "heen"
-    },
-    {
-      "remove": "Christs,"
-    },
-    {
-      "add": "christs,"
+      "index": 11,
+      "remove": [
+        "Christs,"
+      ],
+      "add": [
+        "christs,"
+      ]
     }
   ],
   "Words of Mormon 1:16": [
     {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets"
-    },
-    {
-      "add": "prophets"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 52,
+      "remove": [
+        "Holy",
+        "Prophets",
+        "which"
+      ],
+      "add": [
+        "holy",
+        "prophets",
+        "who"
+      ]
     }
   ],
   "Words of Mormon 1:17": [
     {
-      "remove": "sharpness,"
-    },
-    {
-      "add": "sharpness"
+      "index": 44,
+      "remove": [
+        "sharpness,"
+      ],
+      "add": [
+        "sharpness"
+      ]
     }
   ],
   "Words of Mormon 1:18": [
     {
-      "remove": "wherefore,"
-    },
-    {
-      "remove": "they"
+      "index": 28,
+      "remove": [
+        "wherefore,",
+        "they"
+      ],
+      "add": []
     }
   ]
 }

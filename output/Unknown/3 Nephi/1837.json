@@ -1,6053 +1,8022 @@
 {
   "3 Nephi 1:1": [
     {
-      "remove": "Chief"
-    },
-    {
-      "add": "chief"
-    },
-    {
-      "remove": "Judge"
-    },
-    {
-      "add": "judge"
+      "index": 37,
+      "remove": [
+        "Chief",
+        "Judge"
+      ],
+      "add": [
+        "chief",
+        "judge"
+      ]
     }
   ],
   "3 Nephi 1:2": [
     {
-      "remove": "which"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Jerusalem:"
-    },
-    {
-      "add": "Jerusalem;"
+      "index": 54,
+      "remove": [
+        "Jerusalem:"
+      ],
+      "add": [
+        "Jerusalem;"
+      ]
     }
   ],
   "3 Nephi 1:5": [
     {
-      "remove": "which"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 8,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 20,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "3 Nephi 1:6": [
     {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
+      "index": 9,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 1:7": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 1:9": [
     {
-      "remove": "traditions,"
+      "index": 22,
+      "remove": [
+        "traditions,"
+      ],
+      "add": [
+        "traditions"
+      ]
     },
     {
-      "add": "traditions"
-    },
-    {
-      "remove": "pass,"
-    },
-    {
-      "add": "pass"
+      "index": 34,
+      "remove": [
+        "pass,"
+      ],
+      "add": [
+        "pass"
+      ]
     }
   ],
   "3 Nephi 1:11": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 1:12": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 25,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 1:13": [
     {
-      "remove": "Lift"
+      "index": 0,
+      "remove": [
+        "Lift"
+      ],
+      "add": [
+        "lift"
+      ]
     },
     {
-      "add": "lift"
+      "index": 8,
+      "remove": [
+        "cheer:"
+      ],
+      "add": [
+        "cheer,"
+      ]
     },
     {
-      "remove": "cheer:"
-    },
-    {
-      "add": "cheer,"
-    },
-    {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets."
-    },
-    {
-      "add": "prophets."
+      "index": 57,
+      "remove": [
+        "Holy",
+        "Prophets."
+      ],
+      "add": [
+        "holy",
+        "prophets."
+      ]
     }
   ],
   "3 Nephi 1:14": [
     {
-      "remove": "to"
+      "index": 27,
+      "remove": [
+        "to"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 1:15": [
     {
-      "remove": "Nephi,"
+      "index": 11,
+      "remove": [
+        "Nephi,",
+        "was"
+      ],
+      "add": [
+        "Nephi",
+        "were"
+      ]
     },
     {
-      "add": "Nephi"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "were"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 21,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "3 Nephi 1:16": [
     {
-      "remove": "which"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 49,
+      "remove": [
+        "frustrated;"
+      ],
+      "add": [
+        "frustrated,"
+      ]
     },
     {
-      "remove": "frustrated;"
-    },
-    {
-      "add": "frustrated,"
-    },
-    {
-      "remove": "sign"
-    },
-    {
-      "add": "signal"
+      "index": 52,
+      "remove": [
+        "sign"
+      ],
+      "add": [
+        "signal"
+      ]
     }
   ],
   "3 Nephi 1:22": [
     {
-      "add": "m"
-    },
-    {
-      "remove": "might"
-    },
-    {
-      "add": "ght"
+      "index": 31,
+      "remove": [
+        "might"
+      ],
+      "add": [
+        "m",
+        "ght"
+      ]
     }
   ],
   "3 Nephi 1:24": [
     {
-      "remove": "Scriptures,"
+      "index": 19,
+      "remove": [
+        "Scriptures,"
+      ],
+      "add": [
+        "scriptures,"
+      ]
     },
     {
-      "add": "scriptures,"
-    },
-    {
-      "remove": "Scriptures."
-    },
-    {
-      "add": "scriptures."
+      "index": 43,
+      "remove": [
+        "Scriptures."
+      ],
+      "add": [
+        "scriptures."
+      ]
     }
   ],
   "3 Nephi 1:25": [
     {
-      "remove": "in:"
+      "index": 19,
+      "remove": [
+        "in:"
+      ],
+      "add": [
+        "in,"
+      ]
     },
     {
-      "add": "in,"
-    },
-    {
-      "remove": "tittle"
-    },
-    {
-      "add": "title"
+      "index": 59,
+      "remove": [
+        "tittle"
+      ],
+      "add": [
+        "title"
+      ]
     }
   ],
   "3 Nephi 1:26": [
     {
-      "remove": "tidings"
+      "index": 12,
+      "remove": [
+        "tidings"
+      ],
+      "add": [
+        "tiding"
+      ]
     },
     {
-      "add": "tiding"
-    },
-    {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
-    },
-    {
-      "remove": "Prophets."
-    },
-    {
-      "add": "prophets."
+      "index": 35,
+      "remove": [
+        "Holy",
+        "Prophets."
+      ],
+      "add": [
+        "holy",
+        "prophets."
+      ]
     }
   ],
   "3 Nephi 1:27": [
     {
-      "remove": "which"
+      "index": 24,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 1:28": [
     {
-      "remove": "which"
+      "index": 28,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 41,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 1:29": [
     {
-      "remove": "which"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 40,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 2:1": [
     {
-      "remove": "Heaven,"
+      "index": 44,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     },
     {
-      "add": "heaven,"
-    },
-    {
-      "remove": "hearts,"
-    },
-    {
-      "add": "harts,"
+      "index": 54,
+      "remove": [
+        "hearts,"
+      ],
+      "add": [
+        "harts,"
+      ]
     }
   ],
   "3 Nephi 2:2": [
     {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
+      "index": 20,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     }
   ],
   "3 Nephi 2:5": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 2:7": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "when"
+      "index": 9,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "when"
+      ]
     }
   ],
   "3 Nephi 2:8": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "when"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "when"
+      ]
     }
   ],
   "3 Nephi 2:9": [
     {
-      "remove": "which"
+      "index": 2,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 8,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 2:11": [
     {
-      "remove": "Nephites"
-    },
-    {
-      "add": "Nephites,"
+      "index": 64,
+      "remove": [
+        "Nephites"
+      ],
+      "add": [
+        "Nephites,"
+      ]
     }
   ],
   "3 Nephi 2:12": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 2:14": [
     {
-      "remove": "which"
+      "index": 8,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 13,
+      "remove": [
+        "Nephites,"
+      ],
+      "add": [
+        "Nephites;"
+      ]
     },
     {
-      "remove": "Nephites,"
-    },
-    {
-      "add": "Nephites;"
-    },
-    {
-      "remove": "Nephites;"
-    },
-    {
-      "add": "Nephites:"
+      "index": 18,
+      "remove": [
+        "Nephites;"
+      ],
+      "add": [
+        "Nephites:"
+      ]
     }
   ],
   "3 Nephi 2:17": [
     {
-      "remove": "robbers,"
-    },
-    {
-      "add": "robbers"
+      "index": 40,
+      "remove": [
+        "robbers,"
+      ],
+      "add": [
+        "robbers"
+      ]
     }
   ],
   "3 Nephi 2:19": [
     {
-      "remove": "year;"
-    },
-    {
-      "add": "year,"
+      "index": 5,
+      "remove": [
+        "year;"
+      ],
+      "add": [
+        "year,"
+      ]
     }
   ],
   "3 Nephi 3:1": [
     {
-      "remove": "And"
+      "index": 0,
+      "remove": [
+        "And"
+      ],
+      "add": [
+        "AND"
+      ]
     },
     {
-      "add": "AND"
+      "index": 18,
+      "remove": [
+        "Governor"
+      ],
+      "add": [
+        "govenor"
+      ]
     },
     {
-      "remove": "Governor"
+      "index": 27,
+      "remove": [
+        "leaders"
+      ],
+      "add": [
+        "leader"
+      ]
     },
     {
-      "add": "govenor"
+      "index": 30,
+      "remove": [
+        "Governor"
+      ],
+      "add": [
+        "govenor"
+      ]
     },
     {
-      "remove": "leaders"
-    },
-    {
-      "add": "leader"
-    },
-    {
-      "remove": "Governor"
-    },
-    {
-      "add": "govenor"
-    },
-    {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 44,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 3:2": [
     {
-      "remove": "Chief"
+      "index": 4,
+      "remove": [
+        "Chief",
+        "Governor"
+      ],
+      "add": [
+        "chief",
+        "govenor"
+      ]
     },
     {
-      "add": "chief"
+      "index": 8,
+      "remove": [
+        "land:"
+      ],
+      "add": [
+        "land,"
+      ]
     },
     {
-      "remove": "Governor"
-    },
-    {
-      "add": "govenor"
-    },
-    {
-      "remove": "land:"
-    },
-    {
-      "add": "land,"
-    },
-    {
-      "remove": "liberty;"
-    },
-    {
-      "add": "liberty:"
+      "index": 46,
+      "remove": [
+        "liberty;"
+      ],
+      "add": [
+        "liberty:"
+      ]
     }
   ],
   "3 Nephi 3:3": [
     {
-      "remove": "which"
+      "index": 30,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 35,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Go"
-    },
-    {
-      "add": "go"
+      "index": 54,
+      "remove": [
+        "Go"
+      ],
+      "add": [
+        "go"
+      ]
     }
   ],
   "3 Nephi 3:9": [
     {
-      "remove": "Giddianhi,"
+      "index": 4,
+      "remove": [
+        "Giddianhi,"
+      ],
+      "add": [
+        "Giddianhi;"
+      ]
     },
     {
-      "add": "Giddianhi;"
-    },
-    {
-      "remove": "Governor"
-    },
-    {
-      "add": "govenor"
+      "index": 9,
+      "remove": [
+        "Governor"
+      ],
+      "add": [
+        "govenor"
+      ]
     }
   ],
   "3 Nephi 3:10": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 36,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 3:11": [
     {
-      "remove": "people,"
-    },
-    {
-      "add": "people"
+      "index": 35,
+      "remove": [
+        "people,"
+      ],
+      "add": [
+        "people"
+      ]
     }
   ],
   "3 Nephi 3:12": [
     {
-      "remove": "Governor,"
+      "index": 5,
+      "remove": [
+        "Governor,"
+      ],
+      "add": [
+        "govenor,"
+      ]
     },
     {
-      "add": "govenor,"
-    },
-    {
-      "remove": "Governor"
-    },
-    {
-      "add": "govenor"
+      "index": 35,
+      "remove": [
+        "Governor"
+      ],
+      "add": [
+        "govenor"
+      ]
     }
   ],
   "3 Nephi 3:14": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 39,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 3:15": [
     {
-      "remove": "As"
-    },
-    {
-      "add": "as"
+      "index": 5,
+      "remove": [
+        "As"
+      ],
+      "add": [
+        "as"
+      ]
     }
   ],
   "3 Nephi 3:17": [
     {
-      "remove": "Chief"
-    },
-    {
-      "add": "chief"
-    },
-    {
-      "remove": "Captains"
-    },
-    {
-      "add": "captains"
+      "index": 9,
+      "remove": [
+        "Chief",
+        "Captains"
+      ],
+      "add": [
+        "chief",
+        "captains"
+      ]
     }
   ],
   "3 Nephi 3:18": [
     {
-      "remove": "Captains,"
+      "index": 6,
+      "remove": [
+        "Captains,"
+      ],
+      "add": [
+        "captains,"
+      ]
     },
     {
-      "add": "captains,"
-    },
-    {
-      "remove": "Commander"
-    },
-    {
-      "add": "commander"
+      "index": 10,
+      "remove": [
+        "Commander"
+      ],
+      "add": [
+        "commander"
+      ]
     }
   ],
   "3 Nephi 3:19": [
     {
-      "remove": "Chief"
+      "index": 13,
+      "remove": [
+        "Chief",
+        "Captains,"
+      ],
+      "add": [
+        "chief",
+        "captains,"
+      ]
     },
     {
-      "add": "chief"
+      "index": 33,
+      "remove": [
+        "of"
+      ],
+      "add": []
     },
     {
-      "remove": "Captains,"
-    },
-    {
-      "add": "captains,"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "Chief"
-    },
-    {
-      "add": "chief"
-    },
-    {
-      "remove": "Judge."
-    },
-    {
-      "add": "judge."
+      "index": 48,
+      "remove": [
+        "Chief",
+        "Judge."
+      ],
+      "add": [
+        "chief",
+        "judge."
+      ]
     }
   ],
   "3 Nephi 3:20": [
     {
-      "remove": "Pray"
-    },
-    {
-      "add": "pray"
+      "index": 6,
+      "remove": [
+        "Pray"
+      ],
+      "add": [
+        "pray"
+      ]
     }
   ],
   "3 Nephi 3:22": [
     {
-      "remove": "thousands,"
-    },
-    {
-      "add": "thousands;"
+      "index": 61,
+      "remove": [
+        "thousands,"
+      ],
+      "add": [
+        "thousands;"
+      ]
     }
   ],
   "3 Nephi 3:23": [
     {
-      "remove": "the"
-    },
-    {
-      "remove": "land"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "Zarahemla,"
-    },
-    {
-      "remove": "and"
-    },
-    {
-      "remove": "the"
-    },
-    {
-      "remove": "land"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "remove": "between"
+      "index": 7,
+      "remove": [
+        "the",
+        "land",
+        "of",
+        "Zarahemla,",
+        "and",
+        "the",
+        "land",
+        "which",
+        "was",
+        "between"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 3:24": [
     {
-      "remove": "which"
+      "index": 8,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 3:25": [
     {
-      "remove": "enemies,"
-    },
-    {
-      "add": "enemies;"
+      "index": 7,
+      "remove": [
+        "enemies,"
+      ],
+      "add": [
+        "enemies;"
+      ]
     }
   ],
   "3 Nephi 4:1": [
     {
-      "remove": "robbers"
-    },
-    {
-      "add": "robbers,"
+      "index": 17,
+      "remove": [
+        "robbers"
+      ],
+      "add": [
+        "robbers,"
+      ]
     }
   ],
   "3 Nephi 4:2": [
     {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 3,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "3 Nephi 4:4": [
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
+      "index": 2,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     }
   ],
   "3 Nephi 4:5": [
     {
-      "remove": "Giddianhi"
-    },
-    {
-      "add": "Gidddianhi"
+      "index": 10,
+      "remove": [
+        "Giddianhi"
+      ],
+      "add": [
+        "Gidddianhi"
+      ]
     }
   ],
   "3 Nephi 4:7": [
     {
-      "remove": "dyed"
+      "index": 55,
+      "remove": [
+        "dyed"
+      ],
+      "add": [
+        "died"
+      ]
     },
     {
-      "add": "died"
-    },
-    {
-      "remove": "armour,"
-    },
-    {
-      "add": "armor,"
+      "index": 84,
+      "remove": [
+        "armour,"
+      ],
+      "add": [
+        "armor,"
+      ]
     }
   ],
   "3 Nephi 4:9": [
     {
-      "remove": "Gaddianhi"
-    },
-    {
-      "add": "Giddianhi"
+      "index": 10,
+      "remove": [
+        "Gaddianhi"
+      ],
+      "add": [
+        "Giddianhi"
+      ]
     }
   ],
   "3 Nephi 4:12": [
     {
-      "remove": "threatenings"
-    },
-    {
-      "add": "threatnings"
+      "index": 3,
+      "remove": [
+        "threatenings"
+      ],
+      "add": [
+        "threatnings"
+      ]
     }
   ],
   "3 Nephi 4:13": [
     {
-      "remove": "to"
+      "index": 17,
+      "remove": [
+        "to"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 4:18": [
     {
-      "remove": "unto"
+      "index": 6,
+      "remove": [
+        "unto"
+      ],
+      "add": [
+        "to"
+      ]
     },
     {
-      "add": "to"
-    },
-    {
-      "remove": "store"
-    },
-    {
-      "add": "store,"
+      "index": 39,
+      "remove": [
+        "store"
+      ],
+      "add": [
+        "store,"
+      ]
     }
   ],
   "3 Nephi 4:19": [
     {
-      "remove": "wilderness."
-    },
-    {
-      "add": "wilderness.—"
+      "index": 28,
+      "remove": [
+        "wilderness."
+      ],
+      "add": [
+        "wilderness.—"
+      ]
     }
   ],
   "3 Nephi 4:23": [
     {
-      "remove": "farthermost"
-    },
-    {
-      "add": "furthermost"
+      "index": 25,
+      "remove": [
+        "farthermost"
+      ],
+      "add": [
+        "furthermost"
+      ]
     }
   ],
   "3 Nephi 4:24": [
     {
-      "remove": "night-time,"
-    },
-    {
-      "add": "night"
-    },
-    {
-      "add": "time,"
+      "index": 38,
+      "remove": [
+        "night-time,"
+      ],
+      "add": [
+        "night",
+        "time,"
+      ]
     }
   ],
   "3 Nephi 4:25": [
     {
-      "remove": "night-time,"
-    },
-    {
-      "add": "night"
-    },
-    {
-      "add": "time,"
+      "index": 7,
+      "remove": [
+        "night-time,"
+      ],
+      "add": [
+        "night",
+        "time,"
+      ]
     }
   ],
   "3 Nephi 4:26": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 3,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 4:27": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 5,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 4:29": [
     {
-      "remove": "May"
-    },
-    {
-      "add": "may"
+      "index": 0,
+      "remove": [
+        "May"
+      ],
+      "add": [
+        "may"
+      ]
     }
   ],
   "3 Nephi 4:30": [
     {
-      "remove": "May"
-    },
-    {
-      "add": "may"
+      "index": 11,
+      "remove": [
+        "May"
+      ],
+      "add": [
+        "may"
+      ]
     }
   ],
   "3 Nephi 4:31": [
     {
-      "remove": "enemies;"
-    },
-    {
-      "add": "enemies:"
+      "index": 39,
+      "remove": [
+        "enemies;"
+      ],
+      "add": [
+        "enemies:"
+      ]
     }
   ],
   "3 Nephi 4:32": [
     {
-      "remove": "Hosanna"
+      "index": 4,
+      "remove": [
+        "Hosanna"
+      ],
+      "add": [
+        "hosanna"
+      ]
     },
     {
-      "add": "hosanna"
-    },
-    {
-      "remove": "cry,"
-    },
-    {
-      "add": "cry"
-    },
-    {
-      "remove": "Blessed"
-    },
-    {
-      "add": "bessed"
+      "index": 13,
+      "remove": [
+        "cry,",
+        "Blessed"
+      ],
+      "add": [
+        "cry",
+        "bessed"
+      ]
     }
   ],
   "3 Nephi 4:33": [
     {
-      "remove": "many"
-    },
-    {
-      "add": "may"
+      "index": 12,
+      "remove": [
+        "many"
+      ],
+      "add": [
+        "may"
+      ]
     }
   ],
   "3 Nephi 5:1": [
     {
-      "remove": "which"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "thing",
+        "in"
+      ],
+      "add": []
     },
     {
-      "remove": "thing"
-    },
-    {
-      "remove": "in"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 31,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 5:2": [
     {
-      "remove": "prophets;"
-    },
-    {
-      "add": "prophets,"
+      "index": 27,
+      "remove": [
+        "prophets;"
+      ],
+      "add": [
+        "prophets,"
+      ]
     }
   ],
   "3 Nephi 5:3": [
     {
-      "remove": "diligence,"
-    },
-    {
-      "add": "diligence"
+      "index": 19,
+      "remove": [
+        "diligence,"
+      ],
+      "add": [
+        "diligence"
+      ]
     }
   ],
   "3 Nephi 5:4": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 5:5": [
     {
-      "remove": "threatenings"
-    },
-    {
-      "add": "threatnings"
+      "index": 34,
+      "remove": [
+        "threatenings"
+      ],
+      "add": [
+        "threatnings"
+      ]
     }
   ],
   "3 Nephi 5:6": [
     {
-      "remove": "were"
+      "index": 20,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     },
     {
-      "add": "was"
-    },
-    {
-      "remove": "committed."
-    },
-    {
-      "add": "committed.—"
+      "index": 28,
+      "remove": [
+        "committed."
+      ],
+      "add": [
+        "committed.—"
+      ]
     }
   ],
   "3 Nephi 5:8": [
     {
-      "remove": "marvellous;"
-    },
-    {
-      "add": "marvelous;"
+      "index": 16,
+      "remove": [
+        "marvellous;"
+      ],
+      "add": [
+        "marvelous;"
+      ]
     }
   ],
   "3 Nephi 5:10": [
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
+      "index": 16,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     }
   ],
   "3 Nephi 5:13": [
     {
-      "remove": "life."
-    },
-    {
-      "add": "life.—"
+      "index": 30,
+      "remove": [
+        "life."
+      ],
+      "add": [
+        "life.—"
+      ]
     }
   ],
   "3 Nephi 5:14": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 5:16": [
     {
-      "remove": "hath"
+      "index": 10,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "have"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 15,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 5:18": [
     {
-      "remove": "neverthelers"
-    },
-    {
-      "add": "nevertheless"
+      "index": 16,
+      "remove": [
+        "neverthelers"
+      ],
+      "add": [
+        "nevertheless"
+      ]
     }
   ],
   "3 Nephi 5:19": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 23,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "3 Nephi 5:20": [
     {
-      "remove": "Lehi."
+      "index": 8,
+      "remove": [
+        "Lehi."
+      ],
+      "add": [
+        "Lehi.—"
+      ]
     },
     {
-      "add": "Lehi.—"
+      "index": 18,
+      "remove": [
+        "Saviour"
+      ],
+      "add": [
+        "Savior"
+      ]
     },
     {
-      "remove": "Saviour"
-    },
-    {
-      "add": "Savior"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
+      "index": 44,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     }
   ],
   "3 Nephi 5:22": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "have"
+      "index": 7,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "3 Nephi 5:24": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 5:26": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 7,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 6:1": [
     {
-      "remove": "And"
-    },
-    {
-      "add": "AND"
+      "index": 0,
+      "remove": [
+        "And"
+      ],
+      "add": [
+        "AND"
+      ]
     }
   ],
   "3 Nephi 6:3": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 6:5": [
     {
-      "remove": "transgression."
-    },
-    {
-      "add": "transgression.—"
+      "index": 21,
+      "remove": [
+        "transgression."
+      ],
+      "add": [
+        "transgression.—"
+      ]
     }
   ],
   "3 Nephi 6:6": [
     {
-      "remove": "Judge"
+      "index": 7,
+      "remove": [
+        "Judge"
+      ],
+      "add": [
+        "judge"
+      ]
     },
     {
-      "add": "judge"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 6:14": [
     {
-      "remove": "which"
+      "index": 45,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 66,
+      "remove": [
+        "immoveable,"
+      ],
+      "add": [
+        "immovable,"
+      ]
     },
     {
-      "remove": "immoveable,"
-    },
-    {
-      "add": "immovable,"
-    },
-    {
-      "remove": "diligence"
-    },
-    {
-      "add": "dilligence"
+      "index": 70,
+      "remove": [
+        "diligence"
+      ],
+      "add": [
+        "dilligence"
+      ]
     }
   ],
   "3 Nephi 6:15": [
     {
-      "remove": "this:"
-    },
-    {
-      "add": "this,"
-    },
-    {
-      "remove": "Satan"
-    },
-    {
-      "add": "satan"
+      "index": 10,
+      "remove": [
+        "this:",
+        "Satan"
+      ],
+      "add": [
+        "this,",
+        "satan"
+      ]
     }
   ],
   "3 Nephi 6:17": [
     {
-      "remove": "Devil"
-    },
-    {
-      "add": "devil"
+      "index": 31,
+      "remove": [
+        "Devil"
+      ],
+      "add": [
+        "devil"
+      ]
     }
   ],
   "3 Nephi 6:19": [
     {
-      "remove": "Lachoneus:"
+      "index": 12,
+      "remove": [
+        "Lachoneus:"
+      ],
+      "add": [
+        "Lachoneus,"
+      ]
     },
     {
-      "add": "Lachoneus,"
-    },
-    {
-      "remove": "father,"
-    },
-    {
-      "add": "father"
+      "index": 21,
+      "remove": [
+        "father,"
+      ],
+      "add": [
+        "father"
+      ]
     }
   ],
   "3 Nephi 6:21": [
     {
-      "remove": "which"
+      "index": 7,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 14,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 21,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 27,
+      "remove": [
+        "Chief",
+        "Judges,"
+      ],
+      "add": [
+        "chief",
+        "judges,"
+      ]
     },
     {
-      "remove": "which"
+      "index": 31,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 34,
+      "remove": [
+        "High",
+        "Priests,"
+      ],
+      "add": [
+        "high",
+        "priests"
+      ]
     },
     {
-      "remove": "Chief"
+      "index": 41,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "chief"
-    },
-    {
-      "remove": "Judges,"
-    },
-    {
-      "add": "judges,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "High"
-    },
-    {
-      "add": "high"
-    },
-    {
-      "remove": "Priests,"
-    },
-    {
-      "add": "priests"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 48,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 6:22": [
     {
-      "remove": "Judge,"
+      "index": 6,
+      "remove": [
+        "Judge,"
+      ],
+      "add": [
+        "judge,"
+      ]
     },
     {
-      "add": "judge,"
-    },
-    {
-      "remove": "High"
-    },
-    {
-      "add": "high"
-    },
-    {
-      "remove": "Priest,"
-    },
-    {
-      "add": "priest,"
+      "index": 8,
+      "remove": [
+        "High",
+        "Priest,"
+      ],
+      "add": [
+        "high",
+        "priest,"
+      ]
     }
   ],
   "3 Nephi 6:23": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 13,
+      "remove": [
+        "Christ;",
+        "which"
+      ],
+      "add": [
+        "Christ,",
+        "who"
+      ]
     },
     {
-      "remove": "Christ;"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "Christ,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Judges,"
-    },
-    {
-      "add": "judges,"
+      "index": 27,
+      "remove": [
+        "Judges,"
+      ],
+      "add": [
+        "judges,"
+      ]
     }
   ],
   "3 Nephi 6:24": [
     {
-      "remove": "behold,"
-    },
-    {
-      "add": "behold"
+      "index": 1,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "3 Nephi 6:25": [
     {
-      "remove": "Judges"
+      "index": 18,
+      "remove": [
+        "Judges",
+        "which"
+      ],
+      "add": [
+        "judges",
+        "who"
+      ]
     },
     {
-      "add": "judges"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "land"
-    },
-    {
-      "add": "Lord"
+      "index": 26,
+      "remove": [
+        "land"
+      ],
+      "add": [
+        "Lord"
+      ]
     }
   ],
   "3 Nephi 6:26": [
     {
-      "remove": "Judge,"
-    },
-    {
-      "add": "judge,"
+      "index": 14,
+      "remove": [
+        "Judge,"
+      ],
+      "add": [
+        "judge,"
+      ]
     }
   ],
   "3 Nephi 6:27": [
     {
-      "remove": "Judges"
+      "index": 7,
+      "remove": [
+        "Judges"
+      ],
+      "add": [
+        "judges"
+      ]
     },
     {
-      "add": "judges"
+      "index": 12,
+      "remove": [
+        "kindreds;"
+      ],
+      "add": [
+        "kindreds:"
+      ]
     },
     {
-      "remove": "kindreds;"
+      "index": 24,
+      "remove": [
+        "High",
+        "Priests,"
+      ],
+      "add": [
+        "high",
+        "priests,"
+      ]
     },
     {
-      "add": "kindreds:"
-    },
-    {
-      "remove": "High"
-    },
-    {
-      "add": "high"
-    },
-    {
-      "remove": "Priests,"
-    },
-    {
-      "add": "priests,"
-    },
-    {
-      "remove": "Judges"
-    },
-    {
-      "add": "judges"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 37,
+      "remove": [
+        "Judges",
+        "which"
+      ],
+      "add": [
+        "judges",
+        "who"
+      ]
     }
   ],
   "3 Nephi 6:28": [
     {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
+      "index": 30,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     }
   ],
   "3 Nephi 6:29": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 7:1": [
     {
-      "remove": "judgement"
+      "index": 31,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
-    },
-    {
-      "remove": "Chief"
-    },
-    {
-      "add": "chief"
-    },
-    {
-      "remove": "Judge"
-    },
-    {
-      "add": "judge"
+      "index": 37,
+      "remove": [
+        "Chief",
+        "Judge"
+      ],
+      "add": [
+        "chief",
+        "judge"
+      ]
     }
   ],
   "3 Nephi 7:3": [
     {
-      "remove": "Chief,"
-    },
-    {
-      "add": "chief,"
+      "index": 6,
+      "remove": [
+        "Chief,"
+      ],
+      "add": [
+        "chief,"
+      ]
     }
   ],
   "3 Nephi 7:5": [
     {
-      "remove": "done,"
+      "index": 4,
+      "remove": [
+        "done,"
+      ],
+      "add": [
+        "done"
+      ]
     },
     {
-      "add": "done"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "were"
+      "index": 7,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "3 Nephi 7:6": [
     {
-      "remove": "was"
+      "index": 6,
+      "remove": [
+        "was"
+      ],
+      "add": [
+        "were"
+      ]
     },
     {
-      "add": "were"
-    },
-    {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
+      "index": 19,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     }
   ],
   "3 Nephi 7:7": [
     {
-      "remove": "were"
-    },
-    {
-      "add": "had"
+      "index": 21,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "had"
+      ]
     }
   ],
   "3 Nephi 7:8": [
     {
-      "remove": "mire.—"
-    },
-    {
-      "add": "mire."
+      "index": 35,
+      "remove": [
+        "mire.—"
+      ],
+      "add": [
+        "mire."
+      ]
     }
   ],
   "3 Nephi 7:10": [
     {
-      "remove": "which"
+      "index": 23,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 31,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Jesus.—"
-    },
-    {
-      "add": "Jesus."
+      "index": 34,
+      "remove": [
+        "Jesus.—"
+      ],
+      "add": [
+        "Jesus."
+      ]
     }
   ],
   "3 Nephi 7:11": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 7:14": [
     {
-      "remove": "nevertheless,"
+      "index": 26,
+      "remove": [
+        "nevertheless,"
+      ],
+      "add": [
+        "nevertheless"
+      ]
     },
     {
-      "add": "nevertheless"
-    },
-    {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "remove": "was"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "add": "were"
+      "index": 66,
+      "remove": [
+        "them",
+        "which",
+        "was"
+      ],
+      "add": [
+        "those",
+        "who",
+        "were"
+      ]
     }
   ],
   "3 Nephi 7:15": [
     {
-      "add": "eye"
+      "index": 26,
+      "remove": [
+        "eyewitness,"
+      ],
+      "add": [
+        "eye",
+        "witness,"
+      ]
     },
     {
-      "remove": "eyewitness,"
-    },
-    {
-      "add": "witness,"
-    },
-    {
-      "add": "eye"
-    },
-    {
-      "remove": "eyewitness"
-    },
-    {
-      "add": "witness"
+      "index": 46,
+      "remove": [
+        "eyewitness"
+      ],
+      "add": [
+        "eye",
+        "witness"
+      ]
     }
   ],
   "3 Nephi 7:18": [
     {
-      "remove": "words:"
-    },
-    {
-      "add": "words,"
+      "index": 29,
+      "remove": [
+        "words:"
+      ],
+      "add": [
+        "words,"
+      ]
     }
   ],
   "3 Nephi 7:21": [
     {
-      "remove": "which"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "believed.—"
-    },
-    {
-      "add": "believed."
+      "index": 57,
+      "remove": [
+        "believed.—"
+      ],
+      "add": [
+        "believed."
+      ]
     }
   ],
   "3 Nephi 7:23": [
     {
-      "remove": "And"
-    },
-    {
-      "remove": "it"
-    },
-    {
-      "remove": "came"
-    },
-    {
-      "remove": "to"
-    },
-    {
-      "remove": "pass"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "thus"
-    },
-    {
-      "add": "Thus"
+      "index": 0,
+      "remove": [
+        "And",
+        "it",
+        "came",
+        "to",
+        "pass",
+        "that",
+        "thus"
+      ],
+      "add": [
+        "Thus"
+      ]
     }
   ],
   "3 Nephi 7:24": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 8:1": [
     {
-      "remove": "true:"
+      "index": 18,
+      "remove": [
+        "true:"
+      ],
+      "add": [
+        "true,"
+      ]
     },
     {
-      "add": "true,"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 48,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 8:15": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 8:16": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 8:18": [
     {
-      "remove": "yea,"
+      "index": 8,
+      "remove": [
+        "yea,"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 8:20": [
     {
-      "add": "all"
+      "index": 11,
+      "remove": [],
+      "add": [
+        "all"
+      ]
     },
     {
-      "remove": "all"
+      "index": 14,
+      "remove": [
+        "all"
+      ],
+      "add": []
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 8:24": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 9,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 8:25": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 11,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 9:2": [
     {
-      "remove": "Wo,"
+      "index": 0,
+      "remove": [
+        "Wo,"
+      ],
+      "add": [
+        "wo,"
+      ]
     },
     {
-      "add": "wo,"
-    },
-    {
-      "remove": "Devil"
-    },
-    {
-      "add": "devil"
+      "index": 20,
+      "remove": [
+        "Devil"
+      ],
+      "add": [
+        "devil"
+      ]
     }
   ],
   "3 Nephi 9:5": [
     {
-      "remove": "up"
+      "index": 38,
+      "remove": [
+        "up"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 9:6": [
     {
-      "remove": "earth;"
-    },
-    {
-      "add": "earth:"
+      "index": 25,
+      "remove": [
+        "earth;"
+      ],
+      "add": [
+        "earth:"
+      ]
     }
   ],
   "3 Nephi 9:8": [
     {
-      "remove": "them.—"
-    },
-    {
-      "add": "them."
+      "index": 80,
+      "remove": [
+        "them.—"
+      ],
+      "add": [
+        "them."
+      ]
     }
   ],
   "3 Nephi 9:9": [
     {
-      "remove": "combinations:"
+      "index": 48,
+      "remove": [
+        "combinations:"
+      ],
+      "add": [
+        "combinations;"
+      ]
     },
     {
-      "add": "combinations;"
-    },
-    {
-      "remove": "land;"
-    },
-    {
-      "add": "land:"
+      "index": 66,
+      "remove": [
+        "land;"
+      ],
+      "add": [
+        "land:"
+      ]
     }
   ],
   "3 Nephi 9:10": [
     {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "whom"
+      "index": 44,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "those",
+        "whom"
+      ]
     }
   ],
   "3 Nephi 9:11": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
+      "index": 44,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     }
   ],
   "3 Nephi 9:13": [
     {
-      "remove": "they!"
-    },
-    {
-      "add": "they,"
+      "index": 12,
+      "remove": [
+        "they!"
+      ],
+      "add": [
+        "they,"
+      ]
     }
   ],
   "3 Nephi 9:14": [
     {
-      "remove": "they"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "cometh"
-    },
-    {
-      "add": "come"
+      "index": 37,
+      "remove": [
+        "they",
+        "which",
+        "cometh"
+      ],
+      "add": [
+        "those",
+        "who",
+        "come"
+      ]
     }
   ],
   "3 Nephi 9:15": [
     {
-      "remove": "Heavens"
+      "index": 12,
+      "remove": [
+        "Heavens"
+      ],
+      "add": [
+        "heavens"
+      ]
     },
     {
-      "add": "heavens"
-    },
-    {
-      "remove": "is."
-    },
-    {
-      "add": "are."
+      "index": 22,
+      "remove": [
+        "is."
+      ],
+      "add": [
+        "are."
+      ]
     }
   ],
   "3 Nephi 9:17": [
     {
-      "remove": "name:"
+      "index": 31,
+      "remove": [
+        "name:"
+      ],
+      "add": [
+        "name,"
+      ]
     },
     {
-      "add": "name,"
-    },
-    {
-      "remove": "behold,"
-    },
-    {
-      "add": "hehold,"
+      "index": 33,
+      "remove": [
+        "behold,"
+      ],
+      "add": [
+        "hehold,"
+      ]
     }
   ],
   "3 Nephi 9:21": [
     {
-      "remove": "sin;"
-    },
-    {
-      "add": "sin:"
+      "index": 18,
+      "remove": [
+        "sin;"
+      ],
+      "add": [
+        "sin:"
+      ]
     }
   ],
   "3 Nephi 10:1": [
     {
-      "remove": "behold"
+      "index": 2,
+      "remove": [
+        "behold"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "add": "behold,"
-    },
-    {
-      "remove": "sayings,"
-    },
-    {
-      "add": "sayings;"
+      "index": 17,
+      "remove": [
+        "sayings,"
+      ],
+      "add": [
+        "sayings;"
+      ]
     }
   ],
   "3 Nephi 10:3": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 25,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 10:4": [
     {
-      "remove": "which"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 12,
+      "remove": [
+        "a",
+        "descendant"
+      ],
+      "add": [
+        "descendants"
+      ]
     },
     {
-      "remove": "a"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "descendant"
-    },
-    {
-      "add": "descendants"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "the"
-    },
-    {
-      "remove": "house"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "Israel;"
-    },
-    {
-      "remove": "O"
-    },
-    {
-      "remove": "ye"
-    },
-    {
-      "remove": "people"
+      "index": 19,
+      "remove": [
+        "of",
+        "the",
+        "house",
+        "of",
+        "Israel;",
+        "O",
+        "ye",
+        "people"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 10:5": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 27,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 10:8": [
     {
-      "remove": "be"
-    },
-    {
-      "remove": "cause"
-    },
-    {
-      "add": "because"
+      "index": 22,
+      "remove": [
+        "be",
+        "cause"
+      ],
+      "add": [
+        "because"
+      ]
     }
   ],
   "3 Nephi 10:10": [
     {
-      "remove": "which"
+      "index": 22,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Redeemer:"
-    },
-    {
-      "add": "Redeemer."
+      "index": 49,
+      "remove": [
+        "Redeemer:"
+      ],
+      "add": [
+        "Redeemer."
+      ]
     }
   ],
   "3 Nephi 10:11": [
     {
-      "remove": "prophets.—"
-    },
-    {
-      "add": "prophets."
+      "index": 13,
+      "remove": [
+        "prophets.—"
+      ],
+      "add": [
+        "prophets."
+      ]
     }
   ],
   "3 Nephi 10:12": [
     {
-      "remove": "which"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 38,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 10:14": [
     {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 51,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "3 Nephi 10:16": [
     {
-      "remove": "concerning"
+      "index": 20,
+      "remove": [
+        "concerning"
+      ],
+      "add": [
+        "concernig"
+      ]
     },
     {
-      "add": "concernig"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "add": "are"
+      "index": 22,
+      "remove": [
+        "which",
+        "is"
+      ],
+      "add": [
+        "who",
+        "are"
+      ]
     }
   ],
   "3 Nephi 10:17": [
     {
-      "remove": "those"
+      "index": 27,
+      "remove": [
+        "those"
+      ],
+      "add": [
+        "these"
+      ]
     },
     {
-      "add": "these"
-    },
-    {
-      "remove": "testifies"
-    },
-    {
-      "add": "testify"
+      "index": 30,
+      "remove": [
+        "testifies"
+      ],
+      "add": [
+        "testify"
+      ]
     }
   ],
   "3 Nephi 10:18": [
     {
-      "remove": "which"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 31,
+      "remove": [
+        "they",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     },
     {
-      "remove": "they"
+      "index": 37,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Heaven,"
-    },
-    {
-      "add": "heaven,"
+      "index": 65,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     }
   ],
   "3 Nephi 10:19": [
     {
-      "remove": "ministry"
-    },
-    {
-      "add": "ministery"
+      "index": 14,
+      "remove": [
+        "ministry"
+      ],
+      "add": [
+        "ministery"
+      ]
     }
   ],
   "3 Nephi 11:1": [
     {
-      "remove": "marvelling"
+      "index": 32,
+      "remove": [
+        "marvelling"
+      ],
+      "add": [
+        "marveling"
+      ]
     },
     {
-      "add": "marveling"
-    },
-    {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 47,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "3 Nephi 11:2": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     }
   ],
   "3 Nephi 11:3": [
     {
-      "remove": "Heaven;"
+      "index": 24,
+      "remove": [
+        "Heaven;"
+      ],
+      "add": [
+        "heaven;"
+      ]
     },
     {
-      "add": "heaven;"
-    },
-    {
-      "remove": "burn.—"
-    },
-    {
-      "add": "burn."
+      "index": 103,
+      "remove": [
+        "burn.—"
+      ],
+      "add": [
+        "burn."
+      ]
     }
   ],
   "3 Nephi 11:5": [
     {
-      "remove": "Heaven,"
+      "index": 32,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     },
     {
-      "add": "heaven,"
-    },
-    {
-      "remove": "came;"
-    },
-    {
-      "add": "came:"
+      "index": 37,
+      "remove": [
+        "came;"
+      ],
+      "add": [
+        "came:"
+      ]
     }
   ],
   "3 Nephi 11:6": [
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
+      "index": 15,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "3 Nephi 11:7": [
     {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
+      "index": 0,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 11:8": [
     {
-      "remove": "Heaven,"
+      "index": 15,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven;"
+      ]
     },
     {
-      "add": "heaven;"
+      "index": 20,
+      "remove": [],
+      "add": [
+        "man"
+      ]
     },
     {
-      "add": "man"
+      "index": 21,
+      "remove": [
+        "man"
+      ],
+      "add": []
     },
     {
-      "remove": "man"
+      "index": 25,
+      "remove": [
+        "Heaven;"
+      ],
+      "add": [
+        "heaven;"
+      ]
     },
     {
-      "remove": "Heaven;"
-    },
-    {
-      "add": "heaven;"
-    },
-    {
-      "remove": "meant:"
-    },
-    {
-      "add": "meant,"
+      "index": 72,
+      "remove": [
+        "meant:"
+      ],
+      "add": [
+        "meant,"
+      ]
     }
   ],
   "3 Nephi 11:9": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying;"
+      "index": 16,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying;"
+      ]
     }
   ],
   "3 Nephi 11:10": [
     {
-      "remove": "Behold"
+      "index": 0,
+      "remove": [
+        "Behold"
+      ],
+      "add": [
+        "behold"
+      ]
     },
     {
-      "add": "behold"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "add": "shall"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "should"
+      "index": 10,
+      "remove": [
+        "that",
+        "should"
+      ],
+      "add": [
+        "shall"
+      ]
     }
   ],
   "3 Nephi 11:11": [
     {
-      "remove": "drank"
-    },
-    {
-      "add": "drunk"
+      "index": 15,
+      "remove": [
+        "drank"
+      ],
+      "add": [
+        "drunk"
+      ]
     }
   ],
   "3 Nephi 11:12": [
     {
-      "remove": "spake"
+      "index": 9,
+      "remove": [
+        "spake"
+      ],
+      "add": [
+        "spoken"
+      ]
     },
     {
-      "add": "spoken"
-    },
-    {
-      "remove": "Heaven."
-    },
-    {
-      "add": "heaven."
+      "index": 40,
+      "remove": [
+        "Heaven."
+      ],
+      "add": [
+        "heaven."
+      ]
     }
   ],
   "3 Nephi 11:13": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 11,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 11:14": [
     {
-      "remove": "Arise"
-    },
-    {
-      "add": "arise"
+      "index": 0,
+      "remove": [
+        "Arise"
+      ],
+      "add": [
+        "arise"
+      ]
     }
   ],
   "3 Nephi 11:15": [
     {
-      "remove": "this"
+      "index": 33,
+      "remove": [
+        "this"
+      ],
+      "add": []
     },
     {
-      "remove": "that"
+      "index": 82,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 11:16": [
     {
-      "remove": "it"
+      "index": 1,
+      "remove": [
+        "it",
+        "came",
+        "to",
+        "pass",
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "came"
-    },
-    {
-      "remove": "to"
-    },
-    {
-      "remove": "pass"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 24,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 11:17": [
     {
-      "remove": "Hosanna!"
-    },
-    {
-      "add": "hosanna!"
-    },
-    {
-      "remove": "Blessed"
-    },
-    {
-      "add": "blessed"
+      "index": 0,
+      "remove": [
+        "Hosanna!",
+        "Blessed"
+      ],
+      "add": [
+        "hosanna!",
+        "blessed"
+      ]
     }
   ],
   "3 Nephi 11:19": [
     {
-      "remove": "feet.—"
-    },
-    {
-      "add": "feet."
+      "index": 17,
+      "remove": [
+        "feet.—"
+      ],
+      "add": [
+        "feet."
+      ]
     }
   ],
   "3 Nephi 11:22": [
     {
-      "remove": "saith"
+      "index": 21,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "On"
-    },
-    {
-      "add": "on"
+      "index": 24,
+      "remove": [
+        "On"
+      ],
+      "add": [
+        "on"
+      ]
     }
   ],
   "3 Nephi 11:23": [
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them,"
-    },
-    {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
+      "index": 28,
+      "remove": [
+        "them:",
+        "Behold,"
+      ],
+      "add": [
+        "them,",
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 11:28": [
     {
-      "remove": "hitherto"
-    },
-    {
-      "add": "hithero"
+      "index": 22,
+      "remove": [
+        "hitherto"
+      ],
+      "add": [
+        "hithero"
+      ]
     }
   ],
   "3 Nephi 11:29": [
     {
-      "remove": "unto"
+      "index": 5,
+      "remove": [
+        "unto",
+        "you,"
+      ],
+      "add": [
+        "unto,"
+      ]
     },
     {
-      "add": "unto,"
-    },
-    {
-      "remove": "you,"
-    },
-    {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 22,
+      "remove": [
+        "Devil,",
+        "which"
+      ],
+      "add": [
+        "devil,",
+        "who"
+      ]
     }
   ],
   "3 Nephi 11:32": [
     {
-      "remove": "father"
-    },
-    {
-      "add": "Father"
+      "index": 48,
+      "remove": [
+        "father"
+      ],
+      "add": [
+        "Father"
+      ]
     }
   ],
   "3 Nephi 11:33": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 11:34": [
     {
-      "remove": "damned.—"
-    },
-    {
-      "add": "damned."
+      "index": 12,
+      "remove": [
+        "damned.—"
+      ],
+      "add": [
+        "damned."
+      ]
     }
   ],
   "3 Nephi 11:36": [
     {
-      "remove": "me:"
-    },
-    {
-      "add": "me;"
+      "index": 22,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me;"
+      ]
     }
   ],
   "3 Nephi 11:37": [
     {
-      "remove": "you;"
+      "index": 5,
+      "remove": [
+        "you;"
+      ],
+      "add": [
+        "you,"
+      ]
     },
     {
-      "add": "you,"
-    },
-    {
-      "remove": "baptized"
-    },
-    {
-      "add": "haptized"
+      "index": 17,
+      "remove": [
+        "baptized"
+      ],
+      "add": [
+        "haptized"
+      ]
     }
   ],
   "3 Nephi 11:38": [
     {
-      "remove": "Ye"
-    },
-    {
-      "add": "ye"
+      "index": 6,
+      "remove": [
+        "Ye"
+      ],
+      "add": [
+        "ye"
+      ]
     }
   ],
   "3 Nephi 12:1": [
     {
-      "remove": "which"
+      "index": 17,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 27,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 56,
+      "remove": [
+        "Blessed"
+      ],
+      "add": [
+        "blessed"
+      ]
     },
     {
-      "add": "who"
+      "index": 70,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "Blessed"
+      "index": 99,
+      "remove": [
+        "water;"
+      ],
+      "add": [
+        "water,"
+      ]
     },
     {
-      "add": "blessed"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "water;"
-    },
-    {
-      "add": "water,"
-    },
-    {
-      "add": "that"
-    },
-    {
-      "add": "ye"
+      "index": 140,
+      "remove": [],
+      "add": [
+        "that",
+        "ye"
+      ]
     }
   ],
   "3 Nephi 12:2": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 33,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 12:3": [
     {
-      "remove": "which"
+      "index": 7,
+      "remove": [
+        "which",
+        "cometh"
+      ],
+      "add": [
+        "who",
+        "come"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "cometh"
-    },
-    {
-      "add": "come"
-    },
-    {
-      "remove": "Heaven."
-    },
-    {
-      "add": "heaven."
+      "index": 17,
+      "remove": [
+        "Heaven."
+      ],
+      "add": [
+        "heaven."
+      ]
     }
   ],
   "3 Nephi 12:6": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 5,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 12:7": [
     {
-      "add": "are"
+      "index": 2,
+      "remove": [],
+      "add": [
+        "are"
+      ]
     }
   ],
   "3 Nephi 12:9": [
     {
-      "remove": "he"
-    },
-    {
-      "add": "be"
+      "index": 9,
+      "remove": [
+        "he"
+      ],
+      "add": [
+        "be"
+      ]
     }
   ],
   "3 Nephi 12:10": [
     {
-      "remove": "which"
+      "index": 5,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "namesake,"
-    },
-    {
-      "add": "names-sake,"
+      "index": 10,
+      "remove": [
+        "namesake,"
+      ],
+      "add": [
+        "names-sake,"
+      ]
     }
   ],
   "3 Nephi 12:12": [
     {
-      "remove": "Heaven:"
+      "index": 17,
+      "remove": [
+        "Heaven:"
+      ],
+      "add": [
+        "heaven;"
+      ]
     },
     {
-      "add": "heaven;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 24,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 12:15": [
     {
-      "remove": "candlestick,"
-    },
-    {
-      "add": "candle-stick,"
+      "index": 16,
+      "remove": [
+        "candlestick,"
+      ],
+      "add": [
+        "candle-stick,"
+      ]
     }
   ],
   "3 Nephi 12:16": [
     {
-      "remove": "works,"
+      "index": 15,
+      "remove": [
+        "works,"
+      ],
+      "add": [
+        "works"
+      ]
     },
     {
-      "add": "works"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Heaven."
-    },
-    {
-      "add": "heaven."
+      "index": 23,
+      "remove": [
+        "Heaven."
+      ],
+      "add": [
+        "heaven."
+      ]
     }
   ],
   "3 Nephi 12:17": [
     {
-      "remove": "fulfil:"
-    },
-    {
-      "add": "fulfil;"
+      "index": 21,
+      "remove": [
+        "fulfil:"
+      ],
+      "add": [
+        "fulfil;"
+      ]
     }
   ],
   "3 Nephi 12:19": [
     {
-      "remove": "unto"
+      "index": 5,
+      "remove": [
+        "unto"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 12:21": [
     {
-      "remove": "kill,"
+      "index": 28,
+      "remove": [
+        "kill,"
+      ],
+      "add": [
+        "kill"
+      ]
     },
     {
-      "add": "kill"
-    },
-    {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 35,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "3 Nephi 12:22": [
     {
-      "remove": "judgement."
+      "index": 18,
+      "remove": [
+        "judgement."
+      ],
+      "add": [
+        "judgment."
+      ]
     },
     {
-      "add": "judgment."
-    },
-    {
-      "remove": "say,"
-    },
-    {
-      "add": "say"
-    },
-    {
-      "remove": "Thou"
-    },
-    {
-      "add": "thou"
+      "index": 37,
+      "remove": [
+        "say,",
+        "Thou"
+      ],
+      "add": [
+        "say",
+        "thou"
+      ]
     }
   ],
   "3 Nephi 12:23": [
     {
-      "remove": "aught"
-    },
-    {
-      "add": "ought"
+      "index": 20,
+      "remove": [
+        "aught"
+      ],
+      "add": [
+        "ought"
+      ]
     }
   ],
   "3 Nephi 12:26": [
     {
-      "remove": "senine.—"
+      "index": 20,
+      "remove": [
+        "senine.—"
+      ],
+      "add": [
+        "senine."
+      ]
     },
     {
-      "add": "senine."
-    },
-    {
-      "remove": "Nay."
-    },
-    {
-      "add": "nay."
+      "index": 39,
+      "remove": [
+        "Nay."
+      ],
+      "add": [
+        "nay."
+      ]
     }
   ],
   "3 Nephi 12:28": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 5,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 12:29": [
     {
-      "remove": "heart:"
-    },
-    {
-      "add": "heart;"
+      "index": 18,
+      "remove": [
+        "heart:"
+      ],
+      "add": [
+        "heart;"
+      ]
     }
   ],
   "3 Nephi 12:31": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 4,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 12:32": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 12:33": [
     {
-      "remove": "Thou"
-    },
-    {
-      "add": "thou"
+      "index": 5,
+      "remove": [
+        "Thou"
+      ],
+      "add": [
+        "thou"
+      ]
     }
   ],
   "3 Nephi 12:34": [
     {
-      "remove": "Swear"
+      "index": 7,
+      "remove": [
+        "Swear"
+      ],
+      "add": [
+        "swear"
+      ]
     },
     {
-      "add": "swear"
+      "index": 13,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     },
     {
-      "remove": "Heaven,"
-    },
-    {
-      "add": "heaven,"
-    },
-    {
-      "remove": "it"
-    },
-    {
-      "add": "its"
-    },
-    {
-      "remove": "is"
+      "index": 15,
+      "remove": [
+        "it",
+        "is"
+      ],
+      "add": [
+        "its"
+      ]
     }
   ],
   "3 Nephi 12:37": [
     {
-      "remove": "let"
+      "index": 1,
+      "remove": [
+        "let"
+      ],
+      "add": [
+        "ler"
+      ]
     },
     {
-      "add": "ler"
+      "index": 5,
+      "remove": [
+        "Yea,"
+      ],
+      "add": [
+        "yea,"
+      ]
     },
     {
-      "remove": "Yea,"
-    },
-    {
-      "add": "yea,"
-    },
-    {
-      "remove": "Nay,"
-    },
-    {
-      "add": "nay,"
-    },
-    {
-      "remove": "nay:"
-    },
-    {
-      "add": "nay,"
+      "index": 7,
+      "remove": [
+        "Nay,",
+        "nay:"
+      ],
+      "add": [
+        "nay,",
+        "nay,"
+      ]
     }
   ],
   "3 Nephi 12:38": [
     {
-      "remove": "An"
-    },
-    {
-      "add": "an"
+      "index": 5,
+      "remove": [
+        "An"
+      ],
+      "add": [
+        "an"
+      ]
     }
   ],
   "3 Nephi 12:39": [
     {
-      "remove": "That"
+      "index": 5,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "evil:"
-    },
-    {
-      "add": "evil,"
+      "index": 10,
+      "remove": [
+        "evil:"
+      ],
+      "add": [
+        "evil,"
+      ]
     }
   ],
   "3 Nephi 12:43": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 12:44": [
     {
-      "remove": "Love"
+      "index": 6,
+      "remove": [
+        "Love"
+      ],
+      "add": [
+        "love"
+      ]
     },
     {
-      "add": "love"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 25,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 12:45": [
     {
-      "remove": "which"
+      "index": 9,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "heaven:"
-    },
-    {
-      "add": "heaven;"
+      "index": 12,
+      "remove": [
+        "heaven:"
+      ],
+      "add": [
+        "heaven;"
+      ]
     }
   ],
   "3 Nephi 12:46": [
     {
-      "remove": "fulfilled.—"
-    },
-    {
-      "add": "fulfilled."
+      "index": 17,
+      "remove": [
+        "fulfilled.—"
+      ],
+      "add": [
+        "fulfilled."
+      ]
     }
   ],
   "3 Nephi 12:48": [
     {
-      "remove": "which"
+      "index": 14,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Heaven"
-    },
-    {
-      "add": "heaven"
+      "index": 17,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     }
   ],
   "3 Nephi 13:1": [
     {
-      "remove": "them:"
+      "index": 30,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them;"
+      ]
     },
     {
-      "add": "them;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 39,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 13:2": [
     {
-      "remove": "They"
-    },
-    {
-      "add": "they"
+      "index": 37,
+      "remove": [
+        "They"
+      ],
+      "add": [
+        "they"
+      ]
     }
   ],
   "3 Nephi 13:4": [
     {
-      "remove": "secret:"
+      "index": 6,
+      "remove": [
+        "secret:"
+      ],
+      "add": [
+        "secret;"
+      ]
     },
     {
-      "add": "secret;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 10,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 13:5": [
     {
-      "remove": "hypocrites:"
+      "index": 10,
+      "remove": [
+        "hypocrites:"
+      ],
+      "add": [
+        "hypocrites,"
+      ]
     },
     {
-      "add": "hypocrites,"
-    },
-    {
-      "remove": "They"
-    },
-    {
-      "add": "they"
+      "index": 39,
+      "remove": [
+        "They"
+      ],
+      "add": [
+        "they"
+      ]
     }
   ],
   "3 Nephi 13:6": [
     {
-      "remove": "which"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 27,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 13:7": [
     {
-      "remove": "heathen:"
-    },
-    {
-      "add": "heathen,"
+      "index": 10,
+      "remove": [
+        "heathen:"
+      ],
+      "add": [
+        "heathen,"
+      ]
     }
   ],
   "3 Nephi 13:8": [
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them,"
+      "index": 6,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     }
   ],
   "3 Nephi 13:9": [
     {
-      "remove": "ye:"
+      "index": 5,
+      "remove": [
+        "ye:",
+        "Our"
+      ],
+      "add": [
+        "ye,",
+        "our"
+      ]
     },
     {
-      "remove": "Our"
+      "index": 8,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "ye,"
-    },
-    {
-      "add": "our"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "Hallowed"
-    },
-    {
-      "add": "hallowed"
+      "index": 12,
+      "remove": [
+        "Hallowed"
+      ],
+      "add": [
+        "hallowed"
+      ]
     }
   ],
   "3 Nephi 13:10": [
     {
-      "remove": "in"
-    },
-    {
-      "add": "on"
+      "index": 4,
+      "remove": [
+        "in"
+      ],
+      "add": [
+        "on"
+      ]
     }
   ],
   "3 Nephi 13:14": [
     {
-      "remove": "you:"
-    },
-    {
-      "add": "you;"
+      "index": 13,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you;"
+      ]
     }
   ],
   "3 Nephi 13:16": [
     {
-      "remove": "countenance:"
+      "index": 12,
+      "remove": [
+        "countenance:"
+      ],
+      "add": [
+        "countenance,"
+      ]
     },
     {
-      "add": "countenance,"
-    },
-    {
-      "remove": "They"
-    },
-    {
-      "add": "they"
+      "index": 31,
+      "remove": [
+        "They"
+      ],
+      "add": [
+        "they"
+      ]
     }
   ],
   "3 Nephi 13:18": [
     {
-      "remove": "which"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 15,
+      "remove": [
+        "secret:"
+      ],
+      "add": [
+        "secret;"
+      ]
     },
     {
-      "remove": "secret:"
-    },
-    {
-      "add": "secret;"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 19,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 13:19": [
     {
-      "remove": "steal:"
-    },
-    {
-      "add": "steal,"
+      "index": 19,
+      "remove": [
+        "steal:"
+      ],
+      "add": [
+        "steal,"
+      ]
     }
   ],
   "3 Nephi 13:22": [
     {
-      "remove": "eye:"
-    },
-    {
-      "add": "eye,"
+      "index": 7,
+      "remove": [
+        "eye:"
+      ],
+      "add": [
+        "eye,"
+      ]
     }
   ],
   "3 Nephi 13:24": [
     {
-      "remove": "masters:"
-    },
-    {
-      "add": "masters,"
+      "index": 5,
+      "remove": [
+        "masters:"
+      ],
+      "add": [
+        "masters,"
+      ]
     }
   ],
   "3 Nephi 13:25": [
     {
-      "remove": "saith"
+      "index": 23,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 26,
+      "remove": [
+        "Remember"
+      ],
+      "add": [
+        "remember"
+      ]
     },
     {
-      "remove": "Remember"
+      "index": 38,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "remember"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "Take"
-    },
-    {
-      "add": "take"
+      "index": 52,
+      "remove": [
+        "Take"
+      ],
+      "add": [
+        "take"
+      ]
     }
   ],
   "3 Nephi 13:26": [
     {
-      "remove": "air:"
-    },
-    {
-      "add": "air,"
+      "index": 5,
+      "remove": [
+        "air:"
+      ],
+      "add": [
+        "air,"
+      ]
     }
   ],
   "3 Nephi 13:29": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 13:31": [
     {
-      "remove": "What"
-    },
-    {
-      "add": "what"
+      "index": 5,
+      "remove": [
+        "What"
+      ],
+      "add": [
+        "what"
+      ]
     }
   ],
   "3 Nephi 13:32": [
     {
-      "remove": "things.—"
-    },
-    {
-      "add": "things."
+      "index": 12,
+      "remove": [
+        "things.—"
+      ],
+      "add": [
+        "things."
+      ]
     }
   ],
   "3 Nephi 13:34": [
     {
-      "remove": "morrow:"
-    },
-    {
-      "add": "morrow,"
+      "index": 6,
+      "remove": [
+        "morrow:"
+      ],
+      "add": [
+        "morrow,"
+      ]
     }
   ],
   "3 Nephi 14:1": [
     {
-      "remove": "Verily,"
+      "index": 28,
+      "remove": [
+        "Verily,"
+      ],
+      "add": [
+        "verily,"
+      ]
     },
     {
-      "add": "verily,"
-    },
-    {
-      "remove": "Judge"
-    },
-    {
-      "add": "judge"
+      "index": 34,
+      "remove": [
+        "Judge"
+      ],
+      "add": [
+        "judge"
+      ]
     }
   ],
   "3 Nephi 14:2": [
     {
-      "remove": "judgement"
+      "index": 3,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
-    },
-    {
-      "remove": "judged:"
-    },
-    {
-      "add": "judged;"
+      "index": 9,
+      "remove": [
+        "judged:"
+      ],
+      "add": [
+        "judged;"
+      ]
     }
   ],
   "3 Nephi 14:4": [
     {
-      "remove": "Let"
-    },
-    {
-      "add": "let"
+      "index": 8,
+      "remove": [
+        "Let"
+      ],
+      "add": [
+        "let"
+      ]
     }
   ],
   "3 Nephi 14:5": [
     {
-      "remove": "out"
+      "index": 4,
+      "remove": [
+        "out"
+      ],
+      "add": []
     },
     {
-      "remove": "out"
+      "index": 20,
+      "remove": [
+        "out"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 14:7": [
     {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
+      "index": 20,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you,"
+      ]
     }
   ],
   "3 Nephi 14:8": [
     {
-      "remove": "be"
-    },
-    {
-      "add": "he"
+      "index": 18,
+      "remove": [
+        "be"
+      ],
+      "add": [
+        "he"
+      ]
     }
   ],
   "3 Nephi 14:11": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 14:12": [
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them,"
+      "index": 17,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     }
   ],
   "3 Nephi 14:13": [
     {
-      "remove": "which"
+      "index": 25,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "thereat:"
-    },
-    {
-      "add": "thereat;"
+      "index": 28,
+      "remove": [
+        "thereat:"
+      ],
+      "add": [
+        "thereat;"
+      ]
     }
   ],
   "3 Nephi 14:14": [
     {
-      "remove": "because,"
-    },
-    {
-      "add": "because"
+      "index": 0,
+      "remove": [
+        "because,"
+      ],
+      "add": [
+        "because"
+      ]
     }
   ],
   "3 Nephi 14:15": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 4,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 14:17": [
     {
-      "remove": "fruit.—"
-    },
-    {
-      "add": "fruit."
+      "index": 16,
+      "remove": [
+        "fruit.—"
+      ],
+      "add": [
+        "fruit."
+      ]
     }
   ],
   "3 Nephi 14:21": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 25,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 14:23": [
     {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
+      "index": 10,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you,"
+      ]
     }
   ],
   "3 Nephi 14:24": [
     {
-      "remove": "which"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "rock:"
-    },
-    {
-      "add": "rock,"
+      "index": 24,
+      "remove": [
+        "rock:"
+      ],
+      "add": [
+        "rock,"
+      ]
     }
   ],
   "3 Nephi 14:25": [
     {
-      "remove": "not:"
-    },
-    {
-      "add": "not;"
+      "index": 20,
+      "remove": [
+        "not:"
+      ],
+      "add": [
+        "not;"
+      ]
     }
   ],
   "3 Nephi 14:26": [
     {
-      "remove": "which"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "sand:"
-    },
-    {
-      "add": "sand,"
+      "index": 26,
+      "remove": [
+        "sand:"
+      ],
+      "add": [
+        "sand,"
+      ]
     }
   ],
   "3 Nephi 14:27": [
     {
-      "remove": "fell:"
-    },
-    {
-      "add": "fell,"
+      "index": 19,
+      "remove": [
+        "fell:"
+      ],
+      "add": [
+        "fell,"
+      ]
     }
   ],
   "3 Nephi 15:1": [
     {
-      "remove": "eyes"
+      "index": 16,
+      "remove": [
+        "eyes"
+      ],
+      "add": [
+        "eyss"
+      ]
     },
     {
-      "add": "eyss"
+      "index": 23,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
+      "index": 26,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 15:2": [
     {
-      "remove": "which"
+      "index": 20,
+      "remove": [
+        "which",
+        "marvelled,"
+      ],
+      "add": [
+        "who",
+        "marveled,"
+      ]
     },
     {
-      "add": "who"
+      "index": 24,
+      "remove": [
+        "wat"
+      ],
+      "add": [
+        "what"
+      ]
     },
     {
-      "remove": "marvelled,"
+      "index": 31,
+      "remove": [
+        "Moses:"
+      ],
+      "add": [
+        "Moses;"
+      ]
     },
     {
-      "add": "marveled,"
-    },
-    {
-      "remove": "wat"
-    },
-    {
-      "add": "what"
-    },
-    {
-      "remove": "Moses:"
-    },
-    {
-      "add": "Moses;"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 38,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 15:3": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Marvel"
-    },
-    {
-      "add": "marvel"
+      "index": 5,
+      "remove": [
+        "Marvel"
+      ],
+      "add": [
+        "marvel"
+      ]
     }
   ],
   "3 Nephi 15:4": [
     {
-      "remove": "Behold"
+      "index": 0,
+      "remove": [
+        "Behold"
+      ],
+      "add": [
+        "Bohold"
+      ]
     },
     {
-      "add": "Bohold"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 5,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 15:5": [
     {
-      "remove": "which"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 17,
+      "remove": [
+        "Israel;"
+      ],
+      "add": [
+        "Israel:"
+      ]
     },
     {
-      "remove": "Israel;"
-    },
-    {
-      "add": "Israel:"
-    },
-    {
-      "remove": "fulfilled:"
-    },
-    {
-      "add": "fulfilled,"
+      "index": 24,
+      "remove": [
+        "fulfilled:"
+      ],
+      "add": [
+        "fulfilled,"
+      ]
     }
   ],
   "3 Nephi 15:6": [
     {
-      "remove": "prophets:"
-    },
-    {
-      "add": "prophets,"
+      "index": 6,
+      "remove": [
+        "prophets:"
+      ],
+      "add": [
+        "prophets,"
+      ]
     }
   ],
   "3 Nephi 15:7": [
     {
-      "remove": "That"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 24,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "3 Nephi 15:9": [
     {
-      "remove": "light:"
+      "index": 7,
+      "remove": [
+        "light:",
+        "Look"
+      ],
+      "add": [
+        "light;",
+        "look"
+      ]
     },
     {
-      "add": "light;"
-    },
-    {
-      "remove": "Look"
-    },
-    {
-      "add": "look"
-    },
-    {
-      "remove": "live:"
-    },
-    {
-      "add": "live,"
+      "index": 19,
+      "remove": [
+        "live:"
+      ],
+      "add": [
+        "live,"
+      ]
     }
   ],
   "3 Nephi 15:10": [
     {
-      "remove": "prophets:"
-    },
-    {
-      "add": "prophets,"
+      "index": 19,
+      "remove": [
+        "prophets:"
+      ],
+      "add": [
+        "prophets,"
+      ]
     }
   ],
   "3 Nephi 15:12": [
     {
-      "remove": "Ye"
+      "index": 0,
+      "remove": [
+        "Ye"
+      ],
+      "add": [
+        "ye"
+      ]
     },
     {
-      "add": "ye"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 15:13": [
     {
-      "remove": "you.—"
-    },
-    {
-      "add": "you."
+      "index": 16,
+      "remove": [
+        "you.—"
+      ],
+      "add": [
+        "you."
+      ]
     }
   ],
   "3 Nephi 15:15": [
     {
-      "remove": "which"
+      "index": 25,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
-    },
-    {
-      "remove": "land.—"
-    },
-    {
-      "add": "land."
+      "index": 34,
+      "remove": [
+        "land.—"
+      ],
+      "add": [
+        "land."
+      ]
     }
   ],
   "3 Nephi 15:16": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 15:20": [
     {
-      "remove": "That"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "father"
-    },
-    {
-      "add": "Father"
+      "index": 13,
+      "remove": [
+        "father"
+      ],
+      "add": [
+        "Father"
+      ]
     }
   ],
   "3 Nephi 15:21": [
     {
-      "remove": "That"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "which"
+      "index": 13,
+      "remove": [
+        "said,"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "whom"
-    },
-    {
-      "remove": "said,"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "have,"
-    },
-    {
-      "add": "have"
+      "index": 17,
+      "remove": [
+        "have,"
+      ],
+      "add": [
+        "have"
+      ]
     }
   ],
   "3 Nephi 15:22": [
     {
-      "remove": "Gentiles:"
-    },
-    {
-      "add": "Gentiles;"
+      "index": 12,
+      "remove": [
+        "Gentiles:"
+      ],
+      "add": [
+        "Gentiles;"
+      ]
     }
   ],
   "3 Nephi 15:24": [
     {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "whom"
+      "index": 21,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "those",
+        "whom"
+      ]
     }
   ],
   "3 Nephi 16:1": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 16:2": [
     {
-      "remove": "which"
+      "index": 3,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 8,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 16:3": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 9,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 16:4": [
     {
-      "remove": "which"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 63,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 97,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 16:8": [
     {
-      "remove": "Wo,"
+      "index": 1,
+      "remove": [
+        "Wo,"
+      ],
+      "add": [
+        "wo,"
+      ]
     },
     {
-      "add": "wo,"
+      "index": 10,
+      "remove": [
+        "Gentiles:"
+      ],
+      "add": [
+        "Gentiles,"
+      ]
     },
     {
-      "remove": "Gentiles:"
+      "index": 29,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "Gentiles,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 39,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 16:9": [
     {
-      "remove": "judgements"
+      "index": 14,
+      "remove": [
+        "judgements"
+      ],
+      "add": [
+        "judgments"
+      ]
     },
     {
-      "add": "judgments"
+      "index": 21,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 34,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 44,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 16:10": [
     {
-      "remove": "day,"
+      "index": 13,
+      "remove": [
+        "day,",
+        "When"
+      ],
+      "add": [
+        "day",
+        "when"
+      ]
     },
     {
-      "add": "day"
+      "index": 21,
+      "remove": [
+        "Gospel,",
+        "and",
+        "shall",
+        "reject",
+        "the",
+        "fulness",
+        "of",
+        "my",
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     },
     {
-      "remove": "When"
+      "index": 89,
+      "remove": [
+        "these"
+      ],
+      "add": [
+        "those"
+      ]
     },
     {
-      "add": "when"
+      "index": 98,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     },
     {
-      "remove": "Gospel,"
-    },
-    {
-      "add": "gospel,"
-    },
-    {
-      "remove": "and"
-    },
-    {
-      "remove": "shall"
-    },
-    {
-      "remove": "reject"
-    },
-    {
-      "remove": "the"
-    },
-    {
-      "remove": "fulness"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "my"
-    },
-    {
-      "remove": "Gospel,"
-    },
-    {
-      "remove": "these"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "remove": "Gospel,"
-    },
-    {
-      "add": "gospel,"
-    },
-    {
-      "remove": "Gospel"
-    },
-    {
-      "add": "gospel"
+      "index": 110,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     }
   ],
   "3 Nephi 16:11": [
     {
-      "remove": "Gospel"
-    },
-    {
-      "add": "gospel"
+      "index": 23,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     }
   ],
   "3 Nephi 16:12": [
     {
-      "remove": "Gospel."
-    },
-    {
-      "add": "gospel."
+      "index": 43,
+      "remove": [
+        "Gospel."
+      ],
+      "add": [
+        "gospel."
+      ]
     }
   ],
   "3 Nephi 16:14": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 7,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 16:15": [
     {
-      "remove": "his"
-    },
-    {
-      "add": "its"
+      "index": 48,
+      "remove": [
+        "his"
+      ],
+      "add": [
+        "its"
+      ]
     }
   ],
   "3 Nephi 16:16": [
     {
-      "remove": "Thus"
-    },
-    {
-      "add": "thus"
-    },
-    {
-      "remove": "has"
-    },
-    {
-      "add": "hath"
+      "index": 6,
+      "remove": [
+        "Thus",
+        "has"
+      ],
+      "add": [
+        "thus",
+        "hath"
+      ]
     }
   ],
   "3 Nephi 16:17": [
     {
-      "remove": "saith,"
-    },
-    {
-      "add": "say,"
+      "index": 12,
+      "remove": [
+        "saith,"
+      ],
+      "add": [
+        "say,"
+      ]
     }
   ],
   "3 Nephi 16:18": [
     {
-      "remove": "Thy"
+      "index": 0,
+      "remove": [
+        "Thy"
+      ],
+      "add": [
+        "thy"
+      ]
     },
     {
-      "add": "thy"
-    },
-    {
-      "remove": "sing:"
-    },
-    {
-      "add": "sing,"
+      "index": 13,
+      "remove": [
+        "sing:"
+      ],
+      "add": [
+        "sing,"
+      ]
     }
   ],
   "3 Nephi 16:19": [
     {
-      "remove": "Jerusalem:"
+      "index": 10,
+      "remove": [
+        "Jerusalem:"
+      ],
+      "add": [
+        "Jerusalem,"
+      ]
     },
     {
-      "add": "Jerusalem,"
-    },
-    {
-      "remove": "Jerusalem."
-    },
-    {
-      "add": "Jesusalem."
+      "index": 21,
+      "remove": [
+        "Jerusalem."
+      ],
+      "add": [
+        "Jesusalem."
+      ]
     }
   ],
   "3 Nephi 17:1": [
     {
-      "remove": "Behold,"
+      "index": 0,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "BEHOLD,"
+      ]
     },
     {
-      "add": "BEHOLD,"
+      "index": 23,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
+      "index": 26,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 17:4": [
     {
-      "remove": "Israel:"
-    },
-    {
-      "add": "Israel,"
+      "index": 17,
+      "remove": [
+        "Israel:"
+      ],
+      "add": [
+        "Israel,"
+      ]
     }
   ],
   "3 Nephi 17:6": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "remove": "Behold,"
+      "index": 8,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     },
     {
-      "add": "behold,"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
-    },
-    {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
+      "index": 13,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you,"
+      ]
     }
   ],
   "3 Nephi 17:7": [
     {
-      "remove": "Have"
+      "index": 0,
+      "remove": [
+        "Have"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "have"
+      "index": 47,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     },
     {
-      "remove": "them:"
+      "index": 56,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     },
     {
-      "add": "them,"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
-    },
-    {
-      "remove": "mercy:"
-    },
-    {
-      "add": "mercy;"
+      "index": 59,
+      "remove": [
+        "mercy:"
+      ],
+      "add": [
+        "mercy;"
+      ]
     }
   ],
   "3 Nephi 17:8": [
     {
-      "remove": "Jerusalem:"
-    },
-    {
-      "add": "Jerusalem,"
+      "index": 20,
+      "remove": [
+        "Jerusalem:"
+      ],
+      "add": [
+        "Jerusalem,"
+      ]
     }
   ],
   "3 Nephi 17:10": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 12,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 17:15": [
     {
-      "remove": "Father;"
+      "index": 20,
+      "remove": [
+        "Father;"
+      ],
+      "add": [
+        "Father,"
+      ]
     },
     {
-      "add": "Father,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 36,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 17:16": [
     {
-      "remove": "record;"
+      "index": 7,
+      "remove": [
+        "record;"
+      ],
+      "add": [
+        "record:"
+      ]
     },
     {
-      "add": "record:"
-    },
-    {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 22,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "3 Nephi 17:17": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 23,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "3 Nephi 17:20": [
     {
-      "remove": "saith"
+      "index": 8,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Blessed"
-    },
-    {
-      "add": "blessed"
+      "index": 11,
+      "remove": [
+        "Blessed"
+      ],
+      "add": [
+        "blessed"
+      ]
     }
   ],
   "3 Nephi 17:23": [
     {
-      "remove": "Behold"
-    },
-    {
-      "add": "behold"
+      "index": 10,
+      "remove": [
+        "Behold"
+      ],
+      "add": [
+        "behold"
+      ]
     }
   ],
   "3 Nephi 17:24": [
     {
-      "remove": "Heaven,"
+      "index": 11,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     },
     {
-      "add": "heaven,"
+      "index": 16,
+      "remove": [
+        "Heavens"
+      ],
+      "add": [
+        "heavens"
+      ]
     },
     {
-      "remove": "Heavens"
-    },
-    {
-      "add": "heavens"
-    },
-    {
-      "remove": "Heaven"
-    },
-    {
-      "add": "heaven"
+      "index": 25,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     }
   ],
   "3 Nephi 18:3": [
     {
-      "remove": "berak"
-    },
-    {
-      "remove": "brake,"
-    },
-    {
-      "add": "brake"
+      "index": 16,
+      "remove": [
+        "berak",
+        "brake,"
+      ],
+      "add": [
+        "brake"
+      ]
     }
   ],
   "3 Nephi 18:5": [
     {
-      "remove": "saith"
+      "index": 10,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 14,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
+      "index": 48,
+      "remove": [
+        "they",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     }
   ],
   "3 Nephi 18:7": [
     {
-      "remove": "you.—"
+      "index": 15,
+      "remove": [
+        "you.—"
+      ],
+      "add": [
+        "you."
+      ]
     },
     {
-      "add": "you."
-    },
-    {
-      "remove": "al"
-    },
-    {
-      "remove": "ways"
-    },
-    {
-      "add": "always"
+      "index": 28,
+      "remove": [
+        "al",
+        "ways"
+      ],
+      "add": [
+        "always"
+      ]
     }
   ],
   "3 Nephi 18:10": [
     {
-      "remove": "saith"
+      "index": 8,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Blessed"
-    },
-    {
-      "add": "blessed"
+      "index": 11,
+      "remove": [
+        "Blessed"
+      ],
+      "add": [
+        "blessed"
+      ]
     }
   ],
   "3 Nephi 18:11": [
     {
-      "remove": "shall"
+      "index": 2,
+      "remove": [
+        "shall"
+      ],
+      "add": [
+        "zhall"
+      ]
     },
     {
-      "add": "zhall"
-    },
-    {
-      "remove": "unto"
-    },
-    {
-      "add": "to"
+      "index": 6,
+      "remove": [
+        "unto"
+      ],
+      "add": [
+        "to"
+      ]
     }
   ],
   "3 Nephi 18:12": [
     {
-      "remove": "thess"
-    },
-    {
-      "add": "these"
+      "index": 11,
+      "remove": [
+        "thess"
+      ],
+      "add": [
+        "these"
+      ]
     }
   ],
   "3 Nephi 18:13": [
     {
-      "remove": "is"
+      "index": 49,
+      "remove": [
+        "is",
+        "already"
+      ],
+      "add": [
+        "are",
+        "ready"
+      ]
     },
     {
-      "add": "are"
-    },
-    {
-      "remove": "already"
-    },
-    {
-      "add": "ready"
-    },
-    {
-      "remove": "them;"
-    },
-    {
-      "add": "them:"
+      "index": 54,
+      "remove": [
+        "them;"
+      ],
+      "add": [
+        "them:"
+      ]
     }
   ],
   "3 Nephi 18:14": [
     {
-      "remove": "Father"
-    },
-    {
-      "add": "father"
+      "index": 12,
+      "remove": [
+        "Father"
+      ],
+      "add": [
+        "father"
+      ]
     }
   ],
   "3 Nephi 18:16": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 18:17": [
     {
-      "remove": "spake"
+      "index": 9,
+      "remove": [
+        "spake"
+      ],
+      "add": [
+        "spoken"
+      ]
     },
     {
-      "add": "spoken"
+      "index": 20,
+      "remove": [
+        "mnltitude,"
+      ],
+      "add": [
+        "multitude,"
+      ]
     },
     {
-      "remove": "mnltitude,"
-    },
-    {
-      "add": "multitude,"
-    },
-    {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
+      "index": 22,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "3 Nephi 18:18": [
     {
-      "remove": "Behold,"
+      "index": 0,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "add": "behold,"
-    },
-    {
-      "remove": "you,"
-    },
-    {
-      "add": "you;"
+      "index": 23,
+      "remove": [
+        "you,"
+      ],
+      "add": [
+        "you;"
+      ]
     }
   ],
   "3 Nephi 18:20": [
     {
-      "remove": "and"
+      "index": 18,
+      "remove": [
+        "and"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 18:23": [
     {
-      "remove": "name;"
-    },
-    {
-      "add": "name:"
+      "index": 33,
+      "remove": [
+        "name;"
+      ],
+      "add": [
+        "name:"
+      ]
     }
   ],
   "3 Nephi 18:24": [
     {
-      "remove": "light,"
-    },
-    {
-      "add": "light"
+      "index": 4,
+      "remove": [
+        "light,"
+      ],
+      "add": [
+        "light"
+      ]
     }
   ],
   "3 Nephi 18:25": [
     {
-      "remove": "lead"
-    },
-    {
-      "add": "led"
+      "index": 47,
+      "remove": [
+        "lead"
+      ],
+      "add": [
+        "led"
+      ]
     }
   ],
   "3 Nephi 18:26": [
     {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
+      "index": 26,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "3 Nephi 18:28": [
     {
-      "remove": "one,"
+      "index": 18,
+      "remove": [
+        "one,"
+      ],
+      "add": [
+        "one"
+      ]
     },
     {
-      "add": "one"
-    },
-    {
-      "remove": "it:"
-    },
-    {
-      "add": "it,"
+      "index": 32,
+      "remove": [
+        "it:"
+      ],
+      "add": [
+        "it,"
+      ]
     }
   ],
   "3 Nephi 18:29": [
     {
-      "remove": "For"
-    },
-    {
-      "add": "for"
+      "index": 0,
+      "remove": [
+        "For"
+      ],
+      "add": [
+        "for"
+      ]
     }
   ],
   "3 Nephi 18:30": [
     {
-      "remove": "name."
+      "index": 26,
+      "remove": [
+        "name."
+      ],
+      "add": [
+        "name,"
+      ]
     },
     {
-      "add": "name,"
-    },
-    {
-      "remove": "babtized"
-    },
-    {
-      "add": "baptized"
+      "index": 37,
+      "remove": [
+        "babtized"
+      ],
+      "add": [
+        "baptized"
+      ]
     }
   ],
   "3 Nephi 18:31": [
     {
-      "remove": "repenteth"
+      "index": 3,
+      "remove": [
+        "repenteth"
+      ],
+      "add": [
+        "repent"
+      ]
     },
     {
-      "add": "repent"
+      "index": 17,
+      "remove": [
+        "destroy"
+      ],
+      "add": [
+        "destry"
+      ]
     },
     {
-      "remove": "destroy"
-    },
-    {
-      "add": "destry"
-    },
-    {
-      "remove": "people:"
-    },
-    {
-      "add": "people,"
-    },
-    {
-      "remove": "For"
-    },
-    {
-      "add": "for"
+      "index": 19,
+      "remove": [
+        "people:",
+        "For"
+      ],
+      "add": [
+        "people,",
+        "for"
+      ]
     }
   ],
   "3 Nephi 18:33": [
     {
-      "remove": "condemnation:"
-    },
-    {
-      "add": "condemnation,"
-    },
-    {
-      "remove": "For"
-    },
-    {
-      "add": "for"
+      "index": 14,
+      "remove": [
+        "condemnation:",
+        "For"
+      ],
+      "add": [
+        "condemnation,",
+        "for"
+      ]
     }
   ],
   "3 Nephi 18:34": [
     {
-      "remove": "hath"
+      "index": 11,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "have"
+      ]
     },
     {
-      "add": "have"
-    },
-    {
-      "remove": "you"
-    },
-    {
-      "add": "you."
-    },
-    {
-      "remove": "beforetime."
+      "index": 14,
+      "remove": [
+        "you",
+        "beforetime."
+      ],
+      "add": [
+        "you."
+      ]
     }
   ],
   "3 Nephi 18:39": [
     {
-      "remove": "Heaven.—"
+      "index": 12,
+      "remove": [
+        "Heaven.—"
+      ],
+      "add": [
+        "heaven."
+      ]
     },
     {
-      "add": "heaven."
-    },
-    {
-      "remove": "Heaven."
-    },
-    {
-      "add": "heaven."
+      "index": 26,
+      "remove": [
+        "Heaven."
+      ],
+      "add": [
+        "heaven."
+      ]
     }
   ],
   "3 Nephi 19:1": [
     {
-      "remove": "Heaven,"
-    },
-    {
-      "add": "heaven,"
+      "index": 12,
+      "remove": [
+        "Heaven,"
+      ],
+      "add": [
+        "heaven,"
+      ]
     }
   ],
   "3 Nephi 19:4": [
     {
-      "remove": "brother,"
+      "index": 19,
+      "remove": [
+        "brother,"
+      ],
+      "add": [
+        "brother"
+      ]
     },
     {
-      "add": "brother"
-    },
-    {
-      "remove": "Isaiah:"
-    },
-    {
-      "add": "Isaiah;"
-    },
-    {
-      "remove": "Now"
-    },
-    {
-      "add": "now"
+      "index": 59,
+      "remove": [
+        "Isaiah:",
+        "Now"
+      ],
+      "add": [
+        "Isaiah;",
+        "now"
+      ]
     }
   ],
   "3 Nephi 19:5": [
     {
-      "remove": "bodies."
-    },
-    {
-      "add": "bodies.—"
+      "index": 18,
+      "remove": [
+        "bodies."
+      ],
+      "add": [
+        "bodies.—"
+      ]
     }
   ],
   "3 Nephi 19:11": [
     {
-      "remove": "baptized."
-    },
-    {
-      "add": "baptized.—"
+      "index": 14,
+      "remove": [
+        "baptized."
+      ],
+      "add": [
+        "baptized.—"
+      ]
     }
   ],
   "3 Nephi 19:12": [
     {
-      "remove": "water,"
+      "index": 7,
+      "remove": [
+        "water,"
+      ],
+      "add": [
+        "water"
+      ]
     },
     {
-      "add": "water"
-    },
-    {
-      "remove": "they"
-    },
-    {
-      "add": "those"
+      "index": 16,
+      "remove": [
+        "they"
+      ],
+      "add": [
+        "those"
+      ]
     }
   ],
   "3 Nephi 19:19": [
     {
-      "remove": "saith,"
-    },
-    {
-      "add": "said,"
+      "index": 30,
+      "remove": [
+        "saith,"
+      ],
+      "add": [
+        "said,"
+      ]
     }
   ],
   "3 Nephi 19:23": [
     {
-      "remove": "they"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "who"
+      "index": 13,
+      "remove": [
+        "they",
+        "which"
+      ],
+      "add": [
+        "those",
+        "who"
+      ]
     }
   ],
   "3 Nephi 19:24": [
     {
-      "remove": "behold"
-    },
-    {
-      "add": "behold,"
+      "index": 20,
+      "remove": [
+        "behold"
+      ],
+      "add": [
+        "behold,"
+      ]
     }
   ],
   "3 Nephi 19:26": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Pray"
-    },
-    {
-      "add": "pray"
+      "index": 5,
+      "remove": [
+        "Pray"
+      ],
+      "add": [
+        "pray"
+      ]
     }
   ],
   "3 Nephi 19:27": [
     {
-      "remove": "saying:"
-    },
-    {
-      "add": "saying,"
+      "index": 25,
+      "remove": [
+        "saying:"
+      ],
+      "add": [
+        "saying,"
+      ]
     }
   ],
   "3 Nephi 19:28": [
     {
-      "remove": "which"
+      "index": 9,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 19:29": [
     {
-      "remove": "them"
+      "index": 9,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "those",
+        "whom"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "unto"
+      "index": 14,
+      "remove": [
+        "unto"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 19:30": [
     {
-      "remove": "it"
+      "index": 1,
+      "remove": [
+        "it",
+        "came",
+        "to",
+        "pass",
+        "that"
+      ],
+      "add": []
     },
     {
-      "remove": "came"
+      "index": 9,
+      "remove": [
+        "spake"
+      ],
+      "add": [
+        "spoken"
+      ]
     },
     {
-      "remove": "to"
-    },
-    {
-      "remove": "pass"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "spake"
-    },
-    {
-      "add": "spoken"
-    },
-    {
-      "remove": "then"
-    },
-    {
-      "add": "them"
+      "index": 33,
+      "remove": [
+        "then"
+      ],
+      "add": [
+        "them"
+      ]
     }
   ],
   "3 Nephi 19:34": [
     {
-      "remove": "marvellous"
+      "index": 4,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
-    },
-    {
-      "remove": "written,"
-    },
-    {
-      "add": "written"
+      "index": 15,
+      "remove": [
+        "written,"
+      ],
+      "add": [
+        "written"
+      ]
     }
   ],
   "3 Nephi 19:35": [
     {
-      "remove": "saith"
+      "index": 21,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "So"
-    },
-    {
-      "add": "so"
+      "index": 24,
+      "remove": [
+        "So"
+      ],
+      "add": [
+        "so"
+      ]
     }
   ],
   "3 Nephi 20:2": [
     {
-      "remove": "feet."
-    },
-    {
-      "add": "feet.—"
+      "index": 22,
+      "remove": [
+        "feet."
+      ],
+      "add": [
+        "feet.—"
+      ]
     }
   ],
   "3 Nephi 20:4": [
     {
-      "remove": "eat,"
-    },
-    {
-      "add": "eaten"
+      "index": 4,
+      "remove": [
+        "eat,"
+      ],
+      "add": [
+        "eaten"
+      ]
     }
   ],
   "3 Nephi 20:8": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "He"
+      ],
+      "add": [
+        "he"
+      ]
     },
     {
-      "remove": "He"
+      "index": 7,
+      "remove": [
+        "eatheth"
+      ],
+      "add": [
+        "eateth"
+      ]
     },
     {
-      "add": "he"
+      "index": 10,
+      "remove": [
+        "eatheth"
+      ],
+      "add": [
+        "eateth"
+      ]
     },
     {
-      "remove": "eatheth"
+      "index": 15,
+      "remove": [
+        "their"
+      ],
+      "add": [
+        "his"
+      ]
     },
     {
-      "add": "eateth"
+      "index": 29,
+      "remove": [
+        "their"
+      ],
+      "add": [
+        "his"
+      ]
     },
     {
-      "remove": "eatheth"
-    },
-    {
-      "add": "eateth"
-    },
-    {
-      "remove": "their"
-    },
-    {
-      "add": "his"
-    },
-    {
-      "remove": "their"
-    },
-    {
-      "add": "his"
-    },
-    {
-      "remove": "their"
-    },
-    {
-      "add": "his"
+      "index": 32,
+      "remove": [
+        "their"
+      ],
+      "add": [
+        "his"
+      ]
     }
   ],
   "3 Nephi 20:9": [
     {
-      "remove": "eat"
+      "index": 6,
+      "remove": [
+        "eat"
+      ],
+      "add": [
+        "eaten"
+      ]
     },
     {
-      "add": "eaten"
-    },
-    {
-      "remove": "drank,"
-    },
-    {
-      "add": "drunk,"
+      "index": 8,
+      "remove": [
+        "drank,"
+      ],
+      "add": [
+        "drunk,"
+      ]
     }
   ],
   "3 Nephi 20:10": [
     {
-      "remove": "Behold"
+      "index": 18,
+      "remove": [
+        "Behold"
+      ],
+      "add": [
+        "behold"
+      ]
     },
     {
-      "add": "behold"
-    },
-    {
-      "remove": "people,"
-    },
-    {
-      "add": "people"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 32,
+      "remove": [
+        "people,",
+        "which"
+      ],
+      "add": [
+        "people",
+        "who"
+      ]
     }
   ],
   "3 Nephi 20:11": [
     {
-      "remove": "fulfilled:"
-    },
-    {
-      "add": "fulfilled,"
-    },
-    {
-      "remove": "Behold"
-    },
-    {
-      "add": "behold"
+      "index": 17,
+      "remove": [
+        "fulfilled:",
+        "Behold"
+      ],
+      "add": [
+        "fulfilled,",
+        "behold"
+      ]
     }
   ],
   "3 Nephi 20:15": [
     {
-      "remove": "repent"
+      "index": 11,
+      "remove": [
+        "repent"
+      ],
+      "add": [
+        "repent,"
+      ]
     },
     {
-      "add": "repent,"
-    },
-    {
-      "remove": "that"
+      "index": 20,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 20:16": [
     {
-      "remove": "which"
+      "index": 3,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 25,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 20:18": [
     {
-      "remove": "floor:"
-    },
-    {
-      "add": "floor,"
+      "index": 15,
+      "remove": [
+        "floor:"
+      ],
+      "add": [
+        "floor,"
+      ]
     }
   ],
   "3 Nephi 20:19": [
     {
-      "remove": "hoops"
+      "index": 24,
+      "remove": [
+        "hoops",
+        "["
+      ],
+      "add": []
     },
     {
-      "remove": "["
+      "index": 27,
+      "remove": [
+        "]"
+      ],
+      "add": []
     },
     {
-      "remove": "]"
+      "index": 61,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "it."
-    },
-    {
-      "add": "it.—"
+      "index": 63,
+      "remove": [
+        "it."
+      ],
+      "add": [
+        "it.—"
+      ]
     }
   ],
   "3 Nephi 20:20": [
     {
-      "remove": "That"
+      "index": 9,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
+      "index": 15,
+      "remove": [
+        "shalt"
+      ],
+      "add": [
+        "shall"
+      ]
     },
     {
-      "remove": "shalt"
-    },
-    {
-      "add": "shall"
-    },
-    {
-      "remove": "Gentiles.—"
-    },
-    {
-      "add": "Gentiles."
+      "index": 42,
+      "remove": [
+        "Gentiles.—"
+      ],
+      "add": [
+        "Gentiles."
+      ]
     }
   ],
   "3 Nephi 20:22": [
     {
-      "remove": "Father"
-    },
-    {
-      "add": "father"
+      "index": 21,
+      "remove": [
+        "Father"
+      ],
+      "add": [
+        "father"
+      ]
     }
   ],
   "3 Nephi 20:23": [
     {
-      "remove": "saying:"
+      "index": 8,
+      "remove": [
+        "saying:",
+        "A"
+      ],
+      "add": [
+        "saying,",
+        "a"
+      ]
     },
     {
-      "add": "saying,"
+      "index": 25,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me,"
+      ]
     },
     {
-      "remove": "A"
-    },
-    {
-      "add": "a"
-    },
-    {
-      "remove": "me:"
-    },
-    {
-      "add": "me,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 48,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 20:24": [
     {
-      "remove": "Yea;"
-    },
-    {
-      "add": "yea;"
+      "index": 5,
+      "remove": [
+        "Yea;"
+      ],
+      "add": [
+        "yea;"
+      ]
     }
   ],
   "3 Nephi 20:25": [
     {
-      "remove": "saying:"
+      "index": 30,
+      "remove": [
+        "saying:",
+        "Unto"
+      ],
+      "add": [
+        "saying",
+        "unto"
+      ]
     },
     {
-      "add": "saying"
-    },
-    {
-      "remove": "Unto"
-    },
-    {
-      "add": "unto"
-    },
-    {
-      "remove": "blessed:"
-    },
-    {
-      "add": "blessed;"
+      "index": 45,
+      "remove": [
+        "blessed:"
+      ],
+      "add": [
+        "blessed;"
+      ]
     }
   ],
   "3 Nephi 20:26": [
     {
-      "remove": "covenant.—"
-    },
-    {
-      "add": "covenant."
+      "index": 34,
+      "remove": [
+        "covenant.—"
+      ],
+      "add": [
+        "covenant."
+      ]
     }
   ],
   "3 Nephi 20:27": [
     {
-      "remove": "saying:"
+      "index": 17,
+      "remove": [
+        "saying:",
+        "In"
+      ],
+      "add": [
+        "saying,",
+        "in"
+      ]
     },
     {
-      "add": "saying,"
-    },
-    {
-      "remove": "In"
-    },
-    {
-      "add": "in"
-    },
-    {
-      "remove": "Ghost,"
-    },
-    {
-      "add": "Ghost"
+      "index": 37,
+      "remove": [
+        "Ghost,"
+      ],
+      "add": [
+        "Ghost"
+      ]
     }
   ],
   "3 Nephi 20:28": [
     {
-      "remove": "land."
+      "index": 11,
+      "remove": [
+        "land."
+      ],
+      "add": [
+        "land.—"
+      ]
     },
     {
-      "add": "land.—"
-    },
-    {
-      "remove": "Gospel,"
-    },
-    {
-      "add": "gospel,"
+      "index": 22,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     }
   ],
   "3 Nephi 20:29": [
     {
-      "remove": "people:"
-    },
-    {
-      "add": "people,"
+      "index": 12,
+      "remove": [
+        "people:"
+      ],
+      "add": [
+        "people,"
+      ]
     }
   ],
   "3 Nephi 20:35": [
     {
-      "remove": "one.—"
-    },
-    {
-      "add": "one."
+      "index": 35,
+      "remove": [
+        "one.—"
+      ],
+      "add": [
+        "one."
+      ]
     }
   ],
   "3 Nephi 20:36": [
     {
-      "remove": "writen:"
+      "index": 10,
+      "remove": [
+        "writen:",
+        "Awake,"
+      ],
+      "add": [
+        "written,",
+        "awake,"
+      ]
     },
     {
-      "add": "written,"
-    },
-    {
-      "remove": "Awake,"
-    },
-    {
-      "add": "awake,"
-    },
-    {
-      "remove": "city:"
-    },
-    {
-      "add": "city,"
+      "index": 30,
+      "remove": [
+        "city:"
+      ],
+      "add": [
+        "city,"
+      ]
     }
   ],
   "3 Nephi 20:37": [
     {
-      "remove": "Jerusalem:"
-    },
-    {
-      "add": "Jerusalem;"
+      "index": 9,
+      "remove": [
+        "Jerusalem:"
+      ],
+      "add": [
+        "Jerusalem;"
+      ]
     }
   ],
   "3 Nephi 20:38": [
     {
-      "remove": "Ye"
-    },
-    {
-      "add": "ye"
+      "index": 5,
+      "remove": [
+        "Ye"
+      ],
+      "add": [
+        "ye"
+      ]
     }
   ],
   "3 Nephi 20:39": [
     {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 6,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     }
   ],
   "3 Nephi 20:40": [
     {
-      "remove": "How"
+      "index": 5,
+      "remove": [
+        "How"
+      ],
+      "add": [
+        "how"
+      ]
     },
     {
-      "add": "how"
-    },
-    {
-      "remove": "Thy"
-    },
-    {
-      "add": "thy"
+      "index": 39,
+      "remove": [
+        "Thy"
+      ],
+      "add": [
+        "thy"
+      ]
     }
   ],
   "3 Nephi 20:41": [
     {
-      "remove": "Depart"
-    },
-    {
-      "add": "depart"
+      "index": 7,
+      "remove": [
+        "Depart"
+      ],
+      "add": [
+        "depart"
+      ]
     }
   ],
   "3 Nephi 20:42": [
     {
-      "remove": "rereward."
-    },
-    {
-      "add": "rearward."
+      "index": 27,
+      "remove": [
+        "rereward."
+      ],
+      "add": [
+        "rearward."
+      ]
     }
   ],
   "3 Nephi 20:44": [
     {
-      "remove": "men:"
-    },
-    {
-      "add": "men,"
+      "index": 24,
+      "remove": [
+        "men:"
+      ],
+      "add": [
+        "men,"
+      ]
     }
   ],
   "3 Nephi 20:45": [
     {
-      "remove": "him:"
-    },
-    {
-      "add": "him,"
+      "index": 13,
+      "remove": [
+        "him:"
+      ],
+      "add": [
+        "him,"
+      ]
     }
   ],
   "3 Nephi 20:46": [
     {
-      "remove": "All"
+      "index": 6,
+      "remove": [
+        "All"
+      ],
+      "add": [
+        "all"
+      ]
     },
     {
-      "add": "all"
-    },
-    {
-      "remove": "people:"
-    },
-    {
-      "add": "people,"
+      "index": 42,
+      "remove": [
+        "people:"
+      ],
+      "add": [
+        "people,"
+      ]
     }
   ],
   "3 Nephi 21:2": [
     {
-      "remove": "sign:"
+      "index": 14,
+      "remove": [
+        "sign:"
+      ],
+      "add": [
+        "sign,"
+      ]
     },
     {
-      "add": "sign,"
+      "index": 21,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "remove": "That"
+      "index": 71,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "that"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 85,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 21:3": [
     {
-      "remove": "When"
+      "index": 6,
+      "remove": [
+        "When"
+      ],
+      "add": [
+        "when"
+      ]
     },
     {
-      "add": "when"
+      "index": 24,
+      "remove": [
+        "Father"
+      ],
+      "add": [
+        "Father,"
+      ]
     },
     {
-      "remove": "Father"
-    },
-    {
-      "add": "Father,"
-    },
-    {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
+      "index": 28,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you,"
+      ]
     }
   ],
   "3 Nephi 21:5": [
     {
-      "remove": "unbelief"
-    },
-    {
-      "add": "unbelif"
+      "index": 27,
+      "remove": [
+        "unbelief"
+      ],
+      "add": [
+        "unbelif"
+      ]
     }
   ],
   "3 Nephi 21:7": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 49,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 21:8": [
     {
-      "remove": "mouths:"
-    },
-    {
-      "add": "mouths;"
+      "index": 16,
+      "remove": [
+        "mouths:"
+      ],
+      "add": [
+        "mouths;"
+      ]
     }
   ],
   "3 Nephi 21:9": [
     {
-      "remove": "marvellous"
+      "index": 20,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
-    },
-    {
-      "add": "who"
-    },
-    {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
+      "index": 29,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 21:10": [
     {
-      "remove": "Devil."
-    },
-    {
-      "add": "devil."
+      "index": 47,
+      "remove": [
+        "Devil."
+      ],
+      "add": [
+        "devil."
+      ]
     }
   ],
   "3 Nephi 21:11": [
     {
-      "remove": "which"
+      "index": 14,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "remove": "which"
-    },
-    {
-      "add": "whom"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 64,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 21:12": [
     {
-      "remove": "which"
+      "index": 3,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "through,"
-    },
-    {
-      "add": "through"
+      "index": 42,
+      "remove": [
+        "through,"
+      ],
+      "add": [
+        "through"
+      ]
     }
   ],
   "3 Nephi 21:14": [
     {
-      "remove": "repent:"
-    },
-    {
-      "add": "repent,"
+      "index": 8,
+      "remove": [
+        "repent:"
+      ],
+      "add": [
+        "repent,"
+      ]
     }
   ],
   "3 Nephi 21:17": [
     {
-      "remove": "thou"
+      "index": 19,
+      "remove": [
+        "thou"
+      ],
+      "add": [
+        "tbou"
+      ]
     },
     {
-      "add": "tbou"
-    },
-    {
-      "remove": "hands;"
-    },
-    {
-      "add": "hanhs;"
+      "index": 28,
+      "remove": [
+        "hands;"
+      ],
+      "add": [
+        "hanhs;"
+      ]
     }
   ],
   "3 Nephi 21:22": [
     {
-      "remove": "Jacob,"
-    },
-    {
-      "add": "Jaoob,"
+      "index": 38,
+      "remove": [
+        "Jacob,"
+      ],
+      "add": [
+        "Jaoob,"
+      ]
     }
   ],
   "3 Nephi 21:24": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 13,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 21:25": [
     {
-      "remove": "midst:"
-    },
-    {
-      "add": "midst,"
+      "index": 18,
+      "remove": [
+        "midst:"
+      ],
+      "add": [
+        "midst,"
+      ]
     }
   ],
   "3 Nephi 21:26": [
     {
-      "remove": "Gospel"
+      "index": 15,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     },
     {
-      "add": "gospel"
-    },
-    {
-      "remove": "At"
-    },
-    {
-      "add": "at"
+      "index": 30,
+      "remove": [
+        "At"
+      ],
+      "add": [
+        "at"
+      ]
     }
   ],
   "3 Nephi 21:29": [
     {
-      "remove": "rereward."
-    },
-    {
-      "add": "rearward."
+      "index": 34,
+      "remove": [
+        "rereward."
+      ],
+      "add": [
+        "rearward."
+      ]
     }
   ],
   "3 Nephi 22:1": [
     {
-      "remove": "child:"
-    },
-    {
-      "add": "child;"
+      "index": 31,
+      "remove": [
+        "child:"
+      ],
+      "add": [
+        "child;"
+      ]
     }
   ],
   "3 Nephi 22:4": [
     {
-      "remove": "ashamed:"
+      "index": 7,
+      "remove": [
+        "ashamed:"
+      ],
+      "add": [
+        "ashamed;"
+      ]
     },
     {
-      "add": "ashamed;"
-    },
-    {
-      "add": "youth,"
-    },
-    {
-      "add": "and"
-    },
-    {
-      "add": "shalt"
-    },
-    {
-      "add": "not"
-    },
-    {
-      "add": "remember"
-    },
-    {
-      "add": "the"
-    },
-    {
-      "add": "reproach"
-    },
-    {
-      "add": "of"
-    },
-    {
-      "add": "thy"
+      "index": 37,
+      "remove": [],
+      "add": [
+        "youth,",
+        "and",
+        "shalt",
+        "not",
+        "remember",
+        "the",
+        "reproach",
+        "of",
+        "thy"
+      ]
     }
   ],
   "3 Nephi 22:5": [
     {
-      "remove": "Maker,"
+      "index": 2,
+      "remove": [
+        "Maker,"
+      ],
+      "add": [
+        "maker,"
+      ]
     },
     {
-      "add": "maker,"
+      "index": 5,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "the"
+      ]
     },
     {
-      "remove": "The"
-    },
-    {
-      "add": "the"
-    },
-    {
-      "remove": "The"
-    },
-    {
-      "add": "the"
+      "index": 20,
+      "remove": [
+        "The"
+      ],
+      "add": [
+        "the"
+      ]
     }
   ],
   "3 Nephi 22:9": [
     {
-      "remove": "me:"
-    },
-    {
-      "add": "me,"
+      "index": 7,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me,"
+      ]
     }
   ],
   "3 Nephi 22:10": [
     {
-      "remove": "depart,"
-    },
-    {
-      "add": "depart"
+      "index": 4,
+      "remove": [
+        "depart,"
+      ],
+      "add": [
+        "depart"
+      ]
     }
   ],
   "3 Nephi 22:14": [
     {
-      "remove": "established:"
+      "index": 5,
+      "remove": [
+        "established:"
+      ],
+      "add": [
+        "established,"
+      ]
     },
     {
-      "add": "established,"
-    },
-    {
-      "remove": "fear:"
-    },
-    {
-      "add": "fear,"
+      "index": 16,
+      "remove": [
+        "fear:"
+      ],
+      "add": [
+        "fear,"
+      ]
     }
   ],
   "3 Nephi 22:15": [
     {
-      "remove": "me:"
-    },
-    {
-      "add": "me;"
+      "index": 10,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me;"
+      ]
     }
   ],
   "3 Nephi 22:17": [
     {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 18,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "3 Nephi 23:1": [
     {
-      "remove": "That"
+      "index": 7,
+      "remove": [
+        "That"
+      ],
+      "add": [
+        "that"
+      ]
     },
     {
-      "add": "that"
+      "index": 27,
+      "remove": [
+        "diligently:"
+      ],
+      "add": [
+        "diligently;"
+      ]
     },
     {
-      "remove": "diligently:"
-    },
-    {
-      "add": "diligently;"
-    },
-    {
-      "remove": "is"
-    },
-    {
-      "add": "are"
+      "index": 30,
+      "remove": [
+        "is"
+      ],
+      "add": [
+        "are"
+      ]
     }
   ],
   "3 Nephi 23:4": [
     {
-      "remove": "words:"
-    },
-    {
-      "add": "words,"
+      "index": 5,
+      "remove": [
+        "words:"
+      ],
+      "add": [
+        "words,"
+      ]
     }
   ],
   "3 Nephi 23:5": [
     {
-      "remove": "prophets:"
-    },
-    {
-      "add": "prophets,"
+      "index": 19,
+      "remove": [
+        "prophets:"
+      ],
+      "add": [
+        "prophets,"
+      ]
     }
   ],
   "3 Nephi 23:6": [
     {
-      "remove": "Scriptures"
+      "index": 24,
+      "remove": [
+        "Scriptures"
+      ],
+      "add": [
+        "scriptures"
+      ]
     },
     {
-      "add": "scriptures"
+      "index": 32,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "remove": "saith"
+      "index": 35,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
-    },
-    {
-      "remove": "Scriptures"
-    },
-    {
-      "add": "scriptures"
+      "index": 37,
+      "remove": [
+        "Scriptures"
+      ],
+      "add": [
+        "scriptures"
+      ]
     }
   ],
   "3 Nephi 23:7": [
     {
-      "remove": "saith"
+      "index": 7,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Bring"
-    },
-    {
-      "add": "bring"
+      "index": 10,
+      "remove": [
+        "Bring"
+      ],
+      "add": [
+        "bring"
+      ]
     }
   ],
   "3 Nephi 23:8": [
     {
-      "remove": "saith,"
-    },
-    {
-      "add": "said"
+      "index": 20,
+      "remove": [
+        "saith,"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "3 Nephi 23:9": [
     {
-      "remove": "Verily,"
+      "index": 0,
+      "remove": [
+        "Verily,"
+      ],
+      "add": [
+        "verily,"
+      ]
     },
     {
-      "add": "verily,"
+      "index": 37,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 55,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
-    },
-    {
-      "remove": "Were"
-    },
-    {
-      "add": "were"
+      "index": 58,
+      "remove": [
+        "Were"
+      ],
+      "add": [
+        "were"
+      ]
     }
   ],
   "3 Nephi 23:10": [
     {
-      "remove": "Yea,"
-    },
-    {
-      "add": "yea,"
+      "index": 7,
+      "remove": [
+        "Yea,"
+      ],
+      "add": [
+        "yea,"
+      ]
     }
   ],
   "3 Nephi 23:11": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "How"
-    },
-    {
-      "add": "how"
+      "index": 5,
+      "remove": [
+        "How"
+      ],
+      "add": [
+        "how"
+      ]
     }
   ],
   "3 Nephi 23:14": [
     {
-      "remove": "Scriptures"
+      "index": 13,
+      "remove": [
+        "Scriptures"
+      ],
+      "add": [
+        "scriptures"
+      ]
     },
     {
-      "add": "scriptures"
-    },
-    {
-      "remove": "written,"
-    },
-    {
-      "add": "written"
+      "index": 19,
+      "remove": [
+        "written,"
+      ],
+      "add": [
+        "written"
+      ]
     }
   ],
   "3 Nephi 24:1": [
     {
-      "remove": "saying:"
+      "index": 52,
+      "remove": [
+        "saying:",
+        "Thus"
+      ],
+      "add": [
+        "saying,",
+        "thus"
+      ]
     },
     {
-      "add": "saying,"
+      "index": 58,
+      "remove": [
+        "Malachi:",
+        "Behold,"
+      ],
+      "add": [
+        "Malachi,",
+        "behold,"
+      ]
     },
     {
-      "remove": "Thus"
+      "index": 72,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me,"
+      ]
     },
     {
-      "add": "thus"
-    },
-    {
-      "remove": "Malachi:"
-    },
-    {
-      "add": "Malachi,"
-    },
-    {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
-    },
-    {
-      "remove": "me:"
-    },
-    {
-      "add": "me,"
-    },
-    {
-      "remove": "in:"
-    },
-    {
-      "add": "in;"
+      "index": 94,
+      "remove": [
+        "in:"
+      ],
+      "add": [
+        "in;"
+      ]
     }
   ],
   "3 Nephi 24:2": [
     {
-      "remove": "fullers’"
-    },
-    {
-      "add": "fuller's"
+      "index": 25,
+      "remove": [
+        "fullers’"
+      ],
+      "add": [
+        "fuller's"
+      ]
     }
   ],
   "3 Nephi 24:3": [
     {
-      "remove": "righteousness.—"
-    },
-    {
-      "add": "righteousness."
+      "index": 36,
+      "remove": [
+        "righteousness.—"
+      ],
+      "add": [
+        "righteousness."
+      ]
     }
   ],
   "3 Nephi 24:5": [
     {
-      "remove": "judgement:"
+      "index": 8,
+      "remove": [
+        "judgement:"
+      ],
+      "add": [
+        "judgment;"
+      ]
     },
     {
-      "add": "judgment;"
-    },
-    {
-      "remove": "against"
-    },
-    {
-      "add": "agaiust"
+      "index": 20,
+      "remove": [
+        "against"
+      ],
+      "add": [
+        "agaiust"
+      ]
     }
   ],
   "3 Nephi 24:7": [
     {
-      "remove": "Wherein"
-    },
-    {
-      "add": "wherein"
+      "index": 36,
+      "remove": [
+        "Wherein"
+      ],
+      "add": [
+        "wherein"
+      ]
     }
   ],
   "3 Nephi 24:8": [
     {
-      "remove": "Wherein"
-    },
-    {
-      "add": "wherein"
+      "index": 13,
+      "remove": [
+        "Wherein"
+      ],
+      "add": [
+        "wherein"
+      ]
     }
   ],
   "3 Nephi 24:9": [
     {
-      "remove": "curse:"
-    },
-    {
-      "add": "curse,"
+      "index": 5,
+      "remove": [
+        "curse:"
+      ],
+      "add": [
+        "curse,"
+      ]
     }
   ],
   "3 Nephi 24:11": [
     {
-      "remove": "field,"
-    },
-    {
-      "add": "fields,"
+      "index": 31,
+      "remove": [
+        "field,"
+      ],
+      "add": [
+        "fields,"
+      ]
     }
   ],
   "3 Nephi 24:12": [
     {
-      "remove": "blessed:"
-    },
-    {
-      "add": "blessed,"
+      "index": 6,
+      "remove": [
+        "blessed:"
+      ],
+      "add": [
+        "blessed,"
+      ]
     }
   ],
   "3 Nephi 24:13": [
     {
-      "remove": "Lord.—"
+      "index": 9,
+      "remove": [
+        "Lord.—"
+      ],
+      "add": [
+        "Lord."
+      ]
     },
     {
-      "add": "Lord."
-    },
-    {
-      "remove": "What"
-    },
-    {
-      "add": "what"
+      "index": 13,
+      "remove": [
+        "What"
+      ],
+      "add": [
+        "what"
+      ]
     }
   ],
   "3 Nephi 24:14": [
     {
-      "remove": "It"
+      "index": 3,
+      "remove": [
+        "It"
+      ],
+      "add": [
+        "it"
+      ]
     },
     {
-      "add": "it"
-    },
-    {
-      "remove": "God:"
-    },
-    {
-      "add": "God,"
+      "index": 8,
+      "remove": [
+        "God:"
+      ],
+      "add": [
+        "God,"
+      ]
     }
   ],
   "3 Nephi 24:16": [
     {
-      "remove": "another:"
+      "index": 10,
+      "remove": [
+        "another:"
+      ],
+      "add": [
+        "another,"
+      ]
     },
     {
-      "add": "another,"
+      "index": 16,
+      "remove": [
+        "heard:"
+      ],
+      "add": [
+        "heard;"
+      ]
     },
     {
-      "remove": "heard:"
+      "index": 31,
+      "remove": [
+        "Lord;"
+      ],
+      "add": [
+        "Lord,"
+      ]
     },
     {
-      "add": "heard;"
-    },
-    {
-      "remove": "Lord;"
-    },
-    {
-      "add": "Lord,"
-    },
-    {
-      "remove": "name."
-    },
-    {
-      "add": "name,"
+      "index": 37,
+      "remove": [
+        "name."
+      ],
+      "add": [
+        "name,"
+      ]
     }
   ],
   "3 Nephi 25:2": [
     {
-      "remove": "healings"
+      "index": 14,
+      "remove": [
+        "healings"
+      ],
+      "add": [
+        "healing"
+      ]
     },
     {
-      "add": "healing"
-    },
-    {
-      "remove": "stall."
-    },
-    {
-      "add": "stall.—"
+      "index": 30,
+      "remove": [
+        "stall."
+      ],
+      "add": [
+        "stall.—"
+      ]
     }
   ],
   "3 Nephi 25:4": [
     {
-      "remove": "judgements."
-    },
-    {
-      "add": "judgments."
+      "index": 22,
+      "remove": [
+        "judgements."
+      ],
+      "add": [
+        "judgments."
+      ]
     }
   ],
   "3 Nephi 25:5": [
     {
-      "remove": "Lord:"
-    },
-    {
-      "add": "Lord;"
+      "index": 19,
+      "remove": [
+        "Lord:"
+      ],
+      "add": [
+        "Lord;"
+      ]
     }
   ],
   "3 Nephi 26:1": [
     {
-      "remove": "multitude:"
-    },
-    {
-      "add": "multitude,"
+      "index": 18,
+      "remove": [
+        "multitude:"
+      ],
+      "add": [
+        "multitude,"
+      ]
     }
   ],
   "3 Nephi 26:2": [
     {
-      "remove": "These"
+      "index": 3,
+      "remove": [
+        "These",
+        "Scriptures"
+      ],
+      "add": [
+        "these",
+        "scriptures"
+      ]
     },
     {
-      "add": "these"
-    },
-    {
-      "remove": "Scriptures"
-    },
-    {
-      "add": "scriptures"
-    },
-    {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
+      "index": 19,
+      "remove": [
+        "you:"
+      ],
+      "add": [
+        "you,"
+      ]
     }
   ],
   "3 Nephi 26:4": [
     {
-      "remove": "evil:"
-    },
-    {
-      "add": "evil;"
+      "index": 37,
+      "remove": [
+        "evil:"
+      ],
+      "add": [
+        "evil;"
+      ]
     }
   ],
   "3 Nephi 26:5": [
     {
-      "remove": "hand,"
+      "index": 36,
+      "remove": [
+        "hand,"
+      ],
+      "add": [
+        "hand"
+      ]
     },
     {
-      "add": "hand"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 51,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 26:8": [
     {
-      "remove": "wrote"
+      "index": 22,
+      "remove": [
+        "wrote"
+      ],
+      "add": [
+        "written"
+      ]
     },
     {
-      "add": "written"
-    },
-    {
-      "remove": "spoken.—"
-    },
-    {
-      "add": "spoken."
+      "index": 46,
+      "remove": [
+        "spoken.—"
+      ],
+      "add": [
+        "spoken."
+      ]
     }
   ],
   "3 Nephi 26:9": [
     {
-      "remove": "faith:"
-    },
-    {
-      "add": "faith,"
-    },
-    {
-      "remove": "And"
-    },
-    {
-      "add": "and"
+      "index": 18,
+      "remove": [
+        "faith:",
+        "And"
+      ],
+      "add": [
+        "faith,",
+        "and"
+      ]
     }
   ],
   "3 Nephi 26:14": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 37,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "3 Nephi 26:15": [
     {
-      "remove": "Heaven"
+      "index": 11,
+      "remove": [
+        "Heaven"
+      ],
+      "add": [
+        "heaven"
+      ]
     },
     {
-      "add": "heaven"
-    },
-    {
-      "add": "had"
+      "index": 22,
+      "remove": [],
+      "add": [
+        "had"
+      ]
     }
   ],
   "3 Nephi 26:16": [
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
+      "index": 31,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     }
   ],
   "3 Nephi 26:21": [
     {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 2,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 27:1": [
     {
-      "remove": "journeying,"
-    },
-    {
-      "add": "journeying"
+      "index": 12,
+      "remove": [
+        "journeying,"
+      ],
+      "add": [
+        "journeying"
+      ]
     }
   ],
   "3 Nephi 27:2": [
     {
-      "remove": "them:"
+      "index": 6,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     },
     {
-      "add": "them,"
+      "index": 31,
+      "remove": [
+        "What"
+      ],
+      "add": [
+        "what"
+      ]
     },
     {
-      "remove": "What"
-    },
-    {
-      "add": "what"
-    },
-    {
-      "remove": "you?"
-    },
-    {
-      "add": "you;"
+      "index": 39,
+      "remove": [
+        "you?"
+      ],
+      "add": [
+        "you;"
+      ]
     }
   ],
   "3 Nephi 27:3": [
     {
-      "remove": "And"
+      "index": 0,
+      "remove": [
+        "And"
+      ],
+      "add": [
+        "and"
+      ]
     },
     {
-      "add": "and"
-    },
-    {
-      "remove": "saith"
-    },
-    {
-      "add": "said"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     }
   ],
   "3 Nephi 27:4": [
     {
-      "remove": "Verily,"
-    },
-    {
-      "add": "verily,"
+      "index": 6,
+      "remove": [
+        "Verily,"
+      ],
+      "add": [
+        "verily,"
+      ]
     }
   ],
   "3 Nephi 27:5": [
     {
-      "remove": "saith"
+      "index": 7,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "say"
+      ]
     },
     {
-      "add": "say"
-    },
-    {
-      "remove": "in"
+      "index": 19,
+      "remove": [
+        "in"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 27:8": [
     {
-      "remove": "Gospel."
-    },
-    {
-      "add": "gospel."
+      "index": 69,
+      "remove": [
+        "Gospel."
+      ],
+      "add": [
+        "gospel."
+      ]
     }
   ],
   "3 Nephi 27:9": [
     {
-      "remove": "Gospel;"
-    },
-    {
-      "add": "gospel;"
+      "index": 11,
+      "remove": [
+        "Gospel;"
+      ],
+      "add": [
+        "gospel;"
+      ]
     }
   ],
   "3 Nephi 27:10": [
     {
-      "remove": "Gospel,"
-    },
-    {
-      "add": "gospel,"
+      "index": 12,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     }
   ],
   "3 Nephi 27:11": [
     {
-      "remove": "Gospel,"
+      "index": 8,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     },
     {
-      "add": "gospel,"
-    },
-    {
-      "remove": "Devil,"
-    },
-    {
-      "add": "devil,"
+      "index": 23,
+      "remove": [
+        "Devil,"
+      ],
+      "add": [
+        "devil,"
+      ]
     }
   ],
   "3 Nephi 27:12": [
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them,"
+      "index": 5,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     }
   ],
   "3 Nephi 27:13": [
     {
-      "remove": "Gospel,"
+      "index": 7,
+      "remove": [
+        "Gospel,"
+      ],
+      "add": [
+        "gospel,"
+      ]
     },
     {
-      "add": "gospel,"
+      "index": 12,
+      "remove": [
+        "Gospel"
+      ],
+      "add": [
+        "gospel"
+      ]
     },
     {
-      "remove": "Gospel"
-    },
-    {
-      "add": "gospel"
-    },
-    {
-      "remove": "you:"
-    },
-    {
-      "add": "you,"
-    },
-    {
-      "remove": "That"
-    },
-    {
-      "add": "that"
+      "index": 18,
+      "remove": [
+        "you:",
+        "That"
+      ],
+      "add": [
+        "you,",
+        "that"
+      ]
     }
   ],
   "3 Nephi 27:20": [
     {
-      "remove": "commandment:"
-    },
-    {
-      "add": "commandment,"
-    },
-    {
-      "remove": "Repent,"
-    },
-    {
-      "add": "repent,"
+      "index": 4,
+      "remove": [
+        "commandment:",
+        "Repent,"
+      ],
+      "add": [
+        "commandment,",
+        "repent,"
+      ]
     }
   ],
   "3 Nephi 27:21": [
     {
-      "remove": "Gospel;"
-    },
-    {
-      "add": "gospel;"
+      "index": 9,
+      "remove": [
+        "Gospel;"
+      ],
+      "add": [
+        "gospel;"
+      ]
     }
   ],
   "3 Nephi 27:25": [
     {
-      "remove": "judged:"
-    },
-    {
-      "add": "judged,"
+      "index": 19,
+      "remove": [
+        "judged:"
+      ],
+      "add": [
+        "judged,"
+      ]
     }
   ],
   "3 Nephi 27:27": [
     {
-      "remove": "judgement"
+      "index": 14,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
+      "index": 34,
+      "remove": [
+        "be?—"
+      ],
+      "add": [
+        "be?"
+      ]
     },
     {
-      "remove": "be?—"
-    },
-    {
-      "add": "be?"
-    },
-    {
-      "remove": "Even"
-    },
-    {
-      "add": "even"
+      "index": 40,
+      "remove": [
+        "Even"
+      ],
+      "add": [
+        "even"
+      ]
     }
   ],
   "3 Nephi 27:30": [
     {
-      "remove": "generation;"
-    },
-    {
-      "add": "generation:"
+      "index": 16,
+      "remove": [
+        "generation;"
+      ],
+      "add": [
+        "generation:"
+      ]
     }
   ],
   "3 Nephi 27:31": [
     {
-      "remove": "which"
+      "index": 11,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "joy.—"
-    },
-    {
-      "add": "joy."
+      "index": 31,
+      "remove": [
+        "joy.—"
+      ],
+      "add": [
+        "joy."
+      ]
     }
   ],
   "3 Nephi 27:33": [
     {
-      "remove": "Enter"
+      "index": 17,
+      "remove": [
+        "Enter"
+      ],
+      "add": [
+        "enter"
+      ]
     },
     {
-      "add": "enter"
+      "index": 44,
+      "remove": [
+        "it:",
+        "But"
+      ],
+      "add": [
+        "it,",
+        "but"
+      ]
     },
     {
-      "remove": "it:"
-    },
-    {
-      "remove": "But"
-    },
-    {
-      "add": "it,"
-    },
-    {
-      "add": "but"
-    },
-    {
-      "remove": "traveleth"
-    },
-    {
-      "add": "travel"
+      "index": 63,
+      "remove": [
+        "traveleth"
+      ],
+      "add": [
+        "travel"
+      ]
     }
   ],
   "3 Nephi 28:1": [
     {
-      "remove": "What"
-    },
-    {
-      "add": "what"
+      "index": 22,
+      "remove": [
+        "What"
+      ],
+      "add": [
+        "what"
+      ]
     }
   ],
   "3 Nephi 28:2": [
     {
-      "add": "we"
-    },
-    {
-      "remove": "saying,"
-    },
-    {
-      "remove": "We"
+      "index": 8,
+      "remove": [
+        "saying,",
+        "We"
+      ],
+      "add": [
+        "we"
+      ]
     }
   ],
   "3 Nephi 28:3": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
-    },
-    {
-      "remove": "Blessed"
-    },
-    {
-      "add": "blessed"
+      "index": 5,
+      "remove": [
+        "Blessed"
+      ],
+      "add": [
+        "blessed"
+      ]
     }
   ],
   "3 Nephi 28:4": [
     {
-      "remove": "spake"
+      "index": 4,
+      "remove": [
+        "spake"
+      ],
+      "add": [
+        "spoken"
+      ]
     },
     {
-      "add": "spoken"
-    },
-    {
-      "remove": "What"
-    },
-    {
-      "add": "what"
+      "index": 17,
+      "remove": [
+        "What"
+      ],
+      "add": [
+        "what"
+      ]
     }
   ],
   "3 Nephi 28:6": [
     {
-      "remove": "saith"
+      "index": 2,
+      "remove": [
+        "saith"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "Behold,"
+      ],
+      "add": [
+        "behold,"
+      ]
     },
     {
-      "remove": "Behold,"
-    },
-    {
-      "add": "behold,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 20,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 28:8": [
     {
-      "remove": "Father.—"
-    },
-    {
-      "add": "Father."
+      "index": 42,
+      "remove": [
+        "Father.—"
+      ],
+      "add": [
+        "Father."
+      ]
     }
   ],
   "3 Nephi 28:9": [
     {
-      "remove": "me:"
-    },
-    {
-      "add": "me,"
+      "index": 40,
+      "remove": [
+        "me:"
+      ],
+      "add": [
+        "me,"
+      ]
     }
   ],
   "3 Nephi 28:10": [
     {
-      "remove": "am;"
-    },
-    {
-      "add": "am,"
+      "index": 44,
+      "remove": [
+        "am;"
+      ],
+      "add": [
+        "am,"
+      ]
     }
   ],
   "3 Nephi 28:12": [
     {
-      "remove": "spake"
+      "index": 9,
+      "remove": [
+        "spake"
+      ],
+      "add": [
+        "spoken"
+      ]
     },
     {
-      "add": "spoken"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 26,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ],
   "3 Nephi 28:15": [
     {
-      "remove": "tell:"
-    },
-    {
-      "add": "tell;"
+      "index": 15,
+      "remove": [
+        "tell:"
+      ],
+      "add": [
+        "tell;"
+      ]
     }
   ],
   "3 Nephi 28:16": [
     {
-      "remove": "heaven."
-    },
-    {
-      "add": "heaven,"
+      "index": 39,
+      "remove": [
+        "heaven."
+      ],
+      "add": [
+        "heaven,"
+      ]
     }
   ],
   "3 Nephi 28:18": [
     {
-      "remove": "know:"
+      "index": 4,
+      "remove": [
+        "know:",
+        "According"
+      ],
+      "add": [
+        "know,",
+        "according"
+      ]
     },
     {
-      "add": "know,"
-    },
-    {
-      "remove": "According"
-    },
-    {
-      "add": "according"
-    },
-    {
-      "remove": "forth"
-    },
-    {
-      "add": "orth"
+      "index": 16,
+      "remove": [
+        "forth"
+      ],
+      "add": [
+        "orth"
+      ]
     }
   ],
   "3 Nephi 28:20": [
     {
-      "remove": "sufficiently"
-    },
-    {
-      "add": "sufficient"
+      "index": 41,
+      "remove": [
+        "sufficiently"
+      ],
+      "add": [
+        "sufficient"
+      ]
     }
   ],
   "3 Nephi 28:23": [
     {
-      "remove": "land:"
+      "index": 32,
+      "remove": [
+        "land:",
+        "And"
+      ],
+      "add": [
+        "land;",
+        "and"
+      ]
     },
     {
-      "add": "land;"
-    },
-    {
-      "remove": "And"
-    },
-    {
-      "add": "and"
-    },
-    {
-      "remove": "Christ:"
-    },
-    {
-      "add": "Christ,"
-    },
-    {
-      "remove": "And"
-    },
-    {
-      "add": "and"
+      "index": 47,
+      "remove": [
+        "Christ:",
+        "And"
+      ],
+      "add": [
+        "Christ,",
+        "and"
+      ]
     }
   ],
   "3 Nephi 28:24": [
     {
-      "remove": "things,"
-    },
-    {
-      "add": "thinge,"
+      "index": 11,
+      "remove": [
+        "things,"
+      ],
+      "add": [
+        "thinge,"
+      ]
     }
   ],
   "3 Nephi 28:25": [
     {
-      "remove": "were"
-    },
-    {
-      "add": "was"
+      "index": 2,
+      "remove": [
+        "were"
+      ],
+      "add": [
+        "was"
+      ]
     }
   ],
   "3 Nephi 28:29": [
     {
-      "remove": "kindred,"
-    },
-    {
-      "add": "kindreds,"
+      "index": 29,
+      "remove": [
+        "kindred,"
+      ],
+      "add": [
+        "kindreds,"
+      ]
     }
   ],
   "3 Nephi 28:31": [
     {
-      "remove": "marvellous"
+      "index": 3,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
-    },
-    {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 24,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "3 Nephi 28:32": [
     {
-      "remove": "yea,"
+      "index": 0,
+      "remove": [
+        "yea,"
+      ],
+      "add": [
+        "yea"
+      ]
     },
     {
-      "add": "yea"
+      "index": 11,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "remove": "marvellous"
-    },
-    {
-      "add": "marvelous"
-    },
-    {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
-    },
-    {
-      "remove": "day.—"
-    },
-    {
-      "add": "day."
+      "index": 18,
+      "remove": [
+        "judgement",
+        "day.—"
+      ],
+      "add": [
+        "judgment",
+        "day."
+      ]
     }
   ],
   "3 Nephi 28:33": [
     {
-      "remove": "marvellous"
+      "index": 14,
+      "remove": [
+        "marvellous"
+      ],
+      "add": [
+        "marvelous"
+      ]
     },
     {
-      "add": "marvelous"
-    },
-    {
-      "remove": "come.—"
-    },
-    {
-      "add": "come."
+      "index": 32,
+      "remove": [
+        "come.—"
+      ],
+      "add": [
+        "come."
+      ]
     }
   ],
   "3 Nephi 28:34": [
     {
-      "remove": "which"
+      "index": 18,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "whom"
+      ]
     },
     {
-      "add": "whom"
+      "index": 25,
+      "remove": [
+        "them:"
+      ],
+      "add": [
+        "them,"
+      ]
     },
     {
-      "remove": "them:"
-    },
-    {
-      "add": "them,"
-    },
-    {
-      "remove": "them"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "those"
-    },
-    {
-      "add": "whom"
+      "index": 38,
+      "remove": [
+        "them",
+        "which"
+      ],
+      "add": [
+        "those",
+        "whom"
+      ]
     }
   ],
   "3 Nephi 28:36": [
     {
-      "remove": "them"
+      "index": 7,
+      "remove": [
+        "them"
+      ],
+      "add": [
+        "those"
+      ]
     },
     {
-      "add": "those"
+      "index": 16,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "remove": "which"
+      "index": 22,
+      "remove": [
+        "Heavens,"
+      ],
+      "add": [
+        "heavens,"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "Heavens,"
-    },
-    {
-      "add": "heavens,"
-    },
-    {
-      "remove": "immortality:—"
-    },
-    {
-      "add": "immortality."
+      "index": 34,
+      "remove": [
+        "immortality:—"
+      ],
+      "add": [
+        "immortality."
+      ]
     }
   ],
   "3 Nephi 28:39": [
     {
-      "remove": "day,"
-    },
-    {
-      "add": "day;"
+      "index": 15,
+      "remove": [
+        "day,"
+      ],
+      "add": [
+        "day;"
+      ]
     }
   ],
   "3 Nephi 28:40": [
     {
-      "remove": "judgement"
+      "index": 10,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     },
     {
-      "add": "judgment"
+      "index": 34,
+      "remove": [
+        "Father,"
+      ],
+      "add": [
+        "Father"
+      ]
     },
     {
-      "remove": "Father,"
-    },
-    {
-      "add": "Father"
-    },
-    {
-      "remove": "Heavens."
-    },
-    {
-      "add": "heavens."
+      "index": 48,
+      "remove": [
+        "Heavens."
+      ],
+      "add": [
+        "heavens."
+      ]
     }
   ],
   "3 Nephi 29:3": [
     {
-      "remove": "hearts,"
-    },
-    {
-      "add": "hearts"
+      "index": 7,
+      "remove": [
+        "hearts,"
+      ],
+      "add": [
+        "hearts"
+      ]
     }
   ],
   "3 Nephi 29:4": [
     {
-      "remove": "it"
+      "index": 50,
+      "remove": [
+        "it"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 29:7": [
     {
-      "remove": "for"
+      "index": 21,
+      "remove": [
+        "for"
+      ],
+      "add": []
     }
   ],
   "3 Nephi 29:9": [
     {
-      "remove": "judgement"
-    },
-    {
-      "add": "judgment"
+      "index": 23,
+      "remove": [
+        "judgement"
+      ],
+      "add": [
+        "judgment"
+      ]
     }
   ],
   "3 Nephi 30:1": [
     {
-      "remove": "you:"
+      "index": 27,
+      "remove": [
+        "you:",
+        "for"
+      ],
+      "add": [
+        "you,",
+        "for,"
+      ]
     },
     {
-      "add": "you,"
-    },
-    {
-      "remove": "for"
-    },
-    {
-      "add": "for,"
-    },
-    {
-      "remove": "write,"
-    },
-    {
-      "add": "write"
+      "index": 36,
+      "remove": [
+        "write,"
+      ],
+      "add": [
+        "write"
+      ]
     }
   ],
   "3 Nephi 30:2": [
     {
-      "remove": "Turn,"
+      "index": 0,
+      "remove": [
+        "Turn,"
+      ],
+      "add": [
+        "turn,"
+      ]
     },
     {
-      "add": "turn,"
-    },
-    {
-      "remove": "which"
-    },
-    {
-      "add": "who"
+      "index": 85,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     }
   ]
 }

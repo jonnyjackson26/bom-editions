@@ -1,87 +1,118 @@
 {
   "Jarom 1:1": [
     {
-      "remove": "I,"
-    },
-    {
-      "add": "I"
+      "index": 2,
+      "remove": [
+        "I,"
+      ],
+      "add": [
+        "I"
+      ]
     }
   ],
   "Jarom 1:2": [
     {
-      "remove": "Yea;"
-    },
-    {
-      "add": "yea;"
+      "index": 71,
+      "remove": [
+        "Yea;"
+      ],
+      "add": [
+        "yea;"
+      ]
     }
   ],
   "Jarom 1:3": [
     {
-      "remove": "hath"
-    },
-    {
-      "add": "has"
+      "index": 45,
+      "remove": [
+        "hath"
+      ],
+      "add": [
+        "has"
+      ]
     }
   ],
   "Jarom 1:4": [
     {
-      "remove": "which"
+      "index": 6,
+      "remove": [
+        "which"
+      ],
+      "add": [
+        "who"
+      ]
     },
     {
-      "add": "who"
-    },
-    {
-      "remove": "stiffnecked,"
-    },
-    {
-      "add": "stiff"
-    },
-    {
-      "add": "necked,"
+      "index": 22,
+      "remove": [
+        "stiffnecked,"
+      ],
+      "add": [
+        "stiff",
+        "necked,"
+      ]
     }
   ],
   "Jarom 1:5": [
     {
-      "remove": "Holy"
-    },
-    {
-      "add": "holy"
+      "index": 32,
+      "remove": [
+        "Holy"
+      ],
+      "add": [
+        "holy"
+      ]
     }
   ],
   "Jarom 1:7": [
     {
-      "remove": "Lord;"
+      "index": 30,
+      "remove": [
+        "Lord;"
+      ],
+      "add": [
+        "Lord:"
+      ]
     },
     {
-      "add": "Lord:"
-    },
-    {
-      "remove": "away"
-    },
-    {
-      "add": "away,"
+      "index": 49,
+      "remove": [
+        "away"
+      ],
+      "add": [
+        "away,"
+      ]
     }
   ],
   "Jarom 1:13": [
     {
-      "remove": "dissentions,"
-    },
-    {
-      "add": "dissensions,"
+      "index": 24,
+      "remove": [
+        "dissentions,"
+      ],
+      "add": [
+        "dissensions,"
+      ]
     }
   ],
   "Jarom 1:14": [
     {
-      "remove": "small.—"
+      "index": 11,
+      "remove": [
+        "small.—"
+      ],
+      "add": [
+        "small."
+      ]
     },
     {
-      "add": "small."
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "add": "those"
+      "index": 44,
+      "remove": [
+        "that"
+      ],
+      "add": [
+        "those"
+      ]
     }
   ]
 }

@@ -1,218 +1,292 @@
 {
   "Enos 1:2": [
     {
-      "remove": "that"
+      "index": 14,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Enos 1:3": [
     {
-      "remove": "and"
-    },
-    {
-      "remove": "the"
-    },
-    {
-      "remove": "words"
-    },
-    {
-      "remove": "of"
-    },
-    {
-      "remove": "my"
-    },
-    {
-      "remove": "father,"
+      "index": 29,
+      "remove": [
+        "and",
+        "the",
+        "words",
+        "of",
+        "my",
+        "father,"
+      ],
+      "add": []
     }
   ],
   "Enos 1:7": [
     {
-      "remove": "sayeth,"
-    },
-    {
-      "add": "said,"
+      "index": 2,
+      "remove": [
+        "sayeth,"
+      ],
+      "add": [
+        "said,"
+      ]
     }
   ],
   "Enos 1:8": [
     {
-      "remove": "sayeth"
+      "index": 2,
+      "remove": [
+        "sayeth"
+      ],
+      "add": [
+        "said"
+      ]
     },
     {
-      "add": "said"
+      "index": 5,
+      "remove": [
+        "Because"
+      ],
+      "add": [
+        "because"
+      ]
     },
     {
-      "remove": "Because"
+      "index": 14,
+      "remove": [
+        "not"
+      ],
+      "add": [
+        "never",
+        "before"
+      ]
     },
     {
-      "add": "because"
+      "index": 21,
+      "remove": [
+        "passeth"
+      ],
+      "add": [
+        "pass"
+      ]
     },
     {
-      "remove": "not"
+      "index": 24,
+      "remove": [
+        "that"
+      ],
+      "add": []
     },
     {
-      "add": "never"
-    },
-    {
-      "add": "before"
-    },
-    {
-      "remove": "passeth"
-    },
-    {
-      "add": "pass"
-    },
-    {
-      "remove": "that"
-    },
-    {
-      "remove": "to"
-    },
-    {
-      "add": "to,"
-    },
-    {
-      "remove": "it,"
+      "index": 34,
+      "remove": [
+        "to",
+        "it,"
+      ],
+      "add": [
+        "to,"
+      ]
     }
   ],
   "Enos 1:11": [
     {
-      "remove": "that"
+      "index": 2,
+      "remove": [
+        "that"
+      ],
+      "add": []
     }
   ],
   "Enos 1:14": [
     {
-      "remove": "struggles"
-    },
-    {
-      "add": "strugglings"
+      "index": 5,
+      "remove": [
+        "struggles"
+      ],
+      "add": [
+        "strugglings"
+      ]
     }
   ],
   "Enos 1:15": [
     {
-      "remove": "Whatsoever"
-    },
-    {
-      "add": "whatsoever"
+      "index": 24,
+      "remove": [
+        "Whatsoever"
+      ],
+      "add": [
+        "whatsoever"
+      ]
     }
   ],
   "Enos 1:16": [
     {
-      "remove": "time.—"
-    },
-    {
-      "add": "time."
+      "index": 34,
+      "remove": [
+        "time.—"
+      ],
+      "add": [
+        "time."
+      ]
     }
   ],
   "Enos 1:18": [
     {
-      "remove": "Thy"
-    },
-    {
-      "add": "thy"
+      "index": 6,
+      "remove": [
+        "Thy"
+      ],
+      "add": [
+        "thy"
+      ]
     }
   ],
   "Enos 1:19": [
     {
-      "remove": "obout"
-    },
-    {
-      "add": "about"
+      "index": 10,
+      "remove": [
+        "obout"
+      ],
+      "add": [
+        "about"
+      ]
     }
   ],
   "Enos 1:20": [
     {
-      "remove": "bare"
+      "index": 2,
+      "remove": [
+        "bare",
+        "rerecord"
+      ],
+      "add": [
+        "bear",
+        "record"
+      ]
     },
     {
-      "add": "bear"
+      "index": 47,
+      "remove": [
+        "blood-thirsty"
+      ],
+      "add": [
+        "bloodthirsty"
+      ]
     },
     {
-      "remove": "rerecord"
+      "index": 54,
+      "remove": [
+        "feading"
+      ],
+      "add": [
+        "feeding"
+      ]
     },
     {
-      "add": "record"
+      "index": 72,
+      "remove": [
+        "girded"
+      ],
+      "add": [
+        "girdle"
+      ]
     },
     {
-      "remove": "blood-thirsty"
+      "index": 88,
+      "remove": [],
+      "add": [
+        "in"
+      ]
     },
     {
-      "add": "bloodthirsty"
+      "index": 89,
+      "remove": [
+        "cimeter,"
+      ],
+      "add": [
+        "cymeter,"
+      ]
     },
     {
-      "remove": "feading"
-    },
-    {
-      "add": "feeding"
-    },
-    {
-      "remove": "girded"
-    },
-    {
-      "add": "girdle"
-    },
-    {
-      "add": "in"
-    },
-    {
-      "remove": "cimeter,"
-    },
-    {
-      "add": "cymeter,"
-    },
-    {
-      "remove": "axe.—"
-    },
-    {
-      "add": "axe."
+      "index": 92,
+      "remove": [
+        "axe.—"
+      ],
+      "add": [
+        "axe."
+      ]
     }
   ],
   "Enos 1:21": [
     {
-      "remove": "much"
-    },
-    {
-      "add": "many"
+      "index": 44,
+      "remove": [
+        "much"
+      ],
+      "add": [
+        "many"
+      ]
     }
   ],
   "Enos 1:23": [
     {
-      "remove": "preaching,"
-    },
-    {
-      "add": "preaching"
+      "index": 9,
+      "remove": [
+        "preaching,"
+      ],
+      "add": [
+        "preaching"
+      ]
     }
   ],
   "Enos 1:26": [
     {
-      "remove": "God,"
+      "index": 21,
+      "remove": [
+        "God,"
+      ],
+      "add": [
+        "God"
+      ]
     },
     {
-      "add": "God"
-    },
-    {
-      "remove": "truth,"
-    },
-    {
-      "add": "truth"
+      "index": 38,
+      "remove": [
+        "truth,"
+      ],
+      "add": [
+        "truth"
+      ]
     }
   ],
   "Enos 1:27": [
     {
-      "remove": "redeemer;"
+      "index": 14,
+      "remove": [
+        "redeemer;"
+      ],
+      "add": [
+        "Redeemer;"
+      ]
     },
     {
-      "add": "Redeemer;"
+      "index": 56,
+      "remove": [
+        "Come"
+      ],
+      "add": [
+        "come"
+      ]
     },
     {
-      "remove": "Come"
-    },
-    {
-      "add": "come"
-    },
-    {
-      "remove": "Father."
-    },
-    {
-      "add": "FATHER."
+      "index": 73,
+      "remove": [
+        "Father."
+      ],
+      "add": [
+        "FATHER."
+      ]
     }
   ]
 }
