@@ -1,103 +1,171 @@
 {
   "4 Nephi 1:2": [
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "land,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "land"
-      ]
+      "add": []
     },
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:3": [
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "Heavenly"
+        {
+          "text": "Heavenly",
+          "isWord": true
+        }
       ],
       "add": [
-        "heavenly"
+        {
+          "text": "heavenly",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:5": [
     {
-      "index": 5,
+      "index": 10,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:14": [
     {
-      "index": 63,
+      "index": 135,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 65,
+      "index": 140,
       "remove": [
-        "tarry:",
-        "And"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "tarry;",
-        "and"
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "remove": [
+        {
+          "text": "And",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:16": [
     {
-      "index": 16,
+      "index": 38,
       "remove": [
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        }
       ],
       "add": [
-        "any"
+        {
+          "text": "any",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 45,
       "remove": [
-        "lasciviousness:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "lasciviousness;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 73,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 90,
       "remove": [
-        "God:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "God;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -105,49 +173,85 @@
     {
       "index": 0,
       "remove": [
-        "There"
+        {
+          "text": "There",
+          "isWord": true
+        }
       ],
       "add": [
-        "there"
-      ]
-    },
-    {
-      "index": 5,
-      "remove": [
-        "no",
-        "murderers,"
-      ],
-      "add": [
-        "murderers,,"
+        {
+          "text": "there",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 11,
       "remove": [
-        "nor",
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
+      "add": []
+    },
+    {
+      "index": 14,
+      "remove": [],
       "add": [
-        "or",
-        "any"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 25,
       "remove": [
-        "Ites;"
+        {
+          "text": "nor no",
+          "isWord": true
+        }
       ],
       "add": [
-        "ites;"
+        {
+          "text": "or any",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 31,
       "remove": [
-        "God:"
+        {
+          "text": "Ites",
+          "isWord": true
+        }
       ],
       "add": [
-        "God;"
+        {
+          "text": "ites",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -155,224 +259,387 @@
     {
       "index": 0,
       "remove": [
-        "And"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ],
       "add": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 67,
       "remove": [
-        "And"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ],
       "add": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:19": [
     {
-      "index": 22,
+      "index": 46,
       "remove": [
-        "Nephi,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Nephi"
-      ]
+      "add": []
     }
   ],
   "4 Nephi 1:20": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "people,",
-        "which"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 53,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "people",
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:22": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "away:",
-        "And"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "away,",
-        "and"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "remove": [
+        {
+          "text": "And",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:24": [
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:28": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:29": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "church,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "church"
-      ]
+      "add": []
     }
   ],
   "4 Nephi 1:30": [
     {
-      "index": 12,
+      "index": 24,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:35": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:36": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "which",
-        "was"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "were"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 28,
       "remove": [
-        "they",
-        "which",
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "those",
-        "who",
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "remove": [
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "those",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:37": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "worshippers"
+        {
+          "text": "worshippers",
+          "isWord": true
+        }
       ],
       "add": [
-        "worshipers"
+        {
+          "text": "worshipers",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 43,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:38": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:41": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "things."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "things",
-        "-—"
+        {
+          "text": "-",
+          "isWord": true
+        },
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "4 Nephi 1:43": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "4 Nephi 1:45": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "wicked,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wicked"
-      ]
+      "add": []
     }
   ],
   "4 Nephi 1:47": [
     {
-      "index": 34,
+      "index": 72,
       "remove": [
-        "record,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "record"
-      ]
+      "add": []
     }
   ],
   "4 Nephi 1:48": [
     {
-      "index": 36,
+      "index": 77,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "wbich"
+        {
+          "text": "wbich",
+          "isWord": true
+        }
       ]
     }
   ]

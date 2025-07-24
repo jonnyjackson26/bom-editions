@@ -1,316 +1,534 @@
 {
   "Enos 1:2": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Enos 1:3": [
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "and",
-        "the",
-        "words",
-        "of",
-        "my",
-        "father,"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "words",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "my",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "father",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Enos 1:6": [
     {
-      "index": 14,
-      "remove": [
-        "away."
-      ],
+      "index": 34,
+      "remove": [],
       "add": [
-        "away.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:7": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "sayeth,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said,"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:8": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "Because"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "because"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "not"
+        {
+          "text": "not",
+          "isWord": true
+        }
       ],
       "add": [
-        "never",
-        "before"
+        {
+          "text": "never before",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "passeth"
+        {
+          "text": "passeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "pass"
+        {
+          "text": "pass",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 34,
+      "index": 75,
       "remove": [
-        "to",
-        "it,"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "it",
+          "isWord": true
+        }
       ],
-      "add": [
-        "to,"
-      ]
+      "add": []
     }
   ],
   "Enos 1:11": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Enos 1:14": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "struggles"
+        {
+          "text": "struggles",
+          "isWord": true
+        }
       ],
       "add": [
-        "strugglings"
+        {
+          "text": "strugglings",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:15": [
     {
-      "index": 24,
+      "index": 52,
       "remove": [
-        "Whatsoever"
+        {
+          "text": "Whatsoever",
+          "isWord": true
+        }
       ],
       "add": [
-        "whatsoever"
+        {
+          "text": "whatsoever",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:16": [
     {
-      "index": 34,
+      "index": 74,
       "remove": [
-        "time.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "time."
-      ]
+      "add": []
     }
   ],
   "Enos 1:17": [
     {
-      "index": 19,
-      "remove": [
-        "rest."
-      ],
+      "index": 44,
+      "remove": [],
       "add": [
-        "rest.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:18": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Thy"
+        {
+          "text": "Thy",
+          "isWord": true
+        }
       ],
       "add": [
-        "thy"
+        {
+          "text": "thy",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:19": [
     {
-      "index": 10,
+      "index": 23,
       "remove": [
-        "obout"
+        {
+          "text": "obout",
+          "isWord": true
+        }
       ],
       "add": [
-        "about"
+        {
+          "text": "about",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:20": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "bare",
-        "rerecord"
+        {
+          "text": "bare",
+          "isWord": true
+        }
       ],
       "add": [
-        "bear",
-        "record"
+        {
+          "text": "bear",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 72,
+      "index": 6,
       "remove": [
-        "girded"
+        {
+          "text": "rerecord",
+          "isWord": true
+        }
       ],
       "add": [
-        "girdle"
+        {
+          "text": "record",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 79,
+      "index": 156,
       "remove": [
-        "shaven;"
+        {
+          "text": "girded",
+          "isWord": true
+        }
       ],
       "add": [
-        "shaven:"
+        {
+          "text": "girdle",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 88,
-      "remove": [],
+      "index": 172,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
       "add": [
-        "in"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 89,
+      "index": 191,
       "remove": [
-        "cimeter,"
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": [
-        "cymeter,"
+        {
+          "text": "in",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 92,
+      "index": 193,
       "remove": [
-        "axe.—"
+        {
+          "text": "cimeter",
+          "isWord": true
+        }
       ],
       "add": [
-        "axe."
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "cymeter",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:21": [
     {
-      "index": 44,
+      "index": 96,
       "remove": [
-        "much"
+        {
+          "text": "much",
+          "isWord": true
+        }
       ],
       "add": [
-        "many"
+        {
+          "text": "many",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:23": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "preaching,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "preaching"
-      ]
+      "add": []
     }
   ],
   "Enos 1:25": [
     {
-      "index": 30,
+      "index": 62,
       "remove": [
-        "Jerusalem."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "Jerusalem",
-        ".—"
+        {
+          "text": ".—",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:26": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "truth,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "truth"
-      ]
+      "add": []
     }
   ],
   "Enos 1:27": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "redeemer;"
+        {
+          "text": "redeemer",
+          "isWord": true
+        }
       ],
       "add": [
-        "Redeemer;"
+        {
+          "text": "Redeemer",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 56,
+      "index": 119,
       "remove": [
-        "Come"
+        {
+          "text": "Come",
+          "isWord": true
+        }
       ],
       "add": [
-        "come"
+        {
+          "text": "come",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 73,
+      "index": 154,
       "remove": [
-        "Father."
+        {
+          "text": "Father",
+          "isWord": true
+        }
       ],
       "add": [
-        "FATHER."
+        {
+          "text": "FATHER",
+          "isWord": true
+        }
       ]
     }
   ]

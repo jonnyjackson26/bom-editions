@@ -1,785 +1,1281 @@
 {
   "Mosiah 1:1": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 1:2": [
     {
-      "index": 19,
+      "index": 43,
       "remove": [
-        "Helaman.",
-        "And"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "And",
+          "isWord": true
+        }
       ],
       "add": [
-        "Helaman.—",
-        "and"
+        {
+          "text": "—",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 107,
       "remove": [
-        "prophecies,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 132,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophecies"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 62,
+      "index": 150,
       "remove": [
-        "was"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "were"
-      ]
-    },
-    {
-      "index": 70,
-      "remove": [
-        "Lord.—"
-      ],
-      "add": [
-        "Lord."
-      ]
+      "add": []
     }
   ],
   "Mosiah 1:3": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "My"
+        {
+          "text": "My",
+          "isWord": true
+        }
       ],
       "add": [
-        "my"
+        {
+          "text": "my",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 1:5": [
     {
-      "index": 60,
+      "index": 129,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 1:6": [
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "fathers,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "fathers"
-      ]
+      "add": []
     }
   ],
   "Mosiah 1:9": [
     {
-      "index": 51,
-      "remove": [
-        "sons."
-      ],
+      "index": 108,
+      "remove": [],
       "add": [
-        "sons.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mosiah 1:10": [
     {
-      "index": 45,
+      "index": 99,
       "remove": [
-        "Mosiah,",
-        "which"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 101,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "Mosiah",
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 85,
+      "index": 186,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "whom"
+        {
+          "text": "whom",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 1:11": [
     {
-      "index": 48,
+      "index": 102,
       "remove": [
-        "Lord.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lord."
-      ]
+      "add": []
     }
   ],
   "Mosiah 1:13": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 55,
+      "index": 118,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 59,
+      "index": 127,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 1:18": [
     {
-      "index": 23,
+      "index": 48,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 60,
       "remove": [
-        "Zarahemla,"
+        {
+          "text": "Zarahemla",
+          "isWord": true
+        }
       ],
       "add": [
-        "Zerahem",
-        "la,"
+        {
+          "text": "Zerahem la",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 2:4": [
     {
-      "index": 60,
+      "index": 127,
       "remove": [
-        "Zarahemla,"
+        {
+          "text": "Zarahemla",
+          "isWord": true
+        }
       ],
       "add": [
-        "Zerahemla,"
+        {
+          "text": "Zerahemla",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 2:7": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "therefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "therefore"
-      ]
+      "add": []
     }
   ],
   "Mosiah 2:9": [
     {
-      "index": 46,
+      "index": 98,
       "remove": [
-        "hither,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "hither"
-      ]
+      "add": []
     }
   ],
   "Mosiah 2:11": [
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "was"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mosiah 2:12": [
     {
-      "index": 30,
+      "index": 64,
       "remove": [
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        }
       ],
       "add": [
-        "any"
+        {
+          "text": "any",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 2:14": [
     {
-      "index": 34,
+      "index": 73,
       "remove": [
-        "grievous"
+        {
+          "text": "grievous",
+          "isWord": true
+        }
       ],
       "add": [
-        "grievious"
+        {
+          "text": "grievious",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 52,
-      "remove": [
-        "day."
-      ],
+      "index": 113,
+      "remove": [],
       "add": [
-        "day.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mosiah 2:17": [
     {
-      "index": 6,
+      "index": 14,
       "remove": [
-        "things,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "things"
-      ]
+      "add": []
     }
   ],
   "Mosiah 2:19": [
     {
-      "index": 5,
+      "index": 13,
       "remove": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ],
       "add": [
-        "whom"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    }
-  ],
-  "Mosiah 2:20": [
-    {
-      "index": 20,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 28,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
+        {
+          "text": "whom",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 45,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:20": [
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 2:21": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 63,
+      "index": 135,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mosiah 2:22": [
     {
-      "index": 15,
+      "index": 33,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 2:25": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "Can"
+        {
+          "text": "Can",
+          "isWord": true
+        }
       ],
       "add": [
-        "can"
+        {
+          "text": "can",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "Nay."
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "nay."
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 40,
       "remove": [
-        "thou",
-        "art"
+        {
+          "text": "thou",
+          "isWord": true
+        }
       ],
       "add": [
-        "ye",
-        "are"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 42,
       "remove": [
-        "earth;"
+        {
+          "text": "art",
+          "isWord": true
+        }
       ],
       "add": [
-        "earth:"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 61,
       "remove": [
-        "thou",
-        "wast"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "ye",
-        "were"
-      ]
-    }
-  ],
-  "Mosiah 2:26": [
-    {
-      "index": 24,
-      "remove": [
-        "thou",
-        "beholdest"
-      ],
-      "add": [
-        "ye",
-        "behold"
-      ]
-    }
-  ],
-  "Mosiah 2:31": [
-    {
-      "index": 12,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "have"
-      ]
-    }
-  ],
-  "Mosiah 2:34": [
-    {
-      "index": 8,
-      "remove": [
-        "one"
-      ],
-      "add": [
-        "any"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "Heavenly"
-      ],
-      "add": [
-        "heavenly"
-      ]
-    },
-    {
-      "index": 60,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "have"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
       "index": 65,
       "remove": [
-        "Holy",
-        "Prophets,"
+        {
+          "text": "thou",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "prophets,"
-      ]
-    }
-  ],
-  "Mosiah 2:35": [
-    {
-      "index": 4,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    }
-  ],
-  "Mosiah 2:36": [
-    {
-      "index": 30,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    }
-  ],
-  "Mosiah 2:37": [
-    {
-      "index": 19,
-      "remove": [
-        "therefore,"
-      ],
-      "add": [
-        "therefore"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 67,
       "remove": [
-        "hath"
+        {
+          "text": "wast",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
-  "Mosiah 2:38": [
+  "Mosiah 2:26": [
     {
-      "index": 17,
+      "index": 53,
       "remove": [
-        "Divine",
-        "Justice"
+        {
+          "text": "thou",
+          "isWord": true
+        }
       ],
       "add": [
-        "divine",
-        "justice"
-      ]
-    }
-  ],
-  "Mosiah 2:40": [
-    {
-      "index": 14,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Mosiah 2:41": [
-    {
-      "index": 48,
-      "remove": [
-        "Heaven,"
-      ],
-      "add": [
-        "heaven,"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 55,
       "remove": [
-        "God,"
+        {
+          "text": "beholdest",
+          "isWord": true
+        }
       ],
       "add": [
-        "God"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
+    }
+  ],
+  "Mosiah 2:31": [
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:34": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": "one",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "any",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": "Heavenly",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heavenly",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "remove": [
+        {
+          "text": "Holy",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "remove": [
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "prophets",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:35": [
+    {
+      "index": 9,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:36": [
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:37": [
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:38": [
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": "Divine",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "divine",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "remove": [
+        {
+          "text": "Justice",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "justice",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:40": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mosiah 2:41": [
+    {
+      "index": 102,
+      "remove": [
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heaven",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Mosiah 3:2": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "Angel"
+        {
+          "text": "Angel",
+          "isWord": true
+        }
       ],
       "add": [
-        "angel"
+        {
+          "text": "angel",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "Awake;"
+        {
+          "text": "Awake",
+          "isWord": true
+        }
       ],
       "add": [
-        "awake;"
+        {
+          "text": "awake",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:3": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "Awake,"
+        {
+          "text": "Awake",
+          "isWord": true
+        }
       ],
       "add": [
-        "awake,"
+        {
+          "text": "awake",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:5": [
     {
-      "index": 18,
+      "index": 41,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 71,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:6": [
     {
-      "index": 5,
+      "index": 10,
       "remove": [
-        "Devils,"
+        {
+          "text": "Devils",
+          "isWord": true
+        }
       ],
       "add": [
-        "devils,"
+        {
+          "text": "devils",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "dwelleth"
+        {
+          "text": "dwelleth",
+          "isWord": true
+        }
       ],
       "add": [
-        "dwell"
+        {
+          "text": "dwell",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:8": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "Heaven"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "Earth,"
+        {
+          "text": "Earth",
+          "isWord": true
+        }
       ],
       "add": [
-        "earth,"
+        {
+          "text": "earth",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:9": [
     {
-      "index": 39,
+      "index": 84,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:11": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:13": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "Holy",
-        "Prophets"
+        {
+          "text": "Holy",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "prophets"
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:15": [
     {
-      "index": 18,
+      "index": 41,
       "remove": [
-        "Holy",
-        "Prophets"
+        {
+          "text": "Holy",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "prophets"
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:16": [
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "blessed:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "blessed;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mosiah 3:17": [
     {
-      "index": 15,
+      "index": 33,
       "remove": [
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        }
       ],
       "add": [
-        "any"
+        {
+          "text": "any",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:18": [
     {
-      "index": 21,
+      "index": 47,
       "remove": [
-        "drinketh"
+        {
+          "text": "drinketh",
+          "isWord": true
+        }
       ],
       "add": [
-        "drink"
+        {
+          "text": "drink",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 82,
       "remove": [
-        "believeth"
+        {
+          "text": "believeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "believe"
+        {
+          "text": "believe",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:19": [
     {
-      "index": 26,
+      "index": 57,
       "remove": [
-        "yieldeth"
+        {
+          "text": "yieldeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "yields"
+        {
+          "text": "yields",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:20": [
     {
-      "index": 16,
+      "index": 35,
       "remove": [
-        "Saviour"
+        {
+          "text": "Saviour",
+          "isWord": true
+        }
       ],
       "add": [
-        "Savior"
+        {
+          "text": "Savior",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mosiah 3:25": [
     {
-      "index": 53,
+      "index": 114,
       "remove": [
-        "souls.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "souls."
-      ]
+      "add": []
     }
   ],
   "Mosiah 3:27": [
     {
-      "index": 22,
+      "index": 48,
       "remove": [
-        "ever."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "ever.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ]

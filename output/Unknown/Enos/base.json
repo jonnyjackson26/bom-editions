@@ -1,29 +1,10096 @@
 {
-  "Enos 1:1": "Behold, it came to pass that I, Enos, knowing my father, that he was a just man: for he taught me in his language, and also in the nurture and admonition of the Lord. And blessed be the name of my God for it.",
-  "Enos 1:2": "And I will tell you of the wrestle which I had before God, before that I received a remission of my sins:",
-  "Enos 1:3": "behold, I went to hunt beasts in the forest; and the words which I had often heard my father speak, concerning eternal life, and the joy of the saints, and the words of my father, sunk deep into my heart.",
-  "Enos 1:4": "And my soul hungered; and I kneeled down before my Maker, and I cried unto him in mighty prayer and supplication, for mine own soul; and all the day long did I cry unto him; yea, and when the night came, I did still raise my voice high, that it reached the heavens.",
-  "Enos 1:5": "And there came a voice unto me saying, Enos, thy sins are forgiven thee, and thou shalt be blessed.",
-  "Enos 1:6": "And I, Enos, knew that God could not lie; wherefore, my guilt was swept away.",
-  "Enos 1:7": "And I sayeth, Lord, how is it done?",
-  "Enos 1:8": "And he sayeth unto me, Because of thy faith in Christ, whom thou hast not heard nor seen. And many years passeth away, before that he shall manifest himself in the flesh; wherefore, go to it, thy faith hath made thee whole.",
-  "Enos 1:9": "Now, it came to pass that when I had heard these words, I began to feel a desire for the welfare of my brethren, the Nephites; wherefore, I did pour out my whole soul unto God for them.",
-  "Enos 1:10": "And while I was thus struggling in the spirit, behold, the voice of the Lord came into my mind again, saying, I will visit thy brethren, according to their diligence in keeping my commandments. I have given unto them this land; and it is a holy land; and I curse it not, save it be for the cause of iniquity; wherefore, I will visit thy brethren, according as I have said; and their transgressions will I bring down with sorrow upon their own heads.",
-  "Enos 1:11": "And after that I, Enos, had heard these words, my faith began to be unshaken in the Lord; and I prayed unto him with many long strugglings for my brethren, the Lamanites.",
-  "Enos 1:12": "And it came to pass, that after I had prayed, and labored with all diligence, the Lord said unto me, I will grant unto thee according to thy desires, because of thy faith.",
-  "Enos 1:13": "And now behold, this was the desire which I desired of him: That if it should so be, that my people, the Nephites, should fall into transgression, and by any means be destroyed, and the Lamanites should not be destroyed, that the Lord God would preserve a record of my people, the Nephites; even if it so be, by the power of his holy arm, that it might be brought forth, at some future day, unto the Lamanites, that perhaps they might be brought unto salvation:",
-  "Enos 1:14": "for at the present, our struggles were vain, in restoring them to the true faith. And they swore in their wrath, that if it were possible, they would destroy our records and us; and, also, all the traditions of our fathers.",
-  "Enos 1:15": "Wherefore, I knowing that the Lord God was able to preserve our records, I cried unto him continually; for he had said unto me, Whatsoever thing ye shall ask in faith, believing that ye shall receive in the name of Christ, ye shall receive it.",
-  "Enos 1:16": "And I had faith, and I did cry unto God, that he would preserve the records; and he covenanted with me that he would bring them forth unto the Lamanites, in his own due time.—",
-  "Enos 1:17": "And I, Enos, knew it would be according to the covenant which he had made; wherefore, my soul did rest.",
-  "Enos 1:18": "And the Lord said unto me, Thy fathers have also required of me this thing; and it shall be done unto them according to their faith, for their faith was like unto thine.",
-  "Enos 1:19": "And now it came to pass, that I, Enos, went obout among the people of Nephi, prophesying of things to come, and testifying of the things which I had heard and seen.",
-  "Enos 1:20": "And I bare rerecord that the people of Nephi did seek diligently to restore the Lamanites unto the true faith in God. But our labors were vain; their hatred was fixed, and they were led by their evil nature, that they became wild, and ferocious, and a blood-thirsty people; full of idolatry, and filthiness; feading upon beasts of prey, dwelling in tents, and wandering about in the wilderness, with a short skin girded about their loins, and their heads shaven; and their skill was in the bow, and the cimeter, and the axe.— And many of them did eat nothing save it was raw meat; and they were continually seeking to destroy us.",
-  "Enos 1:21": "And it came to pass that the people of Nephi did till the land, and raise all manner of grain, and of fruit, and flocks of herds, and flocks of all manner of cattle, of every kind, and goats, and wild goats, and also much horses.",
-  "Enos 1:22": "And there were exceeding many prophets among us. And the people were a stiff-necked people, hard to understand.",
-  "Enos 1:23": "And there was nothing save it was exceeding harshness, preaching, and prophesying of wars, and contentions, and destructions, and continually reminding them of death, and the duration of eternity, and the judgments and the power of God; and all these things stirring them up continually, to keep them in the fear of the Lord. I say there was nothing short of these things, and exceeding great plainness of speech, would keep them from going down speedily to destruction. And after this manner do I write concerning them.",
-  "Enos 1:24": "And I saw wars between the Nephites and Lamanites, in the course of my days.",
-  "Enos 1:25": "And it came to pass that I began to be old, and an hundred and seventy and nine years had passed away from the time that our father Lehi left Jerusalem.",
-  "Enos 1:26": "And as I saw that I must soon go down to my grave, having been wrought upon by the power of God, that I must preach and prophesy unto this people, and declare the word according to the truth, which is in Christ. And I have declared it, in all my days, and have rejoiced in it, above that of the world.",
-  "Enos 1:27": "And I soon go to the place of my rest, which is with my redeemer; for I know that in him I shall rest: and I rejoice in the day when my mortal shall put on immortality, and shall stand before him: then shall I see his face with pleasure, and he will say unto me, Come unto me ye blessed, there is a place prepared for you in the mansions of my Father. Amen."
+  "Enos 1:1": [
+    {
+      "text": "Behold",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "knowing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "father",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "just",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "man",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "taught",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "his",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "language",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "also",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nurture",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "admonition",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "blessed",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "name",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:2": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "tell",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "you",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wrestle",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "before",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "before",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "received",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "remission",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sins",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    }
+  ],
+  "Enos 1:3": [
+    {
+      "text": "behold",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "went",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hunt",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "beasts",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "forest",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "words",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "often",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "father",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "speak",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "concerning",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "eternal",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "life",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "joy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "saints",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "words",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "father",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sunk",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "deep",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "into",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heart",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:4": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soul",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hungered",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "kneeled",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "down",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "before",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Maker",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cried",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "mighty",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prayer",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "supplication",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "mine",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "own",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soul",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "day",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "long",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cry",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "yea",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "when",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "night",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "still",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "raise",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "voice",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "high",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "reached",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heavens",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:5": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "there",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "voice",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "saying",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sins",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "are",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "forgiven",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thee",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thou",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shalt",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "blessed",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:6": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "knew",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "could",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "not",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "lie",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "guilt",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "swept",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "away",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:7": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sayeth",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "how",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "is",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "done",
+      "isWord": true
+    },
+    {
+      "text": "?",
+      "isWord": false
+    }
+  ],
+  "Enos 1:8": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sayeth",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Because",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Christ",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "whom",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thou",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hast",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "not",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nor",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "seen",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "many",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "years",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "passeth",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "away",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "before",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "manifest",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "himself",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "flesh",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "go",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hath",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "made",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thee",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "whole",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:9": [
+    {
+      "text": "Now",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "when",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "these",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "words",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "began",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "feel",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "desire",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "welfare",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brethren",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephites",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pour",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "out",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "whole",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soul",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:10": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "while",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thus",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "struggling",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "spirit",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "behold",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "voice",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "into",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "mind",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "again",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "saying",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "visit",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brethren",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "diligence",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "keeping",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "commandments",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "have",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "given",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "this",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "land",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "is",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "holy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "land",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "curse",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "not",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "save",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cause",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "iniquity",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "visit",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brethren",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "as",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "have",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "said",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "transgressions",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "bring",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "down",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "sorrow",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "upon",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "own",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heads",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:11": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "after",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "these",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "words",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "began",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unshaken",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prayed",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "many",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "long",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "strugglings",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brethren",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:12": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "after",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prayed",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "labored",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "diligence",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "said",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "grant",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thee",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "desires",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "because",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:13": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "now",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "behold",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "this",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "desire",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "desired",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "That",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "if",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "should",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "so",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephites",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "should",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "into",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "transgression",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "by",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "any",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "means",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destroyed",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "should",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "not",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destroyed",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "preserve",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "record",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephites",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "even",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "if",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "so",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "by",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "power",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "his",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "holy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "arm",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "might",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brought",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "forth",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "at",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "some",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "future",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "day",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "perhaps",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "might",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "brought",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "salvation",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    }
+  ],
+  "Enos 1:14": [
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "at",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "present",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "struggles",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "vain",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "restoring",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "true",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "swore",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wrath",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "if",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "possible",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destroy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "records",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "us",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "also",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "traditions",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fathers",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:15": [
+    {
+      "text": "Wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "knowing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "able",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "preserve",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "records",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cried",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "continually",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "said",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Whatsoever",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ye",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ask",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "believing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ye",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "receive",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "name",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Christ",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ye",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "receive",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:16": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cry",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "preserve",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "records",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "covenanted",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "bring",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "forth",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "his",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "own",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "due",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "time",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": "—",
+      "isWord": false
+    }
+  ],
+  "Enos 1:17": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "knew",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "covenant",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "made",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wherefore",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soul",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rest",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:18": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "said",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Thy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fathers",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "have",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "also",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "required",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "this",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thing",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "done",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "like",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "thine",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:19": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "now",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Enos",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "went",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "obout",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "among",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephi",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prophesying",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "things",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "come",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "testifying",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "things",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "seen",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:20": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "bare",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rerecord",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephi",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "seek",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "diligently",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "restore",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "true",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "faith",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "But",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "labors",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "vain",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hatred",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fixed",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "led",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "by",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "evil",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nature",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "became",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wild",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ferocious",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "blood-thirsty",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "full",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "idolatry",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "filthiness",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "feading",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "upon",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "beasts",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prey",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "dwelling",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "tents",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wandering",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "about",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wilderness",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "short",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "skin",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "girded",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "about",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "loins",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "heads",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shaven",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "their",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "skill",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "bow",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cimeter",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "axe",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": "—",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "many",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "eat",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nothing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "save",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "raw",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "meat",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "they",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "continually",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "seeking",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destroy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "us",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:21": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephi",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "did",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "till",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "land",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "raise",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "manner",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "grain",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fruit",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "flocks",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "herds",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "flocks",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "manner",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "cattle",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "every",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "kind",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "goats",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wild",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "goats",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "also",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "much",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "horses",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:22": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "there",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "exceeding",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "many",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prophets",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "among",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "us",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "were",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "stiff-necked",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hard",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "understand",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:23": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "there",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nothing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "save",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "exceeding",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "harshness",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "preaching",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prophesying",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wars",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "contentions",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destructions",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "continually",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "reminding",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "death",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "duration",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "eternity",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "judgments",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "power",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "these",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "things",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "stirring",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "up",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "continually",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "keep",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "fear",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lord",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "say",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "there",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "was",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nothing",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "short",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "these",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "things",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "exceeding",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "great",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "plainness",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "speech",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "would",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "keep",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "from",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "going",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "down",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "speedily",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "destruction",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "after",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "this",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "manner",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "do",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "write",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "concerning",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "them",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:24": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "saw",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wars",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "between",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Nephites",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lamanites",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "course",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "days",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:25": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "came",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pass",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "began",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "be",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "old",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "an",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "hundred",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "seventy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "nine",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "years",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "had",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "passed",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "away",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "from",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "time",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "our",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "father",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Lehi",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "left",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Jerusalem",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:26": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "as",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "saw",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "must",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soon",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "go",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "down",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "grave",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "having",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "been",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "wrought",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "upon",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "by",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "power",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "God",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "must",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "preach",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prophesy",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "this",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "people",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "declare",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "word",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "according",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "truth",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "is",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Christ",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "have",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "declared",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "all",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "days",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "have",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rejoiced",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "it",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "above",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "world",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ],
+  "Enos 1:27": [
+    {
+      "text": "And",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "soon",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "go",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "to",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "place",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rest",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "which",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "is",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "redeemer",
+      "isWord": true
+    },
+    {
+      "text": ";",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "know",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "that",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rest",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "rejoice",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "day",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "when",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "mortal",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "put",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "on",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "immortality",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "stand",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "before",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "him",
+      "isWord": true
+    },
+    {
+      "text": ":",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "then",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "shall",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "I",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "see",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "his",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "face",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "with",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "pleasure",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "and",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "he",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "will",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "say",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Come",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "unto",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "me",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "ye",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "blessed",
+      "isWord": true
+    },
+    {
+      "text": ",",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "there",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "is",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "a",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "place",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "prepared",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "for",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "you",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "in",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "the",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "mansions",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "of",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "my",
+      "isWord": true
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Father",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    },
+    {
+      "text": " ",
+      "isWord": false
+    },
+    {
+      "text": "Amen",
+      "isWord": true
+    },
+    {
+      "text": ".",
+      "isWord": false
+    }
+  ]
 }

@@ -1,59 +1,105 @@
 {
   "Enos 1:1": [
     {
-      "index": 10,
+      "index": 24,
       "remove": [
-        "father,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "father"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 73,
       "remove": [
-        "man:"
+        {
+          "text": ".",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "And",
+          "isWord": true
+        }
       ],
       "add": [
-        "man—"
+        {
+          "text": "—",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 94,
       "remove": [
-        "Lord.",
-        "And"
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord—",
-        "and"
-      ]
-    },
-    {
-      "index": 43,
-      "remove": [
-        "it."
-      ],
-      "add": [
-        "it—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:2": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "sins:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "sins."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -61,307 +107,504 @@
     {
       "index": 0,
       "remove": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "forest;"
+        {
+          "text": "forest",
+          "isWord": true
+        }
       ],
       "add": [
-        "forests;"
+        {
+          "text": "forests",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "speak,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "speak"
-      ]
+      "add": []
     },
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "and",
-        "the",
-        "words",
-        "of",
-        "my",
-        "father,"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "words",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "my",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "father",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Enos 1:4": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "supplication,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "supplication"
-      ]
+      "add": []
     },
     {
-      "index": 40,
+      "index": 87,
       "remove": [
-        "came,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "came"
-      ]
+      "add": []
     },
     {
-      "index": 47,
+      "index": 102,
       "remove": [
-        "high,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "high"
-      ]
+      "add": []
     }
   ],
   "Enos 1:5": [
     {
-      "index": 6,
+      "index": 13,
+      "remove": [],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 15,
       "remove": [
-        "me",
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "me,",
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:7": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "sayeth,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "said:"
+        {
+          "text": "said",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:8": [
     {
-      "index": 2,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
       "index": 4,
       "remove": [
-        "me,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "me:"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 9,
       "remove": [
-        "not"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "never",
-        "before"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 30,
       "remove": [
-        "passeth",
-        "away,"
+        {
+          "text": "not",
+          "isWord": true
+        }
       ],
       "add": [
-        "pass",
-        "away"
+        {
+          "text": "never before",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 45,
       "remove": [
-        "that"
+        {
+          "text": "passeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "pass",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 34,
+      "index": 51,
       "remove": [
-        "to",
-        "it,"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
-      "add": [
-        "to,"
-      ]
+      "add": []
+    },
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "it",
+          "isWord": true
+        }
+      ],
+      "add": []
     }
   ],
   "Enos 1:9": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "words,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "words"
-      ]
+      "add": []
     }
   ],
   "Enos 1:10": [
     {
-      "index": 20,
+      "index": 44,
       "remove": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 55,
       "remove": [
-        "brethren,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 87,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "brethren"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 111,
       "remove": [
-        "land;"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "land,"
-      ]
+      "add": []
     },
     {
-      "index": 51,
+      "index": 142,
       "remove": [
-        "not,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "not"
-      ]
-    },
-    {
-      "index": 65,
-      "remove": [
-        "brethren,"
-      ],
-      "add": [
-        "brethren"
-      ]
+      "add": []
     }
   ],
   "Enos 1:11": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Enos 1:12": [
     {
-      "index": 4,
-      "remove": [
-        "pass,"
-      ],
-      "add": [
-        "pass"
-      ]
-    },
-    {
       "index": 9,
       "remove": [
-        "prayed,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "prayed"
-      ]
+      "add": []
     },
     {
-      "index": 19,
+      "index": 20,
       "remove": [
-        "me,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "me:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:13": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "him:",
-        "That"
+        {
+          "text": ":",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "him—",
-        "that"
+        {
+          "text": "—",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 125,
       "remove": [
-        "be,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
+      "add": []
+    },
+    {
+      "index": 153,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 162,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 172,
+      "remove": [],
       "add": [
-        "be"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 70,
-      "remove": [
-        "forth,"
-      ],
+      "index": 174,
+      "remove": [],
       "add": [
-        "forth"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 74,
+      "index": 186,
       "remove": [
-        "day,"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "day"
-      ]
-    },
-    {
-      "index": 78,
-      "remove": [
-        "that",
-        "perhaps"
-      ],
-      "add": [
-        "that,",
-        "perhaps,"
-      ]
-    },
-    {
-      "index": 85,
-      "remove": [
-        "salvation:"
-      ],
-      "add": [
-        "salvation—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -369,438 +612,683 @@
     {
       "index": 0,
       "remove": [
-        "for"
+        {
+          "text": "for",
+          "isWord": true
+        }
       ],
       "add": [
-        "For"
-      ]
-    },
-    {
-      "index": 3,
-      "remove": [
-        "present,"
-      ],
-      "add": [
-        "present"
-      ]
-    },
-    {
-      "index": 5,
-      "remove": [
-        "struggles"
-      ],
-      "add": [
-        "strugglings"
+        {
+          "text": "For",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 7,
       "remove": [
-        "vain,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "struggles",
+          "isWord": true
+        }
       ],
       "add": [
-        "vain"
+        {
+          "text": "strugglings",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 16,
       "remove": [
-        "wrath,",
-        "that"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
+      "add": []
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 47,
+      "remove": [],
       "add": [
-        "wrath",
-        "that,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 70,
       "remove": [
-        "us;",
-        "and,",
-        "also,"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "us,",
-        "and",
-        "also"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
+    },
+    {
+      "index": 73,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 76,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Enos 1:15": [
     {
-      "index": 17,
+      "index": 37,
       "remove": [
-        "continually;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "continually,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "me,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "me:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:16": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     },
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "Lamanites,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lamanites"
-      ]
+      "add": []
     },
     {
-      "index": 34,
+      "index": 74,
       "remove": [
-        "time.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "time."
-      ]
+      "add": []
     }
   ],
   "Enos 1:17": [
     {
-      "index": 15,
+      "index": 34,
       "remove": [
-        "wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wherefore"
-      ]
+      "add": []
     }
   ],
   "Enos 1:18": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "me,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "me:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "faith,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "faith;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:19": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "pass,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "pass"
-      ]
+      "add": []
     },
     {
-      "index": 10,
+      "index": 23,
       "remove": [
-        "obout"
+        {
+          "text": "obout",
+          "isWord": true
+        }
       ],
       "add": [
-        "about"
+        {
+          "text": "about",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:20": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "bare",
-        "rerecord"
+        {
+          "text": "bare",
+          "isWord": true
+        }
       ],
       "add": [
-        "bear",
-        "record"
+        {
+          "text": "bear",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 6,
       "remove": [
-        "nature,"
+        {
+          "text": "rerecord",
+          "isWord": true
+        }
       ],
       "add": [
-        "nature"
+        {
+          "text": "record",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 80,
       "remove": [
-        "blood-thirsty",
-        "people;"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 100,
+      "remove": [
+        {
+          "text": "blood-thirsty",
+          "isWord": true
+        }
       ],
       "add": [
-        "bloodthirsty",
-        "people,"
+        {
+          "text": "bloodthirsty",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 51,
+      "index": 103,
       "remove": [
-        "idolatry,"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "idolatry"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 54,
+      "index": 110,
       "remove": [
-        "feading"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 117,
+      "remove": [
+        {
+          "text": "feading",
+          "isWord": true
+        }
       ],
       "add": [
-        "feeding"
+        {
+          "text": "feeding",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 58,
+      "index": 126,
       "remove": [
-        "prey,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "prey;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 67,
+      "index": 146,
       "remove": [
-        "wilderness,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 156,
+      "remove": [
+        {
+          "text": "girded",
+          "isWord": true
+        }
       ],
       "add": [
-        "wilderness"
+        {
+          "text": "girdle",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 72,
+      "index": 163,
       "remove": [
-        "girded"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "girdle"
-      ]
+      "add": []
     },
     {
-      "index": 75,
-      "remove": [
-        "loins,"
-      ],
-      "add": [
-        "loins"
-      ]
-    },
-    {
-      "index": 88,
+      "index": 191,
       "remove": [],
       "add": [
-        "in"
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 92,
+      "index": 200,
       "remove": [
-        "axe.—"
+        {
+          "text": "axe",
+          "isWord": true
+        }
       ],
       "add": [
-        "ax."
+        {
+          "text": "ax",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Enos 1:21": [
     {
-      "index": 33,
+      "index": 71,
       "remove": [
-        "cattle,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "cattle"
-      ]
+      "add": []
     },
     {
-      "index": 44,
+      "index": 96,
       "remove": [
-        "much"
+        {
+          "text": "much",
+          "isWord": true
+        }
       ],
       "add": [
-        "many"
+        {
+          "text": "many",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:22": [
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "stiff-necked"
+        {
+          "text": "stiff-necked",
+          "isWord": true
+        }
       ],
       "add": [
-        "stiffnecked"
+        {
+          "text": "stiffnecked",
+          "isWord": true
+        }
       ]
     }
   ],
   "Enos 1:23": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "preaching,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 80,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "preaching"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 89,
       "remove": [
-        "God;"
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "God,"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 97,
       "remove": [
-        "things"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "things—"
-      ]
-    },
-    {
-      "index": 44,
-      "remove": [
-        "continually,"
-      ],
-      "add": [
-        "continually"
-      ]
+      "add": []
     }
   ],
   "Enos 1:24": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "Lamanites,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lamanites"
-      ]
+      "add": []
     }
   ],
   "Enos 1:26": [
     {
       "index": 1,
       "remove": [
-        "as"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "as",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "truth,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "truth"
-      ]
+      "add": []
     },
     {
-      "index": 47,
+      "index": 100,
       "remove": [
-        "it,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "it"
-      ]
+      "add": []
     },
     {
-      "index": 56,
+      "index": 120,
       "remove": [
-        "it,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "it"
-      ]
+      "add": []
     }
   ],
   "Enos 1:27": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "redeemer;"
+        {
+          "text": "redeemer",
+          "isWord": true
+        }
       ],
       "add": [
-        "Redeemer;"
+        {
+          "text": "Redeemer",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "rest:",
-        "and"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "rest.",
-        "And"
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 51,
       "remove": [
-        "him:"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
       "add": [
-        "him;"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 55,
+      "index": 87,
       "remove": [
-        "me,"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "me:"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 58,
+      "index": 117,
       "remove": [
-        "me"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "me,"
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "remove": [],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ]

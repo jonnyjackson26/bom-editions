@@ -1,501 +1,738 @@
 {
   "Mormon 1:1": [
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "Book"
+        {
+          "text": "Book",
+          "isWord": true
+        }
       ],
       "add": [
-        "book"
+        {
+          "text": "book",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 51,
       "remove": [
-        "Mormon.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Mormon."
-      ]
+      "add": []
     }
   ],
   "Mormon 1:2": [
     {
-      "index": 44,
+      "index": 90,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:3": [
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "of"
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 60,
-      "remove": [
-        "people."
-      ],
+      "index": 129,
+      "remove": [],
       "add": [
-        "people.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 1:4": [
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "upon"
+        {
+          "text": "upon",
+          "isWord": true
+        }
       ],
       "add": [
-        "on"
+        {
+          "text": "on",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:6": [
     {
-      "index": 25,
+      "index": 54,
       "remove": [
-        "Zarahemla:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Zarahemla;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 1:8": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 66,
       "remove": [
-        "Zoramites:",
-        "and"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Zoramites;",
-        "ahd"
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": "and",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "ahd",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:10": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "them,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "them"
-      ]
+      "add": []
     }
   ],
   "Mormon 1:12": [
     {
-      "index": 32,
+      "index": 67,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
-      "remove": [
-        "shed."
-      ],
+      "index": 75,
+      "remove": [],
       "add": [
-        "shed.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 1:15": [
     {
-      "index": 14,
+      "index": 31,
       "remove": [
-        "therfore"
+        {
+          "text": "therfore",
+          "isWord": true
+        }
       ],
       "add": [
-        "therefore"
+        {
+          "text": "therefore",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:16": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "them:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 1:17": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "that",
-        "I",
-        "should"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "I",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "should",
+          "isWord": true
+        }
       ],
       "add": [
-        "to"
+        {
+          "text": "to",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:18": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 1:19": [
     {
-      "index": 43,
+      "index": 93,
       "remove": [
-        "Lamanite.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lamanite."
-      ]
+      "add": []
     }
   ],
   "Mormon 2:1": [
     {
-      "index": 50,
-      "remove": [
-        "armies."
-      ],
+      "index": 107,
+      "remove": [],
       "add": [
-        "armies.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:2": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "year,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "year"
-      ]
+      "add": []
     }
   ],
   "Mormon 2:4": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "Angelah,"
+        {
+          "text": "Angelah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Angola,"
+        {
+          "text": "Angola",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
-      "remove": [
-        "Lamanites."
-      ],
+      "index": 64,
+      "remove": [],
       "add": [
-        "Lamanites.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:6": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "forth,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "forth"
-      ]
+      "add": []
     }
   ],
   "Mormon 2:9": [
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "him,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
+      "add": []
+    },
+    {
+      "index": 76,
+      "remove": [],
       "add": [
-        "him"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 124,
       "remove": [
-        "thousand."
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "thousand.—"
-      ]
-    },
-    {
-      "index": 57,
-      "remove": [
-        "done,"
-      ],
-      "add": [
-        "done"
-      ]
+      "add": []
     }
   ],
   "Mormon 2:10": [
     {
-      "index": 26,
+      "index": 54,
       "remove": [
-        "prophet:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "prophet;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 97,
       "remove": [
-        "rumderers,"
+        {
+          "text": "rumderers",
+          "isWord": true
+        }
       ],
       "add": [
-        "murderers,"
+        {
+          "text": "murderers",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 2:12": [
     {
-      "index": 17,
+      "index": 38,
       "remove": [
-        "sorrowing"
+        {
+          "text": "sorrowing",
+          "isWord": true
+        }
       ],
       "add": [
-        "sorrow"
+        {
+          "text": "sorrow",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 62,
       "remove": [
-        "me:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "me,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:15": [
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "spiritually:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "spiritually,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 67,
       "remove": [
-        "thousands"
+        {
+          "text": "thousands",
+          "isWord": true
+        }
       ],
       "add": [
-        "thoudands"
+        {
+          "text": "thoudands",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 42,
+      "index": 88,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     }
   ],
   "Mormon 2:16": [
     {
-      "index": 39,
+      "index": 81,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 2:18": [
     {
-      "index": 34,
+      "index": 70,
       "remove": [
-        "abominations:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "abominations,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:19": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "wickedness:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "wickedness,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:23": [
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "houses,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "houses"
-      ]
+      "add": []
     }
   ],
   "Mormon 2:26": [
     {
-      "index": 35,
+      "index": 75,
       "remove": [
-        "us:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "us;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:27": [
     {
-      "index": 20,
-      "remove": [
-        "abominations."
-      ],
+      "index": 44,
+      "remove": [],
       "add": [
-        "abominations.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 2:28": [
     {
-      "index": 33,
+      "index": 69,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 3:2": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "Cry"
+        {
+          "text": "Cry",
+          "isWord": true
+        }
       ],
       "add": [
-        "cry"
+        {
+          "text": "cry",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:3": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "realise"
+        {
+          "text": "realise",
+          "isWord": true
+        }
       ],
       "add": [
-        "realize"
+        {
+          "text": "realize",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:7": [
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "us."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "us;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 3:8": [
     {
-      "index": 34,
+      "index": 72,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:9": [
     {
-      "index": 28,
-      "remove": [
-        "heavens"
-      ],
+      "index": 61,
+      "remove": [],
       "add": [
-        "heavens,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 84,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:14": [
     {
-      "index": 47,
+      "index": 101,
       "remove": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -503,708 +740,1177 @@
     {
       "index": 0,
       "remove": [
-        "Vengeance"
+        {
+          "text": "Vengeance",
+          "isWord": true
+        }
       ],
       "add": [
-        "vengeance"
+        {
+          "text": "vengeance",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mormon 3:18": [
     {
-      "index": 18,
+      "index": 42,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:19": [
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:20": [
     {
-      "index": 34,
+      "index": 71,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 85,
       "remove": [
-        "which",
-        "belong"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "belongs"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "remove": [
+        {
+          "text": "belong",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "belongs",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 3:21": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "Gospel"
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
       ],
       "add": [
-        "gospel"
+        {
+          "text": "gospel",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "you;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "you:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 70,
       "remove": [
-        "that",
-        "which"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": [
-        "him",
-        "whom"
+        {
+          "text": "him",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 72,
       "remove": [
-        "Jesus,"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "Jesus"
+        {
+          "text": "whom",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Mormon 3:22": [
     {
-      "index": 21,
+      "index": 42,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 4:2": [
     {
-      "index": 31,
+      "index": 64,
       "remove": [
-        "Lamanites"
+        {
+          "text": "Lamanites",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lamanttes"
+        {
+          "text": "Lamanttes",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 4:4": [
     {
-      "index": 4,
+      "index": 7,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 20,
+      "index": 42,
       "remove": [
-        "smitten:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "smitten;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "that;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "that,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 4:5": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 58,
       "remove": [
-        "stirreth"
+        {
+          "text": "stirreth",
+          "isWord": true
+        }
       ],
       "add": [
-        "stir"
+        {
+          "text": "stir",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "bloodshed.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "bloodshed."
-      ]
+      "add": []
     }
   ],
   "Mormon 4:10": [
     {
-      "index": 36,
+      "index": 74,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 4:11": [
     {
-      "index": 30,
+      "index": 62,
       "remove": [
-        "people,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "people;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 4:14": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "of"
+        {
+          "text": "of",
+          "isWord": true
+        }
       ],
       "add": [
-        "both"
+        {
+          "text": "both",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 55,
       "remove": [
-        "of"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "of",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mormon 4:17": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "numbered,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "numbered"
-      ]
+      "add": []
     }
   ],
   "Mormon 4:20": [
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "Beaz;"
+        {
+          "text": "Beaz",
+          "isWord": true
+        }
       ],
       "add": [
-        "Boaz;"
+        {
+          "text": "Boaz",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 5:1": [
     {
-      "index": 23,
+      "index": 48,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "armies:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "armies;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 5:2": [
     {
-      "index": 10,
+      "index": 22,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 39,
       "remove": [
-        "them:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 81,
       "remove": [
-        "had"
+        {
+          "text": "had",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 5:7": [
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "they"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "those"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "they"
-      ],
-      "add": [
-        "those"
-      ]
-    }
-  ],
-  "Mormon 5:8": [
-    {
-      "index": 34,
-      "remove": [
-        "I,"
-      ],
-      "add": [
-        "I"
-      ]
-    }
-  ],
-  "Mormon 5:10": [
-    {
-      "index": 14,
-      "remove": [
-        "which",
-        "hath"
-      ],
-      "add": [
-        "who",
-        "have"
-      ]
-    },
-    {
-      "index": 30,
-      "remove": [
-        "come:"
-      ],
-      "add": [
-        "come."
-      ]
-    }
-  ],
-  "Mormon 5:14": [
-    {
-      "index": 17,
-      "remove": [
-        "go:"
-      ],
-      "add": [
-        "go;"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 50,
       "remove": [
-        "the"
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "those",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 5:8": [
+    {
+      "index": 73,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Mormon 5:10": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 5:14": [
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 5:15": [
     {
-      "index": 22,
+      "index": 46,
       "remove": [
-        "Gentiles:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Gentiles;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 67,
+      "index": 144,
       "remove": [
-        "idolatry:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "idolatry."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 5:19": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "blessing,"
+        {
+          "text": "blessing",
+          "isWord": true
+        }
       ],
       "add": [
-        "blessings,"
+        {
+          "text": "blessings",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 52,
       "remove": [
-        "land.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "land."
-      ]
+      "add": []
     }
   ],
   "Mormon 5:20": [
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mormon 5:21": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 5:22": [
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "ways?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ],
       "add": [
-        "ways!"
+        {
+          "text": "!",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 6:2": [
     {
-      "index": 1,
+      "index": 3,
       "remove": [
-        "I,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 69,
+      "remove": [
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "I"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 84,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
-      ]
-    },
-    {
-      "index": 40,
-      "remove": [
-        "Camorah,"
-      ],
-      "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:4": [
     {
-      "index": 14,
+      "index": 28,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 51,
       "remove": [
-        "Camorah;"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah;"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:5": [
     {
-      "index": 25,
+      "index": 51,
       "remove": [
-        "Camorah."
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah."
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:6": [
     {
-      "index": 20,
+      "index": 40,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 98,
+      "index": 204,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:7": [
     {
-      "index": 22,
+      "index": 45,
       "remove": [
-        "a"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "a",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mormon 6:8": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "came"
+        {
+          "text": "came",
+          "isWord": true
+        }
       ],
       "add": [
-        "come"
+        {
+          "text": "come",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:10": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "midst;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "midst:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 6:11": [
     {
-      "index": 56,
+      "index": 115,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 63,
+      "index": 130,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:12": [
     {
-      "index": 10,
+      "index": 20,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:15": [
     {
-      "index": 10,
+      "index": 20,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 70,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 87,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 51,
+      "index": 108,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:16": [
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "people:",
-        "And"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "people,",
-        "and"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "remove": [
+        {
+          "text": "And",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 6:21": [
     {
-      "index": 33,
+      "index": 69,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 91,
       "remove": [
-        "works:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "works;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 60,
+      "index": 126,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:1": [
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 51,
+      "index": 109,
       "remove": [
-        "this",
-        "is"
+        {
+          "text": "this",
+          "isWord": true
+        }
       ],
       "add": [
-        "these",
-        "are"
+        {
+          "text": "these",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 111,
       "remove": [
-        "speak:"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "speak,"
+        {
+          "text": "are",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -1212,1083 +1918,1873 @@
     {
       "index": 0,
       "remove": [
-        "Know"
+        {
+          "text": "Know",
+          "isWord": true
+        }
       ],
       "add": [
-        "know"
+        {
+          "text": "know",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:6": [
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:7": [
     {
-      "index": 21,
+      "index": 43,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 56,
       "remove": [
-        "them"
+        {
+          "text": "them",
+          "isWord": true
+        }
       ],
       "add": [
-        "him"
+        {
+          "text": "him",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 59,
+      "index": 125,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:8": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "Gospel"
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
       ],
       "add": [
-        "gospel"
+        {
+          "text": "gospel",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:9": [
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 7:10": [
     {
-      "index": 74,
+      "index": 155,
       "remove": [
-        "judgement."
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment."
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:1": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "father"
+        {
+          "text": "father",
+          "isWord": true
+        }
       ],
       "add": [
-        "Father"
+        {
+          "text": "Father",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:2": [
     {
-      "index": 14,
+      "index": 28,
       "remove": [
-        "Camorah,"
+        {
+          "text": "Camorah",
+          "isWord": true
+        }
       ],
       "add": [
-        "Cumorah,"
+        {
+          "text": "Cumorah",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:3": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "I",
-        "remaineth"
+        {
+          "text": "I",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "remaineth",
+          "isWord": true
+        }
       ],
       "add": [
-        "remain"
+        {
+          "text": "remain",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:4": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "earth:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "earth,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:5": [
     {
-      "index": 31,
+      "index": 69,
       "remove": [
-        "not.",
-        "Friends"
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "not;",
-        "and",
-        "ore"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 71,
       "remove": [
-        "alone:"
+        {
+          "text": "Friends",
+          "isWord": true
+        }
       ],
       "add": [
-        "alone;"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "ore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 63,
+      "index": 87,
       "remove": [
-        "that"
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 8:7": [
     {
-      "index": 35,
+      "index": 78,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:9": [
     {
-      "index": 16,
+      "index": 35,
       "remove": [],
       "add": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:10": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 60,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:12": [
     {
-      "index": 27,
+      "index": 58,
       "remove": [
-        "Behold;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "Behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:14": [
     {
-      "index": 5,
+      "index": 10,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 66,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:15": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "God:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "God;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 58,
       "remove": [
-        "singled"
+        {
+          "text": "singled",
+          "isWord": true
+        }
       ],
       "add": [
-        "single"
+        {
+          "text": "single",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:16": [
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "light:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "light;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 61,
+      "index": 130,
       "remove": [
-        "God:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "God;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:18": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "Shew"
+        {
+          "text": "Shew",
+          "isWord": true
+        }
       ],
       "add": [
-        "shew"
+        {
+          "text": "shew",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:19": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "again:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "again;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:20": [
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "Scripture",
-        "saith:",
-        "Man"
+        {
+          "text": "Scripture",
+          "isWord": true
+        }
       ],
       "add": [
-        "scripture",
-        "says",
-        "man"
+        {
+          "text": "scripture",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 12,
+      "index": 8,
       "remove": [
-        "judge:"
+        {
+          "text": "saith",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "judge;"
+        {
+          "text": "says",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "Man",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "man",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:21": [
     {
-      "index": 23,
+      "index": 48,
       "remove": [
-        "which",
-        "is"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "are"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 50,
       "remove": [
-        "We"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "we"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 70,
+      "index": 68,
       "remove": [
-        "fire:"
+        {
+          "text": "We",
+          "isWord": true
+        }
       ],
       "add": [
-        "fire;"
+        {
+          "text": "we",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 147,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:23": [
     {
-      "index": 4,
+      "index": 10,
       "remove": [
-        "Isaiah."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "Isaiah.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 37,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 43,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 54,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:24": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 18,
+      "index": 39,
       "remove": [
-        "faith:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "faith;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:26": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "not"
+        {
+          "text": "not",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "They"
+        {
+          "text": "They",
+          "isWord": true
+        }
       ],
       "add": [
-        "they"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "it:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "it;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 8:31": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "earth:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "earth;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 90,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 44,
+      "index": 97,
       "remove": [
-        "Do"
+        {
+          "text": "Do",
+          "isWord": true
+        }
       ],
       "add": [
-        "do"
+        {
+          "text": "do",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:32": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "Come"
+        {
+          "text": "Come",
+          "isWord": true
+        }
       ],
       "add": [
-        "come"
+        {
+          "text": "come",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:33": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "wicked,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wicked"
-      ]
+      "add": []
     }
   ],
   "Mormon 8:34": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:36": [
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 8:38": [
     {
-      "index": 7,
+      "index": 17,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 77,
       "remove": [
-        "Christ?"
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "Christ?—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 82,
       "remove": [
-        "ye"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ],
       "add": [
-        "you"
+        {
+          "text": "you",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 62,
+      "index": 133,
       "remove": [
-        "world?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ],
       "add": [
-        "world."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
   "Mormon 9:3": [
     {
-      "index": 43,
+      "index": 89,
       "remove": [
-        "Being,"
+        {
+          "text": "Being",
+          "isWord": true
+        }
       ],
       "add": [
-        "being,"
+        {
+          "text": "being",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 53,
+      "index": 110,
       "remove": [
-        "your"
+        {
+          "text": "your",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 9:6": [
     {
-      "index": 27,
+      "index": 60,
       "remove": [
-        "fair,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "fair"
-      ]
+      "add": []
     }
   ],
   "Mormon 9:7": [
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 9:8": [
     {
-      "index": 5,
-      "remove": [
-        "He"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 13,
-      "remove": [
-        "Gospel"
-      ],
-      "add": [
-        "gospel"
-      ]
-    },
-    {
-      "index": 17,
-      "remove": [
-        "they",
-        "have"
-      ],
-      "add": [
-        "he",
-        "has"
-      ]
-    },
-    {
-      "index": 22,
-      "remove": [
-        "Scriptures;"
-      ],
-      "add": [
-        "scriptures;"
-      ]
-    },
-    {
-      "index": 25,
-      "remove": [
-        "they",
-        "do"
-      ],
-      "add": [
-        "he",
-        "does"
-      ]
-    }
-  ],
-  "Mormon 9:9": [
-    {
-      "index": 13,
-      "remove": [
-        "forever:"
-      ],
-      "add": [
-        "forever;"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "variableness,"
-      ],
-      "add": [
-        "variableness"
-      ]
-    }
-  ],
-  "Mormon 9:10": [
-    {
       "index": 11,
       "remove": [
-        "which"
+        {
+          "text": "He",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "he",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 28,
       "remove": [
-        "which"
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    }
-  ],
-  "Mormon 9:11": [
-    {
-      "index": 32,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 45,
-      "remove": [
-        "is."
-      ],
-      "add": [
-        "are."
-      ]
-    }
-  ],
-  "Mormon 9:12": [
-    {
-      "index": 32,
-      "remove": [
-        "Christ,"
-      ],
-      "add": [
-        "Christ"
-      ]
-    }
-  ],
-  "Mormon 9:14": [
-    {
-      "index": 4,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "filthy,"
-      ],
-      "add": [
-        "filthy"
-      ]
-    },
-    {
-      "index": 33,
-      "remove": [
-        "still:"
-      ],
-      "add": [
-        "still;"
-      ]
-    }
-  ],
-  "Mormon 9:15": [
-    {
-      "index": 13,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "spoken?"
-      ],
-      "add": [
-        "spoken?—"
-      ]
-    },
-    {
-      "index": 43,
-      "remove": [
-        "Nay;"
-      ],
-      "add": [
-        "nay;"
-      ]
-    }
-  ],
-  "Mormon 9:16": [
-    {
-      "index": 9,
-      "remove": [
-        "marvellous"
-      ],
-      "add": [
-        "marvelous"
-      ]
-    },
-    {
-      "index": 19,
-      "remove": [
-        "marvellous"
-      ],
-      "add": [
-        "marvelous"
-      ]
-    }
-  ],
-  "Mormon 9:18": [
-    {
-      "index": 15,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    }
-  ],
-  "Mormon 9:19": [
-    {
-      "index": 3,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "unchangeable"
-      ],
-      "add": [
-        "unchangable"
-      ]
-    },
-    {
-      "index": 29,
-      "remove": [
-        "He"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 31,
-      "remove": [
-        "not:"
-      ],
-      "add": [
-        "not;"
-      ]
-    }
-  ],
-  "Mormon 9:21": [
-    {
-      "index": 5,
-      "remove": [
-        "That"
-      ],
-      "add": [
-        "that"
-      ]
-    },
-    {
-      "index": 22,
-      "remove": [
-        "Christ,"
-      ],
-      "add": [
-        "Christ"
-      ]
-    },
-    {
-      "index": 27,
-      "remove": [
-        "them:"
-      ],
-      "add": [
-        "him;"
-      ]
-    }
-  ],
-  "Mormon 9:22": [
-    {
-      "index": 13,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 29,
-      "remove": [
-        "Go"
-      ],
-      "add": [
-        "go"
+        {
+          "text": "gospel",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 38,
       "remove": [
-        "Gospel"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "gospel"
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "remove": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": "do",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "does",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:9": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Mormon 9:10": [
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:11": [
+    {
+      "index": 69,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "remove": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "are",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:12": [
+    {
+      "index": 71,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Mormon 9:14": [
+    {
+      "index": 8,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 71,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 9:15": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "remove": [
+        {
+          "text": "Nay",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "nay",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:16": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:18": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:19": [
+    {
+      "index": 6,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "unchangeable",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "unchangable",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "remove": [
+        {
+          "text": "He",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 9:21": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": "them",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "him",
+          "isWord": true
+        },
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 9:22": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": "Go",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "go",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "remove": [
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "gospel",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 9:24": [
     {
-      "index": 7,
-      "remove": [
-        "believe:",
-        "In"
-      ],
-      "add": [
-        "believe,",
-        "in"
-      ]
-    },
-    {
       "index": 15,
       "remove": [
-        "Devils;"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "devils;"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 17,
       "remove": [
-        "tongues;"
+        {
+          "text": "In",
+          "isWord": true
+        }
       ],
       "add": [
-        "tongues"
-      ]
-    }
-  ],
-  "Mormon 9:26": [
-    {
-      "index": 35,
-      "remove": [
-        "Lord?"
-      ],
-      "add": [
-        "Lord?—"
+        {
+          "text": "in",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 31,
       "remove": [
-        "that"
+        {
+          "text": "Devils",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    }
-  ],
-  "Mormon 9:27": [
-    {
-      "index": 65,
-      "remove": [
-        "him."
-      ],
-      "add": [
-        "him.—"
-      ]
-    }
-  ],
-  "Mormon 9:29": [
-    {
-      "index": 59,
-      "remove": [
-        "out.—"
-      ],
-      "add": [
-        "out."
-      ]
-    }
-  ],
-  "Mormon 9:30": [
-    {
-      "index": 11,
-      "remove": [
-        "dead:"
-      ],
-      "add": [
-        "dead;"
-      ]
-    }
-  ],
-  "Mormon 9:31": [
-    {
-      "index": 13,
-      "remove": [
-        "imperfection;"
-      ],
-      "add": [
-        "imperfection:"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
+        {
+          "text": "devils",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 45,
       "remove": [
-        "that",
-        "which"
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Mormon 9:26": [
+    {
+      "index": 76,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Mormon 9:27": [
+    {
+      "index": 140,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 9:29": [
+    {
+      "index": 127,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Mormon 9:30": [
+    {
+      "index": 24,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Mormon 9:31": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "which",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Mormon 9:33": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 31,
+      "index": 65,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 38,
+      "index": 81,
       "remove": [
-        "none"
+        {
+          "text": "none",
+          "isWord": true
+        }
       ],
       "add": [
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 9:34": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "language;",
-        "and",
-        "because",
-        "that",
-        "none",
-        "other",
-        "people",
-        "knoweth",
-        "our"
+        {
+          "text": ";",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "because",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "none",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "other",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "people",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "knoweth",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "our",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "language",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Mormon 9:35": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 9:36": [
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Mormon 9:37": [
     {
-      "index": 47,
+      "index": 99,
       "remove": [
-        "Christ."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "Christ.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ]

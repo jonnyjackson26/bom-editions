@@ -1,488 +1,820 @@
 {
   "Helaman 1:1": [
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 1:2": [
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 66,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 1:3": [
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "their"
+        {
+          "text": "their",
+          "isWord": true
+        }
       ],
       "add": [
-        "the"
-      ]
-    },
-    {
-      "index": 5,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
+        {
+          "text": "the",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 10,
       "remove": [
-        "judgement"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 1:4": [
-    {
-      "index": 19,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    }
-  ],
-  "Helaman 1:5": [
-    {
-      "index": 17,
-      "remove": [
-        "a",
-        "Chief",
-        "Judge"
-      ],
-      "add": [
-        "chief",
-        "judge"
-      ]
-    }
-  ],
-  "Helaman 1:6": [
-    {
-      "index": 16,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    }
-  ],
-  "Helaman 1:9": [
-    {
-      "index": 4,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 23,
-      "remove": [
-        "angry;"
-      ],
-      "add": [
-        "angry,"
-      ]
-    },
-    {
-      "index": 34,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    },
-    {
-      "index": 46,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    }
-  ],
-  "Helaman 1:12": [
-    {
-      "index": 27,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 1:13": [
-    {
-      "index": 16,
-      "remove": [
-        "Chief",
-        "Judge"
-      ],
-      "add": [
-        "chief",
-        "judge"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 20,
       "remove": [
-        "govereor"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:4": [
+    {
+      "index": 38,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:5": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "a",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:6": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:9": [
+    {
+      "index": 8,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:12": [
+    {
+      "index": 57,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:13": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "govereor",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 117,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:14": [
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "remove": [
+        {
+          "text": "headplates",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "head-plates",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:16": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": ".",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Now",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Tubaloth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 1:21": [
+    {
+      "index": 15,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "remove": [],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 1:25": [
+    {
+      "index": 57,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:26": [
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 1:27": [
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": "centre",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "center",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:28": [
+    {
+      "index": 55,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 1:30": [
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:31": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "neither",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "either",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:33": [
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 1:34": [
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 2:1": [
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": "betweem",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "between",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 2:2": [
+    {
+      "index": 15,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 2:3": [
+    {
+      "index": 47,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 2:4": [
+    {
+      "index": 9,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
       "index": 55,
       "remove": [
-        "Judges;"
-      ],
-      "add": [
-        "judges;"
-      ]
-    }
-  ],
-  "Helaman 1:14": [
-    {
-      "index": 16,
-      "remove": [
-        "Judges,"
-      ],
-      "add": [
-        "judges,"
-      ]
-    },
-    {
-      "index": 44,
-      "remove": [
-        "headplates,"
-      ],
-      "add": [
-        "head-plates,"
-      ]
-    }
-  ],
-  "Helaman 1:16": [
-    {
-      "index": 15,
-      "remove": [
-        "Ammoron.",
-        "Now",
-        "Tubaloth"
-      ],
-      "add": [
-        "Ammoron,"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "he"
-      ],
-      "add": []
-    },
-    {
-      "index": 34,
-      "remove": [
-        "strength,"
-      ],
-      "add": [
-        "strength"
-      ]
-    }
-  ],
-  "Helaman 1:21": [
-    {
-      "index": 7,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 10,
-      "remove": [
-        "Chief",
-        "Judge,"
-      ],
-      "add": [
-        "chief",
-        "judge,"
-      ]
-    },
-    {
-      "index": 29,
-      "remove": [
-        "Coriantumr"
-      ],
-      "add": [
-        "Coriantumr,"
-      ]
-    }
-  ],
-  "Helaman 1:25": [
-    {
-      "index": 27,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 1:26": [
-    {
-      "index": 28,
-      "remove": [
-        "borders,"
-      ],
-      "add": [
-        "borders"
-      ]
-    }
-  ],
-  "Helaman 1:27": [
-    {
-      "index": 17,
-      "remove": [
-        "centre"
-      ],
-      "add": [
-        "center"
-      ]
-    }
-  ],
-  "Helaman 1:28": [
-    {
-      "index": 26,
-      "remove": [
-        "Bountiful:"
-      ],
-      "add": [
-        "Bountiful."
-      ]
-    }
-  ],
-  "Helaman 1:30": [
-    {
-      "index": 35,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 1:31": [
-    {
-      "index": 8,
-      "remove": [
-        "neither"
-      ],
-      "add": [
-        "either"
-      ]
-    }
-  ],
-  "Helaman 1:33": [
-    {
-      "index": 20,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 1:34": [
-    {
-      "index": 13,
-      "remove": [
-        "Judges."
-      ],
-      "add": [
-        "judges."
-      ]
-    }
-  ],
-  "Helaman 2:1": [
-    {
-      "index": 16,
-      "remove": [
-        "Judges,"
-      ],
-      "add": [
-        "judges,"
-      ]
-    },
-    {
-      "index": 22,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    },
-    {
-      "index": 24,
-      "remove": [
-        "betweem"
-      ],
-      "add": [
-        "between"
-      ]
-    },
-    {
-      "index": 56,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    }
-  ],
-  "Helaman 2:2": [
-    {
-      "index": 7,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 2:3": [
-    {
-      "index": 21,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 2:4": [
-    {
-      "index": 4,
-      "remove": [
-        "Gadianton,"
-      ],
-      "add": [
-        "Gadianton"
-      ]
-    },
-    {
-      "index": 26,
-      "remove": [
-        "of"
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 2:5": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 2:6": [
     {
-      "index": 11,
+      "index": 22,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 2:7": [
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 87,
       "remove": [
-        "Helaman:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Helaman;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -490,799 +822,1262 @@
     {
       "index": 0,
       "remove": [
-        "And",
-        "it",
-        "came",
-        "to",
-        "pass",
-        "that"
+        {
+          "text": "And",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "it",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "came",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "to",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "pass",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 76,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 69,
+      "index": 145,
       "remove": [
-        "Let"
+        {
+          "text": "Let",
+          "isWord": true
+        }
       ],
       "add": [
-        "let"
+        {
+          "text": "let",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 75,
+      "index": 157,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 2:9": [
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "heart,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "heart"
-      ]
+      "add": []
     }
   ],
   "Helaman 2:11": [
     {
-      "index": 58,
+      "index": 126,
       "remove": [
-        "found.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "found."
-      ]
+      "add": []
     }
   ],
   "Helaman 2:12": [
     {
-      "index": 27,
-      "remove": [
-        "Nephi."
-      ],
+      "index": 57,
+      "remove": [],
       "add": [
-        "Nephi.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 2:13": [
     {
-      "index": 27,
+      "index": 60,
       "remove": [
-        "Nephi.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Nephi."
-      ]
+      "add": []
     }
   ],
   "Helaman 2:14": [
     {
-      "index": 9,
+      "index": 18,
       "remove": [
-        "Book"
+        {
+          "text": "Book",
+          "isWord": true
+        }
       ],
       "add": [
-        "book"
+        {
+          "text": "book",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "Book"
+        {
+          "text": "Book",
+          "isWord": true
+        }
       ],
       "add": [
-        "book"
+        {
+          "text": "book",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:1": [
     {
-      "index": 17,
+      "index": 34,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:3": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "contentions"
+        {
+          "text": "contentions",
+          "isWord": true
+        }
       ],
       "add": [
-        "contention"
+        {
+          "text": "contention",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "unto"
+        {
+          "text": "unto",
+          "isWord": true
+        }
       ],
       "add": [
-        "into"
+        {
+          "text": "into",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:5": [
     {
-      "index": 30,
+      "index": 64,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:6": [
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "land,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "land"
-      ]
+      "add": []
     }
   ],
   "Helaman 3:7": [
     {
-      "index": 15,
+      "index": 31,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:8": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "southward,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "southward"
-      ]
+      "add": []
     }
   ],
   "Helaman 3:9": [
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:12": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:14": [
     {
-      "index": 33,
+      "index": 74,
       "remove": [
-        "prophecies,"
+        {
+          "text": "prophecies",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophesies,"
+        {
+          "text": "prophesies",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:16": [
     {
-      "index": 57,
+      "index": 125,
       "remove": [
-        "wild,",
-        "and"
+        {
+          "text": "wild",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 3:18": [
     {
-      "index": 10,
+      "index": 20,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:20": [
     {
-      "index": 5,
-      "remove": [
-        "judgement"
-      ],
-      "add": [
-        "judgment"
-      ]
-    },
-    {
       "index": 11,
       "remove": [
-        "yea,"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "yea"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 23,
       "remove": [
-        "judgements,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments,"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 83,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     }
   ],
   "Helaman 3:22": [
     {
-      "index": 38,
+      "index": 79,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:23": [
     {
-      "index": 16,
+      "index": 32,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 71,
       "remove": [
-        "nobler"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "nobler",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 56,
+      "index": 116,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:25": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "High",
-        "Priests"
+        {
+          "text": "High",
+          "isWord": true
+        }
       ],
       "add": [
-        "high",
-        "priests"
+        {
+          "text": "high",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 52,
       "remove": [
-        "measure.—"
+        {
+          "text": "Priests",
+          "isWord": true
+        }
       ],
       "add": [
-        "measure."
+        {
+          "text": "priests",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Helaman 3:26": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "prosper,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "prosper"
-      ]
+      "add": []
     },
     {
-      "index": 18,
+      "index": 37,
       "remove": [
-        "to"
+        {
+          "text": "to",
+          "isWord": true
+        }
       ],
       "add": [
-        "unto"
+        {
+          "text": "unto",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:28": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "Heaven"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:29": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     },
     {
-      "index": 33,
+      "index": 71,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:30": [
     {
-      "index": 3,
+      "index": 5,
       "remove": [],
       "add": [
-        "immortal"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "immortal",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 40,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:32": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "peace,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "peace"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 85,
       "remove": [
-        "year;"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "year:"
-      ]
-    },
-    {
-      "index": 41,
-      "remove": [
-        "Judges."
-      ],
-      "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:33": [
     {
-      "index": 12,
+      "index": 24,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:34": [
     {
-      "index": 15,
-      "remove": [
-        "brethren."
-      ],
+      "index": 33,
+      "remove": [],
       "add": [
-        "brethren.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 3:36": [
     {
-      "index": 24,
+      "index": 49,
       "remove": [
-        "got"
+        {
+          "text": "got",
+          "isWord": true
+        }
       ],
       "add": [
-        "gotten"
+        {
+          "text": "gotten",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 3:37": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "pass,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "pass"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 84,
       "remove": [
-        "Judges,"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 93,
       "remove": [
-        "judgement"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "judgment"
-      ]
-    },
-    {
-      "index": 45,
-      "remove": [
-        "equity;"
-      ],
-      "add": [
-        "equity:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 4:4": [
     {
-      "index": 16,
+      "index": 32,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 41,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:5": [
     {
-      "index": 25,
+      "index": 55,
       "remove": [
-        "insomuch,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "insomuch"
-      ]
+      "add": []
     },
     {
-      "index": 38,
+      "index": 81,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:7": [
     {
-      "index": 1,
+      "index": 2,
       "remove": [
-        "there"
+        {
+          "text": "there",
+          "isWord": true
+        }
       ],
       "add": [
-        "their"
+        {
+          "text": "their",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "West",
-        "Sea,"
+        {
+          "text": "West",
+          "isWord": true
+        }
       ],
       "add": [
-        "west",
-        "sea,"
+        {
+          "text": "west",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 23,
       "remove": [
-        "East;"
+        {
+          "text": "Sea",
+          "isWord": true
+        }
       ],
       "add": [
-        "east;"
+        {
+          "text": "sea",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "East",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "east",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:8": [
     {
-      "index": 49,
+      "index": 101,
       "remove": [
-        "Judges."
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:9": [
     {
-      "index": 14,
+      "index": 28,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:10": [
     {
-      "index": 16,
+      "index": 32,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 55,
       "remove": [
-        "possessions."
+        {
+          "text": "possessions",
+          "isWord": true
+        }
       ],
       "add": [
-        "possession."
+        {
+          "text": "possession",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:11": [
     {
-      "index": 40,
+      "index": 85,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:12": [
     {
-      "index": 64,
+      "index": 140,
       "remove": [
-        "steeling,"
+        {
+          "text": "steeling",
+          "isWord": true
+        }
       ],
       "add": [
-        "stealing,"
+        {
+          "text": "stealing",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 67,
+      "index": 148,
       "remove": [
-        "raising"
+        {
+          "text": "raising",
+          "isWord": true
+        }
       ],
       "add": [
-        "rising"
+        {
+          "text": "rising",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:13": [
     {
-      "index": 28,
+      "index": 61,
       "remove": [
-        "afflicted,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "afflicted"
-      ]
+      "add": []
     }
   ],
   "Helaman 4:14": [
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:17": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "Judges."
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:18": [
     {
-      "index": 16,
+      "index": 32,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:19": [
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:23": [
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 4:25": [
     {
-      "index": 25,
+      "index": 52,
       "remove": [
-        "wickedness;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "wickedness:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 5:2": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 51,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:4": [
     {
-      "index": 48,
+      "index": 100,
       "remove": [
-        "days:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "days;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -1290,454 +2085,830 @@
     {
       "index": 0,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "words:",
-        "Behold,"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "words,",
-        "behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 58,
       "remove": [
-        "which"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 66,
+      "index": 84,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 142,
       "remove": [],
       "add": [
-        "may"
+        {
+          "text": "may",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 5:8": [
     {
-      "index": 42,
+      "index": 89,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:9": [
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:10": [
     {
-      "index": 14,
+      "index": 31,
       "remove": [
-        "Ammonihah:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Ammonihah;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 44,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "people;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "people:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 5:11": [
     {
-      "index": 41,
+      "index": 86,
       "remove": [
-        "Redemer,"
+        {
+          "text": "Redemer",
+          "isWord": true
+        }
       ],
       "add": [
-        "Redeemer,"
+        {
+          "text": "Redeemer",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 101,
       "remove": [
-        "souls.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "souls."
-      ]
+      "add": []
     }
   ],
   "Helaman 5:12": [
     {
-      "index": 15,
+      "index": 34,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 69,
       "remove": [
-        "Devil"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 95,
+      "index": 206,
       "remove": [
-        "buildeth,"
+        {
+          "text": "buildeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "build,"
+        {
+          "text": "build",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:16": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:17": [
     {
-      "index": 21,
+      "index": 43,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:18": [
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "authority:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "authority,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 66,
       "remove": [
-        "speak;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "speak:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 5:19": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:23": [
     {
-      "index": 20,
+      "index": 41,
       "remove": [
-        "durst"
+        {
+          "text": "durst",
+          "isWord": true
+        }
       ],
       "add": [
-        "dnrst"
+        {
+          "text": "dnrst",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
-      "remove": [
-        "them"
-      ],
+      "index": 54,
+      "remove": [],
       "add": [
-        "them,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 5:26": [
     {
-      "index": 18,
-      "remove": [
-        "saying:",
-        "Fear"
-      ],
-      "add": [
-        "saying,",
-        "fear"
-      ]
-    },
-    {
-      "index": 27,
-      "remove": [
-        "hath",
-        "shewn"
-      ],
-      "add": [
-        "has",
-        "shew"
-      ]
-    },
-    {
       "index": 39,
       "remove": [
-        "unto"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "nnto"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "Fear",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "fear",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": "shewn",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "shew",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "remove": [
+        {
+          "text": "unto",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "nnto",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:27": [
     {
-      "index": 48,
+      "index": 106,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:29": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "Repent"
+        {
+          "text": "Repent",
+          "isWord": true
+        }
       ],
       "add": [
-        "repent"
+        {
+          "text": "repent",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 69,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "whom"
+        {
+          "text": "whom",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:32": [
     {
-      "index": 6,
+      "index": 15,
       "remove": [
-        "saying:",
-        "Repent"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,",
-        "repent"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 17,
       "remove": [
-        "Heaven"
+        {
+          "text": "Repent",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "repent",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:36": [
     {
-      "index": 34,
+      "index": 73,
       "remove": [
-        "face"
+        {
+          "text": "face",
+          "isWord": true
+        }
       ],
       "add": [
-        "faces"
+        {
+          "text": "faces",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 100,
       "remove": [
-        "Heaven;"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven;"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 64,
+      "index": 135,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "whom"
+        {
+          "text": "whom",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:38": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:39": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "They"
+        {
+          "text": "They",
+          "isWord": true
+        }
       ],
       "add": [
-        "they"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:40": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "What"
+        {
+          "text": "What",
+          "isWord": true
+        }
       ],
       "add": [
-        "what"
+        {
+          "text": "what",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:41": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "You"
+        {
+          "text": "You",
+          "isWord": true
+        }
       ],
       "add": [
-        "you"
+        {
+          "text": "you",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 46,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 68,
       "remove": [
-        "by"
+        {
+          "text": "by",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 34,
+      "index": 75,
       "remove": [
-        "when",
-        "ye",
-        "shall",
-        "do",
-        "this,",
-        "the",
-        "cloud",
-        "of",
-        "darkness"
+        {
+          "text": "when",
+          "isWord": true
+        }
       ],
       "add": [
-        "then",
-        "it"
+        {
+          "text": "then",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 77,
+      "remove": [
+        {
+          "text": "ye",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "it",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "do",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "this",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "cloud",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "darkness",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "shall",
+          "isWord": true
+        }
+      ],
+      "add": []
     }
   ],
   "Helaman 5:42": [
     {
-      "index": 17,
+      "index": 34,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:44": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:45": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -1745,1148 +2916,1875 @@
     {
       "index": 0,
       "remove": [
-        "Peace,"
+        {
+          "text": "Peace",
+          "isWord": true
+        }
       ],
       "add": [
-        "peace,"
+        {
+          "text": "peace",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 44,
       "remove": [
-        "world."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
-      "add": [
-        "world"
-      ]
+      "add": []
     }
   ],
   "Helaman 5:48": [
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "them.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "them."
-      ]
+      "add": []
     }
   ],
   "Helaman 5:49": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 5:50": [
     {
-      "index": 50,
+      "index": 105,
       "remove": [
-        "evidencess"
+        {
+          "text": "evidencess",
+          "isWord": true
+        }
       ],
       "add": [
-        "evidences,"
+        {
+          "text": "evidences",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 6:1": [
     {
-      "index": 17,
+      "index": 34,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:2": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 67,
       "remove": [
-        "prophecying"
+        {
+          "text": "prophecying",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophesying"
+        {
+          "text": "prophesying",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:6": [
     {
-      "index": 15,
+      "index": 31,
       "remove": [
-        "northward;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "northward:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 6:8": [
     {
-      "index": 34,
+      "index": 71,
       "remove": [
-        "for"
+        {
+          "text": "for",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 6:11": [
     {
-      "index": 21,
+      "index": 46,
       "remove": [
-        "kind;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "kind:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 52,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 61,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:15": [
     {
-      "index": 17,
+      "index": 34,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 98,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:17": [
     {
-      "index": 73,
+      "index": 160,
       "remove": [
-        "gain.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "gain."
-      ]
+      "add": []
     }
   ],
   "Helaman 6:18": [
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:19": [
     {
-      "index": 4,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
       "index": 8,
       "remove": [
-        "Chief",
-        "Judge"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 17,
+      "index": 16,
       "remove": [
-        "judgement"
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": "judgement",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:20": [
     {
-      "index": 27,
+      "index": 56,
       "remove": [
-        "whatsoever",
-        "was"
+        {
+          "text": "whatsoever",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "was",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 6:21": [
     {
-      "index": 49,
+      "index": 105,
       "remove": [
-        "placed",
-        "in,"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "in",
+          "isWord": true
+        }
       ],
-      "add": [
-        "placed,"
-      ]
+      "add": []
     }
   ],
   "Helaman 6:23": [
     {
-      "index": 23,
+      "index": 52,
       "remove": [
-        "country,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "country"
-      ]
+      "add": []
     }
   ],
   "Helaman 6:24": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:28": [
     {
-      "index": 27,
+      "index": 55,
       "remove": [
-        "Heaven."
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven."
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 70,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 80,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 98,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:29": [
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:30": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:32": [
     {
-      "index": 42,
+      "index": 86,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:37": [
     {
-      "index": 15,
+      "index": 31,
       "remove": [
-        "Gadianton;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "Gadianton:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 6:38": [
     {
-      "index": 5,
+      "index": 9,
       "remove": [],
       "add": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 6:39": [
     {
-      "index": 34,
+      "index": 74,
       "remove": [],
       "add": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 6:41": [
     {
-      "index": 18,
+      "index": 36,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:1": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "Helaman,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Helaman"
-      ]
+      "add": []
     }
   ],
   "Helaman 7:2": [
     {
-      "index": 8,
+      "index": 16,
       "remove": [
-        "which",
-        "was"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "were"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:4": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 87,
       "remove": [
-        "him;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "him:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 7:5": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "bacause"
+        {
+          "text": "bacause",
+          "isWord": true
+        }
       ],
       "add": [
-        "because"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:11": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 77,
       "remove": [
-        "seen;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "seen,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 7:12": [
     {
-      "index": 11,
+      "index": 22,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:13": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:15": [
     {
-      "index": 36,
+      "index": 80,
       "remove": [
-        "Devil",
-        "hath"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil",
-        "has"
+        {
+          "text": "devil",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:16": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "ye"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ],
       "add": [
-        "you"
+        {
+          "text": "you",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "art"
+        {
+          "text": "art",
+          "isWord": true
+        }
       ],
       "add": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 54,
       "remove": [
-        "wo?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ],
       "add": [
-        "wo;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 7:17": [
     {
-      "index": 19,
+      "index": 44,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:20": [
     {
-      "index": 14,
+      "index": 28,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:21": [
     {
-      "index": 53,
+      "index": 115,
       "remove": [
-        "neighbor,"
+        {
+          "text": "neighbor",
+          "isWord": true
+        }
       ],
       "add": [
-        "neighbour,"
+        {
+          "text": "neighbour",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:22": [
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "citties"
+        {
+          "text": "citties",
+          "isWord": true
+        }
       ],
       "add": [
-        "cities"
+        {
+          "text": "cities",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 52,
+      "index": 111,
       "remove": [
-        "them:",
-        "For"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them,",
-        "for"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 65,
+      "index": 113,
       "remove": [
-        "hath"
+        {
+          "text": "For",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "for",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:23": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "Lord:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "repenteth"
+        {
+          "text": "repenteth",
+          "isWord": true
+        }
       ],
       "add": [
-        "repent"
+        {
+          "text": "repent",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:25": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:26": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 7:29": [
     {
-      "index": 37,
+      "index": 79,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:1": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "Judges,",
-        "which"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,",
-        "who"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 66,
+      "index": 42,
       "remove": [
-        "hath"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:2": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "thou"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "thou",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Helaman 8:3": [
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:4": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:5": [
     {
-      "index": 8,
+      "index": 18,
       "remove": [
-        "Why"
+        {
+          "text": "Why",
+          "isWord": true
+        }
       ],
       "add": [
-        "why"
+        {
+          "text": "why",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:7": [
     {
-      "index": 26,
+      "index": 54,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 63,
       "remove": [
-        "Let"
+        {
+          "text": "Let",
+          "isWord": true
+        }
       ],
       "add": [
-        "let"
+        {
+          "text": "let",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 53,
+      "index": 112,
       "remove": [
-        "repent;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "repent:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 8:8": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 42,
       "remove": [
-        "befal"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "befall"
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "remove": [
+        {
+          "text": "befal",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "befall",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:9": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "not"
+        {
+          "text": "not",
+          "isWord": true
+        }
       ],
       "add": [
-        "no"
+        {
+          "text": "no",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 18,
       "remove": [],
       "add": [
-        "things."
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "things",
+          "isWord": true
+        },
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "things."
+        {
+          "text": "things",
+          "isWord": true
+        },
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 8:10": [
     {
-      "index": 8,
+      "index": 16,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 86,
       "remove": [
-        "favor"
+        {
+          "text": "favor",
+          "isWord": true
+        }
       ],
       "add": [
-        "favour"
+        {
+          "text": "favour",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:11": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "saying:",
-        "Behold"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,",
-        "behold"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 45,
+      "index": 22,
       "remove": [
-        "which"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:12": [
     {
-      "index": 34,
+      "index": 71,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:13": [
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 71,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:14": [
     {
-      "index": 12,
+      "index": 28,
       "remove": [
-        "come?—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "come?"
-      ]
+      "add": []
     },
     {
-      "index": 31,
+      "index": 67,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:15": [
     {
-      "index": 20,
+      "index": 41,
       "remove": [
-        "Son"
+        {
+          "text": "Son",
+          "isWord": true
+        }
       ],
       "add": [
-        "son"
+        {
+          "text": "son",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "eternal.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "eternal."
-      ]
+      "add": []
     }
   ],
   "Helaman 8:16": [
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "day"
+        {
+          "text": "day",
+          "isWord": true
+        }
       ],
       "add": [
-        "days"
+        {
+          "text": "days",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:17": [
     {
-      "index": 12,
+      "index": 28,
       "remove": [
-        "gladness,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "gladness"
-      ]
+      "add": []
     }
   ],
   "Helaman 8:18": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:19": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "Zenas"
+        {
+          "text": "Zenas",
+          "isWord": true
+        }
       ],
       "add": [
-        "Zenos"
+        {
+          "text": "Zenos",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:20": [
     {
-      "index": 18,
+      "index": 40,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 33,
+      "index": 71,
       "remove": [
-        "destroyed,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "destroyed"
-      ]
+      "add": []
     }
   ],
   "Helaman 8:22": [
     {
-      "index": 49,
+      "index": 106,
       "remove": [
-        "his"
+        {
+          "text": "his",
+          "isWord": true
+        }
       ],
       "add": [
-        "this"
+        {
+          "text": "this",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:24": [
     {
-      "index": 14,
+      "index": 31,
       "remove": [
-        "lie."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "lie,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 100,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:25": [
     {
-      "index": 24,
+      "index": 52,
       "remove": [
-        "treusures"
+        {
+          "text": "treusures",
+          "isWord": true
+        }
       ],
       "add": [
-        "treasures"
+        {
+          "text": "treasures",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 107,
       "remove": [
-        "judgement;"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment;"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:27": [
     {
-      "index": 12,
+      "index": 27,
       "remove": [
-        "in"
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 15,
+      "index": 33,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 22,
+      "index": 48,
       "remove": [
-        "Judge"
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "judge"
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 45,
+      "index": 97,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 8:28": [
     {
-      "index": 12,
+      "index": 27,
       "remove": [
-        "Gadianton,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Gadianton"
-      ]
+      "add": []
     },
     {
-      "index": 17,
+      "index": 37,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:1": [
     {
-      "index": 15,
+      "index": 31,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 22,
+      "index": 45,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 59,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -2894,359 +4792,696 @@
     {
       "index": 0,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "prophesy"
+        {
+          "text": "prophesy",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophecy"
+        {
+          "text": "prophecy",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 108,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 54,
+      "index": 116,
       "remove": [
-        "Chief",
-        "Judge"
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge"
+        {
+          "text": "chief",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 72,
+      "index": 118,
       "remove": [
-        "hath"
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 74,
+      "index": 154,
       "remove": [
-        "is"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 158,
+      "remove": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:3": [
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 42,
       "remove": [
-        "Chief",
-        "Judge"
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge"
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:4": [
     {
-      "index": 31,
+      "index": 66,
       "remove": [
-        "Chief",
-        "Judge;"
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge;"
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:5": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:6": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "Judge"
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "judge"
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "murdered:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "murdered;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "brother,"
+        {
+          "text": "brother",
+          "isWord": true
+        }
       ],
       "add": [
-        "brotber,"
+        {
+          "text": "brotber",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:7": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "judgement"
+        {
+          "text": "judgement seat",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment"
-      ]
-    },
-    {
-      "index": 19,
-      "remove": [
-        "astonishment,"
-      ],
-      "add": [
-        "astonishment"
-      ]
-    },
-    {
-      "index": 25,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 9:8": [
-    {
-      "index": 10,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "These"
-      ],
-      "add": [
-        "these"
-      ]
-    },
-    {
-      "index": 28,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "Judge,"
-      ],
-      "add": [
-        "judge,"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    }
-  ],
-  "Helaman 9:9": [
-    {
-      "index": 28,
-      "remove": [
-        "Judge"
-      ],
-      "add": [
-        "judge"
+        {
+          "text": "judgment seat",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 39,
       "remove": [
-        "was"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 51,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 9:8": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "remove": [
+        {
+          "text": "These",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "these",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 9:9": [
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:10": [
     {
-      "index": 26,
+      "index": 54,
       "remove": [
-        "and",
-        "Chief",
-        "Judge,",
-        "which"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge,",
-        "who"
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:11": [
     {
-      "index": 5,
+      "index": 10,
       "remove": [
-        "Judges",
-        "which"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges",
-        "who"
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:12": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "Where"
+        {
+          "text": "Where",
+          "isWord": true
+        }
       ],
       "add": [
-        "where"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "which",
-        "was",
-        "sent"
-      ],
-      "add": [
-        "who",
-        "were",
-        "seut"
-      ]
-    },
-    {
-      "index": 23,
-      "remove": [
-        "Chief",
-        "Judge"
-      ],
-      "add": [
-        "chief",
-        "judge"
+        {
+          "text": "where",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 34,
       "remove": [
-        "Concerning"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "concerning"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 36,
       "remove": [
-        "which"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "whom"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 49,
+      "index": 38,
       "remove": [
-        "five,",
-        "which"
+        {
+          "text": "sent",
+          "isWord": true
+        }
       ],
       "add": [
-        "five",
-        "who"
+        {
+          "text": "seut",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "remove": [
+        {
+          "text": "Concerning",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "concerning",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "whom",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 107,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:13": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "sent;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "sent:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 63,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -3254,210 +5489,344 @@
     {
       "index": 0,
       "remove": [
-        "We"
+        {
+          "text": "We",
+          "isWord": true
+        }
       ],
       "add": [
-        "we"
+        {
+          "text": "we",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 18,
       "remove": [
-        "judgement,"
+        {
+          "text": "judgement",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgment,"
+        {
+          "text": "judgment",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:15": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:16": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "Behold"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "Judge,"
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "judge,"
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:17": [
     {
-      "index": 24,
+      "index": 49,
       "remove": [
-        "Judge."
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "judge."
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:18": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:19": [
     {
-      "index": 35,
+      "index": 75,
       "remove": [
-        "death;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "death:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 9:20": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "Thou"
+        {
+          "text": "Thou",
+          "isWord": true
+        }
       ],
       "add": [
-        "thou"
+        {
+          "text": "thou",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 52,
       "remove": [
-        "Behold"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 83,
       "remove": [
-        "wilt"
+        {
+          "text": "wilt",
+          "isWord": true
+        }
       ],
       "add": [
-        "will"
+        {
+          "text": "will",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:21": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "uncircumsised"
+        {
+          "text": "uncircumsised",
+          "isWord": true
+        }
       ],
       "add": [
-        "uncircumcised"
+        {
+          "text": "uncircumcised",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 36,
       "remove": [
-        "stiff-necked"
+        {
+          "text": "stiff-necked",
+          "isWord": true
+        }
       ],
       "add": [
-        "stifnecked"
+        {
+          "text": "stifnecked",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 81,
       "remove": [
-        "ways"
+        {
+          "text": "ways",
+          "isWord": true
+        }
       ],
       "add": [
-        "way"
+        {
+          "text": "way",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:23": [
     {
-      "index": 0,
+      "index": 1,
       "remove": [
-        "Behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "Behold"
+        {
+          "text": "chief",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 37,
       "remove": [
-        "Chief",
-        "Judge."
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge."
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 124,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:26": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -3465,232 +5834,378 @@
     {
       "index": 0,
       "remove": [
-        "Hath"
+        {
+          "text": "Hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "prophesy"
+        {
+          "text": "prophesy",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophecy"
+        {
+          "text": "prophecy",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 53,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:28": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "Nay."
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "nay."
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:29": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Have"
+        {
+          "text": "Have",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:32": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "From"
+        {
+          "text": "From",
+          "isWord": true
+        }
       ],
       "add": [
-        "from"
+        {
+          "text": "from",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:34": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "Because"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "because"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:35": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:36": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:37": [
     {
-      "index": 27,
+      "index": 59,
       "remove": [
-        "true:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "true;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 90,
       "remove": [
-        "words,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "words"
-      ]
+      "add": []
     }
   ],
   "Helaman 9:39": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:40": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 9:41": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 60,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 44,
+      "index": 96,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 54,
+      "index": 116,
       "remove": [
-        "Chief",
-        "Judge."
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge."
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "remove": [
+        {
+          "text": "Judge",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judge",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 10:3": [
     {
-      "index": 59,
+      "index": 127,
       "remove": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -3698,1132 +6213,1861 @@
     {
       "index": 0,
       "remove": [
-        "Blessed"
+        {
+          "text": "Blessed",
+          "isWord": true
+        }
       ],
       "add": [
-        "blessed"
+        {
+          "text": "blessed",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 23,
       "remove": [
-        "done:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "done;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 99,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 10:6": [
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "angles,"
+        {
+          "text": "angles",
+          "isWord": true
+        }
       ],
       "add": [
-        "angels,"
+        {
+          "text": "angels",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 10:8": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "It"
+        {
+          "text": "It",
+          "isWord": true
+        }
       ],
       "add": [
-        "it"
+        {
+          "text": "it",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 33,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 10:9": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "Be"
+        {
+          "text": "Be",
+          "isWord": true
+        }
       ],
       "add": [
-        "be"
+        {
+          "text": "be",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 10:10": [
     {
-      "index": 6,
+      "index": 14,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 37,
       "remove": [
-        "pass.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "pass."
-      ]
+      "add": []
     }
   ],
   "Helaman 10:11": [
     {
-      "index": 24,
+      "index": 52,
       "remove": [
-        "Almighty:",
-        "Except"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Almighty,",
-        "except"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": "Except",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "except",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 10:12": [
     {
-      "index": 34,
+      "index": 72,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 10:13": [
     {
-      "index": 18,
+      "index": 37,
       "remove": [
-        "Chief",
-        "Judge,"
+        {
+          "text": "Chief",
+          "isWord": true
+        }
       ],
       "add": [
-        "chief",
-        "judge,"
+        {
+          "text": "chief",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 39,
       "remove": [
-        "Lord;"
+        {
+          "text": "Judge",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lord:"
+        {
+          "text": "judge",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 10:14": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "saying:",
-        "Except"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,",
-        "except"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 26,
       "remove": [
-        "Lord:",
-        "Ye"
+        {
+          "text": "Except",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lord,",
-        "ye"
-      ]
-    },
-    {
-      "index": 25,
-      "remove": [
-        "destruction.—"
-      ],
-      "add": [
-        "destruction."
-      ]
-    }
-  ],
-  "Helaman 10:16": [
-    {
-      "index": 19,
-      "remove": [
-        "prison:"
-      ],
-      "add": [
-        "prison,"
-      ]
-    }
-  ],
-  "Helaman 10:19": [
-    {
-      "index": 13,
-      "remove": [
-        "Judges"
-      ],
-      "add": [
-        "judges"
-      ]
-    }
-  ],
-  "Helaman 11:1": [
-    {
-      "index": 17,
-      "remove": [
-        "Judges,"
-      ],
-      "add": [
-        "judges,"
-      ]
-    },
-    {
-      "index": 31,
-      "remove": [
-        "land,"
-      ],
-      "add": [
-        "land"
-      ]
-    }
-  ],
-  "Helaman 11:2": [
-    {
-      "index": 8,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 11:3": [
-    {
-      "index": 15,
-      "remove": [
-        "saying:"
-      ],
-      "add": [
-        "saying,"
-      ]
-    }
-  ],
-  "Helaman 11:5": [
-    {
-      "index": 10,
-      "remove": [
-        "Nephi.—"
-      ],
-      "add": [
-        "Nephi."
-      ]
-    }
-  ],
-  "Helaman 11:6": [
-    {
-      "index": 18,
-      "remove": [
-        "smitten,"
-      ],
-      "add": [
-        "smitten"
-      ]
-    }
-  ],
-  "Helaman 11:8": [
-    {
-      "index": 8,
-      "remove": [
-        "Chief",
-        "Judges"
-      ],
-      "add": [
-        "chief",
-        "judges"
-      ]
-    },
-    {
-      "index": 19,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    }
-  ],
-  "Helaman 11:9": [
-    {
-      "index": 7,
-      "remove": [
-        "Judges"
-      ],
-      "add": [
-        "judges"
-      ]
-    },
-    {
-      "index": 19,
-      "remove": [
-        "desired.—"
-      ],
-      "add": [
-        "desired."
-      ]
-    },
-    {
-      "index": 46,
-      "remove": [
-        "saying:"
-      ],
-      "add": [
-        "saying,"
-      ]
-    }
-  ],
-  "Helaman 11:11": [
-    {
-      "index": 7,
-      "remove": [
-        "humility,"
-      ],
-      "add": [
-        "hnmility,"
-      ]
-    }
-  ],
-  "Helaman 11:14": [
-    {
-      "index": 11,
-      "remove": [
-        "Let"
-      ],
-      "add": [
-        "let"
-      ]
-    },
-    {
-      "index": 37,
-      "remove": [
-        "words:"
-      ],
-      "add": [
-        "words,"
+        {
+          "text": "except",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 40,
       "remove": [
-        "saidst,",
-        "That"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "said,",
-        "that"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": "Ye",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "ye",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 10:16": [
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 10:19": [
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 11:1": [
+    {
+      "index": 34,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 11:2": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 11:3": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 11:5": [
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 11:6": [
+    {
+      "index": 38,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 11:8": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "Chief",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "chief",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 11:9": [
+    {
+      "index": 14,
+      "remove": [
+        {
+          "text": "Judges",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judges",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 99,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 11:11": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "humility",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "hnmility",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 11:14": [
+    {
+      "index": 24,
+      "remove": [
+        {
+          "text": "Let",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "let",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "remove": [
+        {
+          "text": "saidst",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:18": [
     {
-      "index": 8,
+      "index": 19,
       "remove": [
-        "God;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 11:21": [
     {
-      "index": 63,
+      "index": 133,
       "remove": [
-        "land.",
-        "And"
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "land,",
-        "and"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "remove": [
+        {
+          "text": "And",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:22": [
     {
-      "index": 9,
+      "index": 18,
       "remove": [
-        "eighth"
+        {
+          "text": "eighth",
+          "isWord": true
+        }
       ],
       "add": [
-        "eighty"
+        {
+          "text": "eighty",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:23": [
     {
-      "index": 27,
+      "index": 58,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 92,
       "remove": [
-        "unto"
+        {
+          "text": "unto",
+          "isWord": true
+        }
       ],
       "add": [
-        "uuto"
+        {
+          "text": "uuto",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:24": [
     {
-      "index": 15,
+      "index": 30,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 70,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 119,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:28": [
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "mountains,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "mountains"
-      ]
+      "add": []
     }
   ],
   "Helaman 11:29": [
     {
-      "index": 31,
+      "index": 65,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:31": [
     {
-      "index": 31,
+      "index": 65,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 79,
       "remove": [
-        "wilderness.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wilderness."
-      ]
+      "add": []
     }
   ],
   "Helaman 11:34": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "iniquity,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "iniquity"
-      ]
+      "add": []
     }
   ],
   "Helaman 11:35": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "Judges."
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 11:36": [
     {
-      "index": 29,
+      "index": 63,
       "remove": [
-        "iniquity.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "iniquity."
-      ]
+      "add": []
     }
   ],
   "Helaman 12:2": [
     {
-      "index": 42,
-      "remove": [
-        "kind"
-      ],
+      "index": 93,
+      "remove": [],
       "add": [
-        "kind,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 12:10": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "voice,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "voice"
-      ]
+      "add": []
     },
     {
-      "index": 10,
-      "remove": [
-        "up"
-      ],
+      "index": 22,
+      "remove": [],
       "add": [
-        "up,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 12:11": [
     {
-      "index": 6,
+      "index": 14,
       "remove": [
-        "voice,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "voice"
-      ]
+      "add": []
     }
   ],
   "Helaman 12:13": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "say"
+        {
+          "text": "say",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 8,
+      "index": 18,
       "remove": [
-        "Move,",
-        "and"
+        {
+          "text": "Move",
+          "isWord": true
+        }
       ],
       "add": [
-        "move,"
-      ]
-    }
-  ],
-  "Helaman 12:14": [
-    {
-      "index": 3,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "say"
-      ]
-    },
-    {
-      "index": 7,
-      "remove": [
-        "Thou"
-      ],
-      "add": [
-        "thou"
+        {
+          "text": "move",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 20,
       "remove": [
-        "and"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 12:14": [
+    {
+      "index": 7,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "say",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "Thou",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "thou",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 12:15": [
     {
-      "index": 25,
+      "index": 56,
       "remove": [
-        "so:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "so;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 12:16": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "say"
+        {
+          "text": "say",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "Be"
+        {
+          "text": "Be",
+          "isWord": true
+        }
       ],
       "add": [
-        "be"
+        {
+          "text": "be",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 17,
+      "index": 38,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 12:17": [
     {
-      "index": 3,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "say"
-      ]
-    },
-    {
       "index": 7,
       "remove": [
-        "Be"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "be"
+        {
+          "text": "say",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 16,
       "remove": [
-        "and"
+        {
+          "text": "Be",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "be",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "remove": [
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 12:18": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "hideth"
+        {
+          "text": "hideth",
+          "isWord": true
+        }
       ],
       "add": [
-        "hide"
+        {
+          "text": "hide",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 17,
+      "index": 37,
       "remove": [
-        "Let"
+        {
+          "text": "Let",
+          "isWord": true
+        }
       ],
       "add": [
-        "let"
+        {
+          "text": "let",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 58,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 79,
       "remove": [
-        "accursed;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "accursed:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 12:19": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Be"
+        {
+          "text": "Be",
+          "isWord": true
+        }
       ],
       "add": [
-        "be"
+        {
+          "text": "be",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "forever."
+        {
+          "text": "forever",
+          "isWord": true
+        }
       ],
       "add": [
-        "for",
-        "ever."
+        {
+          "text": "for ever",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 12:20": [
     {
-      "index": 1,
+      "index": 3,
       "remove": [
-        "behold,"
-      ],
-      "add": [
-        "behold"
-      ]
-    },
-    {
-      "index": 10,
-      "remove": [
-        "Because"
-      ],
-      "add": [
-        "because"
-      ]
-    },
-    {
-      "index": 18,
-      "remove": [
-        "forever,",
-        "and"
-      ],
-      "add": [
-        "for",
-        "ever,"
-      ]
-    }
-  ],
-  "Helaman 12:21": [
-    {
-      "index": 6,
-      "remove": [
-        "Because"
-      ],
-      "add": [
-        "because"
-      ]
-    },
-    {
-      "index": 18,
-      "remove": [
-        "and"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 26,
-      "remove": [
-        "so.—"
-      ],
-      "add": [
-        "so."
-      ]
-    }
-  ],
-  "Helaman 12:22": [
-    {
-      "index": 3,
-      "remove": [],
-      "add": [
-        "him",
-        "to"
-      ]
-    }
-  ],
-  "Helaman 12:23": [
-    {
-      "index": 6,
-      "remove": [
-        "repent,"
-      ],
-      "add": [
-        "repent"
-      ]
-    }
-  ],
-  "Helaman 12:25": [
-    {
       "index": 22,
       "remove": [
-        "which"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 38,
       "remove": [
-        "which"
+        {
+          "text": "forever",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 12:26": [
-    {
-      "index": 1,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "saith,",
-        "They"
-      ],
-      "add": [
-        "say,",
-        "they"
+        {
+          "text": "for",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "ever",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 40,
       "remove": [
-        "damnation.—"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
-      "add": [
-        "damnation."
-      ]
+      "add": []
     }
   ],
-  "Helaman 13:2": [
+  "Helaman 12:21": [
     {
-      "index": 37,
+      "index": 13,
       "remove": [
-        "many-day"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "many",
-        "days,"
-      ]
-    }
-  ],
-  "Helaman 13:3": [
-    {
-      "index": 16,
-      "remove": [
-        "prophesy"
-      ],
-      "add": [
-        "proyhesy"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "in"
-      ],
-      "add": [
-        "into"
-      ]
-    }
-  ],
-  "Helaman 13:5": [
-    {
-      "index": 5,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "Lord,"
-      ],
-      "add": [
-        "Lord"
-      ]
-    }
-  ],
-  "Helaman 13:6": [
-    {
-      "index": 30,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 13:8": [
-    {
-      "index": 5,
-      "remove": [
-        "Because"
-      ],
-      "add": [
-        "because"
-      ]
-    }
-  ],
-  "Helaman 13:9": [
-    {
-      "index": 24,
-      "remove": [
-        "sword,"
-      ],
-      "add": [
-        "sword"
-      ]
-    }
-  ],
-  "Helaman 13:10": [
-    {
-      "index": 18,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 39,
       "remove": [
-        "Lord;"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 57,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 12:22": [
+    {
+      "index": 5,
+      "remove": [],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "him",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "to",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 12:23": [
+    {
+      "index": 14,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 12:25": [
+    {
+      "index": 46,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lord:"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 49,
+      "index": 60,
       "remove": [
-        "destruction."
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "destruction.—"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 12:26": [
+    {
+      "index": 3,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "say",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "They",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 13:2": [
+    {
+      "index": 79,
+      "remove": [
+        {
+          "text": "many-day",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "many",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "days",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 13:3": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "prophesy",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "proyhesy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "into",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 13:5": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 13:6": [
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 13:8": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "Because",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "because",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 13:9": [
+    {
+      "index": 52,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Helaman 13:10": [
+    {
+      "index": 39,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 13:11": [
     {
-      "index": 17,
-      "remove": [
-        "anger"
-      ],
+      "index": 36,
+      "remove": [],
       "add": [
-        "anger,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "Blessed"
+        {
+          "text": "Blessed",
+          "isWord": true
+        }
       ],
       "add": [
-        "blessed"
+        {
+          "text": "blessed",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:12": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "they",
-        "which"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "those",
-        "who"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 32,
       "remove": [
-        "For"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "for"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 62,
       "remove": [
-        "many,"
+        {
+          "text": "For",
+          "isWord": true
+        }
       ],
       "add": [
-        "many."
+        {
+          "text": "for",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 83,
       "remove": [
-        "city,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "city"
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
+    },
+    {
+      "index": 103,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Helaman 13:13": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:14": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "sake,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "sake"
-      ]
+      "add": []
     },
     {
-      "index": 52,
+      "index": 114,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:15": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:16": [
     {
-      "index": 16,
+      "index": 34,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:17": [
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "which",
-        "is"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "are"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:18": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "pass,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "pass"
-      ]
+      "add": []
     },
     {
-      "index": 53,
+      "index": 115,
       "remove": [
-        "Lord:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -4831,837 +8075,1315 @@
     {
       "index": 0,
       "remove": [
-        "For"
+        {
+          "text": "For",
+          "isWord": true
+        }
       ],
       "add": [
-        "for"
+        {
+          "text": "for",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "will,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "hideth",
+          "isWord": true
+        }
       ],
       "add": [
-        "will"
+        {
+          "text": "hide",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 99,
       "remove": [
-        "hideth"
+        {
+          "text": "treasure",
+          "isWord": true
+        }
       ],
       "add": [
-        "hide"
-      ]
-    },
-    {
-      "index": 47,
-      "remove": [
-        "treasure"
-      ],
-      "add": [
-        "treasures"
+        {
+          "text": "treasures",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:21": [
     {
-      "index": 49,
+      "index": 106,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:22": [
     {
-      "index": 65,
+      "index": 144,
       "remove": [
-        "iniquities:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "iniquities."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 13:24": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "arrriven,"
+        {
+          "text": "arrriven",
+          "isWord": true
+        }
       ],
       "add": [
-        "arriven,"
+        {
+          "text": "arriven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 75,
       "remove": [
-        "do"
+        {
+          "text": "do",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 13:25": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "If"
+        {
+          "text": "If",
+          "isWord": true
+        }
       ],
       "add": [
-        "if"
+        {
+          "text": "if",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:26": [
     {
-      "index": 70,
+      "index": 151,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:27": [
     {
-      "index": 12,
+      "index": 27,
       "remove": [
-        "Do"
+        {
+          "text": "Do",
+          "isWord": true
+        }
       ],
       "add": [
-        "do"
+        {
+          "text": "do",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 68,
+      "index": 151,
       "remove": [
-        "ye",
-        "will"
+        {
+          "text": "ye",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "will",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 13:28": [
     {
-      "index": 50,
+      "index": 108,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 13:29": [
     {
-      "index": 33,
+      "index": 70,
       "remove": [
-        "lead"
+        {
+          "text": "lead",
+          "isWord": true
+        }
       ],
       "add": [
-        "led"
+        {
+          "text": "led",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:32": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "Lord;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 13:33": [
     {
-      "index": 22,
+      "index": 49,
       "remove": [],
       "add": [
-        "ye"
+        {
+          "text": "ye",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "ye"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Helaman 13:34": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "layeth"
+        {
+          "text": "layeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "lay"
+        {
+          "text": "lay",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
-      "remove": [
-        "battle."
-      ],
+      "index": 64,
+      "remove": [],
       "add": [
-        "battle.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 13:35": [
     {
-      "index": 20,
-      "remove": [
-        "land."
-      ],
+      "index": 45,
+      "remove": [],
       "add": [
-        "land.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 13:37": [
     {
-      "index": 46,
+      "index": 99,
       "remove": [
-        "them"
+        {
+          "text": "them",
+          "isWord": true
+        }
       ],
       "add": [
-        "those"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 13:38": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:2": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 6,
+      "index": 14,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 52,
       "remove": [
-        "son"
+        {
+          "text": "son",
+          "isWord": true
+        }
       ],
       "add": [
-        "Son"
+        {
+          "text": "Son",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:3": [
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 107,
       "remove": [
-        "day;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "day,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 14:5": [
     {
-      "index": 4,
+      "index": 7,
       "remove": [],
       "add": [
-        "be"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "be",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:6": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "all:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "all,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "Heaven."
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven."
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:9": [
     {
-      "index": 39,
+      "index": 86,
       "remove": [
-        "Cry"
+        {
+          "text": "Cry",
+          "isWord": true
+        }
       ],
       "add": [
-        "cry"
+        {
+          "text": "cry",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:10": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:11": [
     {
-      "index": 28,
+      "index": 57,
       "remove": [
-        "judgements"
+        {
+          "text": "judgements",
+          "isWord": true
+        }
       ],
       "add": [
-        "judgments"
+        {
+          "text": "judgments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 65,
       "remove": [
-        "doth"
+        {
+          "text": "doth",
+          "isWord": true
+        }
       ],
       "add": [
-        "do"
+        {
+          "text": "do",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:12": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "Heaven"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 65,
       "remove": [
-        "beginning;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "beginning:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 14:16": [
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ],
       "add": [
-        "or"
+        {
+          "text": "or",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:20": [
     {
-      "index": 14,
+      "index": 31,
       "remove": [
-        "death:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "death,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 94,
       "remove": [
-        "stars;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "stars:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 74,
+      "index": 159,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 14:21": [
     {
-      "index": 34,
+      "index": 72,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 42,
+      "index": 89,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 55,
+      "index": 116,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 70,
+      "index": 149,
       "remove": [
-        "up;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "up:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 14:22": [
     {
-      "index": 14,
+      "index": 31,
       "remove": [
-        "seams,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "seams"
-      ]
+      "add": []
     },
     {
-      "index": 35,
+      "index": 76,
       "remove": [
-        "both"
+        {
+          "text": "both",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 14:23": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "many"
+        {
+          "text": "many",
+          "isWord": true
+        }
       ],
       "add": [
-        "mauy"
+        {
+          "text": "mauy",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 14:26": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 15:3": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "those"
-      ],
-      "add": [
-        "these"
-      ]
-    }
-  ],
-  "Helaman 15:4": [
-    {
-      "index": 15,
-      "remove": [
-        "continually;"
-      ],
-      "add": [
-        "continually:"
-      ]
-    },
-    {
-      "index": 50,
-      "remove": [
-        "days."
-      ],
-      "add": [
-        "days.—"
-      ]
-    }
-  ],
-  "Helaman 15:5": [
-    {
-      "index": 40,
-      "remove": [
-        "judgements,"
-      ],
-      "add": [
-        "judgments,"
-      ]
-    }
-  ],
-  "Helaman 15:6": [
-    {
-      "index": 40,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Helaman 15:7": [
-    {
-      "index": 40,
-      "remove": [
-        "lead"
-      ],
-      "add": [
-        "led"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 44,
       "remove": [
-        "Holy",
-        "Scriptures,"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "scriptures,"
+        {
+          "text": "these",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 15:4": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Helaman 15:5": [
+    {
+      "index": 84,
+      "remove": [
+        {
+          "text": "judgements",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "judgments",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 15:6": [
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Helaman 15:7": [
+    {
+      "index": 84,
+      "remove": [
+        {
+          "text": "lead",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "led",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "remove": [
+        {
+          "text": "Holy",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "remove": [
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 15:8": [
     {
-      "index": 28,
+      "index": 61,
       "remove": [
-        "free.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "free."
-      ]
+      "add": []
     }
   ],
   "Helaman 15:9": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "shall"
+        {
+          "text": "shall",
+          "isWord": true
+        }
       ],
       "add": [
-        "should"
+        {
+          "text": "should",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 78,
       "remove": [
-        "behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "behold"
-      ]
+      "add": []
     }
   ],
   "Helaman 15:12": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 15:13": [
     {
-      "index": 10,
+      "index": 20,
       "remove": [
-        "again"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "again",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "their"
+        {
+          "text": "their",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 15:14": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "It"
+        {
+          "text": "It",
+          "isWord": true
+        }
       ],
       "add": [
-        "it"
+        {
+          "text": "it",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 15:15": [
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 15:17": [
     {
-      "index": 27,
+      "index": 60,
       "remove": [
-        "them,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "them"
-      ]
+      "add": []
     }
   ],
   "Helaman 16:1": [
     {
-      "index": 10,
+      "index": 20,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 34,
+      "index": 71,
       "remove": [
-        "words,"
+        {
+          "text": "words",
+          "isWord": true
+        }
       ],
       "add": [
-        "word,"
+        {
+          "text": "word",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 45,
+      "index": 95,
       "remove": [
-        "came"
+        {
+          "text": "came",
+          "isWord": true
+        }
       ],
       "add": [
-        "come"
+        {
+          "text": "come",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:2": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:3": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:4": [
     {
-      "index": 2,
-      "remove": [
-        "Nephi"
-      ],
+      "index": 6,
+      "remove": [],
       "add": [
-        "Nephi,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Helaman 16:5": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "coming,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "coming"
-      ]
+      "add": []
     }
   ],
   "Helaman 16:6": [
     {
-      "index": 37,
+      "index": 78,
       "remove": [
-        "Take"
+        {
+          "text": "Take",
+          "isWord": true
+        }
       ],
       "add": [
-        "take"
+        {
+          "text": "take",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 48,
+      "index": 102,
       "remove": [
-        "Devil;"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil;"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 56,
+      "index": 119,
       "remove": [
-        "Devil"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:9": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:10": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:11": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "Judges."
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:12": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 103,
       "remove": [
-        "Judges."
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges."
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:13": [
     {
-      "index": 14,
+      "index": 28,
       "remove": [
-        "Judges,"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges,"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:14": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "Scriptures"
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
       ],
       "add": [
-        "scriptures"
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:15": [
     {
-      "index": 40,
+      "index": 88,
       "remove": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -5669,28 +9391,46 @@
     {
       "index": 0,
       "remove": [
-        "Some"
+        {
+          "text": "Some",
+          "isWord": true
+        }
       ],
       "add": [
-        "some"
+        {
+          "text": "some",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 58,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -5698,81 +9438,143 @@
     {
       "index": 0,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "Heaven"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 100,
       "remove": [
-        "they",
-        "which"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "them",
-        "who"
+        {
+          "text": "them",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:20": [
     {
-      "index": 31,
+      "index": 65,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:21": [
     {
-      "index": 43,
+      "index": 92,
       "remove": [
-        "for"
+        {
+          "text": "for",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Helaman 16:23": [
     {
-      "index": 8,
+      "index": 16,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Helaman 16:24": [
     {
-      "index": 11,
+      "index": 22,
       "remove": [
-        "Judges"
+        {
+          "text": "Judges",
+          "isWord": true
+        }
       ],
       "add": [
-        "judges"
+        {
+          "text": "judges",
+          "isWord": true
+        }
       ]
     }
   ]

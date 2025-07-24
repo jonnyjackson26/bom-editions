@@ -8,119 +8,116 @@ from difflib import ndiff
 # Fix for Windows CSV field size limits
 csv.field_size_limit(2**31 - 1)
 
-# Versions to process (columns in the dataset)
+# Editions to include
 VERSIONS = ["1830", "1837", "1840", "1841", "1879", "1920", "1981", "2013"]
 
-# Directories
-INPUT_DIR = "OpenScripture/book-of-mormon"  # Path to BYU-ODH repo data
+INPUT_DIR = "OpenScripture/book-of-mormon"
 OUTPUT_DIR = "output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def clean_word(word):
-    """Handle None, placeholders (⌴, ∅), and trim."""
-    if word is None:
+def clean_token(token):
+    """Preserve spaces (⌴) as actual space tokens, skip ∅, strip newlines."""
+    if token is None:
         return ""
-    word = word.strip()
-    if word in ("⌴", "", "∅"):
+    token = token.strip()
+    if token == "∅":
         return ""
-    return word
+    if token == "⌴":  # Treat ⌴ as a space
+        return " "
+    return token
 
-def join_words(words):
-    """Reassemble tokens into a verse string with proper spacing/punctuation."""
-    text = ""
-    for w in words:
-        if not w:
+def build_tokens(row_texts):
+    """
+    Convert cleaned raw text tokens into token objects.
+    Spaces become tokens with isWord=False.
+    """
+    tokens = []
+    for tok in row_texts:
+        if tok == "":
             continue
-        if w in [",", ".", ";", ":", "?", "!", "—"]:
-            text = text.rstrip() + w + " "
-        else:
-            text += w + " "
-    return text.strip()
+        is_word = not tok.isspace() and tok not in [",", ".", ";", ":", "?", "!", "—", "(", ")", "[", "]"]
+        tokens.append({"text": tok, "isWord": is_word})
+    return tokens
 
-def load_chapter_tsv(file_path):
-    """Parse a TSV into {verse: {version: full_text}} for each chapter."""
+def load_chapter(file_path):
+    """Load a chapter TSV into a dict of {verse: {version: [tokens...]}}."""
     verses = defaultdict(lambda: defaultdict(list))
-    with open(file_path, newline='', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile, delimiter='\t')
+    with open(file_path, newline='', encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
         for row in reader:
-            citation = row["Citation"].strip()  # e.g., "Enos 1:1"
+            citation = row["Citation"].strip()
             for version in VERSIONS:
-                word = clean_word(row.get(version, ""))
-                verses[citation][version].append(word)
-    # Join tokens into full strings
-    for citation in verses:
+                token = clean_token(row.get(version, ""))
+                if token != "":
+                    verses[citation][version].append(token)
+
+    # Wrap into token objects for each verse/version
+    for verse in verses:
         for version in VERSIONS:
-            verses[citation][version] = join_words(verses[citation][version])
+            verses[verse][version] = build_tokens(verses[verse][version])
     return verses
 
-def compute_compact_diff(base_text, other_text):
+def compute_token_diff(base_tokens, other_tokens):
     """
-    Return a compact diff as a list of objects:
-      - index: word position in the base (0-based)
-      - remove: list of removed words (if any)
-      - add: list of added words (if any)
-    Groups consecutive changes.
+    Compute compact token-level diffs.
+    Each diff is { index, remove: [tokens...], add: [tokens...] }.
     """
-    base_words = base_text.split()
-    other_words = other_text.split()
+    base_texts = [t["text"] for t in base_tokens]
+    other_texts = [t["text"] for t in other_tokens]
+
     diff_ops = []
     index = 0
     current = None
 
-    for token in ndiff(base_words, other_words):
+    for token in ndiff(base_texts, other_texts):
         code = token[0]
-        word = token[2:]
+        text = token[2:]
 
         if code == " ":
-            # Flush current diff if we hit unchanged words
             if current:
                 diff_ops.append(current)
                 current = None
             index += 1
-        elif code == "-":  # removed from base
+        elif code == "-":
             if current is None:
                 current = {"index": index, "remove": [], "add": []}
-            current["remove"].append(word)
+            tok = base_tokens[index]
+            current["remove"].append(tok)
             index += 1
-        elif code == "+":  # added in other
+        elif code == "+":
             if current is None:
                 current = {"index": index, "remove": [], "add": []}
-            current["add"].append(word)
+            token_obj = {"text": text, "isWord": not text.isspace() and text not in [",", ".", ";", ":", "?", "!", "—", "(", ")", "[", "]"]}
+            current["add"].append(token_obj)
 
-    # Flush any pending diff
     if current:
         diff_ops.append(current)
 
     return diff_ops
 
-def save_chapter_json(book, chapter, verses):
-    """
-    For each chapter:
-      - Save base.json (1830 edition)
-      - Save compact diffs for each later version
-    """
+def save_chapter(book, chapter, verses):
+    """Save base.json (1830 tokens) and edition diffs per chapter."""
     chapter_dir = os.path.join(OUTPUT_DIR, book, chapter)
     os.makedirs(chapter_dir, exist_ok=True)
 
-    # Save the 1830 text as the base
+    # Save base tokens
     base = {v: data["1830"] for v, data in verses.items()}
     with open(os.path.join(chapter_dir, "base.json"), "w", encoding="utf-8") as f:
         json.dump(base, f, indent=2, ensure_ascii=False)
 
-    # Save diffs for each other version
+    # Save diffs for each edition
     for version in VERSIONS:
         if version == "1830":
             continue
         diffs = {}
         for verse, data in verses.items():
-            diff_ops = compute_compact_diff(data["1830"], data[version])
-            if diff_ops:  # Only save verses with differences
+            diff_ops = compute_token_diff(data["1830"], data[version])
+            if diff_ops:
                 diffs[verse] = diff_ops
         with open(os.path.join(chapter_dir, f"{version}.json"), "w", encoding="utf-8") as f:
             json.dump(diffs, f, indent=2, ensure_ascii=False)
 
 def process_book(input_dir):
-    """Walk all TSV files in the repo and process per-chapter JSON outputs."""
     for root, _, files in os.walk(input_dir):
         for file in files:
             if file.endswith(".tsv"):
@@ -128,16 +125,15 @@ def process_book(input_dir):
                 rel_path = os.path.relpath(file_path, input_dir)
                 parts = rel_path.replace("\\", "/").split("/")
                 if len(parts) == 2:
-                    book = parts[0]  # e.g., "Enos"
-                    chapter = parts[1].replace(".tsv", "")  # e.g., "1"
+                    book = parts[0]
+                    chapter = parts[1].replace(".tsv", "")
                 else:
                     book = "Unknown"
                     chapter = file.replace(".tsv", "")
 
                 print(f"Processing {book} {chapter}...")
-                verses = load_chapter_tsv(file_path)
-                save_chapter_json(book, chapter, verses)
-
+                verses = load_chapter(file_path)
+                save_chapter(book, chapter, verses)
     print(f"Processing complete! Output saved in '{OUTPUT_DIR}/'")
 
 if __name__ == "__main__":

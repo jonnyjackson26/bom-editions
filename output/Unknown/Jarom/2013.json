@@ -1,206 +1,291 @@
 {
   "Jarom 1:1": [
     {
-      "index": 7,
+      "index": 18,
       "remove": [
-        "words,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "words"
-      ]
+      "add": []
     },
     {
-      "index": 14,
-      "remove": [
-        "father"
-      ],
+      "index": 33,
+      "remove": [],
       "add": [
-        "father,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jarom 1:2": [
     {
-      "index": 20,
+      "index": 42,
       "remove": [
-        "brethren,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "brethren"
-      ]
+      "add": []
     }
   ],
   "Jarom 1:3": [
     {
-      "index": 40,
+      "index": 87,
       "remove": [
-        "exceeding"
+        {
+          "text": "exceeding",
+          "isWord": true
+        }
       ],
       "add": [
-        "exceedingly"
+        {
+          "text": "exceedingly",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 45,
+      "index": 98,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:4": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 9,
-      "remove": [
-        "revelations:"
-      ],
-      "add": [
-        "revelations,"
-      ]
-    },
-    {
-      "index": 22,
-      "remove": [
-        "stiffnecked,"
-      ],
-      "add": [
-        "stiffnecked"
-      ]
-    }
-  ],
-  "Jarom 1:5": [
-    {
-      "index": 27,
-      "remove": [
-        "Moses,"
-      ],
-      "add": [
-        "Moses"
-      ]
-    },
-    {
-      "index": 30,
-      "remove": [
-        "Sabbath"
-      ],
-      "add": [
-        "sabbath"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "Holy"
-      ],
-      "add": [
-        "holy"
-      ]
-    },
-    {
-      "index": 51,
-      "remove": [
-        "exceeding"
-      ],
-      "add": [
-        "exceedingly"
-      ]
-    }
-  ],
-  "Jarom 1:6": [
-    {
-      "index": 11,
-      "remove": [
-        "land;"
-      ],
-      "add": [
-        "land,"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 19,
       "remove": [
-        "exceeding"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "exceedingly"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 47,
       "remove": [
-        "murder,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jarom 1:5": [
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": "Sabbath",
+          "isWord": true
+        }
       ],
       "add": [
-        "murder"
+        {
+          "text": "sabbath",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 69,
+      "remove": [
+        {
+          "text": "Holy",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "remove": [
+        {
+          "text": "exceeding",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "exceedingly",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jarom 1:6": [
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "remove": [
+        {
+          "text": "exceeding",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "exceedingly",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Jarom 1:7": [
     {
-      "index": 45,
+      "index": 97,
       "remove": [
-        "Lamanites,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lamanites"
-      ]
+      "add": []
     }
   ],
   "Jarom 1:8": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "exceeding"
+        {
+          "text": "exceeding",
+          "isWord": true
+        }
       ],
       "add": [
-        "exceedingly"
+        {
+          "text": "exceedingly",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 87,
       "remove": [
-        "iron,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 97,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 136,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "iron"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 180,
       "remove": [
-        "brass,"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "brass"
-      ]
-    },
-    {
-      "index": 61,
-      "remove": [
-        "war;"
-      ],
-      "add": [
-        "war—"
-      ]
-    },
-    {
-      "index": 80,
-      "remove": [
-        "war;"
-      ],
-      "add": [
-        "war."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -208,43 +293,87 @@
     {
       "index": 0,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
       "add": [
-        "And"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 61,
       "remove": [
-        "saying,",
-        "That",
-        "inasmuch"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 63,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "saying",
-        "that:",
-        "Inasmuch"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 65,
       "remove": [
-        "commandments,"
+        {
+          "text": "inasmuch",
+          "isWord": true
+        }
       ],
       "add": [
-        "commandments"
+        {
+          "text": "Inasmuch",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 78,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Jarom 1:10": [
     {
-      "index": 46,
+      "index": 97,
       "remove": [
-        "land;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "land."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -252,116 +381,186 @@
     {
       "index": 0,
       "remove": [
-        "wherefore,"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ],
       "add": [
-        "Wherefore,"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "exhorting,"
-      ],
-      "add": [
-        "exhorting"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "suffering,"
-      ],
-      "add": [
-        "-",
-        "suffering"
-      ]
-    },
-    {
-      "index": 47,
-      "remove": [
-        "come,"
-      ],
-      "add": [
-        "come"
-      ]
-    }
-  ],
-  "Jarom 1:12": [
-    {
-      "index": 8,
-      "remove": [
-        "doing,"
-      ],
-      "add": [
-        "doing"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "land:"
-      ],
-      "add": [
-        "land;"
-      ]
-    }
-  ],
-  "Jarom 1:13": [
-    {
-      "index": 15,
-      "remove": [
-        "away,"
-      ],
-      "add": [
-        "away—"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "dissentions,"
-      ],
-      "add": [
-        "dissensions,"
-      ]
-    }
-  ],
-  "Jarom 1:14": [
-    {
-      "index": 11,
-      "remove": [
-        "small.—"
-      ],
-      "add": [
-        "small."
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "Nephi:"
-      ],
-      "add": [
-        "Nephi;"
+        {
+          "text": "Wherefore",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 30,
       "remove": [
-        "record"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "records"
+        {
+          "text": "-",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 44,
+      "index": 39,
       "remove": [
-        "that"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 106,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jarom 1:12": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "those"
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jarom 1:13": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "remove": [
+        {
+          "text": "dissentions",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "dissensions",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jarom 1:14": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": "record",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "records",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     }
   ]

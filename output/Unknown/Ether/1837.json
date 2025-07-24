@@ -1,138 +1,211 @@
 {
   "Ether 1:1": [
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:2": [
     {
-      "index": 23,
+      "index": 47,
       "remove": [
-        "Book"
+        {
+          "text": "Book",
+          "isWord": true
+        }
       ],
       "add": [
-        "book"
+        {
+          "text": "book",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:3": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "speaketh"
+        {
+          "text": "speaketh",
+          "isWord": true
+        }
       ],
       "add": [
-        "speaks"
+        {
+          "text": "speaks",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:6": [
     {
-      "index": 8,
-      "remove": [
-        "account."
-      ],
+      "index": 18,
+      "remove": [],
       "add": [
-        "account.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 1:19": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "son"
+        {
+          "text": "son",
+          "isWord": true
+        }
       ],
       "add": [
-        "Son"
+        {
+          "text": "Son",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "Corom;"
+        {
+          "text": "Corom",
+          "isWord": true
+        }
       ],
       "add": [
-        "Corum;"
+        {
+          "text": "Corum",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:20": [
     {
-      "index": 1,
+      "index": 2,
       "remove": [
-        "Corom"
+        {
+          "text": "Corom",
+          "isWord": true
+        }
       ],
       "add": [
-        "Corum"
+        {
+          "text": "Corum",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:32": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:34": [
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "Cry"
+        {
+          "text": "Cry",
+          "isWord": true
+        }
       ],
       "add": [
-        "cry"
+        {
+          "text": "cry",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:36": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Cry"
+        {
+          "text": "Cry",
+          "isWord": true
+        }
       ],
       "add": [
-        "cry"
+        {
+          "text": "cry",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:38": [
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "land;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "land,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -140,2655 +213,4266 @@
     {
       "index": 0,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 1:43": [
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 68,
+      "index": 143,
       "remove": [
-        "of"
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 72,
+      "index": 150,
       "remove": [
-        "which"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Ether 2:2": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "air;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "air,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 41,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Ether 2:4": [
     {
-      "index": 32,
+      "index": 66,
       "remove": [
-        "clowd,"
+        {
+          "text": "clowd",
+          "isWord": true
+        }
       ],
       "add": [
-        "cloud,"
+        {
+          "text": "cloud",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:5": [
     {
-      "index": 57,
+      "index": 121,
       "remove": [
-        "travel.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "travel."
-      ]
+      "add": []
     }
   ],
   "Ether 2:6": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 2:7": [
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "lands,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "lands"
-      ]
+      "add": []
     }
   ],
   "Ether 2:9": [
     {
-      "index": 58,
+      "index": 122,
       "remove": [
-        "iniquity:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "iniquity;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 2:10": [
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "decrees"
+        {
+          "text": "decrees",
+          "isWord": true
+        }
       ],
       "add": [
-        "decree"
+        {
+          "text": "decree",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:11": [
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "be"
+        {
+          "text": "be",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 2:12": [
     {
-      "index": 26,
+      "index": 57,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 90,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:13": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "record:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "record;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 69,
-      "remove": [
-        "years."
-      ],
+      "index": 146,
+      "remove": [],
       "add": [
-        "years.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 2:14": [
     {
-      "index": 9,
+      "index": 17,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Ether 2:15": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "him"
+        {
+          "text": "him",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 26,
+      "index": 53,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 88,
+      "index": 184,
       "remove": [
-        "this",
-        "is"
+        {
+          "text": "this",
+          "isWord": true
+        }
       ],
       "add": [
-        "these",
-        "are"
+        {
+          "text": "these",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 186,
+      "remove": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:16": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 22,
       "remove": [],
       "add": [
-        "|"
+        {
+          "text": "|",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:17": [
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 2:18": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 35,
       "remove": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Lord"
-      ]
+      "add": []
     }
   ],
   "Ether 2:19": [
     {
-      "index": 13,
+      "index": 31,
       "remove": [
-        "steer.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "steer."
-      ]
+      "add": []
     }
   ],
   "Ether 2:20": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 40,
-      "remove": [
-        "air."
-      ],
+      "index": 88,
+      "remove": [],
       "add": [
-        "air.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 2:23": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "What"
+        {
+          "text": "What",
+          "isWord": true
+        }
       ],
       "add": [
-        "what"
+        {
+          "text": "what",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 53,
+      "index": 113,
       "remove": [
-        "fire:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "fire;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 2:24": [
     {
-      "index": 35,
+      "index": 75,
       "remove": [
-        "sea:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "sea;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 2:25": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "things:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "things;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 84,
       "remove": [
-        "come.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "come."
-      ]
+      "add": []
     }
   ],
   "Ether 3:2": [
     {
-      "index": 31,
+      "index": 67,
       "remove": [
-        "thee:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "thee;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 93,
       "remove": [
-        "heavens,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "heavens;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 108,
       "remove": [
-        "thee:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "thee;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 3:3": [
     {
-      "index": 75,
+      "index": 163,
       "remove": [
-        "rock.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "rock."
-      ]
+      "add": []
     }
   ],
   "Ether 3:5": [
     {
-      "index": 6,
+      "index": 16,
       "remove": [
-        "this."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "this.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 3:6": [
     {
-      "index": 34,
+      "index": 73,
       "remove": [
-        "veil"
+        {
+          "text": "veil",
+          "isWord": true
+        }
       ],
       "add": [
-        "vail"
+        {
+          "text": "vail",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:7": [
     {
-      "index": 20,
+      "index": 42,
       "remove": [
-        "Arise,"
+        {
+          "text": "Arise",
+          "isWord": true
+        }
       ],
       "add": [
-        "arise,"
+        {
+          "text": "arise",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:8": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "me:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "me;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 3:9": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Because"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "because"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "hast:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "hast;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 80,
       "remove": [],
       "add": [
-        "not"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "not",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:10": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "Nay,"
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "nay,"
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:11": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "Believest"
+        {
+          "text": "Believest",
+          "isWord": true
+        }
       ],
       "add": [
-        "believest"
+        {
+          "text": "believest",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:12": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "Yea,"
+        {
+          "text": "Yea",
+          "isWord": true
+        }
       ],
       "add": [
-        "yea,"
+        {
+          "text": "yea",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:13": [
     {
-      "index": 16,
+      "index": 36,
       "remove": [
-        "Because"
+        {
+          "text": "Because",
+          "isWord": true
+        }
       ],
       "add": [
-        "because"
+        {
+          "text": "because",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 3:14": [
     {
-      "index": 4,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "world,"
-      ],
-      "add": [
-        "world"
-      ]
-    },
-    {
-      "index": 28,
-      "remove": [
-        "Son."
-      ],
-      "add": [
-        "Son.—"
-      ]
-    },
-    {
-      "index": 41,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 3:15": [
-    {
-      "index": 2,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "have"
-      ]
-    },
-    {
-      "index": 14,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 37,
-      "remove": [
-        "created,"
-      ],
-      "add": [
-        "created"
-      ]
-    }
-  ],
-  "Ether 3:17": [
-    {
-      "index": 25,
-      "remove": [
-        "That"
-      ],
-      "add": [
-        "that"
-      ]
-    }
-  ],
-  "Ether 3:18": [
-    {
-      "index": 11,
-      "remove": [
-        "Nephites:"
-      ],
-      "add": [
-        "Nephites;"
-      ]
-    }
-  ],
-  "Ether 3:19": [
-    {
-      "index": 17,
-      "remove": [
-        "veil:"
-      ],
-      "add": [
-        "vail;"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "fear:"
-      ],
-      "add": [
-        "fear;"
-      ]
-    }
-  ],
-  "Ether 3:20": [
-    {
-      "index": 15,
-      "remove": [
-        "veil;"
-      ],
-      "add": [
-        "vail;"
-      ]
-    }
-  ],
-  "Ether 3:21": [
-    {
-      "index": 14,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    }
-  ],
-  "Ether 3:22": [
-    {
-      "index": 22,
-      "remove": [
-        "them:"
-      ],
-      "add": [
-        "them;"
-      ]
-    }
-  ],
-  "Ether 3:25": [
-    {
-      "index": 8,
-      "remove": [
-        "the",
-        "Lord"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "the",
-        "Lord"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 46,
-      "remove": [
-        "earth:"
-      ],
-      "add": [
-        "earth;"
-      ]
-    }
-  ],
-  "Ether 3:26": [
-    {
-      "index": 1,
-      "remove": [
-        "the",
-        "Lord"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 40,
-      "remove": [
-        "him:"
-      ],
-      "add": [
-        "him;"
-      ]
-    }
-  ],
-  "Ether 3:27": [
-    {
-      "index": 6,
-      "remove": [
-        "Write"
-      ],
-      "add": [
-        "write"
-      ]
-    }
-  ],
-  "Ether 4:1": [
-    {
-      "index": 28,
-      "remove": [
-        "seen:"
-      ],
-      "add": [
-        "seen;"
-      ]
-    },
-    {
-      "index": 50,
-      "remove": [
-        "cross:"
-      ],
-      "add": [
-        "cross;"
-      ]
-    }
-  ],
-  "Ether 4:3": [
-    {
       "index": 9,
       "remove": [
-        "unbelief,"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "unbelief."
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "Gospel"
-      ],
-      "add": [
-        "gospel"
-      ]
-    }
-  ],
-  "Ether 4:5": [
-    {
-      "index": 12,
-      "remove": [
-        "wrote"
-      ],
-      "add": [
-        "written"
-      ]
-    }
-  ],
-  "Ether 4:6": [
-    {
-      "index": 3,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 6,
-      "remove": [
-        "They"
-      ],
-      "add": [
-        "they"
-      ]
-    }
-  ],
-  "Ether 4:7": [
-    {
-      "index": 73,
-      "remove": [
-        "is."
-      ],
-      "add": [
-        "are."
-      ]
-    }
-  ],
-  "Ether 4:8": [
-    {
-      "index": 25,
-      "remove": [
-        "accursed:"
-      ],
-      "add": [
-        "accursed;"
-      ]
-    },
-    {
-      "index": 42,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 4:10": [
-    {
-      "index": 22,
-      "remove": [
-        "ye:"
-      ],
-      "add": [
-        "ye;"
-      ]
-    }
-  ],
-  "Ether 4:11": [
-    {
-      "index": 39,
-      "remove": [
-        "true:"
-      ],
-      "add": [
-        "true;"
-      ]
-    }
-  ],
-  "Ether 4:12": [
-    {
-      "index": 10,
-      "remove": [
-        "me:"
-      ],
-      "add": [
-        "me;"
-      ]
-    },
-    {
-      "index": 30,
-      "remove": [
-        "good:"
-      ],
-      "add": [
-        "good;"
-      ]
-    },
-    {
-      "index": 57,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 4:15": [
-    {
-      "index": 6,
-      "remove": [
-        "veil"
-      ],
-      "add": [
-        "vail"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "wickedness,"
-      ],
-      "add": [
-        "wickedness"
-      ]
-    },
-    {
-      "index": 34,
-      "remove": [
-        "marvellous"
-      ],
-      "add": [
-        "marvelous"
-      ]
-    }
-  ],
-  "Ether 4:18": [
-    {
-      "index": 16,
-      "remove": [
-        "Gospel,"
-      ],
-      "add": [
-        "gospel,"
-      ]
-    },
-    {
-      "index": 22,
-      "remove": [
-        "name:"
-      ],
-      "add": [
-        "name;"
-      ]
-    },
-    {
-      "index": 40,
-      "remove": [
-        "damned:"
-      ],
-      "add": [
-        "damned;"
-      ]
-    }
-  ],
-  "Ether 4:19": [
-    {
-      "index": 14,
-      "remove": [
-        "day:"
-      ],
-      "add": [
-        "day,"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "they"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 28,
-      "remove": [
-        "them"
-      ],
-      "add": [
-        "him"
-      ]
-    }
-  ],
-  "Ether 5:1": [
-    {
-      "index": 9,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    },
-    {
-      "index": 37,
-      "remove": [
-        "translate:"
-      ],
-      "add": [
-        "translate;"
-      ]
-    }
-  ],
-  "Ether 5:3": [
-    {
-      "index": 12,
-      "remove": [
-        "wherefore,"
-      ],
-      "add": [
-        "wherefore"
-      ]
-    }
-  ],
-  "Ether 6:2": [
-    {
-      "index": 6,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 6:4": [
-    {
-      "index": 76,
-      "remove": [
-        "God."
-      ],
-      "add": [
-        "God.—"
-      ]
-    }
-  ],
-  "Ether 6:10": [
-    {
-      "index": 20,
-      "remove": [
-        "them:"
-      ],
-      "add": [
-        "them;"
-      ]
-    }
-  ],
-  "Ether 6:19": [
-    {
-      "index": 22,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 25,
-      "remove": [
-        "Let"
-      ],
-      "add": [
-        "let"
-      ]
-    },
-    {
-      "index": 54,
-      "remove": [
-        "graves."
-      ],
-      "add": [
-        "graves.—"
-      ]
-    }
-  ],
-  "Ether 6:23": [
-    {
-      "index": 7,
-      "remove": [
-        "them.—"
-      ],
-      "add": [
-        "them."
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "Surely,"
-      ],
-      "add": [
-        "surely,"
-      ]
-    }
-  ],
-  "Ether 6:24": [
-    {
-      "index": 6,
-      "remove": [
-        "Suffer"
-      ],
-      "add": [
-        "suffer"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "Choose"
-      ],
-      "add": [
-        "choose"
-      ]
-    }
-  ],
-  "Ether 6:26": [
-    {
-      "index": 16,
-      "remove": [
-        "not.—"
-      ],
-      "add": [
-        "not."
-      ]
-    }
-  ],
-  "Ether 6:27": [
-    {
-      "index": 20,
-      "remove": [
-        "he"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 7:5": [
-    {
-      "index": 35,
-      "remove": [
-        "That"
-      ],
-      "add": [
-        "that"
-      ]
-    }
-  ],
-  "Ether 7:6": [
-    {
-      "index": 19,
-      "remove": [
-        "Nephites.—"
-      ],
-      "add": [
-        "Nephites."
-      ]
-    }
-  ],
-  "Ether 7:9": [
-    {
-      "index": 23,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "whom"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 26,
       "remove": [
-        "drew"
-      ],
-      "add": [
-        "drawn"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 7:11": [
-    {
-      "index": 31,
-      "remove": [
-        "numerous.—"
-      ],
-      "add": [
-        "numerous."
-      ]
-    }
-  ],
-  "Ether 7:14": [
-    {
-      "index": 11,
-      "remove": [
-        "daughters.—"
-      ],
-      "add": [
-        "daughters."
-      ]
-    },
-    {
-      "index": 17,
-      "remove": [
-        "Corihor,"
-      ],
-      "add": [
-        "Corihor"
-      ]
-    }
-  ],
-  "Ether 7:15": [
-    {
-      "index": 32,
-      "remove": [
-        "people.—"
-      ],
-      "add": [
-        "people."
-      ]
-    }
-  ],
-  "Ether 7:16": [
-    {
-      "index": 9,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 7:19": [
-    {
-      "index": 28,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 7:20": [
-    {
-      "index": 7,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    }
-  ],
-  "Ether 7:21": [
-    {
-      "index": 16,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 7:22": [
-    {
-      "index": 6,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "in",
-        "the",
-        "which"
-      ],
-      "add": [
-        "and"
-      ]
-    }
-  ],
-  "Ether 7:23": [
-    {
-      "index": 13,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "in",
-        "the",
-        "which"
-      ],
-      "add": [
-        "and"
-      ]
-    }
-  ],
-  "Ether 8:2": [
-    {
-      "index": 24,
-      "remove": [
-        "much"
-      ],
-      "add": [
-        "many"
-      ]
-    }
-  ],
-  "Ether 8:5": [
-    {
-      "index": 38,
-      "remove": [
-        "night.—"
-      ],
-      "add": [
-        "night."
-      ]
-    }
-  ],
-  "Ether 8:6": [
-    {
-      "index": 9,
-      "remove": [
-        "slew"
-      ],
-      "add": [
-        "slain"
-      ]
-    }
-  ],
-  "Ether 8:9": [
-    {
-      "index": 21,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 24,
-      "remove": [
-        "Whereby"
-      ],
-      "add": [
-        "whereby"
-      ]
-    }
-  ],
-  "Ether 8:10": [
-    {
-      "index": 72,
-      "remove": [
-        "king."
-      ],
-      "add": [
-        "king.—"
-      ]
-    }
-  ],
-  "Ether 8:11": [
-    {
-      "index": 43,
-      "remove": [
-        "Give"
-      ],
-      "add": [
-        "give"
-      ]
-    }
-  ],
-  "Ether 8:13": [
-    {
-      "index": 18,
-      "remove": [
-        "saith"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "Will"
-      ],
-      "add": [
-        "will"
-      ]
-    }
-  ],
-  "Ether 8:14": [
-    {
-      "index": 15,
-      "remove": [
-        "Heaven,"
-      ],
-      "add": [
-        "heaven,"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "Heavens,"
-      ],
-      "add": [
-        "heavens,"
-      ]
-    }
-  ],
-  "Ether 8:15": [
-    {
-      "index": 21,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    }
-  ],
-  "Ether 8:16": [
-    {
-      "index": 49,
-      "remove": [
-        "whoredoms.—"
-      ],
-      "add": [
-        "whoredoms."
-      ]
-    }
-  ],
-  "Ether 8:17": [
-    {
-      "index": 7,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 8:18": [
-    {
-      "index": 19,
-      "remove": [
-        "a"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 8:21": [
-    {
-      "index": 10,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "whom"
-      ]
-    }
-  ],
-  "Ether 8:22": [
-    {
-      "index": 58,
-      "remove": [
-        "avengeth"
-      ],
-      "add": [
-        "avenge"
-      ]
-    }
-  ],
-  "Ether 8:24": [
-    {
-      "index": 46,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 49,
-      "remove": [
-        "slain:"
-      ],
-      "add": [
-        "slain;"
-      ]
-    }
-  ],
-  "Ether 8:25": [
-    {
-      "index": 30,
-      "remove": [
-        "people:"
-      ],
-      "add": [
-        "people,"
-      ]
-    },
-    {
-      "index": 39,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 50,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 60,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 70,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 9:1": [
-    {
-      "index": 7,
-      "remove": [
-        "record."
-      ],
-      "add": [
-        "record.—"
-      ]
-    }
-  ],
-  "Ether 9:2": [
-    {
-      "index": 16,
-      "remove": [
-        "which",
-        "were",
-        "not,",
-        "or",
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 9:3": [
-    {
-      "index": 27,
-      "remove": [
-        "travelled"
-      ],
-      "add": [
-        "traveled"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "hy"
-      ],
-      "add": [
-        "by"
-      ]
-    }
-  ],
-  "Ether 9:5": [
-    {
-      "index": 46,
-      "remove": [
-        "people:"
-      ],
-      "add": [
-        "people;"
-      ]
-    }
-  ],
-  "Ether 9:7": [
-    {
-      "index": 25,
-      "remove": [
-        "a"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 9:11": [
-    {
-      "index": 26,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 9:12": [
-    {
-      "index": 44,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 9:14": [
-    {
-      "index": 10,
-      "remove": [
-        "old;"
-      ],
-      "add": [
-        "old,"
-      ]
-    }
-  ],
-  "Ether 9:19": [
-    {
-      "index": 14,
-      "remove": [
-        "cumoms;"
-      ],
-      "add": [
-        "cumoms:"
-      ]
-    }
-  ],
-  "Ether 9:20": [
-    {
-      "index": 9,
-      "remove": [
-        "opon"
-      ],
-      "add": [
-        "upon"
-      ]
-    },
-    {
-      "index": 44,
-      "remove": [
-        "iniquity:"
-      ],
-      "add": [
-        "iniquity;"
-      ]
-    }
-  ],
-  "Ether 9:21": [
-    {
-      "index": 9,
-      "remove": [
-        "days;"
-      ],
-      "add": [
-        "days,"
-      ]
-    }
-  ],
-  "Ether 9:22": [
-    {
-      "index": 2,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    },
-    {
-      "index": 29,
-      "remove": [
-        "son"
-      ],
-      "add": [
-        "Son"
-      ]
-    }
-  ],
-  "Ether 9:27": [
-    {
-      "index": 10,
-      "remove": [
-        "father:"
-      ],
-      "add": [
-        "father;"
-      ]
-    }
-  ],
-  "Ether 9:28": [
-    {
-      "index": 42,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 9:30": [
-    {
-      "index": 28,
-      "remove": [
-        "dearth:"
-      ],
-      "add": [
-        "dearth,"
-      ]
-    }
-  ],
-  "Ether 9:34": [
-    {
-      "index": 32,
-      "remove": [
-        "all."
-      ],
-      "add": [
-        "all.—"
-      ]
-    }
-  ],
-  "Ether 9:35": [
-    {
-      "index": 15,
-      "remove": [
-        "the",
-        "Lord"
-      ],
-      "add": [
-        "he"
-      ]
-    },
-    {
-      "index": 49,
-      "remove": [
-        "about."
-      ],
-      "add": [
-        "about,"
-      ]
-    }
-  ],
-  "Ether 10:1": [
-    {
-      "index": 7,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 10:2": [
-    {
-      "index": 54,
-      "remove": [
-        "daughters."
-      ],
-      "add": [
-        "daughters.—"
-      ]
-    }
-  ],
-  "Ether 10:3": [
-    {
-      "index": 22,
-      "remove": [
-        "because"
-      ],
-      "add": [
-        "beeause"
-      ]
-    }
-  ],
-  "Ether 10:4": [
-    {
-      "index": 54,
-      "remove": [
-        "stead."
-      ],
-      "add": [
-        "stead.—"
-      ]
-    }
-  ],
-  "Ether 10:6": [
-    {
-      "index": 30,
-      "remove": [
-        "were"
-      ],
-      "add": [
-        "was"
-      ]
-    },
-    {
-      "index": 52,
-      "remove": [
-        "support;"
-      ],
-      "add": [
-        "support:"
-      ]
-    }
-  ],
-  "Ether 10:10": [
-    {
-      "index": 16,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "by"
-      ]
-    },
-    {
-      "index": 32,
-      "remove": [
-        "anoint"
-      ],
-      "add": [
-        "annoint"
-      ]
-    },
-    {
-      "index": 37,
-      "remove": [
-        "king."
-      ],
-      "add": [
-        "king.—"
-      ]
-    }
-  ],
-  "Ether 10:13": [
-    {
-      "index": 13,
-      "remove": [
-        "Kim;"
-      ],
-      "add": [
-        "Kim:"
-      ]
-    }
-  ],
-  "Ether 10:14": [
-    {
-      "index": 10,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "by"
-      ]
-    }
-  ],
-  "Ether 10:15": [
-    {
-      "index": 36,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "by"
-      ]
-    }
-  ],
-  "Ether 10:17": [
-    {
-      "index": 30,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 10:19": [
-    {
-      "index": 64,
-      "remove": [
-        "hunter.—"
-      ],
-      "add": [
-        "hunter."
-      ]
-    }
-  ],
-  "Ether 10:23": [
-    {
-      "index": 43,
-      "remove": [
-        "for"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 10:26": [
-    {
-      "index": 8,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "with"
-      ]
-    }
-  ],
-  "Ether 10:28": [
-    {
-      "index": 19,
-      "remove": [
-        "Lord."
-      ],
-      "add": [
-        "Lord.—"
-      ]
-    }
-  ],
-  "Ether 10:32": [
-    {
-      "index": 45,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "during"
-      ]
-    },
-    {
-      "index": 48,
-      "remove": [],
-      "add": [
-        "time"
-      ]
-    }
-  ],
-  "Ether 11:3": [
-    {
-      "index": 6,
-      "remove": [
-        "things:"
-      ],
-      "add": [
-        "things;"
-      ]
-    }
-  ],
-  "Ether 11:5": [
-    {
-      "index": 10,
-      "remove": [
-        "did",
-        "cause"
-      ],
-      "add": [
-        "caused"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 11:6": [
-    {
-      "index": 8,
-      "remove": [
-        "land:"
-      ],
-      "add": [
-        "land,"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "great"
-      ],
-      "add": [
-        "greater"
-      ]
-    }
-  ],
-  "Ether 11:7": [
-    {
-      "index": 53,
-      "remove": [
-        "earth:"
-      ],
-      "add": [
-        "earth,"
-      ]
-    }
-  ],
-  "Ether 11:9": [
-    {
-      "index": 16,
-      "remove": [
-        "he"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 11:10": [
-    {
-      "index": 34,
-      "remove": [
-        "in",
-        "the"
-      ],
-      "add": [
-        "by"
-      ]
-    }
-  ],
-  "Ether 11:13": [
-    {
-      "index": 14,
-      "remove": [
-        "hearken"
-      ],
-      "add": [
-        "kearken"
-      ]
-    }
-  ],
-  "Ether 11:14": [
-    {
-      "index": 34,
-      "remove": [
-        "do"
-      ],
-      "add": []
-    },
-    {
-      "index": 41,
-      "remove": [
-        "Lord."
-      ],
-      "add": [
-        "Lord,"
-      ]
-    }
-  ],
-  "Ether 11:15": [
-    {
-      "index": 41,
-      "remove": [
-        "Moron,"
-      ],
-      "add": [
-        "Moron"
-      ]
-    },
-    {
-      "index": 43,
-      "remove": [
-        "the"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 11:20": [
-    {
-      "index": 16,
-      "remove": [
-        "marvellous"
-      ],
-      "add": [
-        "marvelous"
-      ]
-    }
-  ],
-  "Ether 11:21": [
-    {
-      "index": 26,
-      "remove": [
-        "fathers."
-      ],
-      "add": [
-        "fathers.—"
-      ]
-    }
-  ],
-  "Ether 12:1": [
-    {
-      "index": 10,
-      "remove": [
-        "was"
-      ],
-      "add": [
-        "were"
-      ]
-    },
-    {
-      "index": 23,
-      "remove": [
-        "land.—"
-      ],
-      "add": [
-        "land."
-      ]
-    }
-  ],
-  "Ether 12:2": [
-    {
-      "index": 29,
-      "remove": [
-        "constrained"
-      ],
-      "add": [
-        "restrained"
-      ]
-    },
-    {
-      "index": 40,
-      "remove": [
-        "him:"
-      ],
-      "add": [
-        "him;"
-      ]
-    }
-  ],
-  "Ether 12:3": [
-    {
-      "index": 32,
-      "remove": [
-        "That"
-      ],
-      "add": [
-        "that"
-      ]
-    }
-  ],
-  "Ether 12:4": [
-    {
-      "index": 8,
-      "remove": [
-        "hope"
-      ],
-      "add": [
-        "hope'"
-      ]
-    }
-  ],
-  "Ether 12:5": [
-    {
-      "index": 11,
-      "remove": [
-        "marvellous"
-      ],
-      "add": [
-        "marvelous"
-      ]
-    }
-  ],
-  "Ether 12:6": [
-    {
-      "index": 9,
-      "remove": [
-        "things:"
-      ],
-      "add": [
-        "things;"
-      ]
-    },
-    {
-      "index": 45,
-      "remove": [
-        "faith:"
-      ],
-      "add": [
-        "faith,"
-      ]
-    }
-  ],
-  "Ether 12:11": [
-    {
-      "index": 32,
-      "remove": [
-        "fulfilled:"
-      ],
-      "add": [
-        "fulfilled;"
-      ]
-    }
-  ],
-  "Ether 12:16": [
-    {
-      "index": 5,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 14,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 12:19": [
-    {
-      "index": 13,
-      "remove": [
-        "came,",
-        "which"
-      ],
-      "add": [
-        "came",
-        "who"
-      ]
-    }
-  ],
-  "Ether 12:20": [
-    {
-      "index": 16,
-      "remove": [
-        "Jared:"
-      ],
-      "add": [
-        "Jared;"
-      ]
-    }
-  ],
-  "Ether 12:21": [
-    {
-      "index": 2,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 12:23": [
-    {
-      "index": 18,
-      "remove": [
-        "writing:"
-      ],
-      "add": [
-        "writing;"
-      ]
-    },
-    {
-      "index": 30,
-      "remove": [
-        "whereunto"
-      ],
-      "add": [
-        "but"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "writing:"
-      ],
-      "add": [
-        "writing;"
-      ]
-    }
-  ],
-  "Ether 12:26": [
-    {
-      "index": 12,
-      "remove": [
-        "Fools"
-      ],
-      "add": [
-        "fools"
-      ]
-    },
-    {
-      "index": 34,
-      "remove": [
-        "weakness:"
-      ],
-      "add": [
-        "weakness;"
-      ]
-    }
-  ],
-  "Ether 12:27": [
-    {
-      "index": 35,
-      "remove": [
-        "me:"
-      ],
-      "add": [
-        "me;"
-      ]
-    }
-  ],
-  "Ether 12:28": [
-    {
-      "index": 0,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "Behold;"
-      ]
-    }
-  ],
-  "Ether 12:29": [
-    {
-      "index": 32,
-      "remove": [
-        "faith:"
-      ],
-      "add": [
-        "faith;"
-      ]
-    }
-  ],
-  "Ether 12:30": [
-    {
-      "index": 10,
-      "remove": [
-        "Remove,"
-      ],
-      "add": [
-        "remove,"
-      ]
-    },
-    {
-      "index": 31,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    },
-    {
-      "index": 34,
-      "remove": [
-        "faith:"
-      ],
-      "add": [
-        "faith;"
-      ]
-    }
-  ],
-  "Ether 12:31": [
-    {
-      "index": 11,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    }
-  ],
-  "Ether 12:32": [
-    {
-      "index": 3,
-      "remove": [
-        "rememberest"
-      ],
-      "add": [
-        "remember"
-      ]
-    }
-  ],
-  "Ether 12:34": [
-    {
-      "index": 38,
-      "remove": [
-        "Father."
-      ],
-      "add": [
-        "father."
-      ]
-    }
-  ],
-  "Ether 12:35": [
-    {
-      "index": 42,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    }
-  ],
-  "Ether 12:37": [
-    {
-      "index": 11,
-      "remove": [
-        "If"
-      ],
-      "add": [
-        "if"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "weakness,"
-      ],
-      "add": [
-        "weakneess,"
-      ]
-    }
-  ],
-  "Ether 13:1": [
-    {
-      "index": 16,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "whom"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "writing.—"
-      ],
-      "add": [
-        "writing."
-      ]
-    }
-  ],
-  "Ether 13:2": [
-    {
-      "index": 8,
-      "remove": [
-        "Ether:"
-      ],
-      "add": [
-        "Ether;"
-      ]
-    },
-    {
-      "index": 23,
-      "remove": [
-        "how"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
       "index": 63,
       "remove": [
-        "which",
-        "dwelleth"
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": [
-        "who",
-        "dwell"
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 3:15": [
+    {
+      "index": 4,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 3:17": [
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 3:18": [
+    {
+      "index": 24,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 3:19": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "veil",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "vail",
+          "isWord": true
+        },
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 3:20": [
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "veil",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "vail",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 3:21": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 3:22": [
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 3:25": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Lord",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Lord",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 3:26": [
+    {
+      "index": 2,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Lord",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 3:27": [
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "Write",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "write",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:1": [
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 4:3": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "remove": [
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "gospel",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:5": [
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": "wrote",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "written",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:6": [
+    {
+      "index": 6,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "They",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:7": [
+    {
+      "index": 155,
+      "remove": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "are",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:8": [
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:10": [
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 4:11": [
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 4:12": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:15": [
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "veil",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "vail",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 72,
+      "remove": [
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 4:18": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "gospel",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 4:19": [
+    {
+      "index": 30,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "remove": [
+        {
+          "text": "they",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": "them",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "him",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 5:1": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 5:3": [
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 6:2": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 6:4": [
+    {
+      "index": 163,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 6:10": [
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 6:19": [
+    {
+      "index": 46,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "remove": [
+        {
+          "text": "Let",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "let",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 6:23": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": "Surely",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "surely",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 6:24": [
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "Suffer",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "suffer",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "Choose",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "choose",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 6:26": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 6:27": [
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "he",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:5": [
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 7:6": [
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:9": [
+    {
+      "index": 48,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "whom",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": "drew",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "drawn",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:11": [
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:14": [
+    {
+      "index": 24,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:15": [
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:16": [
+    {
+      "index": 19,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:19": [
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 7:20": [
+    {
+      "index": 15,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 7:21": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 7:22": [
+    {
+      "index": 12,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 7:23": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "and",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:2": [
+    {
+      "index": 50,
+      "remove": [
+        {
+          "text": "much",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "many",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:5": [
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 8:6": [
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "slew",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "slain",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:9": [
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "remove": [
+        {
+          "text": "Whereby",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "whereby",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:10": [
+    {
+      "index": 157,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 8:11": [
+    {
+      "index": 92,
+      "remove": [
+        {
+          "text": "Give",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "give",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:13": [
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "Will",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "will",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:14": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heaven",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": "Heavens",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heavens",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:15": [
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:16": [
+    {
+      "index": 107,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 8:17": [
+    {
+      "index": 14,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:18": [
+    {
+      "index": 40,
+      "remove": [
+        {
+          "text": "a",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 8:21": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "whom",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:22": [
+    {
+      "index": 124,
+      "remove": [
+        {
+          "text": "avengeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "avenge",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 8:24": [
+    {
+      "index": 97,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 8:25": [
+    {
+      "index": 64,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 149,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 9:1": [
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:2": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "were",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "not",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "or",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 9:3": [
+    {
+      "index": 57,
+      "remove": [
+        {
+          "text": "travelled",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "traveled",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": "hy",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "by",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 9:5": [
+    {
+      "index": 97,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:7": [
+    {
+      "index": 52,
+      "remove": [
+        {
+          "text": "a",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 9:11": [
+    {
+      "index": 55,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 9:12": [
+    {
+      "index": 95,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 9:14": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:19": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:20": [
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "opon",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "upon",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:21": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:22": [
+    {
+      "index": 3,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 62,
+      "remove": [
+        {
+          "text": "son",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "Son",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 9:27": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:28": [
+    {
+      "index": 90,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 9:30": [
+    {
+      "index": 59,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:34": [
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 9:35": [
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "Lord",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "he",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "remove": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:1": [
+    {
+      "index": 15,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 10:2": [
+    {
+      "index": 114,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:3": [
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": "because",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "beeause",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 10:4": [
+    {
+      "index": 115,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:6": [
+    {
+      "index": 64,
+      "remove": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:10": [
+    {
+      "index": 34,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "by",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": "anoint",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "annoint",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:13": [
+    {
+      "index": 28,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:14": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "by",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 10:15": [
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": "in the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "by",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 10:17": [
+    {
+      "index": 63,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 10:19": [
+    {
+      "index": 135,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 10:23": [
+    {
+      "index": 93,
+      "remove": [
+        {
+          "text": "for",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 10:26": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "with",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 10:28": [
+    {
+      "index": 42,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 10:32": [
+    {
+      "index": 94,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "during",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "remove": [],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "time",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:3": [
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 11:5": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": "did",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "cause",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "caused",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:6": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "great",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "greater",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:7": [
+    {
+      "index": 112,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 11:9": [
+    {
+      "index": 34,
+      "remove": [
+        {
+          "text": "he",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 11:10": [
+    {
+      "index": 73,
+      "remove": [
+        {
+          "text": "in",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "by",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:13": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "hearken",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "kearken",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:14": [
+    {
+      "index": 71,
+      "remove": [
+        {
+          "text": "do",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 11:15": [
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 89,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 11:20": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 11:21": [
+    {
+      "index": 56,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:1": [
+    {
+      "index": 20,
+      "remove": [
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 12:2": [
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": "constrained",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "restrained",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:3": [
+    {
+      "index": 69,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:4": [
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": "hope",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "hope'",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:5": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:6": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:11": [
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:16": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:19": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:20": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:21": [
+    {
+      "index": 3,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 12:23": [
+    {
+      "index": 40,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": "whereunto",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "but",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:26": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": "Fools",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "fools",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:27": [
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:28": [
+    {
+      "index": 1,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:29": [
+    {
+      "index": 72,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:30": [
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "Remove",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "remove",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 74,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Ether 12:31": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 12:32": [
+    {
+      "index": 6,
+      "remove": [
+        {
+          "text": "rememberest",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "remember",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:34": [
+    {
+      "index": 80,
+      "remove": [
+        {
+          "text": "Father",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "father",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:35": [
+    {
+      "index": 92,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 12:37": [
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": "If",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "if",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "weakness",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "weakneess",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Ether 13:1": [
+    {
+      "index": 34,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "whom",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Ether 13:2": [
+    {
+      "index": 18,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "how",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 134,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "remove": [
+        {
+          "text": "dwelleth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "dwell",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:3": [
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "Heaven,"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven,"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "Holy",
-        "Sanctuary"
+        {
+          "text": "Holy",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "sanctuary"
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "remove": [
+        {
+          "text": "Sanctuary",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "sanctuary",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:6": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 13:10": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "garment"
+        {
+          "text": "garment",
+          "isWord": true
+        }
       ],
       "add": [
-        "garments"
+        {
+          "text": "garments",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 65,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 42,
+      "index": 88,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:11": [
     {
-      "index": 30,
+      "index": 64,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:12": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "Scripture"
+        {
+          "text": "Scripture",
+          "isWord": true
+        }
       ],
       "add": [
-        "scripture"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "There"
-      ],
-      "add": [
-        "there"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 18,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
+        {
+          "text": "scripture",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 26,
       "remove": [
-        "which"
+        {
+          "text": "There",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "there",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 32,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:13": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:15": [
     {
-      "index": 33,
+      "index": 68,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:16": [
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:17": [
     {
-      "index": 45,
+      "index": 96,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 49,
+      "index": 105,
       "remove": [
-        "sins;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "sins:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -2796,262 +4480,442 @@
     {
       "index": 0,
       "remove": [
-        "wherfore"
+        {
+          "text": "wherfore",
+          "isWord": true
+        }
       ],
       "add": [
-        "wherefore"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 47,
       "remove": [
-        "which",
-        "was"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "were"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 41,
+      "index": 49,
       "remove": [
-        "kingdom."
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "kingdom.—"
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 13:22": [
     {
-      "index": 18,
+      "index": 39,
       "remove": [
-        "did",
-        "cease"
+        {
+          "text": "did",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "cease",
+          "isWord": true
+        }
       ],
       "add": [
-        "ceased"
+        {
+          "text": "ceased",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:26": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 13:27": [
     {
-      "index": 43,
+      "index": 93,
       "remove": [
-        "sore.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "sore."
-      ]
+      "add": []
     }
   ],
   "Ether 13:30": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 13:31": [
     {
-      "index": 22,
+      "index": 47,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "a"
+        {
+          "text": "a",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 44,
+      "index": 92,
       "remove": [
-        "constrain"
+        {
+          "text": "constrain",
+          "isWord": true
+        }
       ],
       "add": [
-        "restrain"
+        {
+          "text": "restrain",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:1": [
     {
-      "index": 10,
+      "index": 19,
       "remove": [],
       "add": [
-        "all"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "all",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 41,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 33,
+      "index": 69,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": [
-        "his"
+        {
+          "text": "his",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:2": [
     {
-      "index": 47,
+      "index": 101,
       "remove": [
-        "they"
+        {
+          "text": "they",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 14:3": [
     {
-      "index": 28,
+      "index": 61,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Ether 14:9": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "High",
-        "Priest"
+        {
+          "text": "High",
+          "isWord": true
+        }
       ],
       "add": [
-        "high",
-        "priest"
+        {
+          "text": "high",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "Priest",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "priest",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:12": [
     {
-      "index": 11,
+      "index": 23,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "arm,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "arm"
-      ]
+      "add": []
     }
   ],
   "Ether 14:18": [
     {
-      "index": 18,
+      "index": 39,
       "remove": [
-        "land:",
-        "Who"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "land,",
-        "who"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "Who",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:20": [
     {
-      "index": 25,
+      "index": 54,
       "remove": [
-        "Coriantumr.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Coriantumr."
-      ]
+      "add": []
     }
   ],
   "Ether 14:24": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:25": [
     {
-      "index": 20,
-      "remove": [
-        "abominations"
-      ],
+      "index": 42,
+      "remove": [],
       "add": [
-        "abominations,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 14:26": [
     {
-      "index": 15,
+      "index": 31,
       "remove": [
-        "by"
+        {
+          "text": "by",
+          "isWord": true
+        }
       ],
       "add": [
-        "of"
+        {
+          "text": "of",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 14:28": [
     {
-      "index": 56,
-      "remove": [
-        "battle."
-      ],
+      "index": 120,
+      "remove": [],
       "add": [
-        "battle.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 14:31": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:1": [
     {
-      "index": 24,
+      "index": 50,
       "remove": [
-        "him:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "him;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -3059,200 +4923,316 @@
     {
       "index": 0,
       "remove": [
-        "He"
+        {
+          "text": "He",
+          "isWord": true
+        }
       ],
       "add": [
-        "he"
+        {
+          "text": "he",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:6": [
     {
-      "index": 55,
+      "index": 115,
       "remove": [
-        "Coriantumr.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Coriantumr."
-      ]
+      "add": []
     }
   ],
   "Ether 15:8": [
     {
-      "index": 38,
+      "index": 85,
       "remove": [
-        "tents,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "tents"
-      ]
+      "add": []
     },
     {
-      "index": 43,
+      "index": 97,
       "remove": [
-        "therefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "therefore"
-      ]
+      "add": []
     }
   ],
   "Ether 15:9": [
     {
-      "index": 13,
+      "index": 26,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Ether 15:11": [
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "sacred.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "sacred."
-      ]
+      "add": []
     }
   ],
   "Ether 15:12": [
     {
-      "index": 20,
+      "index": 42,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:13": [
     {
-      "index": 21,
+      "index": 43,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:14": [
     {
-      "index": 18,
+      "index": 38,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 75,
       "remove": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ],
       "add": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:17": [
     {
-      "index": 54,
+      "index": 116,
       "remove": [
-        "people,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "people."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 15:22": [
     {
-      "index": 14,
+      "index": 29,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:25": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:29": [
     {
-      "index": 47,
-      "remove": [
-        "blood."
-      ],
+      "index": 102,
+      "remove": [],
       "add": [
-        "blood.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Ether 15:33": [
     {
-      "index": 10,
+      "index": 22,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     }
   ],
   "Ether 15:34": [
     {
-      "index": 10,
+      "index": 22,
       "remove": [
-        "these:",
-        "Whether"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "these,",
-        "whether"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 24,
       "remove": [
-        "flesh:",
-        "It"
+        {
+          "text": "Whether",
+          "isWord": true
+        }
       ],
       "add": [
-        "flesh,",
-        "it"
+        {
+          "text": "whether",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": "It",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "it",
+          "isWord": true
+        }
       ]
     }
   ]

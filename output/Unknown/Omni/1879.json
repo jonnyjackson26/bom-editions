@@ -3,50 +3,79 @@
     {
       "index": 0,
       "remove": [
-        "wherefore,"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ],
       "add": [
-        "Wherefore,"
+        {
+          "text": "Wherefore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 16,
+      "index": 35,
       "remove": [
-        "sword,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "sword"
-      ]
+      "add": []
     },
     {
-      "index": 41,
+      "index": 93,
       "remove": [
-        "man;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "man,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Omni 1:3": [
     {
-      "index": 32,
+      "index": 67,
       "remove": [
-        "bloodshed.—"
+        {
+          "text": ".",
+          "isWord": false
+        },
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
       "add": [
-        "bloodshed"
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Omni 1:5": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "destroyed:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "destroyed;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -54,289 +83,451 @@
     {
       "index": 0,
       "remove": [
-        "for"
+        {
+          "text": "for",
+          "isWord": true
+        }
       ],
       "add": [
-        "For"
+        {
+          "text": "For",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 39,
       "remove": [
-        "commandments,"
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
-      "add": [
-        "commandments"
-      ]
+      "add": []
+    },
+    {
+      "index": 122,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Omni 1:9": [
     {
-      "index": 53,
+      "index": 115,
       "remove": [
-        "records:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "records,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Omni 1:10": [
     {
-      "index": 3,
+      "index": 8,
       "remove": [
-        "I"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "I",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 32,
+      "index": 73,
       "remove": [
-        "mine"
+        {
+          "text": "mine",
+          "isWord": true
+        }
       ],
       "add": [
-        "my"
+        {
+          "text": "my",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:11": [
     {
-      "index": 39,
+      "index": 86,
       "remove": [
-        "sufficient,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "sufficient"
-      ]
+      "add": []
     }
   ],
   "Omni 1:12": [
     {
-      "index": 17,
+      "index": 39,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:14": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "which",
-        "was"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who",
-        "were"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 13,
       "remove": [
-        "that"
+        {
+          "text": "was",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "were",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Omni 1:15": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "Zarahemla,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Zarahemla"
-      ]
+      "add": []
     }
   ],
   "Omni 1:16": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "journied"
+        {
+          "text": "journied",
+          "isWord": true
+        }
       ],
       "add": [
-        "journeyed"
+        {
+          "text": "journeyed",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:17": [
     {
-      "index": 45,
-      "remove": [
-        "them"
-      ],
+      "index": 97,
+      "remove": [],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 62,
+      "index": 133,
       "remove": [
-        "not"
+        {
+          "text": "not",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Omni 1:20": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "him,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "him"
-      ]
+      "add": []
     }
   ],
   "Omni 1:21": [
     {
-      "index": 33,
+      "index": 69,
       "remove": [
-        "Moons."
+        {
+          "text": "Moons",
+          "isWord": true
+        }
       ],
       "add": [
-        "moons."
+        {
+          "text": "moons",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:22": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "Tower,"
+        {
+          "text": "Tower",
+          "isWord": true
+        }
       ],
       "add": [
-        "tower,"
+        {
+          "text": "tower",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 78,
       "remove": [
-        "them,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "them"
-      ]
+      "add": []
     },
     {
-      "index": 43,
+      "index": 91,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:24": [
     {
-      "index": 4,
-      "remove": [
-        "seen"
-      ],
+      "index": 10,
+      "remove": [],
       "add": [
-        "seen,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Omni 1:25": [
     {
-      "index": 60,
+      "index": 130,
       "remove": [
-        "Angels,"
+        {
+          "text": "Angels",
+          "isWord": true
+        }
       ],
       "add": [
-        "angels,"
+        {
+          "text": "angels",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 75,
-      "remove": [
-        "languages"
-      ],
+      "index": 163,
+      "remove": [],
       "add": [
-        "languages,",
-        "and"
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 80,
+      "index": 172,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 103,
+      "index": 222,
       "remove": [
-        "Devil."
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil."
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:26": [
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Omni 1:27": [
     {
-      "index": 1,
+      "index": 3,
       "remove": [
-        "now,"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "now"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 47,
       "remove": [
-        "which"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 22,
+      "index": 61,
       "remove": [
-        "Nephi:"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "Nephi;"
-      ]
-    },
-    {
-      "index": 29,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -344,57 +535,84 @@
     {
       "index": 0,
       "remove": [
-        "wherefore,"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ],
       "add": [
-        "Wherefore,"
+        {
+          "text": "Wherefore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "a"
+        {
+          "text": "a",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 21,
+      "index": 47,
       "remove": [
-        "wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wherefore"
-      ]
+      "add": []
     }
   ],
   "Omni 1:29": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "others,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "others"
-      ]
+      "add": []
     }
   ],
   "Omni 1:30": [
     {
-      "index": 6,
+      "index": 15,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 53,
       "remove": [
-        "lay"
+        {
+          "text": "lay",
+          "isWord": true
+        }
       ],
       "add": [
-        "lie"
+        {
+          "text": "lie",
+          "isWord": true
+        }
       ]
     }
   ]

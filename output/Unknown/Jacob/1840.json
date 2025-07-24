@@ -1,456 +1,728 @@
 {
   "Jacob 1:2": [
     {
-      "index": 40,
-      "remove": [
-        "people"
-      ],
+      "index": 87,
+      "remove": [],
       "add": [
-        "people,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 1:6": [
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "Kingdom,"
+        {
+          "text": "Kingdom",
+          "isWord": true
+        }
       ],
       "add": [
-        "kingdom,"
+        {
+          "text": "kingdom",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 22,
-      "remove": [
-        "come."
-      ],
+      "index": 50,
+      "remove": [],
       "add": [
-        "come.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 1:7": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "laboured"
+        {
+          "text": "laboured",
+          "isWord": true
+        }
       ],
       "add": [
-        "labored"
+        {
+          "text": "labored",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 62,
+      "index": 133,
       "remove": [
-        "wilderness.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "wilderness."
-      ]
+      "add": []
     }
   ],
   "Jacob 1:8": [
     {
-      "index": 36,
+      "index": 78,
       "remove": [
-        "cross,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "cross"
-      ]
+      "add": []
     }
   ],
   "Jacob 1:9": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "a"
+        {
+          "text": "a",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 36,
+      "index": 78,
       "remove": [
-        "kings.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "kings."
-      ]
+      "add": []
     }
   ],
   "Jacob 1:10": [
     {
-      "index": 25,
+      "index": 53,
       "remove": [
-        "laboured"
+        {
+          "text": "laboured",
+          "isWord": true
+        }
       ],
       "add": [
-        "labored"
+        {
+          "text": "labored",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 1:11": [
     {
-      "index": 22,
-      "remove": [
-        "people",
-        "Second"
-      ],
+      "index": 48,
+      "remove": [],
       "add": [
-        "people,",
-        "second"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 49,
       "remove": [
-        "Third"
+        {
+          "text": "Second",
+          "isWord": true
+        }
       ],
       "add": [
-        "third"
+        {
+          "text": "second",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": "Third",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "third",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 1:14": [
     {
-      "index": 16,
+      "index": 36,
       "remove": [
-        "Lamanites.",
-        "They"
+        {
+          "text": ".",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "They",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lamanites,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 25,
+      "index": 55,
       "remove": [
-        "Nephi,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "Nephi;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 59,
       "remove": [
-        "they",
-        "which"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "those",
-        "who"
+        {
+          "text": "those",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 1:15": [
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "Old,"
+        {
+          "text": "Old",
+          "isWord": true
+        }
       ],
       "add": [
-        "old,"
+        {
+          "text": "old",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 48,
+      "index": 104,
       "remove": [
-        "son;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "son:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 1:18": [
     {
-      "index": 15,
+      "index": 35,
       "remove": [
-        "people,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "people"
-      ]
+      "add": []
     }
   ],
   "Jacob 2:1": [
     {
       "index": 0,
       "remove": [
-        "The"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "THE"
+        {
+          "text": "THE",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:2": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "be",
-        "loved"
+        {
+          "text": "be loved",
+          "isWord": true
+        }
       ],
       "add": [
-        "beloved"
+        {
+          "text": "beloved",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:5": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "All-powerful"
+        {
+          "text": "All-powerful",
+          "isWord": true
+        }
       ],
       "add": [
-        "all-powerful"
+        {
+          "text": "all-powerful",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "Heaven"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "Earth,"
+        {
+          "text": "Earth",
+          "isWord": true
+        }
       ],
       "add": [
-        "earth,"
+        {
+          "text": "earth",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
-      "remove": [
-        "God."
-      ],
+      "index": 103,
+      "remove": [],
       "add": [
-        "God.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:9": [
     {
-      "index": 34,
+      "index": 73,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 101,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 72,
-      "remove": [
-        "minds."
-      ],
+      "index": 156,
+      "remove": [],
       "add": [
-        "minds.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:11": [
     {
-      "index": 20,
+      "index": 44,
       "remove": [
-        "inquired"
+        {
+          "text": "inquired",
+          "isWord": true
+        }
       ],
       "add": [
-        "enquired"
+        {
+          "text": "enquired",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:12": [
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "began"
+        {
+          "text": "began",
+          "isWord": true
+        }
       ],
       "add": [
-        "begun"
+        {
+          "text": "begun",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 53,
-      "remove": [
-        "plentifully."
-      ],
+      "index": 117,
+      "remove": [],
       "add": [
-        "plentifully.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:13": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "Providence"
+        {
+          "text": "Providence",
+          "isWord": true
+        }
       ],
       "add": [
-        "providence"
+        {
+          "text": "providence",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 39,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 61,
+      "index": 130,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 68,
+      "index": 144,
       "remove": [
-        "then"
+        {
+          "text": "then",
+          "isWord": true
+        }
       ],
       "add": [
-        "than"
+        {
+          "text": "than",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:14": [
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "Nay."
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "nay."
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:16": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "iniquity,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "iniquity"
-      ]
+      "add": []
     },
     {
-      "index": 10,
-      "remove": [
-        "abomination."
-      ],
+      "index": 23,
+      "remove": [],
       "add": [
-        "abomination.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:18": [
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "Kingdom"
+        {
+          "text": "Kingdom",
+          "isWord": true
+        }
       ],
       "add": [
-        "kingdom"
+        {
+          "text": "kingdom",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:19": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 2:20": [
     {
-      "index": 24,
+      "index": 52,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Jacob 2:22": [
     {
-      "index": 26,
-      "remove": [
-        "crime"
-      ],
+      "index": 54,
+      "remove": [],
       "add": [
-        "crime,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 63,
       "remove": [
-        "excedingly,"
+        {
+          "text": "excedingly",
+          "isWord": true
+        }
       ],
       "add": [
-        "exceedingly,"
+        {
+          "text": "exceedingly",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:23": [
     {
-      "index": 17,
+      "index": 37,
       "remove": [
-        "Lord:",
-        "This",
-        "People"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord,",
-        "this",
-        "people"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 39,
       "remove": [
-        "Scriptures:"
+        {
+          "text": "This",
+          "isWord": true
+        }
       ],
       "add": [
-        "scriptures:"
+        {
+          "text": "this",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 51,
+      "index": 41,
       "remove": [
-        "Son."
+        {
+          "text": "People",
+          "isWord": true
+        }
       ],
       "add": [
-        "son."
+        {
+          "text": "people",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "remove": [
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "remove": [
+        {
+          "text": "Son",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "son",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:24": [
     {
-      "index": 18,
+      "index": 40,
       "remove": [
-        "Lord."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -458,476 +730,722 @@
     {
       "index": 0,
       "remove": [
-        "Wherefore,"
+        {
+          "text": "Wherefore",
+          "isWord": true
+        }
       ],
       "add": [
-        "wherefore,"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 4,
+      "index": 10,
       "remove": [
-        "Lord:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 69,
       "remove": [
-        "branch,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "branch"
-      ]
+      "add": []
     }
   ],
   "Jacob 2:27": [
     {
-      "index": 26,
+      "index": 57,
       "remove": [
-        "wife;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "wife:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:28": [
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ],
       "add": [
-        "are"
+        {
+          "text": "are",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 23,
+      "index": 50,
       "remove": [
-        "Hosts."
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts."
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:29": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "peeple"
+        {
+          "text": "peeple",
+          "isWord": true
+        }
       ],
       "add": [
-        "people"
+        {
+          "text": "people",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "Hosts,"
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts,"
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:30": [
     {
-      "index": 8,
+      "index": 17,
       "remove": [
-        "Hosts,"
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts,"
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:31": [
     {
-      "index": 18,
+      "index": 41,
       "remove": [
-        "people,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "people"
-      ]
+      "add": []
     }
   ],
   "Jacob 2:32": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "Hosts,"
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts,"
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 45,
+      "index": 96,
       "remove": [
-        "Hosts;"
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts;"
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:33": [
     {
-      "index": 27,
+      "index": 59,
       "remove": [
-        "destruction:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "destruction;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 36,
+      "index": 78,
       "remove": [
-        "they"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "them"
+        {
+          "text": "them",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 93,
       "remove": [
-        "Hosts."
+        {
+          "text": "Hosts",
+          "isWord": true
+        }
       ],
       "add": [
-        "hosts."
+        {
+          "text": "hosts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 2:34": [
     {
-      "index": 28,
+      "index": 62,
       "remove": [
-        "condemnation;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "condemnation:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 2:35": [
     {
-      "index": 40,
+      "index": 86,
       "remove": [
-        "ascendeth"
+        {
+          "text": "ascendeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "ascend"
+        {
+          "text": "ascend",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 3:3": [
     {
-      "index": 0,
+      "index": 1,
       "remove": [
-        "But,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "But"
-      ]
+      "add": []
     },
     {
-      "index": 21,
+      "index": 46,
       "remove": [
-        "shall"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "shall",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 3:5": [
     {
-      "index": 25,
+      "index": 55,
       "remove": [
-        "you;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "you:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 109,
       "remove": [
-        "wife;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "wife:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 3:7": [
     {
-      "index": 50,
+      "index": 108,
       "remove": [
-        "Great"
+        {
+          "text": "Great",
+          "isWord": true
+        }
       ],
       "add": [
-        "great"
+        {
+          "text": "great",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 3:8": [
     {
-      "index": 32,
-      "remove": [
-        "God."
-      ],
+      "index": 70,
+      "remove": [],
       "add": [
-        "God.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 3:10": [
     {
-      "index": 12,
+      "index": 27,
       "remove": [
-        "hearts,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "hearts"
-      ]
+      "add": []
     }
   ],
   "Jacob 3:11": [
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "Angels"
+        {
+          "text": "Angels",
+          "isWord": true
+        }
       ],
       "add": [
-        "angels"
+        {
+          "text": "angels",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 40,
+      "index": 86,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:3": [
     {
-      "index": 47,
+      "index": 103,
       "remove": [
-        "contempt,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "contempt"
-      ]
+      "add": []
     }
   ],
   "Jacob 4:4": [
     {
-      "index": 31,
+      "index": 67,
       "remove": [
-        "coming;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "coming,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 102,
       "remove": [
-        "Holy",
-        "Prophets"
+        {
+          "text": "Holy",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy",
-        "prophets"
+        {
+          "text": "holy",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "remove": [
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:5": [
     {
-      "index": 6,
+      "index": 14,
       "remove": [
-        "worshiped"
+        {
+          "text": "worshiped",
+          "isWord": true
+        }
       ],
       "add": [
-        "worshipped"
+        {
+          "text": "worshipped",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 45,
-      "remove": [
-        "us"
-      ],
+      "index": 100,
+      "remove": [],
       "add": [
-        "us,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 73,
+      "index": 159,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "is"
+        {
+          "text": "is",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:6": [
     {
-      "index": 0,
+      "index": 1,
       "remove": [
-        "Wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Wherefore"
-      ]
+      "add": []
     },
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "Prophets;"
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophets;"
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:7": [
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "condescentions"
+        {
+          "text": "condescentions",
+          "isWord": true
+        }
       ],
       "add": [
-        "condescensions"
+        {
+          "text": "condescensions",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:8": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "marvellous"
+        {
+          "text": "marvellous",
+          "isWord": true
+        }
       ],
       "add": [
-        "marvelous"
+        {
+          "text": "marvelous",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 21,
       "remove": [
-        "Lord.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": "Him",
+          "isWord": true
+        }
       ],
       "add": [
-        "Lord."
+        {
+          "text": "him",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 68,
       "remove": [
-        "Him;"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "him;"
-      ]
+      "add": []
     },
     {
-      "index": 31,
+      "index": 96,
       "remove": [
-        "ways.—"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "ways."
-      ]
-    },
-    {
-      "index": 44,
-      "remove": [
-        "him;"
-      ],
-      "add": [
-        "him:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 4:11": [
     {
-      "index": 16,
+      "index": 37,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:13": [
     {
-      "index": 13,
+      "index": 30,
       "remove": [
-        "men;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "men:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 70,
+      "index": 154,
       "remove": [
-        "Prophets"
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophets"
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:14": [
     {
-      "index": 18,
+      "index": 39,
       "remove": [
-        "Prophets,"
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophets,"
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 4:16": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "Scriptures,"
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
       ],
       "add": [
-        "scriptures,"
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:1": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "Prophet"
+        {
+          "text": "Prophet",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophet"
+        {
+          "text": "prophet",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "House"
+        {
+          "text": "House",
+          "isWord": true
+        }
       ],
       "add": [
-        "house"
+        {
+          "text": "house",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -935,993 +1453,1690 @@
     {
       "index": 0,
       "remove": [
-        "Hearken"
+        {
+          "text": "Hearken",
+          "isWord": true
+        }
       ],
       "add": [
-        "hearken"
+        {
+          "text": "hearken",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "House"
+        {
+          "text": "House",
+          "isWord": true
+        }
       ],
       "add": [
-        "house"
+        {
+          "text": "house",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "Prophet"
+        {
+          "text": "Prophet",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophet"
+        {
+          "text": "prophet",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:3": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "House"
+        {
+          "text": "House",
+          "isWord": true
+        }
       ],
       "add": [
-        "house"
+        {
+          "text": "house",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "vineyard;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "vineyard:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:4": [
     {
-      "index": 25,
+      "index": 50,
       "remove": [
-        "sayeth,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said,"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:7": [
     {
-      "index": 15,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 19,
-      "remove": [
-        "It"
-      ],
-      "add": [
-        "it"
-      ]
-    }
-  ],
-  "Jacob 5:8": [
-    {
-      "index": 25,
-      "remove": [
-        "will;"
-      ],
-      "add": [
-        "will:"
-      ]
-    }
-  ],
-  "Jacob 5:9": [
-    {
-      "index": 16,
-      "remove": [
-        "thereof;"
-      ],
-      "add": [
-        "thereof:"
-      ]
-    }
-  ],
-  "Jacob 5:10": [
-    {
-      "index": 14,
-      "remove": [
-        "done"
-      ],
-      "add": [
-        "did"
-      ]
-    }
-  ],
-  "Jacob 5:11": [
-    {
-      "index": 21,
-      "remove": [
-        "It"
-      ],
-      "add": [
-        "it"
-      ]
-    },
-    {
-      "index": 54,
-      "remove": [
-        "thing.—"
-      ],
-      "add": [
-        "thing."
-      ]
-    }
-  ],
-  "Jacob 5:13": [
-    {
-      "index": 19,
-      "remove": [
-        "thee;"
-      ],
-      "add": [
-        "thee:"
-      ]
-    }
-  ],
-  "Jacob 5:15": [
-    {
-      "index": 17,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "Come,"
-      ],
-      "add": [
-        "come,"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "vineyard."
-      ],
-      "add": [
-        "vineyard"
-      ]
-    }
-  ],
-  "Jacob 5:16": [
-    {
-      "index": 30,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 34,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    }
-  ],
-  "Jacob 5:17": [
-    {
-      "index": 42,
-      "remove": [
-        "good;"
-      ],
-      "add": [
-        "good:"
-      ]
-    },
-    {
-      "index": 52,
-      "remove": [
-        "fruit.—"
-      ],
-      "add": [
-        "fruit."
-      ]
-    }
-  ],
-  "Jacob 5:18": [
-    {
-      "index": 2,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 6,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    }
-  ],
-  "Jacob 5:19": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "Come,"
-      ],
-      "add": [
-        "come,"
-      ]
-    }
-  ],
-  "Jacob 5:20": [
-    {
-      "index": 12,
-      "remove": [
-        "of",
-        "the",
-        "vineyard"
-      ],
-      "add": []
-    },
-    {
-      "index": 25,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 29,
-      "remove": [
-        "Behold"
-      ],
-      "add": [
-        "behold"
-      ]
-    },
-    {
-      "index": 53,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 57,
-      "remove": [
-        "Take"
-      ],
-      "add": [
-        "take"
-      ]
-    },
-    {
-      "index": 80,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 82,
-      "remove": [
-        "This"
-      ],
-      "add": [
-        "this"
-      ]
-    }
-  ],
-  "Jacob 5:21": [
-    {
-      "index": 8,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "How"
-      ],
-      "add": [
-        "how"
-      ]
-    },
-    {
-      "index": 36,
-      "remove": [],
-      "add": [
-        "the"
-      ]
-    }
-  ],
-  "Jacob 5:22": [
-    {
-      "index": 6,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 9,
-      "remove": [
-        "Counsel"
-      ],
-      "add": [
-        "counsel"
-      ]
-    }
-  ],
-  "Jacob 5:23": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "Look"
-      ],
-      "add": [
-        "look"
-      ]
-    },
-    {
-      "index": 39,
-      "remove": [
-        "first,"
-      ],
-      "add": [
-        "first."
-      ]
-    }
-  ],
-  "Jacob 5:24": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 16,
-      "remove": [
-        "Look"
-      ],
-      "add": [
-        "look"
-      ]
-    },
-    {
-      "index": 26,
-      "remove": [
-        "planted:"
-      ],
-      "add": [
-        "planted;"
-      ]
-    }
-  ],
-  "Jacob 5:25": [
-    {
-      "index": 2,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 6,
-      "remove": [
-        "Look"
-      ],
-      "add": [
-        "look"
-      ]
-    }
-  ],
-  "Jacob 5:26": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "Pluck"
-      ],
-      "add": [
-        "pluck"
-      ]
-    }
-  ],
-  "Jacob 5:27": [
-    {
-      "index": 4,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 7,
-      "remove": [
-        "Let"
-      ],
-      "add": [
-        "let"
-      ]
-    },
-    {
-      "index": 39,
-      "remove": [
-        "season.—"
-      ],
-      "add": [
-        "season."
-      ]
-    }
-  ],
-  "Jacob 5:29": [
-    {
-      "index": 18,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "servant,",
-        "Come,"
-      ],
-      "add": [
-        "servant",
-        "come,"
-      ]
-    }
-  ],
-  "Jacob 5:31": [
-    {
-      "index": 28,
-      "remove": [
-        "saith,",
-        "Behold,"
-      ],
-      "add": [
-        "said,",
-        "behold,"
-      ]
-    }
-  ],
-  "Jacob 5:33": [
-    {
-      "index": 6,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 10,
-      "remove": [
-        "What"
-      ],
-      "add": [
-        "what"
-      ]
-    }
-  ],
-  "Jacob 5:34": [
-    {
-      "index": 3,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 7,
-      "remove": [
-        "Behold,"
-      ],
-      "add": [
-        "behold,"
-      ]
-    }
-  ],
-  "Jacob 5:35": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "The"
-      ],
-      "add": [
-        "the"
-      ]
-    }
-  ],
-  "Jacob 5:36": [
-    {
-      "index": 7,
-      "remove": [
-        "good;"
-      ],
-      "add": [
-        "good:"
-      ]
-    },
-    {
       "index": 31,
       "remove": [
-        "branches,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "branches"
-      ]
-    }
-  ],
-  "Jacob 5:37": [
-    {
-      "index": 11,
-      "remove": [],
-      "add": [
-        "the"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "thereof;"
-      ],
-      "add": [
-        "thereof:"
-      ]
-    },
-    {
-      "index": 46,
-      "remove": [
-        "begineth"
-      ],
-      "add": [
-        "beginneth"
-      ]
-    }
-  ],
-  "Jacob 5:38": [
-    {
-      "index": 11,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 15,
-      "remove": [
-        "Let"
-      ],
-      "add": [
-        "let"
-      ]
-    }
-  ],
-  "Jacob 5:41": [
-    {
-      "index": 13,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 17,
-      "remove": [
-        "What"
-      ],
-      "add": [
-        "what"
-      ]
-    }
-  ],
-  "Jacob 5:43": [
-    {
-      "index": 31,
-      "remove": [
-        "the"
-      ],
-      "add": [
-        "tbe"
-      ]
-    }
-  ],
-  "Jacob 5:44": [
-    {
-      "index": 24,
-      "remove": [
-        "thereof."
-      ],
-      "add": [
-        "thereof.—"
-      ]
-    }
-  ],
-  "Jacob 5:46": [
-    {
-      "index": 17,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "have"
-      ]
-    },
-    {
-      "index": 26,
-      "remove": [
-        "fruit;"
-      ],
-      "add": [
-        "fruit:"
-      ]
-    },
-    {
-      "index": 31,
-      "remove": [
-        "hope"
-      ],
-      "add": [
-        "hoped"
-      ]
-    }
-  ],
-  "Jacob 5:47": [
-    {
-      "index": 30,
-      "remove": [],
-      "add": [
-        "about"
-      ]
-    },
-    {
-      "index": 88,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    }
-  ],
-  "Jacob 5:48": [
-    {
-      "index": 8,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 12,
-      "remove": [
-        "Is"
-      ],
-      "add": [
-        "is"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "Hath"
-      ],
-      "add": [
-        "Have"
-      ]
-    },
-    {
-      "index": 25,
-      "remove": [
-        "overcame"
-      ],
-      "add": [
-        "overcome"
-      ]
-    },
-    {
-      "index": 30,
-      "remove": [
-        "good?"
-      ],
-      "add": [
-        "good?—"
-      ]
-    },
-    {
-      "index": 33,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    },
-    {
-      "index": 37,
-      "remove": [
-        "overcame"
-      ],
-      "add": [
-        "overcome"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 40,
       "remove": [
-        "thereof?",
-        "For"
+        {
+          "text": "It",
+          "isWord": true
+        }
       ],
       "add": [
-        "thereof,"
+        {
+          "text": "it",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:8": [
+    {
+      "index": 54,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:9": [
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:10": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "done",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "did",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:11": [
+    {
+      "index": 46,
+      "remove": [
+        {
+          "text": "It",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "it",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 52,
+      "index": 118,
       "remove": [
-        "thereof,"
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jacob 5:13": [
+    {
+      "index": 41,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:15": [
+    {
+      "index": 35,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "Come",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "come",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "remove": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jacob 5:16": [
+    {
+      "index": 63,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:17": [
+    {
+      "index": 89,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jacob 5:18": [
+    {
+      "index": 4,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:19": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Come",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "come",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:20": [
+    {
+      "index": 24,
+      "remove": [],
+      "add": [
+        {
+          "text": "had",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "hid",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "natural",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "branches",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "remove": [
+        {
+          "text": "vineyard",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "had",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "hid",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "natural",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "branches",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 60,
+      "index": 51,
       "remove": [
-        "Is"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "is"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 71,
+      "index": 60,
       "remove": [
-        "hath"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "remove": [
+        {
+          "text": "Take",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "take",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 173,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 178,
+      "remove": [
+        {
+          "text": "This",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "this",
+          "isWord": true
+        }
       ]
     }
   ],
-  "Jacob 5:49": [
+  "Jacob 5:21": [
     {
-      "index": 11,
+      "index": 16,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "remove": [
+        {
+          "text": "How",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "how",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "remove": [],
+      "add": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:22": [
+    {
+      "index": 12,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "remove": [
+        {
+          "text": "Counsel",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "counsel",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:23": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Look",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "look",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ".",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:24": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "remove": [
+        {
+          "text": "Look",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "look",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:25": [
+    {
+      "index": 4,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "Look",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "look",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:26": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Pluck",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "pluck",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:27": [
+    {
+      "index": 9,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": "Let",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "let",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jacob 5:29": [
+    {
+      "index": 37,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 46,
+      "remove": [
+        {
+          "text": "Come",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "come",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:31": [
+    {
+      "index": 58,
+      "remove": [
+        {
+          "text": "saith",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": "Behold",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:33": [
+    {
+      "index": 12,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "What",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "what",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:34": [
+    {
+      "index": 6,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 15,
       "remove": [
-        "Let"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "let"
+        {
+          "text": "behold",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:35": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 47,
+      "index": 31,
       "remove": [
-        "all:"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "all;"
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:36": [
+    {
+      "index": 16,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Jacob 5:37": [
+    {
+      "index": 24,
+      "remove": [],
+      "add": [
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "remove": [
+        {
+          "text": "begineth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "beginneth",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:38": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Let",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "let",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:41": [
+    {
+      "index": 27,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": "What",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "what",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:43": [
+    {
+      "index": 68,
+      "remove": [
+        {
+          "text": "the",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "tbe",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:44": [
+    {
+      "index": 51,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 5:46": [
+    {
+      "index": 36,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [
+        {
+          "text": "hope",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "hoped",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:47": [
+    {
+      "index": 64,
+      "remove": [],
+      "add": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "about",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 189,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:48": [
+    {
+      "index": 17,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "remove": [
+        {
+          "text": "Is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "remove": [
+        {
+          "text": "Hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "Have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "remove": [
+        {
+          "text": "overcame",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "overcome",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "remove": [],
+      "add": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 79,
+      "remove": [
+        {
+          "text": "overcame",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "overcome",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": "?",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "For",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "remove": [
+        {
+          "text": "thereof",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 131,
+      "remove": [
+        {
+          "text": "Is",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "is",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 153,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 5:49": [
+    {
+      "index": 22,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "Let",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "let",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:50": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "Spare"
+        {
+          "text": "Spare",
+          "isWord": true
+        }
       ],
       "add": [
-        "spare"
+        {
+          "text": "spare",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:51": [
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "saith,",
-        "Yea,"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said,",
-        "yea,"
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "remove": [
+        {
+          "text": "Yea",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "yea",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:52": [
     {
-      "index": 0,
+      "index": 1,
       "remove": [
-        "Wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Wherefore"
-      ]
+      "add": []
     },
     {
-      "index": 38,
+      "index": 80,
       "remove": [
-        "tree,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "tree"
-      ]
+      "add": []
     },
     {
-      "index": 54,
+      "index": 114,
       "remove": [
-        "tree,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "tree"
-      ]
+      "add": []
     }
   ],
   "Jacob 5:55": [
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "wild;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "wild:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:57": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 10,
+      "index": 21,
       "remove": [
-        "Pluck"
+        {
+          "text": "Pluck",
+          "isWord": true
+        }
       ],
       "add": [
-        "pluck"
+        {
+          "text": "pluck",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:58": [
     {
-      "index": 29,
+      "index": 61,
       "remove": [
-        "ripened,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "ripened"
-      ]
+      "add": []
     },
     {
-      "index": 38,
+      "index": 82,
       "remove": [
-        "fire.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "fire."
-      ]
+      "add": []
     }
   ],
   "Jacob 5:60": [
     {
-      "index": 81,
+      "index": 171,
       "remove": [
-        "fruit;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "fruit."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -1929,370 +3144,580 @@
     {
       "index": 0,
       "remove": [
-        "wherefore,"
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ],
       "add": [
-        "Wherefore,"
+        {
+          "text": "Wherefore",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 21,
       "remove": [
-        "labor"
+        {
+          "text": "labor",
+          "isWord": true
+        }
       ],
       "add": [
-        "labour"
+        {
+          "text": "labour",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:62": [
     {
-      "index": 12,
+      "index": 28,
       "remove": [
-        "time:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "time;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 33,
       "remove": [
-        "behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "behold"
-      ]
+      "add": []
     },
     {
-      "index": 18,
+      "index": 42,
       "remove": [
-        "nigh;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "nigh:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:63": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "branches:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "branches;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:67": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "tree,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "tree"
-      ]
+      "add": []
     }
   ],
   "Jacob 5:68": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "tree,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "tree"
-      ]
+      "add": []
     },
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "fruit:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "fruit;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:69": [
     {
-      "index": 16,
+      "index": 35,
       "remove": [
-        "vineyard:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "vineyard;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:70": [
     {
-      "index": 13,
+      "index": 27,
       "remove": [
-        "servant;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "servant:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:71": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "saith"
+        {
+          "text": "saith",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "Go"
+        {
+          "text": "Go",
+          "isWord": true
+        }
       ],
       "add": [
-        "go"
+        {
+          "text": "go",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:72": [
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "go",
-        "to",
-        "it,"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "to",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "it",
+          "isWord": true
+        }
       ],
-      "add": [
-        "go,"
-      ]
+      "add": []
     },
     {
-      "index": 26,
+      "index": 55,
       "remove": [
-        "them:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 5:73": [
     {
-      "index": 45,
+      "index": 95,
       "remove": [
-        "thereof,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "thereof"
-      ]
+      "add": []
     }
   ],
   "Jacob 5:74": [
     {
-      "index": 75,
+      "index": 159,
       "remove": [
-        "him"
+        {
+          "text": "him",
+          "isWord": true
+        }
       ],
       "add": [
-        "saw"
+        {
+          "text": "saw",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:75": [
     {
-      "index": 27,
+      "index": 56,
       "remove": [
-        "calleth"
+        {
+          "text": "calleth",
+          "isWord": true
+        }
       ],
       "add": [
-        "called"
+        {
+          "text": "called",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 66,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "Behold,"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "behold,"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 74,
+      "index": 157,
       "remove": [
-        "beginning;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "beginning:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 81,
+      "index": 172,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 99,
+      "index": 210,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 5:77": [
     {
-      "index": 25,
+      "index": 52,
       "remove": [
-        "gathered;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "gathered:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 6:1": [
     {
-      "index": 18,
+      "index": 41,
       "remove": [
-        "prophesy:"
+        {
+          "text": "prophesy",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophecy:"
+        {
+          "text": "prophecy",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 65,
       "remove": [
-        "House"
+        {
+          "text": "House",
+          "isWord": true
+        }
       ],
       "add": [
-        "house"
+        {
+          "text": "house",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 6:2": [
     {
-      "index": 43,
+      "index": 92,
       "remove": [
-        "vineyard;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "vineyard:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 6:3": [
     {
-      "index": 17,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 6:4": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "us:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "us;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "House"
+        {
+          "text": "House",
+          "isWord": true
+        }
       ],
       "add": [
-        "house"
+        {
+          "text": "house",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 65,
       "remove": [
-        "long:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "long;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 54,
+      "index": 116,
       "remove": [
-        "Kingdom"
+        {
+          "text": "Kingdom",
+          "isWord": true
+        }
       ],
       "add": [
-        "kingdom"
+        {
+          "text": "kingdom",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 6:5": [
     {
-      "index": 51,
+      "index": 109,
       "remove": [
-        "hearts."
+        {
+          "text": "hearts",
+          "isWord": true
+        }
       ],
       "add": [
-        "yearts."
+        {
+          "text": "yearts",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 6:7": [
     {
-      "index": 3,
+      "index": 6,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 6:8": [
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "Prophets?"
+        {
+          "text": "Prophets",
+          "isWord": true
+        }
       ],
       "add": [
-        "prophets?"
+        {
+          "text": "prophets",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 28,
+      "index": 59,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 6:9": [
     {
-      "index": 37,
+      "index": 77,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "God?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -2300,582 +3725,977 @@
     {
       "index": 0,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
       "add": [
-        "And"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "justice?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ],
       "add": [
-        "justice,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "denied.",
-        "That"
+        {
+          "text": ".",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "denied,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 75,
       "remove": [
-        "ever?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ],
       "add": [
-        "ever,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 6:13": [
     {
-      "index": 25,
+      "index": 55,
       "remove": [
-        "fear.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
       "add": [
-        "fear."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:1": [
     {
-      "index": 6,
+      "index": 11,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 7:2": [
     {
-      "index": 34,
+      "index": 71,
       "remove": [
-        "people;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "people:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 79,
       "remove": [
-        "done,"
+        {
+          "text": "done",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "did"
+        {
+          "text": "did",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:3": [
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "wherefore",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 7:4": [
     {
-      "index": 33,
+      "index": 71,
       "remove": [
-        "Devil."
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil."
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:5": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "things:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "things;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 63,
       "remove": [
-        "Angels,"
+        {
+          "text": "Angels",
+          "isWord": true
+        }
       ],
       "add": [
-        "angels,"
+        {
+          "text": "angels",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:6": [
     {
-      "index": 51,
+      "index": 109,
       "remove": [
-        "Gospel,"
+        {
+          "text": "Gospel",
+          "isWord": true
+        }
       ],
       "add": [
-        "gospel,"
+        {
+          "text": "gospel",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:9": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 5,
-      "remove": [
-        "Deniest"
-      ],
-      "add": [
-        "deniest"
-      ]
-    },
-    {
-      "index": 9,
-      "remove": [
-        "which"
-      ],
-      "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 14,
-      "remove": [
-        "sayeth,",
-        "If"
-      ],
-      "add": [
-        "said,",
-        "if"
-      ]
-    },
-    {
-      "index": 35,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "never"
-      ],
-      "add": [
-        "ever"
-      ]
-    }
-  ],
-  "Jacob 7:10": [
-    {
-      "index": 2,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 5,
-      "remove": [
-        "Believest"
-      ],
-      "add": [
-        "believest"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 11,
       "remove": [
-        "sayeth,",
-        "Yea."
+        {
+          "text": "Deniest",
+          "isWord": true
+        }
       ],
       "add": [
-        "said,",
-        "yea."
-      ]
-    }
-  ],
-  "Jacob 7:11": [
-    {
-      "index": 2,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
+        {
+          "text": "deniest",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 5,
+      "index": 19,
       "remove": [
-        "Then"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "then"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 22,
+      "index": 30,
       "remove": [
-        "That"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
-      ]
-    }
-  ],
-  "Jacob 7:12": [
-    {
-      "index": 6,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 21,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 33,
       "remove": [
-        "Ghost;"
+        {
+          "text": "If",
+          "isWord": true
+        }
       ],
       "add": [
-        "Ghost:"
+        {
+          "text": "if",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "remove": [
+        {
+          "text": "never",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "ever",
+          "isWord": true
+        }
       ]
     }
   ],
-  "Jacob 7:13": [
+  "Jacob 7:10": [
     {
-      "index": 7,
+      "index": 4,
       "remove": [
-        "sayeth"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said"
-      ]
-    },
-    {
-      "index": 10,
-      "remove": [
-        "Shew"
-      ],
-      "add": [
-        "shew"
-      ]
-    }
-  ],
-  "Jacob 7:14": [
-    {
-      "index": 5,
-      "remove": [
-        "What"
-      ],
-      "add": [
-        "what"
-      ]
-    },
-    {
-      "index": 38,
-      "remove": [
-        "Devil."
-      ],
-      "add": [
-        "devil."
-      ]
-    },
-    {
-      "index": 60,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "has"
-      ]
-    },
-    {
-      "index": 64,
-      "remove": [
-        "Heaven"
-      ],
-      "add": [
-        "heaven"
-      ]
-    },
-    {
-      "index": 67,
-      "remove": [
-        "Earth;"
-      ],
-      "add": [
-        "earth;"
-      ]
-    }
-  ],
-  "Jacob 7:16": [
-    {
-      "index": 7,
-      "remove": [
-        "sayeth"
-      ],
-      "add": [
-        "said"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 11,
       "remove": [
-        "Gather"
+        {
+          "text": "Believest",
+          "isWord": true
+        }
       ],
       "add": [
-        "gather"
+        {
+          "text": "believest",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
       "index": 27,
       "remove": [
-        "people"
+        {
+          "text": "Yea",
+          "isWord": true
+        }
       ],
       "add": [
-        "people,"
+        {
+          "text": "yea",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 7:11": [
+    {
+      "index": 4,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 11,
       "remove": [
-        "that"
+        {
+          "text": "Then",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "then",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": "That",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 7:12": [
+    {
+      "index": 13,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Jacob 7:13": [
+    {
+      "index": 14,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": "Shew",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "shew",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 7:14": [
+    {
+      "index": 11,
+      "remove": [
+        {
+          "text": "What",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "what",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "remove": [
+        {
+          "text": "Devil",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "devil",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "has",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "remove": [
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "heaven",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 144,
+      "remove": [
+        {
+          "text": "Earth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "earth",
+          "isWord": true
+        }
+      ]
+    }
+  ],
+  "Jacob 7:16": [
+    {
+      "index": 14,
+      "remove": [
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "said",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "remove": [
+        {
+          "text": "Gather",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "gather",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "remove": [],
+      "add": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Jacob 7:17": [
     {
-      "index": 9,
+      "index": 18,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 45,
+      "index": 96,
       "remove": [
-        "Angels."
+        {
+          "text": "Angels",
+          "isWord": true
+        }
       ],
       "add": [
-        "angels."
+        {
+          "text": "angels",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:18": [
     {
-      "index": 16,
+      "index": 33,
       "remove": [
-        "Devil."
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil."
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:19": [
     {
-      "index": 2,
+      "index": 4,
       "remove": [
-        "sayeth,"
+        {
+          "text": "sayeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "said,"
+        {
+          "text": "said",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 29,
+      "index": 62,
       "remove": [
-        "Scriptures;"
+        {
+          "text": "Scriptures",
+          "isWord": true
+        }
       ],
       "add": [
-        "scriptures;"
+        {
+          "text": "scriptures",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 38,
+      "index": 81,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 53,
+      "index": 114,
       "remove": [
-        "awful;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "awful:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:21": [
     {
-      "index": 23,
+      "index": 48,
       "remove": [
-        "exceedingly;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "exceedingly:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:22": [
     {
-      "index": 16,
+      "index": 35,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 19,
+      "index": 41,
       "remove": [
-        "Heaven:"
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven:"
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jacob 7:23": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "peace,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "peace"
-      ]
+      "add": []
     },
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     },
     {
-      "index": 22,
+      "index": 47,
       "remove": [
-        "Scriptures,"
+        {
+          "text": "Scriptures",
+          "isWord": true
+        },
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "scriptures;"
+        {
+          "text": "scriptures",
+          "isWord": true
+        },
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:24": [
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "truth;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "truth:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "vain:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "vain;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:25": [
     {
-      "index": 22,
+      "index": 47,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Jacob 7:26": [
     {
-      "index": 45,
+      "index": 98,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 74,
-      "remove": [
-        "wanderers"
-      ],
+      "index": 161,
+      "remove": [],
       "add": [
-        "wanderers,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jacob 7:27": [
     {
-      "index": 20,
+      "index": 45,
       "remove": [
-        "Take"
+        {
+          "text": "Take",
+          "isWord": true
+        }
       ],
       "add": [
-        "take"
+        {
+          "text": "take",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 56,
+      "index": 121,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ]

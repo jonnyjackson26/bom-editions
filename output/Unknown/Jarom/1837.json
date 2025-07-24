@@ -1,109 +1,154 @@
 {
   "Jarom 1:1": [
     {
-      "index": 2,
+      "index": 6,
       "remove": [
-        "I,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "I"
-      ]
+      "add": []
     }
   ],
   "Jarom 1:2": [
     {
-      "index": 71,
+      "index": 152,
       "remove": [
-        "Yea;"
+        {
+          "text": "Yea",
+          "isWord": true
+        }
       ],
       "add": [
-        "yea;"
+        {
+          "text": "yea",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:3": [
     {
-      "index": 45,
+      "index": 98,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:4": [
     {
-      "index": 6,
+      "index": 12,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:5": [
     {
-      "index": 32,
+      "index": 69,
       "remove": [
-        "Holy"
+        {
+          "text": "Holy",
+          "isWord": true
+        }
       ],
       "add": [
-        "holy"
+        {
+          "text": "holy",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:7": [
     {
-      "index": 65,
-      "remove": [
-        "inheritance."
-      ],
+      "index": 141,
+      "remove": [],
       "add": [
-        "inheritance.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ]
     }
   ],
   "Jarom 1:11": [
     {
-      "index": 12,
+      "index": 30,
       "remove": [
-        "exhorting,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "exhorting"
-      ]
+      "add": []
     }
   ],
   "Jarom 1:13": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "dissentions,"
+        {
+          "text": "dissentions",
+          "isWord": true
+        }
       ],
       "add": [
-        "dissensions,"
+        {
+          "text": "dissensions",
+          "isWord": true
+        }
       ]
     }
   ],
   "Jarom 1:14": [
     {
-      "index": 11,
+      "index": 27,
       "remove": [
-        "small.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
       "add": [
-        "small."
+        {
+          "text": " ",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 44,
+      "index": 98,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": [
-        "those"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     }
   ]

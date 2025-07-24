@@ -1,32 +1,45 @@
 {
   "Moroni 1:3": [
     {
-      "index": 11,
+      "index": 26,
       "remove": [
-        "whithersoever"
+        {
+          "text": "whithersoever",
+          "isWord": true
+        }
       ],
       "add": [
-        "whithsoever"
+        {
+          "text": "whithsoever",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 1:4": [
     {
-      "index": 0,
+      "index": 1,
       "remove": [
-        "Wherefore,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Wherefore"
-      ]
+      "add": []
     },
     {
-      "index": 13,
+      "index": 29,
       "remove": [
-        "supposed:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "supposed;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -34,48 +47,79 @@
     {
       "index": 0,
       "remove": [
-        "The"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "THE"
+        {
+          "text": "THE",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 2:2": [
     {
-      "index": 7,
+      "index": 16,
       "remove": [
-        "Ye"
+        {
+          "text": "Ye",
+          "isWord": true
+        }
       ],
       "add": [
-        "ye"
+        {
+          "text": "ye",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 52,
+      "index": 112,
       "remove": [
-        "it:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "it,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 2:3": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "it;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "it,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -83,28 +127,46 @@
     {
       "index": 0,
       "remove": [
-        "The"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "THE"
+        {
+          "text": "THE",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
+      "index": 19,
       "remove": [
-        "Elders"
+        {
+          "text": "Elders",
+          "isWord": true
+        }
       ],
       "add": [
-        "elders"
+        {
+          "text": "elders",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -112,53 +174,86 @@
     {
       "index": 0,
       "remove": [
-        "In"
+        {
+          "text": "In",
+          "isWord": true
+        }
       ],
       "add": [
-        "in"
+        {
+          "text": "in",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 48,
+      "index": 99,
       "remove": [
-        "end."
+        {
+          "text": ".",
+          "isWord": false
+        }
       ],
-      "add": [
-        "end"
-      ]
+      "add": []
     }
   ],
   "Moroni 4:1": [
     {
       "index": 0,
       "remove": [
-        "The"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "THE"
+        {
+          "text": "THE",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 62,
       "remove": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     },
     {
-      "index": 35,
+      "index": 73,
       "remove": [
-        "true:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "true;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 80,
       "remove": [],
       "add": [
-        "or"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "or",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -166,10 +261,16 @@
     {
       "index": 0,
       "remove": [
-        "The"
+        {
+          "text": "The",
+          "isWord": true
+        }
       ],
       "add": [
-        "THE"
+        {
+          "text": "THE",
+          "isWord": true
+        }
       ]
     }
   ],
@@ -177,654 +278,1059 @@
     {
       "index": 0,
       "remove": [
-        "And"
+        {
+          "text": "And",
+          "isWord": true
+        }
       ],
       "add": [
-        "AND"
+        {
+          "text": "AND",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 6:3": [
     {
-      "index": 21,
+      "index": 44,
       "remove": [
-        "unto"
+        {
+          "text": "unto",
+          "isWord": true
+        }
       ],
       "add": [
-        "to"
+        {
+          "text": "to",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 6:4": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 8,
+      "index": 15,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Moroni 6:5": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "souls;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "souls:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 6:9": [
     {
-      "index": 24,
+      "index": 51,
       "remove": [
-        "Ghost:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "Ghost;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 78,
       "remove": [
-        "preach,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "preach"
-      ]
+      "add": []
     }
   ],
   "Moroni 7:1": [
     {
-      "index": 21,
+      "index": 47,
       "remove": [
-        "charity:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "charity;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:2": [
     {
-      "index": 1,
-      "remove": [
-        "now"
-      ],
+      "index": 3,
+      "remove": [],
       "add": [
-        "now,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:3": [
     {
-      "index": 39,
+      "index": 82,
       "remove": [
-        "hence",
-        "forth,"
+        {
+          "text": "hence",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "forth",
+          "isWord": true
+        }
       ],
       "add": [
-        "henceforth,"
+        {
+          "text": "henceforth",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 48,
+      "index": 101,
       "remove": [
-        "Heaven."
+        {
+          "text": "Heaven",
+          "isWord": true
+        }
       ],
       "add": [
-        "heaven."
+        {
+          "text": "heaven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:4": [
     {
-      "index": 19,
+      "index": 40,
       "remove": [
-        "men:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "men;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:5": [
     {
-      "index": 9,
+      "index": 20,
       "remove": [
-        "By"
+        {
+          "text": "By",
+          "isWord": true
+        }
       ],
       "add": [
-        "by"
+        {
+          "text": "by",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 15,
+      "index": 33,
       "remove": [
-        "them:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:6": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "A"
+        {
+          "text": "A",
+          "isWord": true
+        }
       ],
       "add": [
-        "a"
+        {
+          "text": "a",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 14,
+      "index": 32,
       "remove": [
-        "good:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "good;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:8": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "doeth"
+        {
+          "text": "doeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "doth"
+        {
+          "text": "doth",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:9": [
     {
-      "index": 26,
+      "index": 57,
       "remove": [
-        "nothing:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "nothing;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:11": [
     {
-      "index": 23,
+      "index": 49,
       "remove": [
-        "the"
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": [
-        "a"
+        {
+          "text": "a",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 27,
+      "index": 57,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 92,
       "remove": [
-        "Devil."
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil."
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:12": [
     {
-      "index": 17,
+      "index": 38,
       "remove": [
-        "Devil:"
+        {
+          "text": "Devil",
+          "isWord": true
+        },
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "devil;"
+        {
+          "text": "devil",
+          "isWord": true
+        },
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 20,
+      "index": 45,
       "remove": [
-        "Devil"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:14": [
     {
-      "index": 31,
+      "index": 66,
       "remove": [
-        "Devil."
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil."
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:15": [
     {
-      "index": 41,
+      "index": 90,
       "remove": [
-        "night.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "night."
-      ]
+      "add": []
     }
   ],
   "Moroni 7:17": [
     {
-      "index": 32,
+      "index": 68,
       "remove": [
-        "Devil,"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 83,
       "remove": [
-        "Devil",
-        "work:"
+        {
+          "text": "Devil",
+          "isWord": true
+        }
       ],
       "add": [
-        "devil",
-        "work,"
+        {
+          "text": "devil",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 86,
       "remove": [
-        "doth"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "do"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 59,
+      "index": 123,
       "remove": [
-        "which"
+        {
+          "text": "doth",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "do",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "remove": [
+        {
+          "text": "which",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:18": [
     {
-      "index": 28,
+      "index": 60,
       "remove": [
-        "wrongfully:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "wrongfully;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:22": [
     {
-      "index": 11,
+      "index": 26,
       "remove": [
-        "behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "behold"
-      ]
+      "add": []
     }
   ],
   "Moroni 7:23": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "prophets,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "prophets"
-      ]
+      "add": []
     }
   ],
   "Moroni 7:25": [
     {
-      "index": 37,
+      "index": 80,
       "remove": [
-        "thing:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "thing;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:26": [
     {
-      "index": 25,
+      "index": 54,
       "remove": [
-        "suredly"
+        {
+          "text": "suredly",
+          "isWord": true
+        }
       ],
       "add": [
-        "sure"
+        {
+          "text": "sure",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 37,
+      "index": 81,
       "remove": [
-        "Whatsoever"
+        {
+          "text": "Whatsoever",
+          "isWord": true
+        }
       ],
       "add": [
-        "whatsoever"
+        {
+          "text": "whatsoever",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 57,
+      "index": 125,
       "remove": [
-        "behold,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "behold"
-      ]
+      "add": []
     }
   ],
   "Moroni 7:27": [
     {
-      "index": 8,
+      "index": 18,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 86,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ]
+    }
+  ],
+  "Moroni 7:28": [
+    {
+      "index": 29,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "remove": [
+        {
+          "text": "hath",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "have",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "remove": [
+        {
+          "text": "that",
+          "isWord": true
+        }
+      ],
+      "add": [
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "remove": [
+        {
+          "text": "—",
+          "isWord": false
+        }
+      ],
+      "add": []
+    }
+  ],
+  "Moroni 7:29": [
+    {
+      "index": 3,
+      "remove": [
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
       "index": 40,
       "remove": [
-        "men:"
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "men;"
-      ]
-    }
-  ],
-  "Moroni 7:28": [
-    {
-      "index": 14,
-      "remove": [
-        "that",
-        "hath"
-      ],
-      "add": [
-        "who",
-        "have"
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 21,
+      "index": 45,
       "remove": [
-        "that"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
-      ]
-    },
-    {
-      "index": 48,
-      "remove": [
-        "heavens.—"
-      ],
-      "add": [
-        "heavens."
-      ]
-    }
-  ],
-  "Moroni 7:29": [
-    {
-      "index": 2,
-      "remove": [
-        "that"
-      ],
-      "add": []
-    },
-    {
-      "index": 18,
-      "remove": [
-        "Nay;"
-      ],
-      "add": [
-        "nay;"
-      ]
-    },
-    {
-      "index": 20,
-      "remove": [
-        "hath"
-      ],
-      "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:32": [
     {
-      "index": 34,
+      "index": 72,
       "remove": [
-        "thereof:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "thereof;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:33": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "If"
+        {
+          "text": "If",
+          "isWord": true
+        }
       ],
       "add": [
-        "if"
+        {
+          "text": "if",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:34": [
     {
-      "index": 4,
+      "index": 9,
       "remove": [
-        "Repent"
+        {
+          "text": "Repent",
+          "isWord": true
+        }
       ],
       "add": [
-        "repent"
+        {
+          "text": "repent",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:35": [
     {
-      "index": 45,
+      "index": 95,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:36": [
     {
-      "index": 1,
+      "index": 2,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "hath"
+        {
+          "text": "hath",
+          "isWord": true
+        }
       ],
       "add": [
-        "has"
+        {
+          "text": "has",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:37": [
     {
-      "index": 5,
+      "index": 10,
       "remove": [
-        "Nay,"
+        {
+          "text": "Nay",
+          "isWord": true
+        }
       ],
       "add": [
-        "nay,"
+        {
+          "text": "nay",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 49,
+      "index": 105,
       "remove": [
-        "vain:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "vain;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:39": [
     {
-      "index": 19,
+      "index": 42,
       "remove": [
-        "Christ,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Christ"
-      ]
+      "add": []
     },
     {
-      "index": 23,
+      "index": 51,
       "remove": [
-        "meekness:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "meekness;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:41": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 7:42": [
     {
-      "index": 10,
+      "index": 23,
       "remove": [
-        "hope:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "hope;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:43": [
     {
-      "index": 1,
+      "index": 3,
       "remove": [
-        "again:",
-        "Behold"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "again,",
-        "behold"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 7,
+      "index": 5,
       "remove": [
-        "That"
+        {
+          "text": "Behold",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "behold",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 18,
+      "index": 16,
       "remove": [
-        "meek,"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "meek"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 22,
+      "index": 40,
       "remove": [
-        "heart:"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 49,
+      "remove": [
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "heart;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:44": [
     {
-      "index": 49,
+      "index": 106,
       "remove": [
-        "charity:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "charity;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 7:48": [
     {
-      "index": 54,
+      "index": 115,
       "remove": [
-        "him:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "him;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:1": [
     {
-      "index": 8,
+      "index": 18,
       "remove": [
-        "me,",
-        "Moroni;"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 21,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "me",
-        "Moroni:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 32,
+      "index": 70,
       "remove": [
-        "saying:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "saying,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -832,63 +1338,89 @@
     {
       "index": 0,
       "remove": [
-        "My"
+        {
+          "text": "My",
+          "isWord": true
+        }
       ],
       "add": [
-        "my"
+        {
+          "text": "my",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 8:3": [
     {
-      "index": 14,
+      "index": 30,
       "remove": [
-        "Father,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "Father"
-      ]
+      "add": []
     }
   ],
   "Moroni 8:4": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "son,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "son"
-      ]
+      "add": []
     },
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "exceedingly:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "exceedingly;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:5": [
     {
-      "index": 6,
+      "index": 13,
       "remove": [
-        "truth:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "truth,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:6": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "you:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "you;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
@@ -896,585 +1428,912 @@
     {
       "index": 0,
       "remove": [
-        "Listen"
+        {
+          "text": "Listen",
+          "isWord": true
+        }
       ],
       "add": [
-        "listen"
+        {
+          "text": "listen",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 9,
-      "remove": [
-        "Lord"
-      ],
+      "index": 21,
+      "remove": [],
       "add": [
-        "Lord,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 68,
+      "index": 148,
       "remove": [
-        "them:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "them;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:10": [
     {
-      "index": 15,
+      "index": 32,
       "remove": [
-        "they",
-        "which"
+        {
+          "text": "they",
+          "isWord": true
+        }
       ],
       "add": [
-        "those",
-        "who"
+        {
+          "text": "those",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 50,
+      "index": 34,
       "remove": [
-        "children;"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "children:"
+        {
+          "text": "who",
+          "isWord": true
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "remove": [
+        {
+          "text": ";",
+          "isWord": false
+        }
+      ],
+      "add": [
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:12": [
     {
-      "index": 13,
+      "index": 28,
       "remove": [
-        "world:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "world;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 31,
+      "index": 68,
       "remove": [
-        "persons:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "persons;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:14": [
     {
-      "index": 5,
+      "index": 11,
       "remove": [
-        "That"
+        {
+          "text": "That",
+          "isWord": true
+        }
       ],
       "add": [
-        "that"
+        {
+          "text": "that",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 51,
+      "remove": [],
+      "add": [
+        {
+          "text": "of",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
+      ]
+    },
+    {
+      "index": 52,
       "remove": [
-        "iniquity:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "of",
-        "iniquity;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:16": [
     {
-      "index": 38,
+      "index": 83,
       "remove": [
-        "do:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "do;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:20": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "needeth"
+        {
+          "text": "needeth",
+          "isWord": true
+        }
       ],
       "add": [
-        "need"
+        {
+          "text": "need",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 8:24": [
     {
-      "index": 5,
+      "index": 12,
       "remove": [
-        "had"
+        {
+          "text": "had",
+          "isWord": true
+        }
       ],
       "add": [
-        "ought"
+        {
+          "text": "ought",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "ought"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "ought",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 9,
+      "index": 21,
       "remove": [
-        "be:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "be;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 8:27": [
     {
-      "index": 31,
+      "index": 69,
       "remove": [
-        "proved"
+        {
+          "text": "proved",
+          "isWord": true
+        }
       ],
       "add": [
-        "proven"
+        {
+          "text": "proven",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 8:29": [
     {
-      "index": 20,
+      "index": 43,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 9:2": [
     {
-      "index": 12,
+      "index": 25,
       "remove": [
-        "the"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "the",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Moroni 9:3": [
     {
-      "index": 20,
+      "index": 44,
       "remove": [
-        "Satan"
+        {
+          "text": "Satan",
+          "isWord": true
+        }
       ],
       "add": [
-        "satan"
+        {
+          "text": "satan",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 9:5": [
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        }
       ],
       "add": [
-        "aud"
+        {
+          "text": "aud",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 9:6": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "diligently:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "diligently;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 24,
+      "index": 53,
       "remove": [
-        "condemnation:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "condemnation;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 9:9": [
     {
-      "index": 30,
+      "index": 64,
       "remove": [
-        "prisoners;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "prisoners:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 9:10": [
     {
-      "index": 2,
+      "index": 3,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     },
     {
-      "index": 25,
+      "index": 52,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Moroni 9:16": [
     {
-      "index": 11,
+      "index": 25,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 9:21": [
     {
-      "index": 8,
+      "index": 19,
       "remove": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "God"
-      ]
+      "add": []
     }
   ],
   "Moroni 9:22": [
     {
-      "index": 42,
+      "index": 91,
       "remove": [
-        "destruction:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "destruction;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 9:23": [
     {
-      "index": 3,
+      "index": 7,
       "remove": [
-        "perish,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "perish"
-      ]
+      "add": []
     }
   ],
   "Moroni 9:24": [
     {
-      "index": 56,
+      "index": 120,
       "remove": [
-        "soon:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "soon;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 10:1": [
     {
-      "index": 14,
-      "remove": [
-        "brethren,"
-      ],
-      "add": [
-        "brethren"
-      ]
-    },
-    {
       "index": 32,
       "remove": [
-        "has"
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
+    },
+    {
+      "index": 69,
+      "remove": [
+        {
+          "text": "has",
+          "isWord": true
+        }
       ],
       "add": [
-        "have"
+        {
+          "text": "have",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 10:2": [
     {
-      "index": 7,
+      "index": 14,
       "remove": [
-        "that"
+        {
+          "text": " ",
+          "isWord": false
+        },
+        {
+          "text": "that",
+          "isWord": true
+        }
       ],
       "add": []
     }
   ],
   "Moroni 10:3": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "things,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "things"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:4": [
     {
-      "index": 17,
+      "index": 36,
       "remove": [
-        "Eternal"
+        {
+          "text": "Eternal",
+          "isWord": true
+        }
       ],
       "add": [
-        "eternal"
+        {
+          "text": "eternal",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 100,
       "remove": [
-        "and"
+        {
+          "text": "and",
+          "isWord": true
+        },
+        {
+          "text": " ",
+          "isWord": false
+        }
       ],
       "add": []
     }
   ],
   "Moroni 10:7": [
     {
-      "index": 26,
+      "index": 56,
       "remove": [
-        "God:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "God;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 43,
+      "index": 93,
       "remove": [
-        "to-day,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "to-day"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:8": [
     {
-      "index": 42,
+      "index": 90,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 46,
+      "index": 99,
       "remove": [
-        "all:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "all;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 10:11": [
     {
-      "index": 2,
+      "index": 5,
       "remove": [
-        "another,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "another"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:13": [
     {
-      "index": 3,
+      "index": 8,
       "remove": [
-        "another,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "another"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:16": [
     {
-      "index": 10,
+      "index": 22,
       "remove": [
-        "diverse"
+        {
+          "text": "diverse",
+          "isWord": true
+        }
       ],
       "add": [
-        "divers"
+        {
+          "text": "divers",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 10:17": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "comes"
+        {
+          "text": "comes",
+          "isWord": true
+        }
       ],
       "add": [
-        "come"
+        {
+          "text": "come",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 10:21": [
     {
-      "index": 34,
+      "index": 73,
       "remove": [
-        "ye,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "ye"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:23": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "If"
+        {
+          "text": "If",
+          "isWord": true
+        }
       ],
       "add": [
-        "if"
+        {
+          "text": "if",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 10:25": [
     {
-      "index": 12,
+      "index": 26,
       "remove": [
-        "case:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "case;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 10:26": [
     {
-      "index": 4,
+      "index": 8,
       "remove": [
-        "which"
+        {
+          "text": "which",
+          "isWord": true
+        }
       ],
       "add": [
-        "who"
+        {
+          "text": "who",
+          "isWord": true
+        }
       ]
     }
   ],
   "Moroni 10:27": [
     {
-      "index": 7,
+      "index": 15,
       "remove": [
-        "things:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "things;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 30,
+      "index": 63,
       "remove": [
-        "God:"
+        {
+          "text": ":",
+          "isWord": false
+        }
       ],
       "add": [
-        "God,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     },
     {
-      "index": 39,
+      "index": 82,
       "remove": [
-        "Did"
+        {
+          "text": "Did",
+          "isWord": true
+        }
       ],
       "add": [
-        "did"
+        {
+          "text": "did",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 48,
+      "index": 101,
       "remove": [
-        "was"
+        {
+          "text": "was",
+          "isWord": true
+        }
       ],
       "add": [
-        "were"
+        {
+          "text": "were",
+          "isWord": true
+        }
       ]
     },
     {
-      "index": 68,
+      "index": 145,
       "remove": [
-        "dust,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
       "add": [
-        "dust?"
+        {
+          "text": "?",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 10:29": [
     {
-      "index": 11,
+      "index": 24,
       "remove": [
-        "written,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ],
-      "add": [
-        "written"
-      ]
+      "add": []
     }
   ],
   "Moroni 10:30": [
     {
-      "index": 28,
+      "index": 62,
       "remove": [
-        "thing.—"
+        {
+          "text": "—",
+          "isWord": false
+        }
       ],
-      "add": [
-        "thing."
-      ]
+      "add": []
     }
   ],
   "Moroni 10:31": [
     {
-      "index": 41,
+      "index": 91,
       "remove": [
-        "Eternal",
-        "Father,"
+        {
+          "text": "Eternal",
+          "isWord": true
+        }
       ],
       "add": [
-        "eternal",
-        "Father"
+        {
+          "text": "eternal",
+          "isWord": true
+        }
       ]
+    },
+    {
+      "index": 94,
+      "remove": [
+        {
+          "text": ",",
+          "isWord": false
+        }
+      ],
+      "add": []
     }
   ],
   "Moroni 10:32": [
     {
-      "index": 14,
+      "index": 32,
       "remove": [
-        "ungodliness;"
+        {
+          "text": ";",
+          "isWord": false
+        }
       ],
       "add": [
-        "ungodliness,"
+        {
+          "text": ",",
+          "isWord": false
+        }
       ]
     }
   ],
   "Moroni 10:34": [
     {
-      "index": 46,
+      "index": 98,
       "remove": [
-        "Eternal"
+        {
+          "text": "Eternal",
+          "isWord": true
+        }
       ],
       "add": [
-        "eternal"
+        {
+          "text": "eternal",
+          "isWord": true
+        }
       ]
     }
   ]
