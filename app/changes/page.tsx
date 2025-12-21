@@ -98,7 +98,7 @@ export default function ChangesPage() {
           </p>
           <p className="text-gray-700">
             Most changes were minor corrections, though some had theological significance. Understanding 
-            these changes provides insight into the text's transmission history and the editorial decisions 
+            these changes provides insight into the text&apos;s transmission history and the editorial decisions 
             made over time.
           </p>
         </div>
