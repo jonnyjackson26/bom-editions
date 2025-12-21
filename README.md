@@ -89,3 +89,9 @@ The data is from [Open Scripture](https://github.com/BYU-ODH/OpenScripture). I'v
 ### diff-match-patch
 I'll be using diff-match-patch to calculate differences on the client side for pages like /changes and the reading routes with `?showFootnotes=true` and `?compare=<edition>`
 
+
+
+# TODO:
+- [ ] upgrade next js to fix seuciryt
+- [ ] package lock has "name": "bom-editions2",
+- [ ] metadata.ts: export const baseMetadata: Metadata = { metadataBase: new URL('https://bom-editions.com'),
