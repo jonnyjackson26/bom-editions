@@ -95,3 +95,40 @@ I'll be using diff-match-patch to calculate differences on the client side for p
 - [ ] upgrade next js to fix seuciryt
 - [ ] package lock has "name": "bom-editions2",
 - [ ] metadata.ts: export const baseMetadata: Metadata = { metadataBase: new URL('https://bom-editions.com'),
+
+
+
+ok, a clarification for the footnotes. it should be a little number (resets each verse) that shows after a word in which that word has been changed between editions. When you hover over the footnote (or click it on mobile), it shows a dropdown of how that word and the word before/after it have changed over time.
+
+for example, consider 1 nephi 1:2:
+1830: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+1837: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+1840: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+1841: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+1879: Yea, I make a record in the language of my father, which consists of the learning of the Jews, and the language of the Egyptians.
+1920: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+1981: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+2013: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
+
+If i have footnotes enabled and im reading this verse (no matter which edition im reading or whether or not im comparing), there should be a little "1" footnote after the word "yea,". and hovering it would show:
+1830: yea,
+1837: yea,
+1840: yea,
+1841: yea,
+1879: Yea,
+1920: Yea,
+2013: Yea,
+
+
+
+
+good, but please make it so that both hovering/clicking will open the popup.
+please make it so the pop will always fit naturally on the screen (consider if im at the bottom of the page and hover on a footnote, its popup should appear aboev it.)
+
+hovering from the footnote to inside the footnotes popup should not make the footnote disapear.
+
+please read the entire file before editing anything so u have more context
+
+you can make the popups more concise and simple. remove the "verse X word #X"
+and make it so the edition year is the same line as the change.
+
