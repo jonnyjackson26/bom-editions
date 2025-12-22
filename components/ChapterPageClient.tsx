@@ -40,6 +40,13 @@ export default function ChapterPageClient({
   const [footnoteData, setFootnoteData] = useState<FootnoteData | null>(null);
   const [loading, setLoading] = useState(false);
 
+  const buildQueryString = () => {
+    const params = new URLSearchParams();
+    if (showFootnotes) params.set('showFootnotes', 'true');
+    if (compareEdition) params.set('compare', compareEdition);
+    return params.toString() ? `?${params.toString()}` : '';
+  };
+
   const chapters = getAllChapters(book);
   const bookName = getBookName(book);
   const prevChapter = chapter > 1 ? chapter - 1 : null;
@@ -50,8 +57,8 @@ export default function ChapterPageClient({
     const params = new URLSearchParams();
     if (showFootnotes) params.set('showFootnotes', 'true');
     if (compareEdition) params.set('compare', compareEdition);
-    
-    const newUrl = `/en/${edition}/${book}/${chapter}${params.toString() ? '?' + params.toString() : ''}`;
+    const query = params.toString() ? `?${params.toString()}` : '';
+    const newUrl = `/en/${edition}/${book}/${chapter}${query}`;
     router.push(newUrl, { scroll: false });
   }, [edition, showFootnotes, compareEdition, book, chapter, router]);
 
@@ -82,7 +89,11 @@ export default function ChapterPageClient({
 
   const handleEditionChange = (newEdition: string) => {
     setEdition(newEdition);
-    router.push(`/en/${newEdition}/${book}/${chapter}`);
+    const params = new URLSearchParams();
+    if (showFootnotes) params.set('showFootnotes', 'true');
+    if (compareEdition) params.set('compare', compareEdition);
+    const query = params.toString() ? `?${params.toString()}` : '';
+    router.push(`/en/${newEdition}/${book}/${chapter}${query}`);
   };
 
   const handleWordClick = (verse: number, wordIndex: number, word: string) => {
@@ -177,7 +188,7 @@ export default function ChapterPageClient({
         />
         
         <div className="flex flex-1">
-          <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" />
+          <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
           
           <main className="flex-1 p-8 flex items-center justify-center">
             <div className="text-center">
@@ -216,7 +227,7 @@ export default function ChapterPageClient({
       />
       
       <div className="flex flex-1">
-        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" />
+        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
         
         <main className="flex-1 p-8 max-w-4xl mx-auto">
           {/* Header */}
@@ -244,7 +255,13 @@ export default function ChapterPageClient({
           <div className="flex justify-between items-center">
             {prevChapter ? (
               <button
-                onClick={() => router.push(`/en/${edition}/${book}/${prevChapter}`)}
+                onClick={() => {
+                  const params = new URLSearchParams();
+                  if (showFootnotes) params.set('showFootnotes', 'true');
+                  if (compareEdition) params.set('compare', compareEdition);
+                  const query = params.toString() ? `?${params.toString()}` : '';
+                  router.push(`/en/${edition}/${book}/${prevChapter}${query}`);
+                }}
                 className="flex items-center gap-2 px-6 py-3 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -258,7 +275,13 @@ export default function ChapterPageClient({
             
             {nextChapter ? (
               <button
-                onClick={() => router.push(`/en/${edition}/${book}/${nextChapter}`)}
+                onClick={() => {
+                  const params = new URLSearchParams();
+                  if (showFootnotes) params.set('showFootnotes', 'true');
+                  if (compareEdition) params.set('compare', compareEdition);
+                  const query = params.toString() ? `?${params.toString()}` : '';
+                  router.push(`/en/${edition}/${book}/${nextChapter}${query}`);
+                }}
                 className="flex items-center gap-2 px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors"
               >
                 Next Chapter

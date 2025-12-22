@@ -9,9 +9,10 @@ interface SidebarProps {
   currentBook?: string;
   currentChapter?: number;
   mode?: 'books' | 'chapters';
+  queryString?: string;
 }
 
-export default function Sidebar({ edition, currentBook, currentChapter, mode = 'books' }: SidebarProps) {
+export default function Sidebar({ edition, currentBook, currentChapter, mode = 'books', queryString = '' }: SidebarProps) {
   const pathname = usePathname();
 
   if (!mode || mode === 'books') {
@@ -23,9 +24,9 @@ export default function Sidebar({ edition, currentBook, currentChapter, mode = '
           </h2>
           <nav className="space-y-1">
             {BOOKS.map((book) => {
-              const href = edition
+              const href = (edition
                 ? `/en/${edition}/${book.slug}`
-                : `/en/1830/${book.slug}`;
+                : `/en/1830/${book.slug}`) + (queryString || '');
               const isActive = currentBook === book.slug;
 
               return (
@@ -57,7 +58,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, mode = '
         <div className="p-4">
           <div className="mb-4">
             <Link
-              href={edition ? `/en/${edition}` : '/'}
+              href={(edition ? `/en/${edition}` : '/') + (queryString || '')}
               className="text-sm text-primary-600 hover:text-primary-700 font-medium"
             >
               ← All Books
@@ -68,9 +69,9 @@ export default function Sidebar({ edition, currentBook, currentChapter, mode = '
           </h2>
           <nav className="grid grid-cols-4 gap-2">
             {chapters.map((chapter) => {
-              const href = edition
+              const href = (edition
                 ? `/en/${edition}/${currentBook}/${chapter}`
-                : `/en/1830/${currentBook}/${chapter}`;
+                : `/en/1830/${currentBook}/${chapter}`) + (queryString || '');
               const isActive = currentChapter === chapter;
 
               return (
