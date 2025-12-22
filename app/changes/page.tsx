@@ -1,13 +1,54 @@
 import Link from 'next/link';
 import TopBar from '@/components/TopBar';
-import { EDITIONS } from '@/lib/constants';
+import { EDITIONS, BOOKS, getAllChapters } from '@/lib/constants';
+import { readFile } from 'fs/promises';
+import path from 'path';
+import { ChapterData } from '@/lib/data';
+import { findChanges } from '@/lib/diff';
 
 export const metadata = {
   title: 'Changes Between Editions - Book of Mormon',
   description: 'Explore textual changes made between different editions of the Book of Mormon from 1830 to 2013.',
 };
 
-export default function ChangesPage() {
+async function getChapterData(edition: string, book: string, chapter: number): Promise<ChapterData | null> {
+  try {
+    const filePath = path.join(process.cwd(), 'public', 'data', 'en', edition, book, `${chapter}.json`);
+    const fileContent = await readFile(filePath, 'utf-8');
+    return JSON.parse(fileContent);
+  } catch (error) {
+    return null;
+  }
+}
+
+async function getEditionChangeCount(fromEdition: string, toEdition: string): Promise<number> {
+  let count = 0;
+
+  for (const book of BOOKS) {
+    const chapters = getAllChapters(book.slug);
+    
+    for (const chapter of chapters) {
+      const fromData = await getChapterData(fromEdition, book.slug, chapter);
+      const toData = await getChapterData(toEdition, book.slug, chapter);
+
+      if (fromData && toData) {
+        const chapterChanges = findChanges(
+          fromData,
+          toData,
+          book.name,
+          chapter,
+          fromEdition,
+          toEdition
+        );
+        count += chapterChanges.length;
+      }
+    }
+  }
+
+  return count;
+}
+
+export default async function ChangesPage() {
   return (
     <div className="min-h-screen flex flex-col">
       <TopBar />
@@ -53,9 +94,10 @@ export default function ChangesPage() {
           Changes by Edition
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          {EDITIONS.slice(1).map((edition, index) => {
+          {await Promise.all(EDITIONS.slice(1).map(async (edition) => {
             const editionIndex = EDITIONS.indexOf(edition);
             const fromEdition = EDITIONS[editionIndex - 1];
+            const changeCount = await getEditionChangeCount(fromEdition, edition);
             
             return (
               <Link
@@ -84,9 +126,14 @@ export default function ChangesPage() {
                 <p className="text-gray-600">
                   View detailed textual changes and differences introduced in this edition
                 </p>
+                <div className="mt-4 pt-4 border-t border-gray-200">
+                  <p className="text-sm font-semibold text-primary-600">
+                    {changeCount} {changeCount === 1 ? 'change' : 'changes'}
+                  </p>
+                </div>
               </Link>
             );
-          })}
+          }))}
         </div>
 
         {/* Info Section */}
