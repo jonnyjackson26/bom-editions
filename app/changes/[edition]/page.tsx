@@ -16,10 +16,12 @@ export function generateStaticParams() {
 
 export function generateMetadata({ params }: { params: { edition: string } }) {
   const { edition } = params;
+  const editionIndex = EDITIONS.indexOf(edition as any);
+  const previousEdition = editionIndex > 0 ? EDITIONS[editionIndex - 1] : EDITIONS[0];
   
   return {
     title: `Changes to ${edition} Edition - Book of Mormon`,
-    description: `View all textual changes made to the ${edition} edition from the 1830 edition.`,
+    description: `View all textual changes made to the ${edition} edition from the ${previousEdition} edition.`,
   };
 }
 
@@ -34,7 +36,8 @@ async function getChapterData(edition: string, book: string, chapter: number): P
 }
 
 async function loadEditionChanges(toEdition: string): Promise<ChangeItem[]> {
-  const fromEdition = EDITIONS[0]; // Always compare from 1830
+  const editionIndex = EDITIONS.indexOf(toEdition as any);
+  const fromEdition = editionIndex > 0 ? EDITIONS[editionIndex - 1] : EDITIONS[0];
   const allChanges: ChangeItem[] = [];
 
   for (const book of BOOKS) {
@@ -69,7 +72,8 @@ export default async function EditionChangesPage({ params }: { params: { edition
   }
 
   const changes = await loadEditionChanges(toEdition);
-  const fromEdition = EDITIONS[0];
+  const editionIndex = EDITIONS.indexOf(toEdition as any);
+  const fromEdition = editionIndex > 0 ? EDITIONS[editionIndex - 1] : EDITIONS[0];
 
   const filteredChanges = changes.filter((change) => {
     return true; // Initial load with no filter

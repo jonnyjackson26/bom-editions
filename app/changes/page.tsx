@@ -19,7 +19,7 @@ export default function ChangesPage() {
           </h1>
           <p className="text-lg text-gray-600">
             Explore the textual changes made between different editions of the Book of Mormon over time. 
-            Select an edition below to see what changed from the 1830 original, or view all changes across every edition.
+            Select an edition below to see what changed from the previous edition, or view all changes across every edition.
           </p>
         </div>
 
@@ -54,7 +54,8 @@ export default function ChangesPage() {
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {EDITIONS.slice(1).map((edition, index) => {
-            const fromEdition = EDITIONS[0]; // Always compare from 1830
+            const editionIndex = EDITIONS.indexOf(edition);
+            const fromEdition = EDITIONS[editionIndex - 1];
             
             return (
               <Link
