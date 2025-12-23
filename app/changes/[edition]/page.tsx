@@ -6,7 +6,7 @@ import EditionChangesClient from '@/components/EditionChangesClient';
 import { readFile } from 'fs/promises';
 import path from 'path';
 import { ChapterData } from '@/lib/data';
-import { findChanges, ChangeItem } from '@/lib/diff';
+import { findChanges, ChangeItem, countChangeGroups } from '@/lib/diff';
 
 export function generateStaticParams() {
   return EDITIONS.slice(1).map((edition) => ({
@@ -74,6 +74,7 @@ export default async function EditionChangesPage({ params }: { params: { edition
   const changes = await loadEditionChanges(toEdition);
   const editionIndex = EDITIONS.indexOf(toEdition as any);
   const fromEdition = editionIndex > 0 ? EDITIONS[editionIndex - 1] : EDITIONS[0];
+  const totalPerDifference = changes.reduce((acc, c) => acc + countChangeGroups(c.diffs), 0);
 
   const filteredChanges = changes.filter((change) => {
     return true; // Initial load with no filter
@@ -96,7 +97,7 @@ export default async function EditionChangesPage({ params }: { params: { edition
             Changes: {fromEdition} → {toEdition}
           </h1>
           <p className="text-lg text-gray-600">
-            {changes.length} changes found between these editions
+            {totalPerDifference} changes found between these editions
           </p>
         </div>
 

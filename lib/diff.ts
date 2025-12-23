@@ -43,6 +43,145 @@ export interface ChangeItem {
   diffs: DiffResult[];
 }
 
+// Split a verse-level diff array into individual change groups (runs of non-equal ops)
+export function splitChangeGroups(diffs: DiffResult[]): DiffResult[][] {
+  const groups: DiffResult[][] = [];
+  let current: DiffResult[] = [];
+
+  for (const d of diffs) {
+    if (d.type === 'equal') {
+      if (current.length > 0) {
+        groups.push(current);
+        current = [];
+      }
+    } else {
+      current.push(d);
+    }
+  }
+
+  if (current.length > 0) groups.push(current);
+  return groups;
+}
+
+export function countChangeGroups(diffs: DiffResult[]): number {
+  return splitChangeGroups(diffs).length;
+}
+
+export interface ChangeGroupRange {
+  diffs: DiffResult[];
+  oldStart: number;
+  oldEnd: number;
+  newStart: number;
+  newEnd: number;
+}
+
+// Compute contiguous non-equal groups and their ranges within old/new verse strings
+export function computeChangeGroupsWithRanges(
+  diffs: DiffResult[],
+  oldText: string,
+  newText: string
+): ChangeGroupRange[] {
+  const groups: ChangeGroupRange[] = [];
+  let oldPos = 0;
+  let newPos = 0;
+
+  let currentDiffs: DiffResult[] = [];
+  let groupOldStart = 0;
+  let groupNewStart = 0;
+  let inGroup = false;
+
+  for (const d of diffs) {
+    if (d.type === 'equal') {
+      if (inGroup) {
+        groups.push({
+          diffs: currentDiffs,
+          oldStart: groupOldStart,
+          oldEnd: oldPos,
+          newStart: groupNewStart,
+          newEnd: newPos,
+        });
+        currentDiffs = [];
+        inGroup = false;
+      }
+      oldPos += d.text.length;
+      newPos += d.text.length;
+    } else if (d.type === 'delete') {
+      if (!inGroup) {
+        groupOldStart = oldPos;
+        groupNewStart = newPos;
+        inGroup = true;
+      }
+      currentDiffs.push(d);
+      oldPos += d.text.length;
+    } else if (d.type === 'insert') {
+      if (!inGroup) {
+        groupOldStart = oldPos;
+        groupNewStart = newPos;
+        inGroup = true;
+      }
+      currentDiffs.push(d);
+      newPos += d.text.length;
+    }
+  }
+
+  if (inGroup) {
+    groups.push({
+      diffs: currentDiffs,
+      oldStart: groupOldStart,
+      oldEnd: oldPos,
+      newStart: groupNewStart,
+      newEnd: newPos,
+    });
+  }
+
+  return groups;
+}
+
+function isWordChar(ch: string): boolean {
+  return /[\p{L}\p{N}'’-]/u.test(ch);
+}
+
+function expandToWordBoundaries(text: string, start: number, end: number): [number, number] {
+  let s = Math.max(0, start);
+  let e = Math.min(text.length, end);
+
+  while (s > 0 && isWordChar(text[s - 1])) s--;
+  while (e < text.length && isWordChar(text[e])) e++;
+  return [s, e];
+}
+
+export function summarizeGroupChange(
+  oldText: string,
+  newText: string,
+  group: ChangeGroupRange
+): string {
+  const hasDelete = group.diffs.some((d) => d.type === 'delete');
+  const hasInsert = group.diffs.some((d) => d.type === 'insert');
+
+  const [oldS, oldE] = expandToWordBoundaries(oldText, group.oldStart, group.oldEnd);
+  const [newS, newE] = expandToWordBoundaries(newText, group.newStart, group.newEnd);
+
+  const oldSpan = oldText.slice(oldS, oldE).trim();
+  const newSpan = newText.slice(newS, newE).trim();
+
+  if (hasDelete && hasInsert) {
+    return `Change "${oldSpan}" to "${newSpan}"`;
+  } else if (hasDelete) {
+    // If deletion effectively changes a word into a different neighboring form, show change
+    if (newSpan && oldSpan && oldSpan !== newSpan) {
+      return `Change "${oldSpan}" to "${newSpan}"`;
+    }
+    return `Removed "${oldSpan}"`;
+  } else if (hasInsert) {
+    // If insertion effectively modifies a word (e.g., punctuation or letter), show change
+    if (oldSpan && newSpan && oldSpan !== newSpan) {
+      return `Change "${oldSpan}" to "${newSpan}"`;
+    }
+    return `Added "${newSpan}"`;
+  }
+  return 'No visible changes';
+}
+
 export function findChanges(
   fromData: { verses: { verse: number; text: string }[] },
   toData: { verses: { verse: number; text: string }[] },
