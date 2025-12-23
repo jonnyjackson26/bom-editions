@@ -138,7 +138,8 @@ export function computeChangeGroupsWithRanges(
 }
 
 function isWordChar(ch: string): boolean {
-  return /[\p{L}\p{N}'’-]/u.test(ch);
+  // ES5-safe: treat letters, digits, apostrophes, and dashes as word chars
+  return /[A-Za-z0-9_'’-]/.test(ch);
 }
 
 function expandToWordBoundaries(text: string, start: number, end: number): [number, number] {
