@@ -28,6 +28,7 @@ export default function TopBar({
 }) {
   const pathname = usePathname();
   const [isVisible, setIsVisible] = useState(true);
+  const [isAtTop, setIsAtTop] = useState(true);
   const lastScrollY = useRef(0);
   const ticking = useRef(false);
 
@@ -37,6 +38,7 @@ export default function TopBar({
   useEffect(() => {
     if (!isReadingRoute) {
       setIsVisible(true);
+      setIsAtTop(true);
       return;
     }
 
@@ -44,6 +46,15 @@ export default function TopBar({
       if (!ticking.current) {
         window.requestAnimationFrame(() => {
           const currentScrollY = window.scrollY;
+          
+          // Check if the page h1 is visible
+          const pageH1 = document.getElementById('page-title');
+          if (pageH1) {
+            const rect = pageH1.getBoundingClientRect();
+            // h1 is considered "at top" if it's still visible in viewport
+            // 64px is the topbar height
+            setIsAtTop(rect.bottom > 64);
+          }
           
           // Don't hide if we're at the top
           if (currentScrollY < 10) {
@@ -88,10 +99,21 @@ export default function TopBar({
           <div>
             {isReadingRoute && book && chapter ? (
               <>
-                <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-                  {getBookName(book)} {chapter}
-                </h1>
-                <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
+                {isAtTop ? (
+                  <>
+                    <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                      Book of Mormon Editions
+                    </h1>
+                    <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
+                  </>
+                ) : (
+                  <>
+                    <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                      {getBookName(book)} {chapter}
+                    </h1>
+                    <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
+                  </>
+                )}
               </>
             ) : (
               <>

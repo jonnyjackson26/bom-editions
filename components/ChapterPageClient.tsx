@@ -236,7 +236,7 @@ export default function ChapterPageClient({
         <main className="flex-1 p-8 max-w-4xl mx-auto ml-64">
           {/* Header */}
           <div className="mb-8">
-            <h1 className="text-4xl font-bold text-gray-900 mb-2">
+            <h1 id="page-title" className="text-4xl font-bold text-gray-900 mb-2">
               {bookName} {chapter}
             </h1>
             <p className="text-lg text-gray-600">

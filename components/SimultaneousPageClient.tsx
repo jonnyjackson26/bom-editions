@@ -86,7 +86,7 @@ export default function SimultaneousPageClient({
 
         <main className="flex-1 p-6 md:p-8 ml-64">
           <div className="max-w-5xl mx-auto mb-6">
-            <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
+            <h1 id="page-title" className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
               {bookName} {chapter}
             </h1>
             <p className="text-base md:text-lg text-gray-600 mb-4">
