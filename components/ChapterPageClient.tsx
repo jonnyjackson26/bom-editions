@@ -233,7 +233,8 @@ export default function ChapterPageClient({
       <div className="flex flex-1">
         <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
         
-        <main className="flex-1 p-8 max-w-4xl mx-auto ml-64">
+        <main className="flex-1 ml-64">
+          <div className="max-w-4xl px-8 py-8 mx-0 xl:mx-auto">
           {/* Header */}
           <div className="mb-8">
             <h1 id="page-title" className="text-4xl font-bold text-gray-900 mb-2">
@@ -246,7 +247,7 @@ export default function ChapterPageClient({
           </div>
 
           {/* Chapter Text */}
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
+          <div className="mb-8">
             <div className="prose prose-lg max-w-none">
               {chapterData.verses.map((verse) => {
                 const compareVerse = compareData?.verses.find(v => v.verse === verse.verse);
@@ -296,6 +297,7 @@ export default function ChapterPageClient({
             ) : (
               <div></div>
             )}
+          </div>
           </div>
         </main>
       </div>

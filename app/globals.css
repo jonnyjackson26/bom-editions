@@ -18,7 +18,7 @@
   }
   
   .verse-number {
-    @apply inline-block mr-2 font-semibold text-primary-600 min-w-[2rem];
+    @apply inline-block mr-1 font-bold text-gray-900;
   }
   
   .verse-text {
