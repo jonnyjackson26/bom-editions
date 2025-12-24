@@ -82,7 +82,7 @@ export default function SimultaneousPageClient({
 
       <div className="flex-1 flex">
         {/* Sidebar for chapters */}
-        <Sidebar edition="simultaneous" currentBook={book} currentChapter={chapter} mode="chapters" />
+        <Sidebar edition="simultaneous" currentBook={book} currentChapter={chapter} />
 
         <main className="flex-1 p-6 md:p-8">
           <div className="max-w-5xl mx-auto mb-6">

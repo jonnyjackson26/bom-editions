@@ -22,7 +22,7 @@ export default function HomePage() {
         {/* Screenshots Section */}
         <section className="mb-16">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+            <Link href="/en/editions" className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:border-primary-500 transition-all hover:shadow-xl">
               <Image
                 src="/screenshots/1830-1-nephi-1.png"
                 alt="Reading the 1830 edition of 1 Nephi"
@@ -31,11 +31,11 @@ export default function HomePage() {
                 className="w-full h-auto"
               />
               <div className="p-4">
-                <h3 className="font-semibold text-gray-900">Read Historical Editions</h3>
-                <p className="text-sm text-gray-600">Access any edition from 1830 to 2013</p>
+                <h3 className="font-semibold text-gray-900">Read Complete Editions</h3>
+                <p className="text-sm text-gray-600">Read the complete text of the 1830, 1837, and other editions of the Book of Mormon</p>
               </div>
-            </div>
-            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+            </Link>
+            <Link href="/en/1830/1-nephi/1?compare=2013" className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:border-primary-500 transition-all hover:shadow-xl">
               <Image
                 src="/screenshots/1830-with-2013-comparison.png"
                 alt="Comparing 1830 and 2013 editions side-by-side"
@@ -44,11 +44,11 @@ export default function HomePage() {
                 className="w-full h-auto"
               />
               <div className="p-4">
-                <h3 className="font-semibold text-gray-900">Side-by-Side Comparison</h3>
-                <p className="text-sm text-gray-600">See differences highlighted between editions</p>
+                <h3 className="font-semibold text-gray-900">See Inline Differences</h3>
+                <p className="text-sm text-gray-600">See inline differences between editions</p>
               </div>
-            </div>
-            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+            </Link>
+            <Link href="/changes/1837" className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:border-primary-500 transition-all hover:shadow-xl">
               <Image
                 src="/screenshots/changes-1830-1837.png"
                 alt="Viewing changes between 1830 and 1837 editions"
@@ -60,8 +60,8 @@ export default function HomePage() {
                 <h3 className="font-semibold text-gray-900">Track All Changes</h3>
                 <p className="text-sm text-gray-600">Browse comprehensive change history</p>
               </div>
-            </div>
-            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+            </Link>
+            <Link href="/en/simultaneous/1-nephi/1" className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200 hover:border-primary-500 transition-all hover:shadow-xl">
               <Image
                 src="/screenshots/simultaneous.png"
                 alt="Simultaneous view of all editions"
@@ -73,7 +73,7 @@ export default function HomePage() {
                 <h3 className="font-semibold text-gray-900">Simultaneous View</h3>
                 <p className="text-sm text-gray-600">Compare all editions at once</p>
               </div>
-            </div>
+            </Link>
           </div>
         </section>
 
@@ -144,41 +144,6 @@ export default function HomePage() {
                 Browse a comprehensive list of all textual changes made between different editions over time.
               </p>
             </div>
-          </div>
-        </section>
-
-        {/* Quick Links */}
-        <section className="bg-gradient-to-r from-primary-50 to-primary-100 rounded-xl p-8 border border-primary-200">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Quick Start</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-            <Link
-              href="/en/1830/1-nephi/1"
-              className="bg-white rounded-lg p-4 hover:shadow-md transition-shadow border border-gray-200"
-            >
-              <div className="font-semibold text-gray-900 mb-1">Read the 1830 Edition</div>
-              <div className="text-sm text-gray-600">Start with 1 Nephi Chapter 1</div>
-            </Link>
-            <Link
-              href="/en/2013/1-nephi/1"
-              className="bg-white rounded-lg p-4 hover:shadow-md transition-shadow border border-gray-200"
-            >
-              <div className="font-semibold text-gray-900 mb-1">Read the 2013 Edition</div>
-              <div className="text-sm text-gray-600">Current LDS edition</div>
-            </Link>
-            <Link
-              href="/changes"
-              className="bg-white rounded-lg p-4 hover:shadow-md transition-shadow border border-gray-200"
-            >
-              <div className="font-semibold text-gray-900 mb-1">View All Changes</div>
-              <div className="text-sm text-gray-600">See what changed between editions</div>
-            </Link>
-            <Link
-              href="/en/simultaneous/1-nephi/1"
-              className="bg-white rounded-lg p-4 hover:shadow-md transition-shadow border border-gray-200"
-            >
-              <div className="font-semibold text-gray-900 mb-1">Simultaneous View</div>
-              <div className="text-sm text-gray-600">Compare all editions at once</div>
-            </Link>
           </div>
         </section>
 
