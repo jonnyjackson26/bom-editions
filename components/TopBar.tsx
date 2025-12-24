@@ -29,6 +29,7 @@ export default function TopBar({
   const pathname = usePathname();
   const [isVisible, setIsVisible] = useState(true);
   const [isAtTop, setIsAtTop] = useState(true);
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const lastScrollY = useRef(0);
   const ticking = useRef(false);
 
@@ -186,11 +187,72 @@ export default function TopBar({
             </div>
           )}
 
-          {/* Navigation Links */}
-          <div className="flex items-center gap-2 ml-4 border-l pl-4">
+          {/* Navigation Links - Only on non-reading routes */}
+          {!isReadingRoute && (
+            <>
+              {/* Desktop Navigation */}
+              <div className="hidden md:flex items-center gap-2 ml-4 border-l pl-4">
+                <Link
+                  href="/"
+                  className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    pathname === '/'
+                      ? 'bg-primary-100 text-primary-700'
+                      : 'text-gray-600 hover:bg-gray-100'
+                  }`}
+                >
+                  Home
+                </Link>
+                <Link
+                  href="/changes"
+                  className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    pathname?.startsWith('/changes')
+                      ? 'bg-primary-100 text-primary-700'
+                      : 'text-gray-600 hover:bg-gray-100'
+                  }`}
+                >
+                  Changes
+                </Link>
+                <Link
+                  href="/about"
+                  className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    pathname === '/about'
+                      ? 'bg-primary-100 text-primary-700'
+                      : 'text-gray-600 hover:bg-gray-100'
+                  }`}
+                >
+                  About
+                </Link>
+              </div>
+
+              {/* Mobile Hamburger Menu */}
+              <div className="md:hidden ml-4 border-l pl-4">
+                <button
+                  onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
+                  className="p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors"
+                  aria-label="Toggle menu"
+                >
+                  <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    {isMobileMenuOpen ? (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                    ) : (
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                    )}
+                  </svg>
+                </button>
+              </div>
+            </>
+          )}
+        </div>
+      </div>
+
+      {/* Mobile Menu Dropdown */}
+      {!isReadingRoute && isMobileMenuOpen && (
+        <div className="md:hidden border-t border-gray-200 bg-white">
+          <nav className="px-4 py-2 space-y-1">
             <Link
               href="/"
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`block px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
                 pathname === '/'
                   ? 'bg-primary-100 text-primary-700'
                   : 'text-gray-600 hover:bg-gray-100'
@@ -200,7 +262,8 @@ export default function TopBar({
             </Link>
             <Link
               href="/changes"
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`block px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
                 pathname?.startsWith('/changes')
                   ? 'bg-primary-100 text-primary-700'
                   : 'text-gray-600 hover:bg-gray-100'
@@ -210,7 +273,8 @@ export default function TopBar({
             </Link>
             <Link
               href="/about"
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`block px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
                 pathname === '/about'
                   ? 'bg-primary-100 text-primary-700'
                   : 'text-gray-600 hover:bg-gray-100'
@@ -218,9 +282,9 @@ export default function TopBar({
             >
               About
             </Link>
-          </div>
+          </nav>
         </div>
-      </div>
+      )}
     </div>
   );
 }
