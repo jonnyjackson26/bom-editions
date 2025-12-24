@@ -188,7 +188,7 @@ export default function ChapterPageClient({
         />
         
         <div className="flex flex-1">
-          <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
+        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
           
           <main className="flex-1 p-8 flex items-center justify-center">
             <div className="text-center">
@@ -227,7 +227,7 @@ export default function ChapterPageClient({
       />
       
       <div className="flex flex-1">
-        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
+        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
         
         <main className="flex-1 p-8 max-w-4xl mx-auto">
           {/* Header */}
