@@ -1,4 +1,3 @@
-import TopBar from '@/components/TopBar';
 import { EDITIONS, BOOKS, getBookName } from '@/lib/constants';
 import { notFound } from 'next/navigation';
 import BookPageClient from '@/components/BookPageClient';
@@ -39,7 +38,6 @@ export default function BookPage({ params }: { params: { edition: string; book: 
 
   return (
     <div className="min-h-screen flex flex-col">
-      <TopBar />
       <BookPageClient edition={edition} book={book} />
     </div>
   );

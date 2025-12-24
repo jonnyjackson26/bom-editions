@@ -1,4 +1,3 @@
-import TopBar from '@/components/TopBar';
 import { EDITIONS } from '@/lib/constants';
 import { notFound } from 'next/navigation';
 import EditionPageClient from '@/components/EditionPageClient';
@@ -28,7 +27,6 @@ export default function EditionPage({ params }: { params: { edition: string } })
 
   return (
     <div className="min-h-screen flex flex-col">
-      <TopBar />
       <EditionPageClient edition={edition} />
     </div>
   );

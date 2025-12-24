@@ -2,11 +2,14 @@
 
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
+import { useState } from 'react';
+import TopBar from '@/components/TopBar';
 import Sidebar from '@/components/Sidebar';
 import { getAllChapters, getBookName } from '@/lib/constants';
 
 export default function BookPageClient({ edition, book }: { edition: string; book: string }) {
   const searchParams = useSearchParams();
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const buildQueryString = () => {
     const params = new URLSearchParams();
@@ -22,10 +25,19 @@ export default function BookPageClient({ edition, book }: { edition: string; boo
   const bookName = getBookName(book);
 
   return (
-    <div className="flex flex-1">
-      <Sidebar edition={edition} currentBook={book} mode="chapters" queryString={queryString} />
+    <>
+      <TopBar onMenuClick={() => setSidebarOpen(!sidebarOpen)} />
+      <div className="flex flex-1">
+        <Sidebar 
+          edition={edition} 
+          currentBook={book} 
+          mode="chapters" 
+          queryString={queryString}
+          isOpen={sidebarOpen}
+          onClose={() => setSidebarOpen(false)}
+        />
 
-      <main className="flex-1 p-8 max-w-5xl mx-auto">
+        <main className="flex-1 p-4 md:p-8 max-w-5xl mx-auto">
         <div className="mb-8">
           <div className="mb-4">
             <Link
@@ -77,5 +89,6 @@ export default function BookPageClient({ edition, book }: { edition: string; boo
         </div>
       </main>
     </div>
+    </>
   );
 }

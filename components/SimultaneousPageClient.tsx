@@ -21,6 +21,7 @@ export default function SimultaneousPageClient({
   const router = useRouter();
   const [allData, setAllData] = useState<Record<string, ChapterData>>(initialData);
   const [loading, setLoading] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const chapters = getAllChapters(book);
   const bookName = getBookName(book);
@@ -78,13 +79,20 @@ export default function SimultaneousPageClient({
 
   return (
     <div className="min-h-screen flex flex-col">
-      <TopBar />
+      <TopBar onMenuClick={() => setSidebarOpen(!sidebarOpen)} />
 
       <div className="flex-1 flex">
         {/* Sidebar for chapters */}
-        <Sidebar edition="simultaneous" currentBook={book} currentChapter={chapter} mode="chapters" />
+        <Sidebar 
+          edition="simultaneous" 
+          currentBook={book} 
+          currentChapter={chapter} 
+          mode="chapters"
+          isOpen={sidebarOpen}
+          onClose={() => setSidebarOpen(false)}
+        />
 
-        <main className="flex-1 p-6 md:p-8">
+        <main className="flex-1 p-4 md:p-8">
           <div className="max-w-5xl mx-auto mb-6">
             <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
               {bookName} {chapter}

@@ -39,6 +39,7 @@ export default function ChapterPageClient({
   const [allEditionsData, setAllEditionsData] = useState<Record<string, ChapterData>>({});
   const [footnoteData, setFootnoteData] = useState<FootnoteData | null>(null);
   const [loading, setLoading] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const buildQueryString = () => {
     const params = new URLSearchParams();
@@ -185,10 +186,19 @@ export default function ChapterPageClient({
           onShowFootnotesChange={setShowFootnotes}
           onCompareEditionChange={setCompareEdition}
           availableEditions={EDITIONS as any}
+          onMenuClick={() => setSidebarOpen(!sidebarOpen)}
         />
         
         <div className="flex flex-1">
-          <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
+          <Sidebar 
+            edition={edition} 
+            currentBook={book} 
+            currentChapter={chapter} 
+            mode="chapters" 
+            queryString={buildQueryString()}
+            isOpen={sidebarOpen}
+            onClose={() => setSidebarOpen(false)}
+          />
           
           <main className="flex-1 p-8 flex items-center justify-center">
             <div className="text-center">
@@ -224,12 +234,21 @@ export default function ChapterPageClient({
         onShowFootnotesChange={setShowFootnotes}
         onCompareEditionChange={setCompareEdition}
         availableEditions={EDITIONS as any}
+        onMenuClick={() => setSidebarOpen(!sidebarOpen)}
       />
       
       <div className="flex flex-1">
-        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} mode="chapters" queryString={buildQueryString()} />
+        <Sidebar 
+          edition={edition} 
+          currentBook={book} 
+          currentChapter={chapter} 
+          mode="chapters" 
+          queryString={buildQueryString()}
+          isOpen={sidebarOpen}
+          onClose={() => setSidebarOpen(false)}
+        />
         
-        <main className="flex-1 p-8 max-w-4xl mx-auto">
+        <main className="flex-1 p-4 md:p-8 max-w-4xl mx-auto">
           {/* Header */}
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-gray-900 mb-2">

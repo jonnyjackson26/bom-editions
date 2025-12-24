@@ -2,11 +2,14 @@
 
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
+import { useState } from 'react';
+import TopBar from '@/components/TopBar';
 import Sidebar from '@/components/Sidebar';
 import { BOOKS } from '@/lib/constants';
 
 export default function EditionPageClient({ edition }: { edition: string }) {
   const searchParams = useSearchParams();
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   const buildQueryString = () => {
     const params = new URLSearchParams();
@@ -19,10 +22,18 @@ export default function EditionPageClient({ edition }: { edition: string }) {
   const queryString = buildQueryString();
 
   return (
-    <div className="flex flex-1">
-      <Sidebar edition={edition} mode="books" queryString={queryString} />
+    <>
+      <TopBar onMenuClick={() => setSidebarOpen(!sidebarOpen)} />
+      <div className="flex flex-1">
+        <Sidebar 
+          edition={edition} 
+          mode="books" 
+          queryString={queryString}
+          isOpen={sidebarOpen}
+          onClose={() => setSidebarOpen(false)}
+        />
 
-      <main className="flex-1 p-8 max-w-5xl mx-auto">
+        <main className="flex-1 p-4 md:p-8 max-w-5xl mx-auto">
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
             {edition} Edition
@@ -50,5 +61,6 @@ export default function EditionPageClient({ edition }: { edition: string }) {
         </div>
       </main>
     </div>
+    </>
   );
 }
