@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import TopBar from '@/components/TopBar';
 import { EDITIONS, BOOKS } from '@/lib/constants';
 
@@ -14,10 +15,67 @@ export default function HomePage() {
             Book of Mormon Editions
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Explore and compare different editions of the Book of Mormon from 1830 to 2013. 
-            Read the original text, track changes across editions, and understand the evolution of this sacred text.
+            The Book of Mormon Editions Project is an open-source tool that makes it easy to read historical versions of the Book of Mormon, compare them side-by-side in meaningful ways, and explore the detailed list of changes between editions.
           </p>
         </div>
+
+        {/* Screenshots Section */}
+        <section className="mb-16">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+              <Image
+                src="/screenshots/1830-1-nephi-1.png"
+                alt="Reading the 1830 edition of 1 Nephi"
+                width={800}
+                height={600}
+                className="w-full h-auto"
+              />
+              <div className="p-4">
+                <h3 className="font-semibold text-gray-900">Read Historical Editions</h3>
+                <p className="text-sm text-gray-600">Access any edition from 1830 to 2013</p>
+              </div>
+            </div>
+            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+              <Image
+                src="/screenshots/1830-with-2013-comparison.png"
+                alt="Comparing 1830 and 2013 editions side-by-side"
+                width={800}
+                height={600}
+                className="w-full h-auto"
+              />
+              <div className="p-4">
+                <h3 className="font-semibold text-gray-900">Side-by-Side Comparison</h3>
+                <p className="text-sm text-gray-600">See differences highlighted between editions</p>
+              </div>
+            </div>
+            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+              <Image
+                src="/screenshots/changes-1830-1837.png"
+                alt="Viewing changes between 1830 and 1837 editions"
+                width={800}
+                height={600}
+                className="w-full h-auto"
+              />
+              <div className="p-4">
+                <h3 className="font-semibold text-gray-900">Track All Changes</h3>
+                <p className="text-sm text-gray-600">Browse comprehensive change history</p>
+              </div>
+            </div>
+            <div className="bg-white rounded-xl shadow-md overflow-hidden border border-gray-200">
+              <Image
+                src="/screenshots/simultaneous.png"
+                alt="Simultaneous view of all editions"
+                width={800}
+                height={600}
+                className="w-full h-auto"
+              />
+              <div className="p-4">
+                <h3 className="font-semibold text-gray-900">Simultaneous View</h3>
+                <p className="text-sm text-gray-600">Compare all editions at once</p>
+              </div>
+            </div>
+          </div>
+        </section>
 
         {/* Editions Grid */}
         <section className="mb-16">
@@ -28,7 +86,7 @@ export default function HomePage() {
             {EDITIONS.map((edition) => (
               <Link
                 key={edition}
-                href={`/en/${edition}`}
+                href={`/en/${edition}/1-nephi/1`}
                 className="group bg-white rounded-xl shadow-md hover:shadow-xl transition-all p-6 border border-gray-200 hover:border-primary-500"
               >
                 <div className="text-center">
@@ -133,7 +191,7 @@ export default function HomePage() {
             {BOOKS.map((book) => (
               <Link
                 key={book.slug}
-                href={`/en/2013/${book.slug}`}
+                href={`/en/2013/${book.slug}/1`}
                 className="bg-white rounded-lg p-4 text-center hover:shadow-md transition-shadow border border-gray-200 hover:border-primary-500"
               >
                 <div className="font-semibold text-gray-900 text-sm">{book.name}</div>
@@ -156,10 +214,23 @@ export default function HomePage() {
               BYU Open Scripture
             </a>
           </p>
-          <p className="text-sm">
+          <p className="mb-2">
+            <a
+              href="https://github.com/jonnyjackson26/bom-editions2"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary-600 hover:text-primary-700 font-medium"
+            >
+              View Source Code on GitHub
+            </a>
+          </p>
+          <p className="text-sm mb-2">
             <Link href="/about" className="text-primary-600 hover:text-primary-700">
               Learn more about this project
             </Link>
+          </p>
+          <p className="text-sm text-gray-500 mt-4">
+            Not affiliated with the Church of Jesus Christ of Latter-Day Saints
           </p>
         </div>
       </footer>
