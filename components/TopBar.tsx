@@ -2,6 +2,8 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { useState, useEffect, useRef } from 'react';
+import { getBookName } from '@/lib/constants';
 
 export default function TopBar({
   edition,
@@ -11,6 +13,8 @@ export default function TopBar({
   onShowFootnotesChange,
   onCompareEditionChange,
   availableEditions,
+  book,
+  chapter,
 }: {
   edition?: string;
   showFootnotes?: boolean;
@@ -19,11 +23,62 @@ export default function TopBar({
   onShowFootnotesChange?: (show: boolean) => void;
   onCompareEditionChange?: (edition: string) => void;
   availableEditions?: string[];
+  book?: string;
+  chapter?: number;
 }) {
   const pathname = usePathname();
+  const [isVisible, setIsVisible] = useState(true);
+  const lastScrollY = useRef(0);
+  const ticking = useRef(false);
+
+  // Check if we're on a reading route
+  const isReadingRoute = pathname.match(/^\/en\/(simultaneous\/[^/]+\/[^/]+|[^/]+\/[^/]+\/[^/]+)$/);
+
+  useEffect(() => {
+    if (!isReadingRoute) {
+      setIsVisible(true);
+      return;
+    }
+
+    const handleScroll = () => {
+      if (!ticking.current) {
+        window.requestAnimationFrame(() => {
+          const currentScrollY = window.scrollY;
+          
+          // Don't hide if we're at the top
+          if (currentScrollY < 10) {
+            setIsVisible(true);
+          } 
+          // Hide when scrolling down
+          else if (currentScrollY > lastScrollY.current && currentScrollY > 100) {
+            setIsVisible(false);
+          } 
+          // Show when scrolling up
+          else if (currentScrollY < lastScrollY.current) {
+            setIsVisible(true);
+          }
+          
+          lastScrollY.current = currentScrollY;
+          ticking.current = false;
+        });
+        
+        ticking.current = true;
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [isReadingRoute]);
 
   return (
-    <div className="bg-white border-b border-gray-200 sticky top-0 z-40 shadow-sm">
+    <div 
+      className={`bg-white border-b border-gray-200 sticky top-0 z-40 shadow-sm transition-transform duration-300 ease-in-out ${
+        isVisible ? 'translate-y-0' : '-translate-y-full'
+      }`}
+    >
       <div className="flex items-center justify-between px-4 h-16">
         {/* Logo and Title */}
         <Link href="/" className="flex items-center space-x-3 group">
@@ -31,10 +86,21 @@ export default function TopBar({
             <span className="text-white font-bold text-xl">B</span>
           </div>
           <div>
-            <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-              Book of Mormon Editions
-            </h1>
-            <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
+            {isReadingRoute && book && chapter ? (
+              <>
+                <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                  {getBookName(book)} {chapter}
+                </h1>
+                <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
+              </>
+            ) : (
+              <>
+                <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                  Book of Mormon Editions
+                </h1>
+                <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
+              </>
+            )}
           </div>
         </Link>
 

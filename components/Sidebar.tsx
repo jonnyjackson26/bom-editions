@@ -27,7 +27,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
   };
 
   return (
-    <aside className="w-64 bg-white border-r border-gray-200 overflow-y-auto sticky top-16 h-[calc(100vh-4rem)]">
+    <aside className="w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen pt-16">
       <div className="p-4">
         <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
           Books

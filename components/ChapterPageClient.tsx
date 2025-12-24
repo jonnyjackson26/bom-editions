@@ -185,12 +185,14 @@ export default function ChapterPageClient({
           onShowFootnotesChange={setShowFootnotes}
           onCompareEditionChange={setCompareEdition}
           availableEditions={EDITIONS as any}
+          book={book}
+          chapter={chapter}
         />
         
         <div className="flex flex-1">
         <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
           
-          <main className="flex-1 p-8 flex items-center justify-center">
+          <main className="flex-1 p-8 flex items-center justify-center ml-64">
             <div className="text-center">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
               <p className="text-gray-600">Loading chapter...</p>
@@ -224,12 +226,14 @@ export default function ChapterPageClient({
         onShowFootnotesChange={setShowFootnotes}
         onCompareEditionChange={setCompareEdition}
         availableEditions={EDITIONS as any}
+        book={book}
+        chapter={chapter}
       />
       
       <div className="flex flex-1">
         <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
         
-        <main className="flex-1 p-8 max-w-4xl mx-auto">
+        <main className="flex-1 p-8 max-w-4xl mx-auto ml-64">
           {/* Header */}
           <div className="mb-8">
             <h1 className="text-4xl font-bold text-gray-900 mb-2">
