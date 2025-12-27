@@ -15,6 +15,8 @@ export default function TopBar({
   availableEditions,
   book,
   chapter,
+  sidebarOpen,
+  onSidebarToggle,
 }: {
   edition?: string;
   showFootnotes?: boolean;
@@ -25,6 +27,8 @@ export default function TopBar({
   availableEditions?: string[];
   book?: string;
   chapter?: number;
+  sidebarOpen?: boolean;
+  onSidebarToggle?: () => void;
 }) {
   const pathname = usePathname();
   const [isVisible, setIsVisible] = useState(true);
@@ -92,14 +96,30 @@ export default function TopBar({
       }`}
     >
       <div className="flex items-center justify-between px-4 h-16">
-        {/* Logo and Title */}
-        <Link href="/" className="flex items-center space-x-3 group">
-          <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-            <span className="text-white font-bold text-xl">B</span>
-          </div>
-          <div>
-            {isReadingRoute && book && chapter ? (
-              <>
+        {/* Logo and Title / Hamburger Menu */}
+        {isReadingRoute ? (
+          <>
+            {/* Mobile Hamburger Menu for reading routes */}
+            <button
+              onClick={onSidebarToggle}
+              className="md:hidden p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors"
+              aria-label="Toggle sidebar"
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                {sidebarOpen ? (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                ) : (
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                )}
+              </svg>
+            </button>
+            
+            {/* Desktop Logo and Title for reading routes */}
+            <Link href="/" className="hidden md:flex items-center space-x-3 group">
+              <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-white font-bold text-xl">B</span>
+              </div>
+              <div>
                 {isAtTop ? (
                   <>
                     <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
@@ -115,17 +135,23 @@ export default function TopBar({
                     <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
                   </>
                 )}
-              </>
-            ) : (
-              <>
-                <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-                  Book of Mormon Editions
-                </h1>
-                <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
-              </>
-            )}
-          </div>
-        </Link>
+              </div>
+            </Link>
+          </>
+        ) : (
+          /* Regular Logo and Title for non-reading routes */
+          <Link href="/" className="flex items-center space-x-3 group">
+            <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+              <span className="text-white font-bold text-xl">B</span>
+            </div>
+            <div>
+              <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                Book of Mormon Editions
+              </h1>
+              <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
+            </div>
+          </Link>
+        )}
 
         {/* Controls */}
         <div className="flex items-center gap-4">

@@ -39,6 +39,24 @@ export default function ChapterPageClient({
   const [allEditionsData, setAllEditionsData] = useState<Record<string, ChapterData>>({});
   const [footnoteData, setFootnoteData] = useState<FootnoteData | null>(null);
   const [loading, setLoading] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+
+  // Handle sidebar state based on screen size
+  useEffect(() => {
+    const handleResize = () => {
+      if (window.innerWidth >= 768) {
+        setSidebarOpen(true); // Always open on desktop
+      } else {
+        setSidebarOpen(false); // Closed by default on mobile
+      }
+    };
+
+    // Set initial state
+    handleResize();
+    
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
   const buildQueryString = () => {
     const params = new URLSearchParams();
@@ -94,6 +112,16 @@ export default function ChapterPageClient({
     if (compareEdition) params.set('compare', compareEdition);
     const query = params.toString() ? `?${params.toString()}` : '';
     router.push(`/en/${newEdition}/${book}/${chapter}${query}`);
+  };
+
+  const toggleSidebar = () => {
+    setSidebarOpen(!sidebarOpen);
+  };
+
+  const closeSidebar = () => {
+    if (window.innerWidth < 768) {
+      setSidebarOpen(false);
+    }
   };
 
   const handleWordClick = (verse: number, wordIndex: number, word: string) => {
@@ -187,12 +215,21 @@ export default function ChapterPageClient({
           availableEditions={EDITIONS as any}
           book={book}
           chapter={chapter}
+          sidebarOpen={sidebarOpen}
+          onSidebarToggle={toggleSidebar}
         />
         
         <div className="flex flex-1">
-        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
+        <Sidebar 
+          edition={edition} 
+          currentBook={book} 
+          currentChapter={chapter} 
+          queryString={buildQueryString()} 
+          isOpen={sidebarOpen}
+          onClose={closeSidebar}
+        />
           
-          <main className="flex-1 p-8 flex items-center justify-center ml-64">
+          <main className="flex-1 p-8 flex items-center justify-center ml-0 md:ml-64">
             <div className="text-center">
               <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto mb-4"></div>
               <p className="text-gray-600">Loading chapter...</p>
@@ -228,12 +265,21 @@ export default function ChapterPageClient({
         availableEditions={EDITIONS as any}
         book={book}
         chapter={chapter}
+        sidebarOpen={sidebarOpen}
+        onSidebarToggle={toggleSidebar}
       />
       
       <div className="flex flex-1">
-        <Sidebar edition={edition} currentBook={book} currentChapter={chapter} queryString={buildQueryString()} />
+        <Sidebar 
+          edition={edition} 
+          currentBook={book} 
+          currentChapter={chapter} 
+          queryString={buildQueryString()} 
+          isOpen={sidebarOpen}
+          onClose={closeSidebar}
+        />
         
-        <main className="flex-1 ml-64">
+        <main className="flex-1 ml-0 md:ml-64">
           <div className="max-w-4xl px-8 py-8 mx-0 xl:mx-auto">
           {/* Header */}
           <div className="mb-8">
