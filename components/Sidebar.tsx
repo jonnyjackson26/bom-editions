@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { useState } from 'react';
 import { BOOKS, getAllChapters } from '@/lib/constants';
+import LogoAndTitle from '@/components/LogoAndTitle';
 
 interface SidebarProps {
   edition?: string;
@@ -39,13 +40,51 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
       )}
       
       {/* Sidebar */}
-      <aside className={`w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen pt-16 z-50 transform transition-transform duration-300 ease-in-out ${
+      <aside className={`w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen z-50 transform transition-transform duration-300 ease-in-out scroll-smooth ${
         isOpen ? 'translate-x-0' : '-translate-x-full'
       } md:translate-x-0 md:z-30`}>
+        {/* Mobile Header - Close Button */}
+        <div className="md:hidden sticky top-0 bg-white border-b border-gray-200 z-10">
+          <div className="flex items-center justify-between px-4 h-16">
+            <button
+              onClick={onClose}
+              className="p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors"
+              aria-label="Close sidebar"
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        {/* Desktop Header - Logo and Title */}
+        <div className="hidden md:block sticky top-0 bg-white border-b border-gray-200 z-10 hover:bg-gray-50 transition-colors">
+          <div className="px-4 h-16 flex items-center">
+            <LogoAndTitle 
+              book={currentBook} 
+              chapter={currentChapter} 
+              edition={edition}
+              isAtTop={false}
+            />
+          </div>
+        </div>
+        
         <div className="p-4">
-          <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wide mb-3">
-            Books
-          </h2>
+          {/* Back Home Button - Mobile Only */}
+          <div className="md:hidden mb-4 pb-4 border-b border-gray-200">
+            <Link
+              href="/"
+              onClick={onClose}
+              className="flex items-center gap-3 px-3 py-2 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition-colors"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+              </svg>
+              Back to Home
+            </Link>
+          </div>
+          
           <nav className="space-y-1">
             {BOOKS.map((book) => {
               const isExpanded = expandedBooks.has(book.slug);
@@ -56,7 +95,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
                 <div key={book.slug}>
                   <button
                     onClick={() => toggleBook(book.slug)}
-                    className={`w-full text-left px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    className={`w-full text-left px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
                       isActiveBook
                         ? 'bg-primary-100 text-primary-700'
                         : 'text-gray-700 hover:bg-gray-100'
@@ -64,35 +103,47 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
                   >
                     <span className="flex items-center justify-between">
                       <span>{book.name}</span>
-                      <span className="text-xs">{isExpanded ? '▼' : '▶'}</span>
+                      <span className={`text-xs transition-transform duration-200 ${
+                        isExpanded ? 'rotate-90' : 'rotate-0'
+                      }`}>▶</span>
                     </span>
                   </button>
                   
-                  {isExpanded && (
-                    <div className="mt-1 ml-3 grid grid-cols-4 gap-1 p-2">
-                      {chapters.map((chapter) => {
-                        const href = (edition
-                          ? `/en/${edition}/${book.slug}/${chapter}`
-                          : `/en/1830/${book.slug}/${chapter}`) + (queryString || '');
-                        const isActiveChapter = currentBook === book.slug && currentChapter === chapter;
+                  <div className={`overflow-hidden transition-all duration-300 ease-in-out ${
+                    isExpanded ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
+                  }`}>
+                    {isExpanded && (
+                      <div className="mt-1 ml-3 grid grid-cols-4 gap-1 p-2">
+                        {chapters.map((chapter) => {
+                          const href = (edition
+                            ? `/en/${edition}/${book.slug}/${chapter}`
+                            : `/en/1830/${book.slug}/${chapter}`) + (queryString || '');
+                          const isActiveChapter = currentBook === book.slug && currentChapter === chapter;
 
-                        return (
-                          <Link
-                            key={chapter}
-                            href={href}
-                            onClick={onClose}
-                            className={`flex items-center justify-center px-1 py-1 rounded text-xs font-medium transition-colors ${
-                              isActiveChapter
-                                ? 'bg-primary-600 text-white'
-                                : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
-                            }`}
-                          >
-                            {chapter}
-                          </Link>
-                        );
-                      })}
-                    </div>
-                  )}
+                          return (
+                            <Link
+                              key={chapter}
+                              href={href}
+                              onClick={(e) => {
+                                onClose?.();
+                                if (currentBook === book.slug && currentChapter === chapter) {
+                                  e.preventDefault();
+                                  window.scrollTo({ top: 0, behavior: 'smooth' });
+                                }
+                              }}
+                              className={`flex items-center justify-center px-1 py-1 rounded text-xs font-medium transition-all duration-200 ${
+                                isActiveChapter
+                                  ? 'bg-primary-600 text-white shadow-sm'
+                                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200 hover:scale-105'
+                              }`}
+                            >
+                              {chapter}
+                            </Link>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </div>
                 </div>
               );
             })}

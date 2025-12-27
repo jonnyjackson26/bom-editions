@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState, useEffect, useRef } from 'react';
 import { getBookName } from '@/lib/constants';
+import LogoAndTitle from '@/components/LogoAndTitle';
 
 export default function TopBar({
   edition,
@@ -61,16 +62,16 @@ export default function TopBar({
             setIsAtTop(rect.bottom > 64);
           }
           
-          // Don't hide if we're at the top
+          // Always show when near top
           if (currentScrollY < 10) {
             setIsVisible(true);
           } 
-          // Hide when scrolling down
-          else if (currentScrollY > lastScrollY.current && currentScrollY > 100) {
+          // Hide when scrolling down (with threshold to prevent jitter)
+          else if (currentScrollY > lastScrollY.current + 5 && currentScrollY > 100) {
             setIsVisible(false);
           } 
-          // Show when scrolling up
-          else if (currentScrollY < lastScrollY.current) {
+          // Show when scrolling up (with threshold to prevent jitter)
+          else if (currentScrollY < lastScrollY.current - 5) {
             setIsVisible(true);
           }
           
@@ -91,7 +92,7 @@ export default function TopBar({
 
   return (
     <div 
-      className={`bg-white border-b border-gray-200 sticky top-0 z-40 shadow-sm transition-transform duration-300 ease-in-out ${
+      className={`bg-white/95 backdrop-blur-sm border-b border-gray-200 sticky top-0 z-50 shadow-sm transition-all duration-300 ease-in-out ${
         isVisible ? 'translate-y-0' : '-translate-y-full'
       }`}
     >
@@ -102,7 +103,7 @@ export default function TopBar({
             {/* Mobile Hamburger Menu for reading routes */}
             <button
               onClick={onSidebarToggle}
-              className="md:hidden p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors"
+              className="md:hidden p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors relative z-[60]"
               aria-label="Toggle sidebar"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -115,42 +116,17 @@ export default function TopBar({
             </button>
             
             {/* Desktop Logo and Title for reading routes */}
-            <Link href="/" className="hidden md:flex items-center space-x-3 group">
-              <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-                <span className="text-white font-bold text-xl">B</span>
-              </div>
-              <div>
-                {isAtTop ? (
-                  <>
-                    <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-                      Book of Mormon Editions
-                    </h1>
-                    <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
-                  </>
-                ) : (
-                  <>
-                    <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-                      {book && getBookName(book)} {chapter}
-                    </h1>
-                    <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
-                  </>
-                )}
-              </div>
-            </Link>
+            <LogoAndTitle 
+              book={book} 
+              chapter={chapter} 
+              edition={edition} 
+              isAtTop={isAtTop} 
+              className="hidden md:flex" 
+            />
           </>
         ) : (
           /* Regular Logo and Title for non-reading routes */
-          <Link href="/" className="flex items-center space-x-3 group">
-            <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-              <span className="text-white font-bold text-xl">B</span>
-            </div>
-            <div>
-              <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
-                Book of Mormon Editions
-              </h1>
-              <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
-            </div>
-          </Link>
+          <LogoAndTitle />
         )}
 
         {/* Controls */}
