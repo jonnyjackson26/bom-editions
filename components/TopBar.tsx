@@ -130,18 +130,18 @@ export default function TopBar({
         )}
 
         {/* Controls */}
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-3 sm:gap-4">
           {/* Edition Selector */}
           {edition && onEditionChange && availableEditions && (
-            <div className="flex items-center gap-2">
-              <label htmlFor="edition-select" className="text-sm font-medium text-gray-700 hidden sm:inline">
+            <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2">
+              <label htmlFor="edition-select" className="text-xs sm:text-sm font-medium text-gray-700">
                 Edition:
               </label>
               <select
                 id="edition-select"
                 value={edition}
                 onChange={(e) => onEditionChange(e.target.value)}
-                className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm"
+                className="px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors"
               >
                 {availableEditions.map((ed) => (
                   <option key={ed} value={ed}>
@@ -152,8 +152,8 @@ export default function TopBar({
             </div>
           )}
 
-          {/* Show Footnotes Toggle */}
-          {typeof showFootnotes !== 'undefined' && onShowFootnotesChange && (
+          {/* Show Footnotes Toggle - Commented out */}
+          {/* {typeof showFootnotes !== 'undefined' && onShowFootnotesChange && (
             <label className="flex items-center gap-2 cursor-pointer">
               <input
                 type="checkbox"
@@ -163,19 +163,19 @@ export default function TopBar({
               />
               <span className="text-sm font-medium text-gray-700 hidden md:inline">Footnotes</span>
             </label>
-          )}
+          )} */}
 
           {/* Compare Edition Selector */}
           {typeof compareEdition !== 'undefined' && onCompareEditionChange && availableEditions && (
-            <div className="flex items-center gap-2">
-              <label htmlFor="compare-select" className="text-sm font-medium text-gray-700 hidden sm:inline">
+            <div className="flex flex-col sm:flex-row sm:items-center gap-1 sm:gap-2">
+              <label htmlFor="compare-select" className="text-xs sm:text-sm font-medium text-gray-700 whitespace-nowrap">
                 Compare to:
               </label>
               <select
                 id="compare-select"
                 value={compareEdition}
                 onChange={(e) => onCompareEditionChange(e.target.value)}
-                className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm"
+                className="px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors"
               >
                 <option value="">None</option>
                 {availableEditions
