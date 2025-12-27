@@ -96,24 +96,38 @@ export default function TopBar({
         isVisible ? 'translate-y-0' : '-translate-y-full'
       }`}
     >
-      <div className="flex items-center justify-between px-4 h-16">
+      <div className="flex items-center justify-between px-4 h-16 gap-2">
         {/* Logo and Title / Hamburger Menu */}
         {isReadingRoute ? (
           <>
-            {/* Mobile Hamburger Menu for reading routes */}
-            <button
-              onClick={onSidebarToggle}
-              className="md:hidden p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors relative z-[60]"
-              aria-label="Toggle sidebar"
-            >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                {sidebarOpen ? (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                ) : (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-                )}
-              </svg>
-            </button>
+            <div className="flex items-center gap-2 min-w-0 flex-shrink md:hidden">
+              {/* Mobile Hamburger Menu for reading routes */}
+              <button
+                onClick={onSidebarToggle}
+                className="p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors relative z-[60] flex-shrink-0"
+                aria-label="Toggle sidebar"
+              >
+                <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  {sidebarOpen ? (
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                  ) : (
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                  )}
+                </svg>
+              </button>
+              
+              {/* Mobile Book and Chapter Display */}
+              {book && chapter && (
+                <div className="flex items-center gap-2 min-w-0">
+                  <span className="text-sm font-semibold text-gray-900 truncate">
+                    {getBookName(book)}
+                  </span>
+                  <span className="text-sm text-gray-600 flex-shrink-0">
+                    {chapter}
+                  </span>
+                </div>
+              )}
+            </div>
             
             {/* Desktop Logo and Title for reading routes */}
             <LogoAndTitle 

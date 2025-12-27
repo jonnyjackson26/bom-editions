@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import { BOOKS, getAllChapters } from '@/lib/constants';
+import { BOOKS, getAllChapters, getBookName } from '@/lib/constants';
 import LogoAndTitle from '@/components/LogoAndTitle';
 
 interface SidebarProps {
@@ -43,18 +43,30 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
       <aside className={`w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen z-50 transform transition-transform duration-300 ease-in-out scroll-smooth [scrollbar-gutter:stable] ${
         isOpen ? 'translate-x-0' : '-translate-x-full'
       } md:translate-x-0 md:z-30`}>
-        {/* Mobile Header - Close Button */}
+        {/* Mobile Header - Close Button and Book/Chapter */}
         <div className="md:hidden sticky top-0 bg-white border-b border-gray-200 z-10">
-          <div className="flex items-center justify-between px-4 h-16">
+          <div className="flex items-center justify-between px-4 h-16 gap-2">
             <button
               onClick={onClose}
-              className="p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors"
+              className="p-2 rounded-lg text-gray-600 hover:bg-gray-100 transition-colors flex-shrink-0"
               aria-label="Close sidebar"
             >
               <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
               </svg>
             </button>
+            
+            {/* Book and Chapter Display */}
+            {currentBook && currentChapter && (
+              <div className="flex items-center gap-2 min-w-0 flex-1">
+                <span className="text-sm font-semibold text-gray-900 truncate">
+                  {getBookName(currentBook)}
+                </span>
+                <span className="text-sm text-gray-600 flex-shrink-0">
+                  {currentChapter}
+                </span>
+              </div>
+            )}
           </div>
         </div>
 

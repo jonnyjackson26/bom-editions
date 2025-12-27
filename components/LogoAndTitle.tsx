@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { getBookName } from '@/lib/constants';
 
 interface LogoAndTitleProps {
@@ -13,8 +14,14 @@ interface LogoAndTitleProps {
 export default function LogoAndTitle({ book, chapter, edition, isAtTop = true, className = '', onClick }: LogoAndTitleProps) {
   return (
     <Link href="/" className={`flex items-center space-x-3 group ${className}`} onClick={onClick}>
-      <div className="w-10 h-10 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
-        <span className="text-white font-bold text-xl">B</span>
+      <div className="w-12 h-12 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform p-2">
+        <Image 
+          src="/favicon/favicon.svg" 
+          alt="Book of Mormon" 
+          width={32} 
+          height={32}
+          className="brightness-0 invert"
+        />
       </div>
       <div>
         {book && chapter ? (
