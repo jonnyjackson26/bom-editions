@@ -40,7 +40,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
       )}
       
       {/* Sidebar */}
-      <aside className={`w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen z-50 transform transition-transform duration-300 ease-in-out scroll-smooth ${
+      <aside className={`w-64 bg-white border-r border-gray-200 overflow-y-auto fixed left-0 top-0 h-screen z-50 transform transition-transform duration-300 ease-in-out scroll-smooth [scrollbar-gutter:stable] ${
         isOpen ? 'translate-x-0' : '-translate-x-full'
       } md:translate-x-0 md:z-30`}>
         {/* Mobile Header - Close Button */}
@@ -70,7 +70,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
           </div>
         </div>
         
-        <div className="p-4">
+        <div className="p-4 pb-8">
           {/* Back Home Button - Mobile Only */}
           <div className="md:hidden mb-4 pb-4 border-b border-gray-200">
             <Link
@@ -103,17 +103,28 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
                   >
                     <span className="flex items-center justify-between">
                       <span>{book.name}</span>
-                      <span className={`text-xs transition-transform duration-200 ${
-                        isExpanded ? 'rotate-90' : 'rotate-0'
-                      }`}>▶</span>
+                      <svg 
+                        className={`w-4 h-4 transition-transform duration-300 ${
+                          isExpanded ? 'rotate-180' : 'rotate-0'
+                        }`}
+                        fill="none" 
+                        stroke="currentColor" 
+                        viewBox="0 0 24 24"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                      </svg>
                     </span>
                   </button>
                   
-                  <div className={`overflow-hidden transition-all duration-300 ease-in-out ${
-                    isExpanded ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
-                  }`}>
-                    {isExpanded && (
-                      <div className="mt-1 ml-3 grid grid-cols-4 gap-1 p-2">
+                  <div 
+                    className="overflow-hidden transition-all duration-300 ease-in-out"
+                    style={{
+                      maxHeight: isExpanded ? '600px' : '0',
+                      opacity: isExpanded ? 1 : 0
+                    }}
+                  >
+                    <div className="mt-2 px-3 mb-2">
+                      <div className="grid grid-cols-5 gap-1.5 p-2 bg-gray-50 rounded-lg">
                         {chapters.map((chapter) => {
                           const href = (edition
                             ? `/en/${edition}/${book.slug}/${chapter}`
@@ -131,10 +142,10 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
                                   window.scrollTo({ top: 0, behavior: 'smooth' });
                                 }
                               }}
-                              className={`flex items-center justify-center px-1 py-1 rounded text-xs font-medium transition-all duration-200 ${
+                              className={`flex items-center justify-center py-1.5 px-2 rounded-md text-xs font-medium transition-all duration-200 ${
                                 isActiveChapter
-                                  ? 'bg-primary-600 text-white shadow-sm'
-                                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200 hover:scale-105'
+                                  ? 'bg-primary-600 text-white shadow-sm scale-105'
+                                  : 'bg-white text-gray-700 hover:bg-primary-50 hover:text-primary-700 hover:scale-105 border border-gray-200'
                               }`}
                             >
                               {chapter}
@@ -142,7 +153,7 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
                           );
                         })}
                       </div>
-                    )}
+                    </div>
                   </div>
                 </div>
               );
