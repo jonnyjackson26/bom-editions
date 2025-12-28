@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import TopBar from '@/components/TopBar';
 import Sidebar from '@/components/Sidebar';
-import { EDITIONS, getBookName, getAllChapters } from '@/lib/constants';
+import { EDITIONS, ALL_EDITION_OPTIONS, getBookName, getAllChapters } from '@/lib/constants';
 import { ChapterData, fetchChapterData, fetchAllEditionsForChapter } from '@/lib/data';
 import { getDifferences, DiffResult } from '@/lib/diff';
 
@@ -106,6 +106,11 @@ export default function ChapterPageClient({
   }, [edition, book, chapter, compareEdition, showFootnotes]);
 
   const handleEditionChange = (newEdition: string) => {
+    if (newEdition === 'simultaneous') {
+      // Navigate to simultaneous view
+      router.push(`/en/simultaneous/${book}/${chapter}`);
+      return;
+    }
     setEdition(newEdition);
     const params = new URLSearchParams();
     if (showFootnotes) params.set('showFootnotes', 'true');
@@ -212,7 +217,7 @@ export default function ChapterPageClient({
           onEditionChange={handleEditionChange}
           onShowFootnotesChange={setShowFootnotes}
           onCompareEditionChange={setCompareEdition}
-          availableEditions={EDITIONS as any}
+          availableEditions={ALL_EDITION_OPTIONS as any}
           book={book}
           chapter={chapter}
           sidebarOpen={sidebarOpen}
@@ -262,7 +267,7 @@ export default function ChapterPageClient({
         onEditionChange={handleEditionChange}
         onShowFootnotesChange={setShowFootnotes}
         onCompareEditionChange={setCompareEdition}
-        availableEditions={EDITIONS as any}
+        availableEditions={ALL_EDITION_OPTIONS as any}
         book={book}
         chapter={chapter}
         sidebarOpen={sidebarOpen}

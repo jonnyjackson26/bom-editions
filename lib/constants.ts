@@ -3,6 +3,11 @@ export const EDITIONS = ['1830', '1837', '1840', '1841', '1879', '1920', '1981',
 
 export type Edition = typeof EDITIONS[number];
 
+// All edition options including simultaneous view
+export const ALL_EDITION_OPTIONS = ['simultaneous', ...EDITIONS] as const;
+
+export type EditionOption = typeof ALL_EDITION_OPTIONS[number];
+
 // Book names and their URL slugs
 export const BOOKS = [
   { name: '1 Nephi', slug: '1-nephi' },

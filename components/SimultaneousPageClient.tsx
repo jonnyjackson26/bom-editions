@@ -19,6 +19,7 @@ export default function SimultaneousPageClient({
   initialData,
 }: SimultaneousPageClientProps) {
   const router = useRouter();
+  const [edition, setEdition] = useState('simultaneous');
   const [allData, setAllData] = useState<Record<string, ChapterData>>(initialData);
   const [loading, setLoading] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
@@ -55,6 +56,18 @@ export default function SimultaneousPageClient({
     }
   };
 
+  const handleEditionChange = (newEdition: string) => {
+    if (newEdition === 'simultaneous') {
+      // Stay on simultaneous page
+      return;
+    }
+    // Navigate to the regular edition reading route
+    router.push(`/en/${newEdition}/${book}/${chapter}`);
+  };
+
+  // Available editions including simultaneous
+  const availableEditions = ['simultaneous', ...EDITIONS];
+
   useEffect(() => {
     async function loadData() {
       setLoading(true);
@@ -88,11 +101,11 @@ export default function SimultaneousPageClient({
     );
   }
 
-  const availableEditions = EDITIONS.filter(ed => allData[ed]);
+  const availableDataEditions = EDITIONS.filter(ed => allData[ed]);
 
   // Build a lookup per edition for quick verse access
   const editionVerseMap: Record<string, Record<number, string>> = {};
-  availableEditions.forEach((ed) => {
+  availableDataEditions.forEach((ed) => {
     const data = allData[ed];
     editionVerseMap[ed] = {};
     if (data?.verses) {
@@ -105,17 +118,20 @@ export default function SimultaneousPageClient({
   // Union of verse numbers across all editions
   const verseNumbers = Array.from(
     new Set(
-      availableEditions.flatMap((ed) => allData[ed]?.verses.map((v) => v.verse) || [])
+      availableDataEditions.flatMap((ed) => allData[ed]?.verses.map((v) => v.verse) || [])
     )
   ).sort((a, b) => a - b);
 
   return (
     <div className="min-h-screen flex flex-col">
       <TopBar 
+        edition={edition}
         book={book} 
         chapter={chapter} 
         sidebarOpen={sidebarOpen}
         onSidebarToggle={toggleSidebar}
+        onEditionChange={handleEditionChange}
+        availableEditions={availableEditions}
       />
 
       <div className="flex-1 flex">
@@ -136,33 +152,6 @@ export default function SimultaneousPageClient({
             <p className="text-base md:text-lg text-gray-600 mb-4">
               Compare all editions verse-by-verse
             </p>
-
-            {/* Book and Chapter selectors (quick navigation) */}
-            <div className="flex flex-wrap gap-3 mb-2">
-              <select
-                value={book}
-                onChange={(e) => router.push(`/en/simultaneous/${e.target.value}/${chapter}`)}
-                className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
-              >
-                {BOOKS.map((b) => (
-                  <option key={b.slug} value={b.slug}>
-                    {b.name}
-                  </option>
-                ))}
-              </select>
-
-              <select
-                value={chapter}
-                onChange={(e) => router.push(`/en/simultaneous/${book}/${e.target.value}`)}
-                className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
-              >
-                {chapters.map((ch) => (
-                  <option key={ch} value={ch}>
-                    Chapter {ch}
-                  </option>
-                ))}
-              </select>
-            </div>
           </div>
 
           {/* Verse-by-verse section with editions listed */}
@@ -175,7 +164,7 @@ export default function SimultaneousPageClient({
                   </h2>
                 </header>
                 <div className="p-4 md:p-6 space-y-3">
-                  {availableEditions.map((ed) => (
+                  {availableDataEditions.map((ed) => (
                     <div key={ed} className="flex items-start gap-3">
                       <div className="shrink-0 w-14 md:w-16 text-right pr-2 font-semibold text-primary-700">
                         {ed}:

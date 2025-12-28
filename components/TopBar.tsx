@@ -159,7 +159,7 @@ export default function TopBar({
               >
                 {availableEditions.map((ed) => (
                   <option key={ed} value={ed}>
-                    {ed}
+                    {ed === 'simultaneous' ? 'Simultaneous' : ed}
                   </option>
                 ))}
               </select>

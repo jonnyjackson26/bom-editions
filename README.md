@@ -121,14 +121,6 @@ If i have footnotes enabled and im reading this verse (no matter which edition i
 
 
 
+on edge when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
 
-good, but please make it so that both hovering/clicking will open the popup.
-please make it so the pop will always fit naturally on the screen (consider if im at the bottom of the page and hover on a footnote, its popup should appear aboev it.)
-
-hovering from the footnote to inside the footnotes popup should not make the footnote disapear.
-
-please read the entire file before editing anything so u have more context
-
-you can make the popups more concise and simple. remove the "verse X word #X"
-and make it so the edition year is the same line as the change.
-
+on mobile if the sidebar is open and its at the bottom and i scroll down on it, it closes the sidebar.

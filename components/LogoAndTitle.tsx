@@ -38,7 +38,9 @@ export default function LogoAndTitle({ book, chapter, edition, isAtTop = true, c
                 <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
                   {getBookName(book)} {chapter}
                 </h1>
-                <p className="text-xs text-gray-500 hidden sm:block">{edition} Edition</p>
+                <p className="text-xs text-gray-500 hidden sm:block">
+                  {edition === 'simultaneous' ? 'Simultaneous Edition' : `${edition} Edition`}
+                </p>
               </>
             )}
           </>
