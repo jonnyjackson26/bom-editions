@@ -1,7 +1,7 @@
 # Book of Mormon Edition Project 
 The goal of this project is to let people easily read older versions of the Book of Mormon, and to easily and meaningfully compare them. As well as view a list of changes between editions. 
 
-This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. 
+This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. For example, I avoid phrases like "There have been thousands of changes to the text of the Book of Mormon over the years, most of them corrections of typographical errors and standardization of spelling and punctuation."
 
 
 ## Routes
@@ -53,7 +53,8 @@ This project does it's best to be unbiased, showing only concrete facts and avoi
 
 
 ## Technical details 
-This project will use NextJS for good speed, SEO, and SSG.
+This project will use NextJS for good speed, SEO, and SSG.  
+Uses @tanstack/react-virtual for fast loading of thousands of changes
 
 ### Data 
  - I'm storing full JSON for each edition. (I realize I could store the baseline 1830 edition and then store diffs for each newer edition, but I don't think it's worth the work at this time.)  

@@ -31,12 +31,7 @@ export default function VirtualizedChangesList({ changes }: VirtualizedChangesLi
   return (
     <div
       ref={parentRef}
-      className="overflow-auto rounded-lg"
-      style={{ 
-        height: 'calc(100vh - 400px)',
-        minHeight: '400px',
-        maxHeight: '700px',
-      }}
+      className="overflow-auto rounded-lg flex-1"
     >
       <div
         style={{

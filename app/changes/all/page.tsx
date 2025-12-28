@@ -59,15 +59,15 @@ export default async function AllChangesPage() {
   const changes = await loadAllChanges();
 
   return (
-    <div className="min-h-screen flex flex-col">
+    <div className="h-screen flex flex-col overflow-hidden">
       <TopBar />
       
-      <main className="flex-1 max-w-6xl mx-auto px-4 py-12">
-        <div className="mb-8">
-          <Link href="/changes" className="text-primary-600 hover:text-primary-700 font-medium mb-4 inline-block">
+      <main className="flex-1 w-full max-w-[1600px] mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col overflow-hidden">
+        <div className="mb-4 flex-shrink-0">
+          <Link href="/changes" className="text-primary-600 hover:text-primary-700 font-medium text-sm inline-flex items-center gap-1">
             ← Back to Changes Overview
           </Link>
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-900 mt-2">
             All Changes Across Editions
           </h1>
         </div>

@@ -39,56 +39,48 @@ export default function AllChangesClient({ initialChanges }: AllChangesClientPro
   }, [perDiffChanges, filterBook, filterEdition]);
 
   return (
-    <>
-      <p className="text-lg text-gray-600 mb-6">
-        {perDiffChanges.length} total changes found across all editions
-      </p>
-
-      {/* Filters */}
-      <div className="mb-6 bg-white rounded-lg shadow-sm p-6 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-4">Filters</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <div>
-            <label htmlFor="filter-book" className="block text-sm font-medium text-gray-700 mb-2">
-              Book
-            </label>
-            <select
-              id="filter-book"
-              value={filterBook}
-              onChange={(e) => setFilterBook(e.target.value)}
-              className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
-            >
-              <option value="">All Books</option>
-              {BOOKS.map((book) => (
-                <option key={book.slug} value={book.name}>
-                  {book.name}
-                </option>
-              ))}
-            </select>
+    <div className="flex flex-col flex-1 min-h-0">
+      {/* Compact Filters Bar */}
+      <div className="mb-4 bg-white rounded-lg shadow-sm p-4 border border-gray-200 flex-shrink-0">
+        <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+          <div className="flex items-center gap-2 text-sm text-gray-600">
+            <span className="font-medium">Showing:</span>
+            <span>{filteredChanges.length.toLocaleString()} of {perDiffChanges.length.toLocaleString()}</span>
           </div>
           
-          <div>
-            <label htmlFor="filter-edition" className="block text-sm font-medium text-gray-700 mb-2">
-              To Edition
-            </label>
-            <select
-              id="filter-edition"
-              value={filterEdition}
-              onChange={(e) => setFilterEdition(e.target.value)}
-              className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
-            >
-              <option value="">All Editions</option>
-              {EDITIONS.slice(1).map((edition) => (
-                <option key={edition} value={edition}>
-                  {edition}
-                </option>
-              ))}
-            </select>
+          <div className="flex-1 flex flex-col sm:flex-row gap-3">
+            <div className="flex-1">
+              <select
+                id="filter-book"
+                value={filterBook}
+                onChange={(e) => setFilterBook(e.target.value)}
+                className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
+              >
+                <option value="">All Books</option>
+                {BOOKS.map((book) => (
+                  <option key={book.slug} value={book.name}>
+                    {book.name}
+                  </option>
+                ))}
+              </select>
+            </div>
+            
+            <div className="flex-1">
+              <select
+                id="filter-edition"
+                value={filterEdition}
+                onChange={(e) => setFilterEdition(e.target.value)}
+                className="w-full px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
+              >
+                <option value="">All Editions</option>
+                {EDITIONS.slice(1).map((edition) => (
+                  <option key={edition} value={edition}>
+                    {edition}
+                  </option>
+                ))}
+              </select>
+            </div>
           </div>
-        </div>
-        
-        <div className="mt-4 text-sm text-gray-600">
-          Showing {filteredChanges.length} of {perDiffChanges.length} changes
         </div>
       </div>
 
@@ -100,6 +92,6 @@ export default function AllChangesClient({ initialChanges }: AllChangesClientPro
       ) : (
         <VirtualizedChangesList changes={filteredChanges} />
       )}
-    </>
+    </div>
   );
 }

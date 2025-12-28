@@ -42,25 +42,29 @@ export default function EditionChangesClient({ initialChanges }: EditionChangesC
   }, [perDiffChanges, filterBook]);
 
   return (
-    <>
-      {/* Filter */}
-      <div className="mb-8 bg-white rounded-xl shadow-md p-6 border border-gray-200">
-        <h2 className="text-lg font-bold text-gray-900 mb-4">Filter by Book</h2>
-        <select
-          value={filterBook}
-          onChange={(e) => setFilterBook(e.target.value)}
-          className="w-full md:w-64 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
-        >
-          <option value="">All Books</option>
-          {BOOKS.map((book) => (
-            <option key={book.slug} value={book.name}>
-              {book.name}
-            </option>
-          ))}
-        </select>
-        
-        <div className="mt-4 text-sm text-gray-600">
-          Showing {filteredChanges.length} of {perDiffChanges.length} changes
+    <div className="flex flex-col flex-1 min-h-0">
+      {/* Compact Filter Bar */}
+      <div className="mb-4 bg-white rounded-lg shadow-sm p-4 border border-gray-200 flex-shrink-0">
+        <div className="flex flex-col sm:flex-row sm:items-center gap-4">
+          <div className="flex items-center gap-2 text-sm text-gray-600">
+            <span className="font-medium">Showing:</span>
+            <span>{filteredChanges.length.toLocaleString()} of {perDiffChanges.length.toLocaleString()}</span>
+          </div>
+          
+          <div className="flex-1">
+            <select
+              value={filterBook}
+              onChange={(e) => setFilterBook(e.target.value)}
+              className="w-full sm:max-w-xs px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
+            >
+              <option value="">All Books</option>
+              {BOOKS.map((book) => (
+                <option key={book.slug} value={book.name}>
+                  {book.name}
+                </option>
+              ))}
+            </select>
+          </div>
         </div>
       </div>
 
@@ -76,6 +80,6 @@ export default function EditionChangesClient({ initialChanges }: EditionChangesC
       ) : (
         <VirtualizedChangesList changes={filteredChanges} />
       )}
-    </>
+    </div>
   );
 }
