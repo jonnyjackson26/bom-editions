@@ -1,6 +1,8 @@
 # Book of Mormon Edition Project 
 The goal of this project is to let people easily read older versions of the Book of Mormon, and to easily and meaningfully compare them. As well as view a list of changes between editions. 
 
+This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. 
+
 
 ## Routes
 
@@ -124,3 +126,7 @@ If i have footnotes enabled and im reading this verse (no matter which edition i
 on edge when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
 
 on mobile if the sidebar is open and its at the bottom and i scroll down on it, it closes the sidebar.
+
+there's too little space between the last character of the longest verse and the end of the <pre> block in the simultaneous page.
+
+4 vulnerabilities (3 high, 1 critical)
