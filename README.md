@@ -61,6 +61,14 @@ And instead opt for buttons to see *X* amount of changes from *Edition A* to *Ed
 This project will use NextJS for good speed, SEO, and SSG.  
 Uses @tanstack/react-virtual for fast loading of thousands of changes
 
+## Development
+To run locally:
+```bash
+npm i
+npm run dev
+```
+Alternatively, this code is deployed on Vercel at https://bom-editions.vercel.app/
+
 ### Data 
  - I'm storing full JSON for each edition. (I realize I could store the baseline 1830 edition and then store diffs for each newer edition, but I don't think it's worth the work at this time.)  
  - I want to eventually be able to have this work for different languages too, which is why I have an `en` folder, but for now I will only work on English. 
