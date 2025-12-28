@@ -57,19 +57,50 @@ export default async function ChangesPage() {
       <main className="flex-1 max-w-5xl mx-auto px-4 py-12">
         <div className="mb-12">
           <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Edition Changes
+            Changes between Editions
           </h1>
-          <p className="text-lg text-gray-600">
-            Change "to be" to "is" 1830 → 1837 (1 Nephi 1:3)
-          </p>
-          <div className="mt-4 bg-gray-50 rounded-lg p-4 border border-gray-200">
-            <p className="text-sm font-semibold text-gray-900 mb-2">Full Verse:</p>
-            <p className="text-sm text-gray-700 font-mono mb-4">
-              And I know that the record which I make, to be is true; and I make it with mine own hand; and I make it according to my knowledge.
-            </p>
-            <a href="/en/1830/1-nephi/1?compare=1837" className="text-primary-600 hover:text-primary-700 text-sm font-medium">
-              View in context →
-            </a>
+          
+          {/* Indicator - More above */}
+          <div className="text-center text-gray-400 mb-4">
+            <p className="text-sm">...</p>
+          </div>
+          
+          {/* Example Change Card */}
+          <div className="bg-white rounded-lg shadow-sm border border-gray-200 overflow-hidden hover:shadow-md transition-shadow">
+            <div className="px-4 py-3">
+              <div className="flex items-start justify-between gap-4">
+                <div className="flex-1 min-w-0">
+                  <div className="flex items-baseline gap-3 mb-2">
+                    <p className="text-sm font-medium text-gray-600">
+                      Change &quot;to be&quot; to &quot;is&quot;
+                    </p>
+                    <p className="text-xs text-gray-500 flex-shrink-0">
+                      (1 Nephi 1:3)
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="border-t border-gray-200 px-4 py-4 bg-gray-50">
+              <div className="mb-4">
+                <p className="text-xs text-gray-500 mb-2 font-medium">Full Verse:</p>
+                <div className="text-sm text-gray-700 leading-relaxed">
+                  And I know that the record which I make, <del className="bg-red-100 text-red-700 line-through">to be</del><ins className="bg-green-100 text-green-700 no-underline">is</ins> true; and I make it with mine own hand; and I make it according to my knowledge.
+                </div>
+              </div>
+              
+              <a
+                href="/en/1830/1-nephi/1?compare=1837"
+                className="inline-block text-primary-600 hover:text-primary-700 text-sm font-medium"
+              >
+                View in context →
+              </a>
+            </div>
+          </div>
+          
+          {/* Indicator - More below */}
+          <div className="text-center text-gray-400 mt-4 mb-8">
+            <p className="text-sm">...</p>
           </div>
         </div>
 
