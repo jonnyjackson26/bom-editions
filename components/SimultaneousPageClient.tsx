@@ -144,69 +144,67 @@ export default function SimultaneousPageClient({
           onClose={closeSidebar}
         />
 
-        <main className="flex-1 p-6 md:p-8 ml-0 md:ml-64">
-          <div className="max-w-5xl mx-auto mb-6">
-            <h1 id="page-title" className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
-              {bookName} {chapter}
-            </h1>
-            <p className="text-base md:text-lg text-gray-600 mb-4">
-              Compare all editions verse-by-verse
-            </p>
-          </div>
+        <main className="flex-1 ml-0 md:ml-64 min-w-0">
+          <div className="max-w-4xl px-6 md:px-8 py-8 mx-0 xl:mx-auto">
+            {/* Header */}
+            <div className="mb-8">
+              <h1 id="page-title" className="text-3xl md:text-4xl font-bold text-gray-900 mb-2">
+                {bookName} {chapter}
+              </h1>
+              <p className="text-base md:text-lg text-gray-600">
+                Compare all editions verse-by-verse
+              </p>
+            </div>
 
-          {/* Verse-by-verse section with editions listed */}
-          <div className="max-w-5xl mx-auto space-y-8">
-            {verseNumbers.map((vNum) => (
-              <section key={vNum} className="bg-white rounded-xl shadow-sm border border-gray-200">
-                <header className="px-4 md:px-6 py-3 border-b border-gray-200 bg-gray-50">
-                  <h2 className="text-lg md:text-xl font-semibold text-gray-900">
-                    {bookName} {chapter}:{vNum}
-                  </h2>
-                </header>
-                <div className="p-4 md:p-6 space-y-3">
-                  {availableDataEditions.map((ed) => (
-                    <div key={ed} className="flex items-start gap-3">
-                      <div className="shrink-0 w-14 md:w-16 text-right pr-2 font-semibold text-primary-700">
-                        {ed}:
-                      </div>
-                      <div className="text-gray-800 leading-relaxed">
-                        {editionVerseMap[ed][vNum] ?? '—'}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              </section>
-            ))}
+            {/* Verse-by-verse section with editions listed */}
+            <div className="space-y-6">
+              {verseNumbers.map((vNum) => (
+                <section key={vNum} className="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+                  <header className="px-4 md:px-6 py-3 border-b border-gray-200 bg-gray-50">
+                    <h2 className="text-lg md:text-xl font-semibold text-gray-900">
+                      {bookName} {chapter}:{vNum}
+                    </h2>
+                  </header>
+                  <div className="p-4 md:p-6 overflow-x-auto">
+                    <pre className="text-sm md:text-base text-gray-800 leading-relaxed font-mono m-0">
+                      {availableDataEditions
+                        .map((ed) => `${ed}: ${editionVerseMap[ed][vNum] ?? '—'}`)
+                        .join('\n')}
+                    </pre>
+                  </div>
+                </section>
+              ))}
 
-            {/* Navigation */}
-            <div className="flex justify-between items-center pt-2">
-              {prevChapter ? (
-                <button
-                  onClick={() => router.push(`/en/simultaneous/${book}/${prevChapter}`)}
-                  className="flex items-center gap-2 px-4 md:px-6 py-2.5 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
-                >
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                  </svg>
-                  Previous Chapter
-                </button>
-              ) : (
-                <div></div>
-              )}
+              {/* Navigation */}
+              <div className="flex justify-between items-center pt-4">
+                {prevChapter ? (
+                  <button
+                    onClick={() => router.push(`/en/simultaneous/${book}/${prevChapter}`)}
+                    className="flex items-center gap-2 px-4 md:px-6 py-2.5 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
+                  >
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+                    </svg>
+                    Previous Chapter
+                  </button>
+                ) : (
+                  <div></div>
+                )}
 
-              {nextChapter ? (
-                <button
-                  onClick={() => router.push(`/en/simultaneous/${book}/${nextChapter}`)}
-                  className="flex items-center gap-2 px-4 md:px-6 py-2.5 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors"
-                >
-                  Next Chapter
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                  </svg>
-                </button>
-              ) : (
-                <div></div>
-              )}
+                {nextChapter ? (
+                  <button
+                    onClick={() => router.push(`/en/simultaneous/${book}/${nextChapter}`)}
+                    className="flex items-center gap-2 px-4 md:px-6 py-2.5 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors"
+                  >
+                    Next Chapter
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                    </svg>
+                  </button>
+                ) : (
+                  <div></div>
+                )}
+              </div>
             </div>
           </div>
         </main>
