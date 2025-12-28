@@ -1,8 +1,11 @@
 # Book of Mormon Edition Project 
 The goal of this project is to let people easily read older versions of the Book of Mormon, and to easily and meaningfully compare them. As well as view a list of changes between editions. 
 
-This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. For example, I avoid phrases like "There have been thousands of changes to the text of the Book of Mormon over the years, most of them corrections of typographical errors and standardization of spelling and punctuation."
-
+This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. For example, I avoid phrases like
+ "There have been thousands of changes to the text of the Book of Mormon over the years, most of them corrections of typographical errors and standardization of spelling and punctuation."
+and also even phrases like
+ "There have been thousands of changes to the text of the Book of Mormon over the years."
+And instead opt for buttons to see *X* amount of changes from *Edition A* to *Edition B*.
 
 ## Routes
 
