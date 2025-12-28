@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import TopBar from '@/components/TopBar';
+import Footer from '@/components/Footer';
 import { EDITIONS, BOOKS, getAllChapters } from '@/lib/constants';
 import { readFile } from 'fs/promises';
 import path from 'path';
@@ -59,9 +60,17 @@ export default async function ChangesPage() {
             Edition Changes
           </h1>
           <p className="text-lg text-gray-600">
-            Explore the textual changes made between different editions of the Book of Mormon over time. 
-            Select an edition below to see what changed from the previous edition, or view all changes across every edition.
+            Change "to be" to "is" 1830 → 1837 (1 Nephi 1:3)
           </p>
+          <div className="mt-4 bg-gray-50 rounded-lg p-4 border border-gray-200">
+            <p className="text-sm font-semibold text-gray-900 mb-2">Full Verse:</p>
+            <p className="text-sm text-gray-700 font-mono mb-4">
+              And I know that the record which I make, to be is true; and I make it with mine own hand; and I make it according to my knowledge.
+            </p>
+            <a href="/en/1830/1-nephi/1?compare=1837" className="text-primary-600 hover:text-primary-700 text-sm font-medium">
+              View in context →
+            </a>
+          </div>
         </div>
 
         {/* All Changes Card */}
@@ -123,9 +132,6 @@ export default async function ChangesPage() {
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                   </svg>
                 </div>
-                <p className="text-gray-600">
-                  View detailed textual changes and differences introduced in this edition
-                </p>
                 <div className="mt-4 pt-4 border-t border-gray-200">
                   <p className="text-sm font-semibold text-primary-600">
                     {changeCount} {changeCount === 1 ? 'change' : 'changes'}
@@ -135,22 +141,9 @@ export default async function ChangesPage() {
             );
           }))}
         </div>
-
-        {/* Info Section */}
-        <div className="mt-12 bg-primary-50 rounded-xl p-8 border border-primary-200">
-          <h3 className="text-xl font-bold text-gray-900 mb-4">About Edition Changes</h3>
-          <p className="text-gray-700 mb-4">
-            The Book of Mormon has undergone numerous revisions since its original publication in 1830. 
-            These changes include corrections of typographical errors, grammatical improvements, 
-            clarifications of meaning, and standardization of spelling and punctuation.
-          </p>
-          <p className="text-gray-700">
-            Most changes were minor corrections, though some had theological significance. Understanding 
-            these changes provides insight into the text&apos;s transmission history and the editorial decisions 
-            made over time.
-          </p>
-        </div>
       </main>
+
+      <Footer />
     </div>
   );
 }

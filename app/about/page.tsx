@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import TopBar from '@/components/TopBar';
+import Footer from '@/components/Footer';
 
 export const metadata = {
   title: 'About - Book of Mormon Editions',
@@ -128,6 +129,8 @@ export default function AboutPage() {
           </div>
         </article>
       </main>
+
+      <Footer />
     </div>
   );
 }

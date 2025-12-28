@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import TopBar from '@/components/TopBar';
+import Footer from '@/components/Footer';
 import { EDITIONS, BOOKS } from '@/lib/constants';
 
 export default function HomePage() {
@@ -15,8 +16,42 @@ export default function HomePage() {
             Book of Mormon Editions
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            The Book of Mormon Editions Project is an <a href="https://github.com/jonnyjackson26/bom-editions" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700 font-medium">open source</a> tool that makes it easy to read historical versions of the Book of Mormon, compare them side-by-side in meaningful ways, and explore the detailed list of changes between editions.
+            An <a href="https://github.com/jonnyjackson26/bom-editions" target="_blank" rel="noopener noreferrer" className="text-primary-600 hover:text-primary-700 font-medium">open source</a> tool to read past editions of the Book of Mormon, easily compare them, and explore the detailed list of changes between them.
           </p>
+        </div>
+
+        {/* Action Buttons */}
+        <div className="flex flex-wrap justify-center gap-4 mb-16">
+          <Link
+            href="/en/1830/1-nephi/1"
+            className="px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors shadow-md hover:shadow-lg"
+          >
+            Read 1830 Edition
+          </Link>
+          <Link
+            href="/en/1830/1-nephi/1?compare=2013"
+            className="px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors shadow-md hover:shadow-lg"
+          >
+            See changes from 1830 Edition
+          </Link>
+          <Link
+            href="/en/simultaneous/1-nephi/1"
+            className="px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors shadow-md hover:shadow-lg"
+          >
+            Read All Editions <em>Verse-by-Verse</em>
+          </Link>
+          <Link
+            href="/changes/all"
+            className="px-6 py-3 bg-primary-600 text-white rounded-lg font-medium hover:bg-primary-700 transition-colors shadow-md hover:shadow-lg"
+          >
+            See List of All Changes
+          </Link>
+          <Link
+            href="/about"
+            className="px-6 py-3 bg-gray-600 text-white rounded-lg font-medium hover:bg-gray-700 transition-colors shadow-md hover:shadow-lg"
+          >
+            About
+          </Link>
         </div>
 
         {/* Features */}
@@ -107,39 +142,7 @@ export default function HomePage() {
         </section>
       </main>
 
-      <footer className="bg-gray-100 border-t border-gray-200 py-8 mt-16">
-        <div className="max-w-6xl mx-auto px-4 text-center text-gray-600">
-          <p className="mb-2">
-            Data sourced from{' '}
-            <a
-              href="https://github.com/BYU-ODH/OpenScripture"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary-600 hover:text-primary-700 font-medium"
-            >
-              BYU Open Scripture
-            </a>
-          </p>
-          <p className="mb-2">
-            <a
-              href="https://github.com/jonnyjackson26/bom-editions2"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-primary-600 hover:text-primary-700 font-medium"
-            >
-              View Source Code on GitHub
-            </a>
-          </p>
-          <p className="text-sm mb-2">
-            <Link href="/about" className="text-primary-600 hover:text-primary-700">
-              Learn more about this project
-            </Link>
-          </p>
-          <p className="text-sm text-gray-500 mt-4">
-            Not affiliated with the Church of Jesus Christ of Latter-Day Saints
-          </p>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }
