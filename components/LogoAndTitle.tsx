@@ -28,7 +28,7 @@ export default function LogoAndTitle({ book, chapter, edition, isAtTop = true, c
           <>
             {isAtTop ? (
               <>
-                <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                <h1 className="text-sm sm:text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
                   Book of Mormon Editions
                 </h1>
                 <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>
@@ -46,7 +46,7 @@ export default function LogoAndTitle({ book, chapter, edition, isAtTop = true, c
           </>
         ) : (
           <>
-            <h1 className="text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+            <h1 className="text-sm sm:text-lg font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
               Book of Mormon Editions
             </h1>
             <p className="text-xs text-gray-500 hidden sm:block">Compare editions from 1830-2013</p>

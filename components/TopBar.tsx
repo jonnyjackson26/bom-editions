@@ -219,6 +219,16 @@ export default function TopBar({
                   Home
                 </Link>
                 <Link
+                  href="/en/2013/1-nephi/1"
+                  className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                    pathname?.startsWith('/en/')
+                      ? 'bg-primary-100 text-primary-700'
+                      : 'text-gray-600 hover:bg-gray-100'
+                  }`}
+                >
+                  Read
+                </Link>
+                <Link
                   href="/changes"
                   className={`px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
                     pathname?.startsWith('/changes')
@@ -275,6 +285,17 @@ export default function TopBar({
               }`}
             >
               Home
+            </Link>
+            <Link
+              href="/en/2013/1-nephi/1"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className={`block px-3 py-2 rounded-lg text-sm font-medium transition-colors ${
+                pathname?.startsWith('/en/')
+                  ? 'bg-primary-100 text-primary-700'
+                  : 'text-gray-600 hover:bg-gray-100'
+              }`}
+            >
+              Read
             </Link>
             <Link
               href="/changes"

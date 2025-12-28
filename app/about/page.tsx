@@ -14,14 +14,13 @@ export default function AboutPage() {
       
       <main className="flex-1 max-w-4xl mx-auto px-4 py-12">
         <article className="prose prose-lg max-w-none">
-          <h1 className="text-4xl font-bold text-gray-900 mb-6">About This Project</h1>
+          <h1 className="text-4xl font-bold text-gray-900 mb-6">About The Book of Mormon Editions Project</h1>
           
           <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Our Mission</h2>
             <p className="text-gray-700 mb-4">
               The Book of Mormon Editions project aims to make historical editions of the Book of Mormon 
-              easily accessible and comparable. We believe that understanding how sacred texts have evolved 
-              over time provides valuable insights into their history and transmission.
+              easily accessible and comparable. This project takes data from BYU's Office of Digital Humanities Github repository 'OpenScripture', https://github.com/BYU-ODH/OpenScripture, which was a project led
             </p>
             <p className="text-gray-700">
               By presenting multiple editions side-by-side and highlighting changes, we enable scholars, 
@@ -36,15 +35,19 @@ export default function AboutPage() {
               This project includes the following editions of the Book of Mormon:
             </p>
             <ul className="list-disc list-inside space-y-2 text-gray-700">
-              <li><strong>1830</strong> - The original edition, published in Palmyra, New York</li>
-              <li><strong>1837</strong> - First revision with numerous corrections</li>
-              <li><strong>1840</strong> - Third edition with additional changes</li>
-              <li><strong>1841</strong> - European edition published in Liverpool</li>
-              <li><strong>1879</strong> - Edition with verse numbers added</li>
-              <li><strong>1920</strong> - Edition with modernized language and formatting</li>
-              <li><strong>1981</strong> - Major revision with updated introduction and footnotes</li>
-              <li><strong>2013</strong> - Current edition with minor refinements</li>
+              <li><strong>1830</strong></li>
+              <li><strong>1837</strong></li>
+              <li><strong>1840</strong></li>
+              <li><strong>1841</strong></li>
+              <li><strong>1879</strong></li>
+              <li><strong>1920</strong></li>
+              <li><strong>1981</strong></li>
+              <li><strong>2013</strong></li>
             </ul>
+            <br/>
+            <p className="text-gray-700 mb-4">
+              There are other published editions of the Book of Mormon, but I only have data from these editions at this time.
+            </p>
           </div>
 
           <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
@@ -90,21 +93,6 @@ export default function AboutPage() {
             <p className="text-gray-700">
               We are grateful for their work in making these historical texts available for research and study.
             </p>
-          </div>
-
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Technical Details</h2>
-            <p className="text-gray-700 mb-4">
-              This website is built with modern web technologies to ensure fast loading, excellent SEO, 
-              and a smooth user experience:
-            </p>
-            <ul className="list-disc list-inside space-y-2 text-gray-700">
-              <li>Built with Next.js 14 and React</li>
-              <li>Styled with Tailwind CSS for responsive design</li>
-              <li>Uses diff-match-patch for text comparison</li>
-              <li>Static generation for optimal performance</li>
-              <li>Fully responsive for mobile and desktop</li>
-            </ul>
           </div>
 
           <div className="bg-primary-50 rounded-xl p-8 border border-primary-200">
