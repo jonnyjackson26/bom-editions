@@ -103,14 +103,12 @@ Example JSON file (/public/data/en/1830/1-nephi/1.json):
 The data is from [Open Scripture](https://github.com/BYU-ODH/OpenScripture). I've included a git submodule and the processing steps in the `data-source` folder. This repository has the text data of all the editions in a tab seperated value file.  
 
 ### diff-match-patch
-I'll be using diff-match-patch to calculate differences on the client side for pages like /changes and the reading routes with `?showFootnotes=true` and `?compare=<edition>`
+I'll be using diff-match-patch to calculate differences on the client side for the reading routes with `?showFootnotes=true` and `?compare=<edition>`
 
 
 
 # TODO:
-- [ ] upgrade next js to fix seuciryt
-- [ ] package lock has "name": "bom-editions2",
-- [ ] metadata.ts: export const baseMetadata: Metadata = { metadataBase: new URL('https://bom-editions.com'),
+- [ ] make it so if the church releases a new version of the bom, all you need to do is add a new folder of json in public/data.
 
 
 

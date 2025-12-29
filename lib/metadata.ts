@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const baseMetadata: Metadata = {
-  metadataBase: new URL('https://bom-editions.com'),
+  metadataBase: new URL('https://bom-editions.vercel.app'),
   title: {
     default: 'Book of Mormon Editions',
     template: '%s | Book of Mormon Editions',
@@ -16,6 +16,7 @@ export const baseMetadata: Metadata = {
     'comparison',
     'textual history',
     'LDS',
+    'changes'
   ],
   authors: [{ name: 'Book of Mormon Editions Project' }],
   openGraph: {
