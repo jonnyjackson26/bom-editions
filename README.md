@@ -137,7 +137,7 @@ If i have footnotes enabled and im reading this verse (no matter which edition i
 
 
 
-on edge when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
+on edge broswer when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
 
 on mobile if the sidebar is open and its at the bottom and i scroll down on it, it closes the sidebar.
 
