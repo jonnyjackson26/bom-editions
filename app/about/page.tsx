@@ -78,8 +78,13 @@ export default function AboutPage() {
               </div>
             </div>
             
+
             <p className="text-gray-700">
               This project is designed to support informed study by presenting historical data as accurately and transparently as possible, without interpretation or editorial bias.
+            </p>
+
+            <p className="text-gray-700">
+              This project seeks to present historical textual data as accurately and transparently as possible, without interpretation or editorial bias. While absolute neutrality is impossible, I value openness and clarity. I therefore acknowledge that I am a member in good standing of The Church of Jesus Christ of Latter-day Saints and personally believe the Book of Mormon to be the word of God.
             </p>
 
             <p className="text-gray-700 mt-6">

@@ -1,13 +1,46 @@
 # Book of Mormon Edition Project 
-The goal of this project is to let people easily read older versions of the Book of Mormon, and to easily and meaningfully compare them. As well as view a list of changes between editions. 
 
-Learn more about this project on [my website.](https://jonny-jackson.com/posts/book-of-mormon-editions-project/)
+The [**Book of Mormon Editions Project**](https://bom-editions.vercel.app) is an independent, nonpartisan digital resource dedicated to documenting and presenting the historical textual development of the Book of Mormon. Its purpose is to provide readers, researchers, and students with clear, direct access to multiple published editions, enabling careful study and transparent comparison over time.
 
-This project does it's best to be unbiased, showing only concrete facts and avoiding opinions as much as possible. While I myself am a member of the Church of Jesus Christ of Latter-Day Saints in good standing and a beliver that the Book of Mormon is the word of God. For example, I avoid phrases like
- "There have been thousands of changes to the text of the Book of Mormon over the years, most of them corrections of typographical errors and standardization of spelling and punctuation."
-and also even phrases like
- "There have been thousands of changes to the text of the Book of Mormon over the years."
-And instead opt for buttons to see *X* amount of changes from *Edition A* to *Edition B*.
+All textual data used in this project is sourced from the  
+[BYU Open Scripture Project](https://github.com/BYU-ODH/OpenScripture), whose meticulous work in digitizing historical editions of the Book of Mormon has made rigorous textual study possible. This project gratefully acknowledges their contribution and relies on their data as its authoritative textual foundation.
+
+This project seeks to present historical textual data as accurately and transparently as possible, without interpretation or editorial bias. While absolute neutrality is impossible, I value openness and clarity. I therefore acknowledge that I am a member in good standing of The Church of Jesus Christ of Latter-day Saints and personally believe the Book of Mormon to be the word of God.
+
+---
+
+## Features
+
+### Read Complete Editions
+Read the complete text of each of the following edition with clean, consistent formatting:  
+**1830, 1837, 1840, 1841, 1879, 1920, 1981, and 2013**  
+[Browse editions →](https://bom-editions.vercel.app/en/editions)
+
+### See Inline Differences
+Compare editions with inline highlights showing additions, deletions, and modifications.  
+[Try a comparison →](https://bom-editions.vercel.app/en/1830/1-nephi/1?compare=2013)
+
+![Screenshot of 1830 with 2013 comparison](public/screenshots/1830-with-2013-comparison.png)
+
+### Simultaneous View
+View all editions at once to quickly compare changes.  
+[Open simultaneous view →](https://bom-editions.vercel.app/en/simultaneous/1-nephi/1)
+
+![Screenshot of simultaneous view](public/screenshots/simultaneous.png)
+
+### Track All Changes
+Browse a comprehensive, structured record of textual changes across editions.  
+[View all changes →](https://bom-editions.vercel.app/changes/all)
+
+![Screenshot of changes 1830 to 1837](public/screenshots/changes-1830-1837.png)
+
+
+---
+
+
+You can find more about me and this project on [My Website.](https://jonny-jackson.com/posts/book-of-mormon-editions-project/)
+
+
 
 ## Routes
 
@@ -58,8 +91,9 @@ And instead opt for buttons to see *X* amount of changes from *Edition A* to *Ed
 
 
 ## Technical details 
-This project will use NextJS for good speed, SEO, and SSG.  
-Uses @tanstack/react-virtual for fast loading of thousands of changes
+This project uses NextJS for good speed, SEO, and SSG.  
+Uses @tanstack/react-virtual for fast loading of thousands of changes on the changes routes.
+I'll be using **diff-match-patch** to calculate differences between editions
 
 ## Development
 To run locally:
@@ -102,8 +136,7 @@ Example JSON file (/public/data/en/1830/1-nephi/1.json):
 
 The data is from [Open Scripture](https://github.com/BYU-ODH/OpenScripture). I've included a git submodule and the processing steps in the `data-source` folder. This repository has the text data of all the editions in a tab seperated value file.  
 
-### diff-match-patch
-I'll be using diff-match-patch to calculate differences on the client side for the reading routes with `?showFootnotes=true` and `?compare=<edition>`
+
 
 
 
@@ -141,10 +174,6 @@ on mobile if the sidebar is open and its at the bottom and i scroll down on it, 
 
 there's too little space between the last character of the longest verse and the end of the <pre> block in the simultaneous page.
 
-4 vulnerabilities (3 high, 1 critical)
-
-todo:
-- vercel analytics
 - when i expand moroni on the sidebar, it should scroll down for me to see moronis chapters (its the last book.)
 - custom dropdowns.
 
