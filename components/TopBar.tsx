@@ -155,7 +155,7 @@ export default function TopBar({
                 id="edition-select"
                 value={edition}
                 onChange={(e) => onEditionChange(e.target.value)}
-                className="px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors"
+                className={`px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors ${isReadingRoute ? 'w-20 sm:w-auto' : ''}`}
               >
                 {availableEditions.map((ed) => (
                   <option key={ed} value={ed}>
@@ -189,7 +189,7 @@ export default function TopBar({
                 id="compare-select"
                 value={compareEdition}
                 onChange={(e) => onCompareEditionChange(e.target.value)}
-                className="px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors"
+                className={`px-2 sm:px-3 py-1.5 sm:py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white text-sm shadow-sm hover:border-gray-400 transition-colors ${isReadingRoute ? 'w-20 sm:w-auto' : ''}`}
               >
                 <option value="">None</option>
                 {availableEditions

@@ -149,7 +149,4 @@ todo:
 - update screenshots
 - when i expand moroni on the sidebar, it should scroll down for me to see moronis chapters (its the last book.)
 - custom dropdowns.
- -
-
- can we make it so on mobile ONLY the dropdowns on the reading routes are less wide, so as to fit well the book name/chapter number?
 
