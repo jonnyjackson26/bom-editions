@@ -13,109 +13,100 @@ export default function AboutPage() {
       <TopBar />
       
       <main className="flex-1 max-w-4xl mx-auto px-4 py-12">
-        <article className="prose prose-lg max-w-none">
-          <h1 className="text-4xl font-bold text-gray-900 mb-6">About The Book of Mormon Editions Project</h1>
+        <div className="bg-white rounded-xl shadow-md p-8 border border-gray-200">
+          <h1 className="text-4xl font-bold text-gray-900 mb-6">About the Book of Mormon Editions Project</h1>
           
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Our Mission</h2>
+          <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 mb-4">
-              The Book of Mormon Editions project aims to make historical editions of the Book of Mormon 
-              easily accessible and comparable. This project takes data from BYU's Office of Digital Humanities Github repository 'OpenScripture', https://github.com/BYU-ODH/OpenScripture, which was a project led
+              The Book of Mormon Editions Project is an independent, nonpartisan digital resource dedicated to documenting and presenting the historical textual development of the Book of Mormon. Its purpose is to provide readers, researchers, and students with clear, direct access to multiple published editions, enabling careful study and transparent comparison over time.
             </p>
-            <p className="text-gray-700">
-              By presenting multiple editions side-by-side and highlighting changes, we enable scholars, 
-              students, and curious readers to explore the textual history of the Book of Mormon in an 
-              intuitive and meaningful way.
-            </p>
-          </div>
-
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Available Editions</h2>
+            
             <p className="text-gray-700 mb-4">
-              This project includes the following editions of the Book of Mormon:
-            </p>
-            <ul className="list-disc list-inside space-y-2 text-gray-700">
-              <li><strong>1830</strong></li>
-              <li><strong>1837</strong></li>
-              <li><strong>1840</strong></li>
-              <li><strong>1841</strong></li>
-              <li><strong>1879</strong></li>
-              <li><strong>1920</strong></li>
-              <li><strong>1981</strong></li>
-              <li><strong>2013</strong></li>
-            </ul>
-            <br/>
-            <p className="text-gray-700 mb-4">
-              There are other published editions of the Book of Mormon, but I only have data from these editions at this time.
-            </p>
-          </div>
-
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Features</h2>
-            <ul className="space-y-4 text-gray-700">
-              <li>
-                <strong className="text-gray-900">Read Any Edition:</strong> Browse and read any edition 
-                of the Book of Mormon with a clean, distraction-free interface.
-              </li>
-              <li>
-                <strong className="text-gray-900">Compare Editions:</strong> View two editions side-by-side 
-                with changes highlighted inline, showing additions, deletions, and modifications.
-              </li>
-              <li>
-                <strong className="text-gray-900">Footnotes:</strong> See how specific words or phrases 
-                appear across all editions for detailed comparison.
-              </li>
-              <li>
-                <strong className="text-gray-900">Simultaneous View:</strong> Read all editions simultaneously 
-                in a multi-column layout for comprehensive comparison.
-              </li>
-              <li>
-                <strong className="text-gray-900">Change Tracking:</strong> Browse a comprehensive list of 
-                all changes made between editions over time.
-              </li>
-            </ul>
-          </div>
-
-          <div className="bg-white rounded-xl shadow-md p-8 mb-8 border border-gray-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Data Source</h2>
-            <p className="text-gray-700 mb-4">
-              All textual data is sourced from the excellent{' '}
+              All textual data used in this project is sourced from the&nbsp;
               <a
                 href="https://github.com/BYU-ODH/OpenScripture"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary-600 hover:text-primary-700 font-medium underline"
               >
-                BYU Open Scripture
-              </a>{' '}
-              project, which has meticulously digitized and verified multiple editions of religious texts.
+                BYU Open Scripture Project
+              </a>
+              , whose meticulous work in digitizing historical editions of the Book of Mormon has made rigorous textual study possible. This project gratefully acknowledges their contribution and relies on their data as its authoritative textual foundation.
             </p>
-            <p className="text-gray-700">
-              We are grateful for their work in making these historical texts available for research and study.
+            
+            <p className="text-gray-700 mb-4">
+              The site currently includes the following editions of the Book of Mormon:
             </p>
-          </div>
-
-          <div className="bg-primary-50 rounded-xl p-8 border border-primary-200">
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">Get Started</h2>
+            
             <p className="text-gray-700 mb-6">
-              Ready to explore the Book of Mormon editions? Start reading or comparing now!
+              <strong>1830, 1837, 1840, 1841, 1879, 1920, 1981, and 2013</strong>
             </p>
-            <div className="flex flex-wrap gap-4">
-              <Link
-                href="/en/1830/1-nephi/1"
-                className="inline-block bg-primary-600 hover:bg-primary-700 text-white font-medium px-6 py-3 rounded-lg transition-colors"
-              >
-                Read 1830 Edition
-              </Link>
-              <Link
-                href="/changes"
-                className="inline-block bg-white hover:bg-gray-50 text-primary-600 font-medium px-6 py-3 rounded-lg border border-primary-600 transition-colors"
-              >
-                View Changes
-              </Link>
+            
+            <h2 className="text-2xl font-bold text-gray-900 mb-4 mt-8">Features</h2>
+
+            <div className="space-y-4 mb-6">
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-1">Read Complete Editions</h3>
+                <p className="text-gray-700">
+                  Read the complete text of each included edition with clean, consistent formatting.
+                  <Link href="/en/editions" className="ml-2 text-primary-600 hover:text-primary-700 font-medium">Explore editions →</Link>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-1">See Inline Differences</h3>
+                <p className="text-gray-700">
+                  Compare editions with inline highlights showing additions, deletions, and modifications.
+                  <Link href="/en/1830/1-nephi/1?compare=2013" className="ml-2 text-primary-600 hover:text-primary-700 font-medium">Try a comparison →</Link>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-1">Simultaneous View</h3>
+                <p className="text-gray-700">
+                  View all editions at once to observe broader patterns of textual development.
+                  <Link href="/en/simultaneous/1-nephi/1" className="ml-2 text-primary-600 hover:text-primary-700 font-medium">Open simultaneous view →</Link>
+                </p>
+              </div>
+
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-1">Track All Changes</h3>
+                <p className="text-gray-700">
+                  Browse a comprehensive, structured record of textual changes across editions.
+                  <Link href="/changes/all" className="ml-2 text-primary-600 hover:text-primary-700 font-medium">View all changes →</Link>
+                </p>
+              </div>
             </div>
+            
+            <p className="text-gray-700">
+              This project is designed to support informed study by presenting historical data as accurately and transparently as possible, without interpretation or editorial bias.
+            </p>
+
+            <p className="text-gray-700 mt-6">
+              The source code for this project is available on{' '}
+              <a
+                href="https://github.com/jonnyjackson26/bom-editions"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary-600 hover:text-primary-700 font-medium underline"
+              >
+                GitHub
+              </a>.
+            </p>
+
+            <p className="text-gray-700 mt-2">
+              You can find more about me and this project at my website:&nbsp;
+              <a
+                href="https://jonny-jackson.com/posts/book-of-mormon-editions-project/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary-600 hover:text-primary-700 font-medium underline"
+              >
+                jonny-jackson.com
+              </a>.
+            </p>
           </div>
-        </article>
+        </div>
       </main>
 
       <Footer />
