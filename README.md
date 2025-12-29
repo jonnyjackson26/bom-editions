@@ -148,4 +148,7 @@ there's too little space between the last character of the longest verse and the
 todo:
 - update screenshots
 - in mobile, have "back home" button be sticky just as the X and current book/chapter are.
- - 
+- custom dropdowns.
+ - instead of the next/previous buttons showing "next chapter" and previous cahpter, let them show the book name and chapter name of the next/prevoius.
+
+ 

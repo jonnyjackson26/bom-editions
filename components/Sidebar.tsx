@@ -83,8 +83,8 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
         </div>
         
         <div className="p-4 pb-8">
-          {/* Back Home Button - Mobile Only */}
-          <div className="md:hidden mb-4 pb-4 border-b border-gray-200">
+          {/* Back Home Button - Mobile Only, Sticky */}
+          <div className="md:hidden sticky top-16 z-10 bg-white border-b border-gray-200 mb-4 pb-4">
             <Link
               href="/"
               onClick={onClose}
@@ -96,7 +96,6 @@ export default function Sidebar({ edition, currentBook, currentChapter, queryStr
               Back to Home
             </Link>
           </div>
-          
           <nav className="space-y-1">
             {BOOKS.map((book) => {
               const isExpanded = expandedBooks.has(book.slug);
