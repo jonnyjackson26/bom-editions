@@ -142,38 +142,73 @@ The data is from [Open Scripture](https://github.com/BYU-ODH/OpenScripture). I'v
 
 # TODO:
 - [ ] make it so if the church releases a new version of the bom, all you need to do is add a new folder of json in public/data.
+- note that the verses werent broken up, and that im missing things like introudction
+- I've set up but haven't completed a lot of the `footnote` functionality. The idea of footnotes was that it would allow readers to see reversions in text. For example, some editions would make a change that brought back an original state of the text. See 1 Nephi 1:16 below:
+```
+1837: ... the things which my father hath written, ...
+1840: ... the things which my father had written, ...
+1841: ... the things which my father hath written, ...
+```
+The reason I haven't finished is because the simultaneous edition page shows changes like this well, and I'm not sure anymore if footnotes in the reading routes are neccesary.
 
-
-
-ok, a clarification for the footnotes. it should be a little number (resets each verse) that shows after a word in which that word has been changed between editions. When you hover over the footnote (or click it on mobile), it shows a dropdown of how that word and the word before/after it have changed over time.
-
-for example, consider 1 nephi 1:2:
-1830: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-1837: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-1840: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-1841: yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-1879: Yea, I make a record in the language of my father, which consists of the learning of the Jews, and the language of the Egyptians.
-1920: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-1981: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-2013: Yea, I make a record in the language of my father, which consists of the learning of the Jews and the language of the Egyptians.
-
-If i have footnotes enabled and im reading this verse (no matter which edition im reading or whether or not im comparing), there should be a little "1" footnote after the word "yea,". and hovering it would show:
-1830: yea,
-1837: yea,
-1840: yea,
-1841: yea,
-1879: Yea,
-1920: Yea,
-2013: Yea,
-
-
-
-on edge broswer when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
-
-on mobile if the sidebar is open and its at the bottom and i scroll down on it, it closes the sidebar.
-
-there's too little space between the last character of the longest verse and the end of the <pre> block in the simultaneous page.
-
+- on edge broswer when scrolling up at the top of the page on a chapter page the topbar scrolls down which looks bad.
+- on mobile if the sidebar is open and its at the bottom and i scroll down on it, it closes the sidebar.
+- there's too little space between the last character of the longest verse and the end of the code block in the simultaneous page.
 - when i expand moroni on the sidebar, it should scroll down for me to see moronis chapters (its the last book.)
 - custom dropdowns.
 
+
+
+
+# Help Needed! Contributing to the Book of Mormon Editions Project
+---
+## Ways to Contribute
+
+- **Bug fixes and UI improvements**  
+  Help improve the website’s performance, accessibility, or user experience.
+
+- **Adding new editions**  
+  Contribute digitized editions of the Book of Mormon, in English or other languages.  
+
+- **Data improvements**  
+  Help improve the accuracy of existing editions, text comparisons, or formatting.
+
+- **Documentation**  
+  Help improve the site’s guides, explanations, or technical documentation.
+
+---
+
+## Data Contribution Guidelines
+
+To maintain the scholarly and historical integrity of this project, all data contributions should adhere to the following:
+
+1. **Source Requirements**  
+   - Text must come from a verified edition of the Book of Mormon.  
+   - Preferably from public domain sources or with explicit permission to share.  
+   - Include full bibliographic or institutional attribution whenever possible.
+
+2. **Formatting Requirements**  
+   - Follow the existing JSON structure in the repository.   
+   - Preserve original spelling, punctuation, and formatting.  
+---
+
+## Submitting Changes
+
+1. **Fork** the repository.  
+2. Create a **feature branch** for your changes.  
+3. Make your improvements, following the formatting guidelines.  
+4. Submit a **pull request (PR)** with a clear description of your changes.  
+5. Include references or links to sources when contributing textual data.
+
+---
+
+### Reporting Issues
+
+If you find a bug, formatting error, or missing data, please open an issue on GitHub.
+
+
+### Supporting This Project
+
+If you’d like to support this work, please reach out to me directly at [jonny-jackson.com](https://jonny-jackson.com).  
+
+Financial support helps with domain/hosting costs, research, and further development of this project.
