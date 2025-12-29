@@ -147,8 +147,9 @@ there's too little space between the last character of the longest verse and the
 
 todo:
 - update screenshots
-- in mobile, have "back home" button be sticky just as the X and current book/chapter are.
+- when i expand moroni on the sidebar, it should scroll down for me to see moronis chapters (its the last book.)
 - custom dropdowns.
- - instead of the next/previous buttons showing "next chapter" and previous cahpter, let them show the book name and chapter name of the next/prevoius.
+ -
 
- 
+ can we make it so on mobile ONLY the dropdowns on the reading routes are less wide, so as to fit well the book name/chapter number?
+

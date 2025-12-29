@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import TopBar from '@/components/TopBar';
 import Sidebar from '@/components/Sidebar';
-import { EDITIONS, ALL_EDITION_OPTIONS, getBookName, getAllChapters } from '@/lib/constants';
+import { EDITIONS, ALL_EDITION_OPTIONS, BOOKS, getBookName, getAllChapters } from '@/lib/constants';
 import { ChapterData, fetchChapterData, fetchAllEditionsForChapter } from '@/lib/data';
 import { getDifferences, DiffResult } from '@/lib/diff';
 
