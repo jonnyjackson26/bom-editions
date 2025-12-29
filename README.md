@@ -144,3 +144,8 @@ on mobile if the sidebar is open and its at the bottom and i scroll down on it, 
 there's too little space between the last character of the longest verse and the end of the <pre> block in the simultaneous page.
 
 4 vulnerabilities (3 high, 1 critical)
+
+todo:
+- update screenshots
+- in mobile, have "back home" button be sticky just as the X and current book/chapter are.
+ - 
