@@ -37,6 +37,9 @@ Browse a comprehensive, structured record of textual changes across editions.
 
 ---
 
+**Note on Verse Divisions and Introductory Material:**
+The Book of Mormon was not divided into verses until the 1879 edition. For consistency and ease of reading, the text from earlier editions has been arranged into verses following the later structure. Additionally, certain content, such as introductory pages, has been omitted from this project to focus on the main scriptural text.
+
 
 You can find more about me and this project on [My Website.](https://jonny-jackson.com/posts/book-of-mormon-editions-project/)
 
@@ -139,15 +142,13 @@ The data is from [Open Scripture](https://github.com/BYU-ODH/OpenScripture). I'v
 
 
 
-
 # TODO:
-- [ ] make it so if the church releases a new version of the bom, all you need to do is add a new folder of json in public/data.
-- note that the verses werent broken up, and that im missing things like introudction
+- Make it so if the church releases a new version of the bom, all you need to do is add a new folder of json in public/data.
 - I've set up but haven't completed a lot of the `footnote` functionality. The idea of footnotes was that it would allow readers to see reversions in text. For example, some editions would make a change that brought back an original state of the text. See 1 Nephi 1:16 below:
 ```
-1837: ... the things which my father hath written, ...
-1840: ... the things which my father had written, ...
-1841: ... the things which my father hath written, ...
+1837: ... my father hath written, ...
+1840: ... my father had written, ...
+1841: ... my father hath written, ...
 ```
 The reason I haven't finished is because the simultaneous edition page shows changes like this well, and I'm not sure anymore if footnotes in the reading routes are neccesary.
 
@@ -161,7 +162,7 @@ The reason I haven't finished is because the simultaneous edition page shows cha
 
 
 # Help Needed! Contributing to the Book of Mormon Editions Project
----
+
 ## Ways to Contribute
 
 - **Bug fixes and UI improvements**  
@@ -171,7 +172,7 @@ The reason I haven't finished is because the simultaneous edition page shows cha
   Contribute digitized editions of the Book of Mormon, in English or other languages.  
 
 - **Data improvements**  
-  Help improve the accuracy of existing editions, text comparisons, or formatting.
+  We're missing introductory pages and other content that's not the main story of the Book of Mormon. If you have access to it, please add it.  
 
 - **Documentation**  
   Help improve the site’s guides, explanations, or technical documentation.
