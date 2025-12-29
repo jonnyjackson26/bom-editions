@@ -67,8 +67,32 @@ export default function ChapterPageClient({
 
   const chapters = getAllChapters(book);
   const bookName = getBookName(book);
-  const prevChapter = chapter > 1 ? chapter - 1 : null;
-  const nextChapter = chapter < chapters.length ? chapter + 1 : null;
+  // Determine previous and next chapter/book
+  let prevBook = book, prevChapter = chapter > 1 ? chapter - 1 : null;
+  let nextBook = book, nextChapter = chapter < chapters.length ? chapter + 1 : null;
+  // If at first chapter, previous is last chapter of previous book
+  if (chapter === 1) {
+    const bookIdx = BOOKS.findIndex(b => b.slug === book);
+    if (bookIdx > 0) {
+      prevBook = BOOKS[bookIdx - 1].slug;
+      const prevBookChapters = getAllChapters(prevBook);
+      prevChapter = prevBookChapters[prevBookChapters.length - 1];
+    } else {
+      prevBook = null;
+      prevChapter = null;
+    }
+  }
+  // If at last chapter, next is first chapter of next book
+  if (chapter === chapters.length) {
+    const bookIdx = BOOKS.findIndex(b => b.slug === book);
+    if (bookIdx < BOOKS.length - 1) {
+      nextBook = BOOKS[bookIdx + 1].slug;
+      nextChapter = 1;
+    } else {
+      nextBook = null;
+      nextChapter = null;
+    }
+  }
 
   // Update URL when controls change
   useEffect(() => {
@@ -309,38 +333,37 @@ export default function ChapterPageClient({
 
           {/* Navigation */}
           <div className="flex justify-between items-center">
-            {prevChapter ? (
+            {prevChapter && prevBook ? (
               <button
                 onClick={() => {
                   const params = new URLSearchParams();
                   if (showFootnotes) params.set('showFootnotes', 'true');
                   if (compareEdition) params.set('compare', compareEdition);
                   const query = params.toString() ? `?${params.toString()}` : '';
-                  router.push(`/en/${edition}/${book}/${prevChapter}${query}`);
+                  router.push(`/en/${edition}/${prevBook}/${prevChapter}${query}`);
                 }}
                 className="flex items-center gap-2 px-6 py-3 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition-colors"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
                 </svg>
-                Previous Chapter
+                {getBookName(prevBook)} {prevChapter}
               </button>
             ) : (
               <div></div>
             )}
-            
-            {nextChapter ? (
+            {nextChapter && nextBook ? (
               <button
                 onClick={() => {
                   const params = new URLSearchParams();
                   if (showFootnotes) params.set('showFootnotes', 'true');
                   if (compareEdition) params.set('compare', compareEdition);
                   const query = params.toString() ? `?${params.toString()}` : '';
-                  router.push(`/en/${edition}/${book}/${nextChapter}${query}`);
+                  router.push(`/en/${edition}/${nextBook}/${nextChapter}${query}`);
                 }}
                 className="flex items-center gap-2 px-6 py-3 bg-primary-600 text-white rounded-lg hover:bg-primary-700 transition-colors"
               >
-                Next Chapter
+                {getBookName(nextBook)} {nextChapter}
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
