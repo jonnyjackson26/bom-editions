@@ -68,8 +68,8 @@ export default function ChapterPageClient({
   const chapters = getAllChapters(book);
   const bookName = getBookName(book);
   // Determine previous and next chapter/book
-  let prevBook = book, prevChapter = chapter > 1 ? chapter - 1 : null;
-  let nextBook = book, nextChapter = chapter < chapters.length ? chapter + 1 : null;
+  let prevBook: string | null = book, prevChapter = chapter > 1 ? chapter - 1 : null;
+  let nextBook: string | null = book, nextChapter = chapter < chapters.length ? chapter + 1 : null;
   // If at first chapter, previous is last chapter of previous book
   if (chapter === 1) {
     const bookIdx = BOOKS.findIndex(b => b.slug === book);
@@ -78,7 +78,7 @@ export default function ChapterPageClient({
       const prevBookChapters = getAllChapters(prevBook);
       prevChapter = prevBookChapters[prevBookChapters.length - 1];
     } else {
-      prevBook = null;
+      prevBook = '';
       prevChapter = null;
     }
   }
@@ -89,7 +89,7 @@ export default function ChapterPageClient({
       nextBook = BOOKS[bookIdx + 1].slug;
       nextChapter = 1;
     } else {
-      nextBook = null;
+      nextBook = '';
       nextChapter = null;
     }
   }

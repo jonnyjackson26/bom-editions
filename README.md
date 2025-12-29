@@ -146,7 +146,7 @@ there's too little space between the last character of the longest verse and the
 4 vulnerabilities (3 high, 1 critical)
 
 todo:
-- update screenshots
+- vercel analytics
 - when i expand moroni on the sidebar, it should scroll down for me to see moronis chapters (its the last book.)
 - custom dropdowns.
 
