@@ -144,7 +144,6 @@ export default function ChapterPageClient({
 
     el.scrollIntoView({ behavior: 'smooth', block: 'center' });
     setHighlightedVerse(verseNum);
-    setTimeout(() => setHighlightedVerse(null), 2000);
   }, []);
 
   const handleEditionChange = (newEdition: string) => {
