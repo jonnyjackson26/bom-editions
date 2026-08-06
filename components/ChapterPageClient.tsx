@@ -40,6 +40,7 @@ export default function ChapterPageClient({
   const [footnoteData, setFootnoteData] = useState<FootnoteData | null>(null);
   const [loading, setLoading] = useState(false);
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [highlightedVerse, setHighlightedVerse] = useState<number | null>(null);
 
   // Handle sidebar state based on screen size
   useEffect(() => {
@@ -100,7 +101,8 @@ export default function ChapterPageClient({
     if (showFootnotes) params.set('showFootnotes', 'true');
     if (compareEdition) params.set('compare', compareEdition);
     const query = params.toString() ? `?${params.toString()}` : '';
-    const newUrl = `/en/${edition}/${book}/${chapter}${query}`;
+    const hash = typeof window !== 'undefined' ? window.location.hash : '';
+    const newUrl = `/en/${edition}/${book}/${chapter}${query}${hash}`;
     router.push(newUrl, { scroll: false });
   }, [edition, showFootnotes, compareEdition, book, chapter, router]);
 
@@ -128,6 +130,22 @@ export default function ChapterPageClient({
     
     loadData();
   }, [edition, book, chapter, compareEdition, showFootnotes]);
+
+  // Scroll to and highlight the verse named by the URL hash (e.g. #19), once, on mount.
+  // The verse divs are already present in the server-rendered HTML (initialData), so
+  // there's no need to wait on the client-side data fetch above.
+  useEffect(() => {
+    const hash = window.location.hash.slice(1);
+    const verseNum = Number(hash);
+    if (!hash || !verseNum) return;
+
+    const el = document.getElementById(hash);
+    if (!el) return;
+
+    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setHighlightedVerse(verseNum);
+    setTimeout(() => setHighlightedVerse(null), 2000);
+  }, []);
 
   const handleEditionChange = (newEdition: string) => {
     if (newEdition === 'simultaneous') {
@@ -224,7 +242,13 @@ export default function ChapterPageClient({
     }
     
     return (
-      <div key={verse.verse} className="verse">
+      <div
+        key={verse.verse}
+        id={String(verse.verse)}
+        className={`verse rounded transition-colors duration-1000 ${
+          highlightedVerse === verse.verse ? 'bg-primary-100' : ''
+        }`}
+      >
         <span className="verse-number">{verse.verse}</span>
         {content}
       </div>
